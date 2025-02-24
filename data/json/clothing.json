@@ -1,0 +1,3044 @@
+[
+    {
+        "txt": "Leather Jacket: The leather jacket shielded him from the chilly wind.  ",
+        "ipa": "lɛ́ðər dʒǽkət: ðə lɛ́ðər dʒǽkət ʃíjldᵻd hᵻm frəm ðə tʃᵻ́lij wᵻnd.",
+        "hash": "TXT_fe566ad35dd9886749f4cc2112837f.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Wool Sweater: The wool sweater kept her warm during the cold evening stroll.  ",
+        "ipa": "wʊ́l swɛ́tər: ðə wʊ́l swɛ́tər kɛ́pt hər wɔ́rm dʊ́rᵻŋ ðə kówld íjvnᵻŋ strówl.",
+        "hash": "TXT_6bfc5e6746f0426548b2edfbe54aef.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Denim Jeans: The denim jeans paired perfectly with her casual sneakers.  ",
+        "ipa": "dɛ́nᵻm dʒíjnz: ðə dɛ́nᵻm dʒíjnz pɛ́ərd pɜ́rfəktlij wᵻð hər kǽʒəwəl sníjkərz.",
+        "hash": "TXT_23055e8114c49363702ede2e2c458f.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Leather Boots: The leather boots offered both style and weatherproof protection.  ",
+        "ipa": "lɛ́ðər búwts: ðə lɛ́ðər búwts ɔ́fərd bówθ stájl ənd wɛ́ðərprùwf prətɛ́kʃən.",
+        "hash": "TXT_a8acb243b8c3a3ea5f9b8b480da1e1.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Cotton T-Shirt: The cotton t-shirt felt soft against his skin throughout the day.  ",
+        "ipa": "kɒ́tən t-ʃɜ́rt: ðə kɒ́tən t-ʃɜ́rt fɛ́lt sɒ́ft əɡɛ́jnst hᵻz skᵻ́n θruwáwt ðə dɛ́j.",
+        "hash": "TXT_3c9506707306b27630a6a670ec39f8.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Silk Scarf: The silk scarf added a touch of elegance to her outfit.  ",
+        "ipa": "sᵻ́lk skɑ́rf: ðə sᵻ́lk skɑ́rf ǽdᵻd ə tʌ́tʃ əv ɛ́ləɡəns tə hər áwtfᵻ̀t.",
+        "hash": "TXT_694f6f4d425956942ac75461857b5e.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Linen Pants: The linen pants allowed her legs to breathe in the summer heat.  ",
+        "ipa": "lᵻ́nən pǽnts: ðə lᵻ́nən pǽnts əláwd hər lɛ́ɡz tə bríjð ᵻn ðə sʌ́mər híjt.",
+        "hash": "TXT_77f2ca8f5b5b420522a4981b1f88bf.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Trench Coat: The trench coat protected him from the light drizzle outside.  ",
+        "ipa": "trɛ́ntʃ kówt: ðə trɛ́ntʃ kówt prətɛ́ktᵻd hᵻm frəm ðə lájt drᵻ́zəl áwtsájd.",
+        "hash": "TXT_c77467d1c3d4a3719a5b9987f959c8.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Cashmere Cardigan: The cashmere cardigan felt luxuriously soft against her arms.  ",
+        "ipa": "kǽʒmɪər kɑ́rdᵻɡən: ðə kǽʒmɪər kɑ́rdᵻɡən fɛ́lt lʌɡʒʊ́rijəslij sɒ́ft əɡɛ́jnst hər ɑ́rmz.",
+        "hash": "TXT_20603db90c175df769a077737b2c2b.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Fleece Hoodie: The fleece hoodie was cozy enough for a brisk morning run.  ",
+        "ipa": "flíjs hʊ́dij: ðə flíjs hʊ́dij wɒz kówzij ənʌ́f fɔr ə brᵻ́sk mɔ́rnᵻŋ rʌ́n.",
+        "hash": "TXT_32b0498e753b71fc0421de926161b1.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Crew-Neck Sweater: The crew-neck sweater looked timeless with a pair of dark jeans.  ",
+        "ipa": "krúw-nɛ́k swɛ́tər: ðə krúw-nɛ́k swɛ́tər lʊ́kt tájmləs wᵻð ə pɛ́ər əv dɑ́rk dʒíjnz.",
+        "hash": "TXT_7c812dc5274933ece757b768177369.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Puffer Jacket: The puffer jacket insulated him against the winter chill.  ",
+        "ipa": "pʌ́fər dʒǽkət: ðə pʌ́fər dʒǽkət ᵻ́nsəlɛ̀jtᵻd hᵻm əɡɛ́jnst ðə wᵻ́ntər tʃᵻ́l.",
+        "hash": "TXT_dbba8b1a15d2f42618b22f077977fd.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Pleated Skirt: The pleated skirt swayed gently as she walked down the street.  ",
+        "ipa": "plíjtᵻd skɜ́rt: ðə plíjtᵻd skɜ́rt swɛ́jd dʒɛ́ntlij æz ʃij wɔ́kt dawn ðə stríjt.",
+        "hash": "TXT_d4003c442c336e76a6b55b52e5032c.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "High-Waisted Shorts: The high-waisted shorts emphasized her waistline in a trendy way.  ",
+        "ipa": "háj-wɛ́jstᵻd ʃɔ́rts: ðə háj-wɛ́jstᵻd ʃɔ́rts ɛ́mfəsajzd hər wɛ́jstlàjn ᵻn ə trɛ́ndij wɛj.",
+        "hash": "TXT_4cdf30b88ed2e40bfd5c1db2ff171b.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Pencil Skirt: The pencil skirt created a polished look for her office meeting.  ",
+        "ipa": "pɛ́nsəl skɜ́rt: ðə pɛ́nsəl skɜ́rt krijɛ́jtᵻd ə pɒ́lᵻʃt lʊ́k fɔr hər ɔ́fᵻs míjtᵻŋ.",
+        "hash": "TXT_9db7c1e13fb28fab26d0da8e660d26.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "V-Neck Shirt: The v-neck shirt flattered his collarbone and layered well under a blazer.  ",
+        "ipa": "v-nɛ́k ʃɜ́rt: ðə v-nɛ́k ʃɜ́rt flǽtərd hᵻz kɒ́lərbòwn ənd lɛ́jərd wɛ́l ʌ́ndər ə blɛ́jzər.",
+        "hash": "TXT_63bd26ca240ccb1244d380e6e80007.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Strapless Dress: The strapless dress highlighted her shoulders at the formal event.  ",
+        "ipa": "strǽpləs drɛ́s: ðə strǽpləs drɛ́s hájlàjtᵻd hər ʃówldərz æt ðə fɔ́rməl əvɛ́nt.",
+        "hash": "TXT_b9110c144b80db348f77823d817fe7.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Bow Tie: The bow tie added a dash of charm to his formal ensemble.  ",
+        "ipa": "bow táj: ðə bow táj ǽdᵻd ə dǽʃ əv tʃɑ́rm tə hᵻz fɔ́rməl ɒnsɒ́mbəl.",
+        "hash": "TXT_6aa4ea33b1bcd6761085146229f907.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Oxford Shoes: The oxford shoes gave his suit a refined finishing touch.  ",
+        "ipa": "ɒ́ksfərd ʃúwz: ðə ɒ́ksfərd ʃúwz ɡɛ́jv hᵻz súwt ə rəfájnd fᵻ́nᵻʃᵻŋ tʌ́tʃ.",
+        "hash": "TXT_a968d5a320dc8dbf5972f468d4bb26.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Fedora Hat: The fedora hat offered a stylish way to shield his head from the sun.  ",
+        "ipa": "fədɔ́rə hǽt: ðə fədɔ́rə hǽt ɔ́fərd ə stájlᵻʃ wɛj tə ʃíjld hᵻz hɛ́d frəm ðə sʌ́n.",
+        "hash": "TXT_59715c39af50561fbf7536ea17cfe7.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Fingerless Gloves: The fingerless gloves kept her palms warm while allowing dexterity.  ",
+        "ipa": "fᵻ́ŋɡərləs ɡlʌ́vz: ðə fᵻ́ŋɡərləs ɡlʌ́vz kɛ́pt hər pɒ́lmz wɔ́rm wájl əláwᵻŋ dɛkstɛ́ərᵻtij.",
+        "hash": "TXT_d18298f9e6999aeb4fe3782241f618.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Sports Bra: The sports bra supported her during high-intensity workouts.  ",
+        "ipa": "spɔ́rts brɒ́: ðə spɔ́rts brɒ́ səpɔ́rtᵻd hər dʊ́rᵻŋ háj-ᵻntɛ́nsᵻtij wɜ́rkàwts.",
+        "hash": "TXT_54a4ed09501701fec68d44466033f5.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Running Shoes: The running shoes cushioned her feet for a comfortable jog.  ",
+        "ipa": "rʌ́nᵻŋ ʃúwz: ðə rʌ́nᵻŋ ʃúwz kʊ́ʃənd hər fíjt fɔr ə kʌ́mftərbəl dʒɒ́ɡ.",
+        "hash": "TXT_a1c43ede34882f5133da56b77b5145.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Denim Jacket: The denim jacket layered effortlessly over her floral dress.  ",
+        "ipa": "dɛ́nᵻm dʒǽkət: ðə dɛ́nᵻm dʒǽkət lɛ́jərd ɛ́fərtləslij ówvər hər flɔ́rəl drɛ́s.",
+        "hash": "TXT_d5b3fe8be922261aab3c3180baa3a2.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Ballet Flats: The ballet flats were comfortable enough for all-day city walking.  ",
+        "ipa": "bælɛ́j flǽts: ðə bælɛ́j flǽts wɜ́r kʌ́mftərbəl ənʌ́f fɔr ɔl-dɛ́j sᵻ́tij wɔ́kᵻŋ.",
+        "hash": "TXT_bfc087c9d5d476cf3deb595010a3ff.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Wide-Brim Hat: The wide-brim hat provided shade during the sunny beach trip.  ",
+        "ipa": "wájd-brᵻ́m hǽt: ðə wájd-brᵻ́m hǽt prəvájdᵻd ʃɛ́jd dʊ́rᵻŋ ðə sʌ́nij bíjtʃ trᵻ́p.",
+        "hash": "TXT_82bfb2d67522af0eaaa02718da7d4e.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Flannel Shirt: The flannel shirt kept him cozy on a cool autumn day.  ",
+        "ipa": "flǽnəl ʃɜ́rt: ðə flǽnəl ʃɜ́rt kɛ́pt hᵻm kówzij ɒn ə kúwl ɔ́təm dɛ́j.",
+        "hash": "TXT_f7e10e48b7482e3b1ab8b334c7c5ac.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Leather Belt: The leather belt cinched her dress at the waist for a flattering silhouette.  ",
+        "ipa": "lɛ́ðər bɛ́lt: ðə lɛ́ðər bɛ́lt sᵻ́ntʃt hər drɛ́s æt ðə wɛ́jst fɔr ə flǽtərᵻŋ sᵻ̀ləwɛ́t.",
+        "hash": "TXT_d03d76f249705260877102e3504e8b.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Chino Pants: The chino pants worked equally well for casual or semi-formal occasions.  ",
+        "ipa": "tʃíjnow pǽnts: ðə tʃíjnow pǽnts wɜ́rkt íjkwəlij wɛ́l fɔr kǽʒəwəl ɔr sɛ́maj-fɔ́rməl əkɛ́jʒənz.",
+        "hash": "TXT_0b006e19e7c8138259a01d6a3d446f.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Stiletto Heels: The stiletto heels elongated her legs and added sophistication.  ",
+        "ipa": "stᵻlɛ́tow híjlz: ðə stᵻlɛ́tow híjlz əlɔ́ŋɡɛjtᵻd hər lɛ́ɡz ənd ǽdᵻd səfᵻ̀stᵻkɛ́jʃən.",
+        "hash": "TXT_d03f5701b7121b14be7f6ac486cf41.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Down Vest: The down vest kept his core warm on a chilly evening without restricting movement.  ",
+        "ipa": "dawn vɛ́st: ðə dawn vɛ́st kɛ́pt hᵻz kɔ́r wɔ́rm ɒn ə tʃᵻ́lij íjvnᵻŋ wᵻðáwt rəstrᵻ́ktᵻŋ múwvmənt.",
+        "hash": "TXT_0da6db9c6b01a4263b0842ca6d15ae.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Turtleneck Sweater: The turtleneck sweater framed her face and kept her neck snug.  ",
+        "ipa": "tɜ́rtəlnɛ̀k swɛ́tər: ðə tɜ́rtəlnɛ̀k swɛ́tər frɛ́jmd hər fɛ́js ənd kɛ́pt hər nɛ́k snʌ́ɡ.",
+        "hash": "TXT_c0d948b53e65ac8c34a6952edba532.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Shearling Coat: The shearling coat lined her body with soft, plush warmth.  ",
+        "ipa": "ʃɜ́rrlᵻŋ kówt: ðə ʃɜ́rrlᵻŋ kówt lájnd hər bɒ́dij wᵻð sɒ́ft, plʌ́ʃ wɔ́rmθ.",
+        "hash": "TXT_654e485ddbd06deab6ce0c2c3b9c03.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Cardigan Sweater: The cardigan sweater was easy to slip on when the office got cold.  ",
+        "ipa": "kɑ́rdᵻɡən swɛ́tər: ðə kɑ́rdᵻɡən swɛ́tər wɒz íjzij tə slᵻ́p ɒn wɛ́n ðə ɔ́fᵻs ɡɒt kówld.",
+        "hash": "TXT_555870ecb0a16ac44dd38d103519ab.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Pea Coat: The pea coat brought a classic, structured look to his winter wardrobe.  ",
+        "ipa": "píj kówt: ðə píj kówt brɔ́t ə klǽsᵻk, strʌ́ktʃərd lʊ́k tə hᵻz wᵻ́ntər wɔ́rdròwb.",
+        "hash": "TXT_620ead41932d7d7ceac932a136f8c5.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Crop Top: The crop top showed off her midriff in a playful, summer outfit.  ",
+        "ipa": "krɒ́p tɒ́p: ðə krɒ́p tɒ́p ʃówd ɔ́f hər mᵻdrᵻf ᵻn ə plɛ́jfəl, sʌ́mər áwtfᵻ̀t.",
+        "hash": "TXT_a2a994f8928aac4babb4c00143b784.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Windbreaker Jacket: The windbreaker jacket resisted the light rain and sudden gusts of wind.  ",
+        "ipa": "wᵻndbrɛ̀jkər dʒǽkət: ðə wᵻndbrɛ̀jkər dʒǽkət rəzᵻ́stᵻd ðə lájt rɛ́jn ənd sʌ́dən ɡʌ́sts əv wᵻnd.",
+        "hash": "TXT_1dd8a974fb39fe95678770bd78d568.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Ripped Jeans: The ripped jeans brought a casual edge to her everyday style.  ",
+        "ipa": "rᵻ́pt dʒíjnz: ðə rᵻ́pt dʒíjnz brɔ́t ə kǽʒəwəl ɛ́dʒ tə hər ɛ́vrijdɛ́j stájl.",
+        "hash": "TXT_416bd35360c345d1beeee484a70ef8.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Tank Top: The tank top kept him cool under the blazing afternoon sun.  ",
+        "ipa": "tǽŋk tɒ́p: ðə tǽŋk tɒ́p kɛ́pt hᵻm kúwl ʌ́ndər ðə blɛ́jzᵻŋ æ̀ftərnúwn sʌ́n.",
+        "hash": "TXT_e7376f8e899223ee7c12c38b834247.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Capri Leggings: The capri leggings were perfect for her afternoon yoga session.  ",
+        "ipa": "kǽprij lɛ́ɡᵻŋz: ðə kǽprij lɛ́ɡᵻŋz wɜ́r pɜ́rfəkt fɔr hər æ̀ftərnúwn jówɡə sɛ́ʃən.",
+        "hash": "TXT_0655cb5bc0f64dcf8f27eefa859d4d.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Halter Dress: The halter dress displayed her shoulders gracefully for a summer wedding.  ",
+        "ipa": "hɔ́ltər drɛ́s: ðə hɔ́ltər drɛ́s dᵻsplɛ́jd hər ʃówldərz ɡrɛ́jsfəlij fɔr ə sʌ́mər wɛ́dᵻŋ.",
+        "hash": "TXT_a300034f6a3fe6d49a690a2c473509.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Tailored Blazer: The tailored blazer gave him a confident look for the job interview.  ",
+        "ipa": "tɛ́jlərd blɛ́jzər: ðə tɛ́jlərd blɛ́jzər ɡɛ́jv hᵻm ə kɒ́nfᵻdənt lʊ́k fɔr ðə dʒɒ́b ᵻ́ntərvjùw.",
+        "hash": "TXT_bbe64bb67d8f27a9d6709e794c6f42.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Boat Shoes: The boat shoes added a laid-back, nautical vibe to his weekend attire.  ",
+        "ipa": "bówt ʃúwz: ðə bówt ʃúwz ǽdᵻd ə lɛ́jd-bǽk, nɔ́tᵻkəl vájb tə hᵻz wíjkɛ̀nd ətájər.",
+        "hash": "TXT_72ea672d95b6eccdcc7934aeaa8af8.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Cable-Knit Sweater: The cable-knit sweater provided extra texture and warmth on snowy days.  ",
+        "ipa": "kɛ́jbəl-nᵻ́t swɛ́tər: ðə kɛ́jbəl-nᵻ́t swɛ́tər prəvájdᵻd ɛ́kstrə tɛ́kstʃər ənd wɔ́rmθ ɒn snówij dɛ́jz.",
+        "hash": "TXT_fb2480d1978beb4a0c2089f580e37e.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Wrap Dress: The wrap dress hugged her figure and tied neatly at the waist.  ",
+        "ipa": "rǽp drɛ́s: ðə rǽp drɛ́s hʌ́ɡd hər fᵻ́ɡjər ənd tájd níjtlij æt ðə wɛ́jst.",
+        "hash": "TXT_2b7573b94d094de55a9775ed6fcf85.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Tunic Top: The tunic top offered a longer hem to pair with leggings or skinny jeans.  ",
+        "ipa": "túwnᵻk tɒ́p: ðə túwnᵻk tɒ́p ɔ́fərd ə lɔ́ŋɡər hɛ́m tə pɛ́ər wᵻð lɛ́ɡᵻŋz ɔr skᵻ́nij dʒíjnz.",
+        "hash": "TXT_49e5a7ef8ab7bddec50bf7b14623dd.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Khaki Shorts: The khaki shorts were a comfortable choice for the hiking trip.  ",
+        "ipa": "kǽkij ʃɔ́rts: ðə kǽkij ʃɔ́rts wɜ́r ə kʌ́mftərbəl tʃɔ́js fɔr ðə hájkᵻŋ trᵻ́p.",
+        "hash": "TXT_519a62c6ecffb972ee07a623a8128c.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Sequin Gown: The sequin gown sparkled under the ballroom’s chandelier lights.  ",
+        "ipa": "síjkwᵻn ɡáwn: ðə síjkwᵻn ɡáwn spɑ́rkəld ʌ́ndər ðə bɔ́lrùwm'z ʃændəlɪ́ər lájts.",
+        "hash": "TXT_1968c18090249c5b907c5b5763f510.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Wool Trousers: The wool trousers kept him warm and sharp-looking during the winter months.  ",
+        "ipa": "wʊ́l tráwzərz: ðə wʊ́l tráwzərz kɛ́pt hᵻm wɔ́rm ənd ʃɑ́rp-lʊ́kᵻŋ dʊ́rᵻŋ ðə wᵻ́ntər mʌ́nθs.",
+        "hash": "TXT_723c501bf4360a235778caf4671714.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Double-Breasted Coat: The double-breasted coat made a statement with its bold design.  ",
+        "ipa": "dʌ́bəl-brɛ́stᵻd kówt: ðə dʌ́bəl-brɛ́stᵻd kówt mɛ́jd ə stɛ́jtmənt wᵻð ᵻts bówld dəzájn.",
+        "hash": "TXT_eff31c00eb127f8ed998e81554fb33.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Corset Top: The corset top accentuated her waist in a dramatic fashion.  ",
+        "ipa": "kɔ́rsət tɒ́p: ðə kɔ́rsət tɒ́p æksɛ́ntʃuwɛ̀jtᵻd hər wɛ́jst ᵻn ə drəmǽtᵻk fǽʃən.",
+        "hash": "TXT_5281d7b7d894353284fb3759ec4300.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Evening Gown: The evening gown flowed elegantly across the floor at the gala.  ",
+        "ipa": "íjvnᵻŋ ɡáwn: ðə íjvnᵻŋ ɡáwn flówd ɛ́ləɡəntlìj əkrɔ́s ðə flɔ́r æt ðə ɡǽlə.",
+        "hash": "TXT_695fcfc4a1d22f4562414ae51bbb7a.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Platform Sandals: The platform sandals added both height and cushioning to her outfit.  ",
+        "ipa": "plǽtfɔ̀rm sǽndəlz: ðə plǽtfɔ̀rm sǽndəlz ǽdᵻd bówθ hájt ənd kʊ́ʃənᵻŋ tə hər áwtfᵻ̀t.",
+        "hash": "TXT_aaf7b1d0ba99f8f02fe24754506d1a.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Button-Down Shirt: The button-down shirt could be dressed up with a tie or dressed down untucked.  ",
+        "ipa": "bʌ́tən-dawn ʃɜ́rt: ðə bʌ́tən-dawn ʃɜ́rt kʊ́d bij drɛ́st ʌp wᵻð ə táj ɔr drɛ́st dawn ʌntʌ́kt.",
+        "hash": "TXT_c30f328bcc4bc2b24a5a9e1efbb19b.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Lace Blouse: The lace blouse introduced a delicate, feminine detail to her outfit.  ",
+        "ipa": "lɛ́js bláws: ðə lɛ́js bláws ᵻ̀ntrədúwst ə dɛ́lᵻkət, fɛ́mᵻnən díjtɛjl tə hər áwtfᵻ̀t.",
+        "hash": "TXT_483b311d12baf5f2947da945f12e9f.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Cuffed Jeans: The cuffed jeans showcased her stylish ankle boots.  ",
+        "ipa": "kʌ́ft dʒíjnz: ðə kʌ́ft dʒíjnz ʃówkɛ̀jst hər stájlᵻʃ ǽŋkəl búwts.",
+        "hash": "TXT_befda4b88caa232e334e3220060213.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Tweed Jacket: The tweed jacket offered a touch of vintage flair to his attire.  ",
+        "ipa": "twíjd dʒǽkət: ðə twíjd dʒǽkət ɔ́fərd ə tʌ́tʃ əv vᵻ́ntᵻdʒ flɛ́ər tə hᵻz ətájər.",
+        "hash": "TXT_8ad0c80d9f80ba9e8acace189e922e.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Denim Shorts: The denim shorts kept her cool during the heat wave.  ",
+        "ipa": "dɛ́nᵻm ʃɔ́rts: ðə dɛ́nᵻm ʃɔ́rts kɛ́pt hər kúwl dʊ́rᵻŋ ðə híjt wɛ́jv.",
+        "hash": "TXT_23aa8728c3a6276cb11c226402a067.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "T-Strap Heels: The t-strap heels supported her feet while highlighting her arches.  ",
+        "ipa": "t-strǽp híjlz: ðə t-strǽp híjlz səpɔ́rtᵻd hər fíjt wájl hájlàjtᵻŋ hər ɑ́rtʃᵻz.",
+        "hash": "TXT_8733a0caea33b9d5ab969ae35e6770.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Pleated Dress: The pleated dress cascaded gracefully as she walked across the room.  ",
+        "ipa": "plíjtᵻd drɛ́s: ðə plíjtᵻd drɛ́s kæskɛ́jdᵻd ɡrɛ́jsfəlij æz ʃij wɔ́kt əkrɔ́s ðə rúwm.",
+        "hash": "TXT_b13c48684a87c182142bf8caa3f076.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Quilted Jacket: The quilted jacket locked in warmth without feeling bulky.  ",
+        "ipa": "kwᵻ́ltᵻd dʒǽkət: ðə kwᵻ́ltᵻd dʒǽkət lɒ́kt ᵻn wɔ́rmθ wᵻðáwt fíjlᵻŋ bʌ́lkij.",
+        "hash": "TXT_76d1389f906d9b98a728363259ed34.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Faux Fur Vest: The faux fur vest made a fashionable statement over her sweater.  ",
+        "ipa": "fow fɜ́r vɛ́st: ðə fow fɜ́r vɛ́st mɛ́jd ə fǽʃənəbəl stɛ́jtmənt ówvər hər swɛ́tər.",
+        "hash": "TXT_9a11b7965ec0ba4edd43ef0d5edbae.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "High-Top Sneakers: The high-top sneakers were a streetwear staple in his casual outfits.  ",
+        "ipa": "háj-tɒ́p sníjkərz: ðə háj-tɒ́p sníjkərz wɜ́r ə stríjtwɛ̀ər stɛ́jpəl ᵻn hᵻz kǽʒəwəl áwtfᵻ̀ts.",
+        "hash": "TXT_4c6dcaf452f134227a12f1ddde5ba8.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Leather Trousers: The leather trousers lent a bold edge to her concert look.  ",
+        "ipa": "lɛ́ðər tráwzərz: ðə lɛ́ðər tráwzərz lɛ́nt ə bówld ɛ́dʒ tə hər kɒ́nsərt lʊ́k.",
+        "hash": "TXT_3a4a4771371c572a85f337d9555782.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Band Tee: The band tee paid homage to her favorite rock group from the ‘80s.  ",
+        "ipa": "bǽnd tíj: ðə bǽnd tíj pɛ́jd hɒ́mᵻdʒ tə hər fɛ́jvərᵻt rɒ́k ɡrúwp frəm ðə ‘80s.",
+        "hash": "TXT_d781dfe5952582938d5083425b796d.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Knitted Beanie: The knitted beanie kept his ears warm during the winter commute.  ",
+        "ipa": "nᵻ́tᵻd bíjnij: ðə nᵻ́tᵻd bíjnij kɛ́pt hᵻz íjərz wɔ́rm dʊ́rᵻŋ ðə wᵻ́ntər kəmjúwt.",
+        "hash": "TXT_9b63a3594ac81e696764ea9a53d2b4.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Flare Jeans: The flare jeans added a retro touch to her weekend style.  ",
+        "ipa": "flɛ́ər dʒíjnz: ðə flɛ́ər dʒíjnz ǽdᵻd ə rɛ́trow tʌ́tʃ tə hər wíjkɛ̀nd stájl.",
+        "hash": "TXT_7727b1691771491859b054b4a8fca1.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Maxi Skirt: The maxi skirt fluttered elegantly around her ankles in the breeze.  ",
+        "ipa": "mǽksij skɜ́rt: ðə mǽksij skɜ́rt flʌ́tərd ɛ́ləɡəntlìj əráwnd hər ǽŋkəlz ᵻn ðə bríjz.",
+        "hash": "TXT_9f56cca9f3851c137c077eb937fcc1.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Hooded Sweatshirt: The hooded sweatshirt was a cozy choice for lounging at home.  ",
+        "ipa": "hʊ́dᵻd swɛ́tʃɜ̀rt: ðə hʊ́dᵻd swɛ́tʃɜ̀rt wɒz ə kówzij tʃɔ́js fɔr láwndʒᵻŋ æt hówm.",
+        "hash": "TXT_5c7fa01d3f9bc2d50b494aa6249f82.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Chiffon Dress: The chiffon dress flowed beautifully in the summer wind.  ",
+        "ipa": "ʃᵻfɒ́n drɛ́s: ðə ʃᵻfɒ́n drɛ́s flówd bjúwtᵻflij ᵻn ðə sʌ́mər wᵻnd.",
+        "hash": "TXT_3ee050a6f54ca745b883423e68ee6e.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Gingham Shirt: The gingham shirt added a playful check pattern to his casual ensemble.  ",
+        "ipa": "ɡᵻ́ŋəm ʃɜ́rt: ðə ɡᵻ́ŋəm ʃɜ́rt ǽdᵻd ə plɛ́jfəl tʃɛ́k pǽtərn tə hᵻz kǽʒəwəl ɒnsɒ́mbəl.",
+        "hash": "TXT_365bb09203a1581b0635402ea40789.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Cargo Pants: The cargo pants provided extra pockets for storing small items.  ",
+        "ipa": "kɑ́rɡòw pǽnts: ðə kɑ́rɡòw pǽnts prəvájdᵻd ɛ́kstrə pɒ́kəts fɔr stɔ́rᵻŋ smɔ́l ájtəmz.",
+        "hash": "TXT_af00fd7343278e1e6dca08f89550a0.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Espadrille Wedges: The espadrille wedges were her go-to for a beachy summer look.  ",
+        "ipa": "ɛ̀spədrᵻ́l wɛ́dʒᵻz: ðə ɛ̀spədrᵻ́l wɛ́dʒᵻz wɜ́r hər ɡow-tə fɔr ə bíjtʃij sʌ́mər lʊ́k.",
+        "hash": "TXT_36b0b2ae9a44eba759f6d6fb8bcde2.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Crew Socks: The crew socks reached just above his ankles for a snug fit.  ",
+        "ipa": "krúw sɒ́ks: ðə krúw sɒ́ks ríjtʃt dʒəst əbʌ́v hᵻz ǽŋkəlz fɔr ə snʌ́ɡ fᵻ́t.",
+        "hash": "TXT_b478fdaf6c9f4eeca708e22429ca7f.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Peasant Blouse: The peasant blouse featured flowing sleeves and a relaxed silhouette.  ",
+        "ipa": "pɛ́zənt bláws: ðə pɛ́zənt bláws fíjtʃərd flówᵻŋ slíjvz ənd ə rijlǽkst sᵻ̀ləwɛ́t.",
+        "hash": "TXT_b65cd3dc9294adb987c91e54d9d87d.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Padded Bra: The padded bra gave her a comfortable lift under fitted tops.  ",
+        "ipa": "pǽdᵻd brɒ́: ðə pǽdᵻd brɒ́ ɡɛ́jv hər ə kʌ́mftərbəl lᵻ́ft ʌ́ndər fᵻ́tᵻd tɒ́ps.",
+        "hash": "TXT_e95b7b90c726d248bdbb67dc237bd8.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Fleece Joggers: The fleece joggers kept him warm on lazy Sunday mornings.  ",
+        "ipa": "flíjs dʒɒ́ɡərz: ðə flíjs dʒɒ́ɡərz kɛ́pt hᵻm wɔ́rm ɒn lɛ́jzij sʌ́ndɛj mɔ́rnᵻŋz.",
+        "hash": "TXT_44f8301c063410fdb793ff1d6a492e.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Chelsea Boots: The chelsea boots slipped on easily and worked well with slim jeans.  ",
+        "ipa": "tʃɛ́lsij búwts: ðə tʃɛ́lsij búwts slᵻ́pt ɒn íjzəlij ənd wɜ́rkt wɛ́l wᵻð slᵻ́m dʒíjnz.",
+        "hash": "TXT_1e986f4a9d3983247fdc1310770c55.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Aviator Jacket: The aviator jacket boasted a classic collar lined with soft fleece.  ",
+        "ipa": "ɛ́jvijɛ̀jtər dʒǽkət: ðə ɛ́jvijɛ̀jtər dʒǽkət bówstᵻd ə klǽsᵻk kɒ́lər lájnd wᵻð sɒ́ft flíjs.",
+        "hash": "TXT_af9a003bb1a88b5ab3b09bce0931ad.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Camisole Top: The camisole top layered nicely beneath a lightweight cardigan.  ",
+        "ipa": "kæmᵻsòwl tɒ́p: ðə kæmᵻsòwl tɒ́p lɛ́jərd nájslij bəníjθ ə lájtwɛ́jt kɑ́rdᵻɡən.",
+        "hash": "TXT_97e3b5579c4bc025c2390059712a70.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Wrap Skirt: The wrap skirt tied at the side and added a bohemian touch to her outfit.  ",
+        "ipa": "rǽp skɜ́rt: ðə rǽp skɜ́rt tájd æt ðə sájd ənd ǽdᵻd ə bowhíjmijən tʌ́tʃ tə hər áwtfᵻ̀t.",
+        "hash": "TXT_f879d3bb3ba8fe0b52da1396931de4.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Poncho Sweater: The poncho sweater draped loosely and allowed free movement of her arms.  ",
+        "ipa": "pɒ́ntʃow swɛ́tər: ðə pɒ́ntʃow swɛ́tər drɛ́jpt lúwslij ənd əláwd fríj múwvmənt əv hər ɑ́rmz.",
+        "hash": "TXT_7c72b488d080986457a113e4428797.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Longline Cardigan: The longline cardigan offered extra coverage over leggings.  ",
+        "ipa": "lɔŋlajn kɑ́rdᵻɡən: ðə lɔŋlajn kɑ́rdᵻɡən ɔ́fərd ɛ́kstrə kʌ́vərᵻdʒ ówvər lɛ́ɡᵻŋz.",
+        "hash": "TXT_c39098d551ba451456d2323afe1da6.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Silk Blouse: The silk blouse exuded elegance in the office setting.  ",
+        "ipa": "sᵻ́lk bláws: ðə sᵻ́lk bláws əɡzúwdᵻd ɛ́ləɡəns ᵻn ðə ɔ́fᵻs sɛ́tᵻŋ.",
+        "hash": "TXT_a5e2df9521b8535f3e4ea6ae1f2c11.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Corduroy Pants: The corduroy pants provided texture and warmth in the fall.  ",
+        "ipa": "kɔ́rdərɔ̀j pǽnts: ðə kɔ́rdərɔ̀j pǽnts prəvájdᵻd tɛ́kstʃər ənd wɔ́rmθ ᵻn ðə fɔ́l.",
+        "hash": "TXT_8650ccd855839642f2a216bce34e68.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Suede Jacket: The suede jacket felt smooth and luxurious under her fingertips.  ",
+        "ipa": "swɛ́jd dʒǽkət: ðə swɛ́jd dʒǽkət fɛ́lt smúwð ənd ləɡʒɜ́rijəs ʌ́ndər hər fᵻ́ŋɡərtᵻ̀ps.",
+        "hash": "TXT_21d9ee54da27b143b5b03a2577f165.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Boho Dress: The boho dress featured intricate embroidery and a relaxed fit.  ",
+        "ipa": "bówhow drɛ́s: ðə bówhow drɛ́s fíjtʃərd ᵻ́ntrᵻkət ɛmbrɔ́jdərij ənd ə rijlǽkst fᵻ́t.",
+        "hash": "TXT_56f87869da9ec82dcd0215a24f5d29.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "French Beret: The french beret gave her ensemble a chic, Parisian flair.  ",
+        "ipa": "frɛ́ntʃ bɛ́ərɛjt: ðə frɛ́ntʃ bɛ́ərɛjt ɡɛ́jv hər ɒnsɒ́mbəl ə ʃíjk, pərᵻ́ʒən flɛ́ər.",
+        "hash": "TXT_838c1924ca55871171374698cd6348.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Culottes Pants: The culottes pants ended mid-calf, striking a balance between skirt and shorts.  ",
+        "ipa": "kjuwlɒ́ts pǽnts: ðə kjuwlɒ́ts pǽnts ɛ́ndᵻd mᵻ́d-kǽf, strájkᵻŋ ə bǽləns bijtwíjn skɜ́rt ənd ʃɔ́rts.",
+        "hash": "TXT_31dd0b2ee3adb97f2fcb6dfee92179.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Sheath Dress: The sheath dress framed her figure perfectly for a professional event.  ",
+        "ipa": "ʃíjθ drɛ́s: ðə ʃíjθ drɛ́s frɛ́jmd hər fᵻ́ɡjər pɜ́rfəktlij fɔr ə prəfɛ́ʃənəl əvɛ́nt.",
+        "hash": "TXT_9f5e20c234b54bb0c71ee9beae621b.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Biker Jacket: The biker jacket added a rebellious twist to her everyday look.  ",
+        "ipa": "bájkər dʒǽkət: ðə bájkər dʒǽkət ǽdᵻd ə rəbɛ́ljəs twᵻ́st tə hər ɛ́vrijdɛ́j lʊ́k.",
+        "hash": "TXT_2b2637de39f5290b9a9e6821f1c02b.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Cardigan Coat: The cardigan coat was slightly thicker than a sweater, perfect for chilly mornings.  ",
+        "ipa": "kɑ́rdᵻɡən kówt: ðə kɑ́rdᵻɡən kówt wɒz slájtlij θᵻ́kər ðʌn ə swɛ́tər, pɜ́rfəkt fɔr tʃᵻ́lij mɔ́rnᵻŋz.",
+        "hash": "TXT_9120b290b881e7fac6d326246a1452.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Crew-Neck Tee: The crew-neck tee formed a basic foundation for his layered outfits.  ",
+        "ipa": "krúw-nɛ́k tíj: ðə krúw-nɛ́k tíj fɔ́rmd ə bɛ́jsᵻk fawndɛ́jʃən fɔr hᵻz lɛ́jərd áwtfᵻ̀ts.",
+        "hash": "TXT_bcbd3583769fcbb294f6585d7d1d0d.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Ankle Socks: The ankle socks peeked just above the rim of her running shoes.  ",
+        "ipa": "ǽŋkəl sɒ́ks: ðə ǽŋkəl sɒ́ks píjkt dʒəst əbʌ́v ðə rᵻ́m əv hər rʌ́nᵻŋ ʃúwz.",
+        "hash": "TXT_94eca27e34fc95eb44048672569c0f.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Chain Belt: The chain belt introduced a metallic accent to her plain dress.  ",
+        "ipa": "tʃɛ́jn bɛ́lt: ðə tʃɛ́jn bɛ́lt ᵻ̀ntrədúwst ə mətǽlᵻk ǽksɛ̀nt tə hər plɛ́jn drɛ́s.",
+        "hash": "TXT_905b89e688263bbe1192ecc863ff46.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Fitted Cap: The fitted cap sat snugly on his head without needing an adjustable strap.  ",
+        "ipa": "fᵻ́tᵻd kǽp: ðə fᵻ́tᵻd kǽp sǽt snʌ́ɡlij ɒn hᵻz hɛ́d wᵻðáwt níjdᵻŋ ən ədʒʌ́stəbəl strǽp.",
+        "hash": "TXT_4dba37a3acad34c1cc1b51965a3412.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Sports Jersey: The sports jersey displayed his loyalty to his favorite basketball team.  ",
+        "ipa": "spɔ́rts dʒɜ́rrzij: ðə spɔ́rts dʒɜ́rrzij dᵻsplɛ́jd hᵻz lɔ́jəltij tə hᵻz fɛ́jvərᵻt bǽskətbɔ̀l tíjm.",
+        "hash": "TXT_a8e67311985df969a33f7a0efba2df.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Parka Coat: The parka coat had a fur-trimmed hood and plenty of inside pockets.  ",
+        "ipa": "pɑ́rkə kówt: ðə pɑ́rkə kówt hǽd ə fɜ́r-trᵻ́md hʊ́d ənd plɛ́ntij əv ᵻnsájd pɒ́kəts.",
+        "hash": "TXT_f1c91db0cab12588c47f6c3aea60b4.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Drawstring Pants: The drawstring pants allowed him to adjust the waist for maximum comfort.  ",
+        "ipa": "drɔ́strᵻ̀ŋ pǽnts: ðə drɔ́strᵻ̀ŋ pǽnts əláwd hᵻm tə ədʒʌ́st ðə wɛ́jst fɔr mǽksᵻməm kʌ́mfərt.",
+        "hash": "TXT_73ebb67372a3d31e99a62d545aca43.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Bandeau Top: The bandeau top offered a strapless option for layering under open shirts.  ",
+        "ipa": "bændów tɒ́p: ðə bændów tɒ́p ɔ́fərd ə strǽpləs ɒ́pʃən fɔr lɛ́jərᵻŋ ʌ́ndər ówpən ʃɜ́rts.",
+        "hash": "TXT_00f5e81c24940275b09579dafffb19.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Rain Boots: The rain boots kept her feet dry while splashing through puddles.  ",
+        "ipa": "rɛ́jn búwts: ðə rɛ́jn búwts kɛ́pt hər fíjt dráj wájl splǽʃᵻŋ θrúw pʌ́dəlz.",
+        "hash": "TXT_e55bccaa2304597dec20f33a1018be.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Velvet Blazer: The velvet blazer brought a luxurious sheen to his evening attire.  ",
+        "ipa": "vɛ́lvət blɛ́jzər: ðə vɛ́lvət blɛ́jzər brɔ́t ə ləɡʒɜ́rijəs ʃíjn tə hᵻz íjvnᵻŋ ətájər.",
+        "hash": "TXT_4cc33f5ee1d5982e5b91c5c783aeb1.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "One-Shoulder Dress: The one-shoulder dress highlighted her collarbone at the cocktail party.  ",
+        "ipa": "wʌ́n-ʃówldər drɛ́s: ðə wʌ́n-ʃówldər drɛ́s hájlàjtᵻd hər kɒ́lərbòwn æt ðə kɒ́ktɛ̀jl pɑ́rtij.",
+        "hash": "TXT_4b5b0d7595b764a8fcdabb1ef252a8.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Graphic Hoodie: The graphic hoodie featured a bold design that caught everyone’s eye.  ",
+        "ipa": "ɡrǽfᵻk hʊ́dij: ðə ɡrǽfᵻk hʊ́dij fíjtʃərd ə bówld dəzájn thət kɒ́t ɛ́vrijwʌ̀n'z áj.",
+        "hash": "TXT_5c7481c23ae74440cd8e4dd2be39cd.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Linen Blazer: The linen blazer was light enough for spring and summer gatherings.  ",
+        "ipa": "lᵻ́nən blɛ́jzər: ðə lᵻ́nən blɛ́jzər wɒz lájt ənʌ́f fɔr sprᵻ́ŋ ənd sʌ́mər ɡǽðərᵻŋz.",
+        "hash": "TXT_cc72470fb979171fc7c5267bbd887f.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Boater Hat: The boater hat gave her outfit a playful, vintage look at the garden party.  ",
+        "ipa": "bówtər hǽt: ðə bówtər hǽt ɡɛ́jv hər áwtfᵻ̀t ə plɛ́jfəl, vᵻ́ntᵻdʒ lʊ́k æt ðə ɡɑ́rdən pɑ́rtij.",
+        "hash": "TXT_35b07375fd8f59a428d050f0d62050.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Athletic Shorts: The athletic shorts were breathable and had a comfortable elastic waistband.  ",
+        "ipa": "æθlɛ́tᵻk ʃɔ́rts: ðə æθlɛ́tᵻk ʃɔ́rts wɜ́r bríjðəbəl ənd hǽd ə kʌ́mftərbəl əlǽstᵻk wɛ́jstbænd.",
+        "hash": "TXT_efc508425f7552f7a5ba1a80e4112b.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Racerback Tank: The racerback tank allowed a full range of motion for her workouts.  ",
+        "ipa": "rɛ́jsərbæ̀k tǽŋk: ðə rɛ́jsərbæ̀k tǽŋk əláwd ə fʊ́l rɛ́jndʒ əv mówʃən fɔr hər wɜ́rkàwts.",
+        "hash": "TXT_7e0dd11f05fe0f175e5e604fbfadb3.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Oversized Sweater: The oversized sweater felt like being wrapped in a warm blanket.  ",
+        "ipa": "ówvərsàjzd swɛ́tər: ðə ówvərsàjzd swɛ́tər fɛ́lt lájk bíjᵻŋ rǽpt ᵻn ə wɔ́rm blǽŋkət.",
+        "hash": "TXT_fc80cc323444e4bdd026207f15d366.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Argyle Socks: The argyle socks added a classic diamond pattern to his footwear.  ",
+        "ipa": "ɑ́rɡàjl sɒ́ks: ðə ɑ́rɡàjl sɒ́ks ǽdᵻd ə klǽsᵻk dájmənd pǽtərn tə hᵻz fʊ́twɛ̀ər.",
+        "hash": "TXT_530d5cacdb6e2fffb18823d258cf76.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Boyfriend Jeans: The boyfriend jeans had a relaxed fit and a trendy, lived-in vibe.  ",
+        "ipa": "bɔ́jfrɛ̀nd dʒíjnz: ðə bɔ́jfrɛ̀nd dʒíjnz hǽd ə rijlǽkst fᵻ́t ənd ə trɛ́ndij, lᵻ́vd-ᵻn vájb.",
+        "hash": "TXT_4bf1c29303f451d00d62de10362a01.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Bardot Top: The bardot top elegantly showcased her shoulders.  ",
+        "ipa": "bɑrdów tɒ́p: ðə bɑrdów tɒ́p ɛ́ləɡəntlìj ʃówkɛ̀jst hər ʃówldərz.",
+        "hash": "TXT_3ab0d88f6cd5fb1f0450c9399d124d.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Harem Pants: The harem pants’ loose silhouette was perfect for a laid-back evening.  ",
+        "ipa": "hɛ́ərəm pǽnts: ðə hɛ́ərəm pǽnts’ lúws sᵻ̀ləwɛ́t wɒz pɜ́rfəkt fɔr ə lɛ́jd-bǽk íjvnᵻŋ.",
+        "hash": "TXT_93512fe6fd1788d06917425f857dd8.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Strappy Sandals: The strappy sandals complemented her freshly pedicured toes at the beach.  ",
+        "ipa": "strǽpij sǽndəlz: ðə strǽpij sǽndəlz kɒ́mpləmɛ̀ntᵻd hər frɛ́ʃlij pɛdᵻkjʊrd tówz æt ðə bíjtʃ.",
+        "hash": "TXT_de8b6d67efd7d707ebc0b8cc311322.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Henley Shirt: The henley shirt’s buttoned neckline gave a casual, slightly rugged flair.  ",
+        "ipa": "hɛ́nlij ʃɜ́rt: ðə hɛ́nlij ʃɜ́rt's bʌ́tənd nɛ́klàjn ɡɛ́jv ə kǽʒəwəl, slájtlij rʌ́ɡəd flɛ́ər.",
+        "hash": "TXT_262ff97648f3501115560c661e0cb8.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Cocktail Dress: The cocktail dress stopped at her knees, striking a perfect party balance.  ",
+        "ipa": "kɒ́ktɛ̀jl drɛ́s: ðə kɒ́ktɛ̀jl drɛ́s stɒ́pt æt hər níjz, strájkᵻŋ ə pɜ́rfəkt pɑ́rtij bǽləns.",
+        "hash": "TXT_08b06053a1c99524ba092a9137b48e.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Army Jacket: The army jacket’s camouflage pattern never seemed to go out of style.  ",
+        "ipa": "ɑ́rmij dʒǽkət: ðə ɑ́rmij dʒǽkət's kǽməflɒ̀ʒ pǽtərn nɛ́vər síjmd tə ɡow awt əv stájl.",
+        "hash": "TXT_20f20a00d777d7884bd203a884d6a0.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Longline Vest: The longline vest layered well over a t-shirt and skinny jeans.  ",
+        "ipa": "lɔŋlajn vɛ́st: ðə lɔŋlajn vɛ́st lɛ́jərd wɛ́l ówvər ə t-ʃɜ́rt ənd skᵻ́nij dʒíjnz.",
+        "hash": "TXT_6e1c48a670ff2556d536ad7189388f.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Cowboy Boots: The cowboy boots clicked against the wooden floor with each confident step.  ",
+        "ipa": "káwbɔ̀j búwts: ðə káwbɔ̀j búwts klᵻ́kt əɡɛ́jnst ðə wʊ́dən flɔ́r wᵻð ijtʃ kɒ́nfᵻdənt stɛ́p.",
+        "hash": "TXT_bcea0d0d1ccd8910c573674ffa8afe.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Skater Dress: The skater dress flared at the waist, lending a playful silhouette.  ",
+        "ipa": "skɛ́jtər drɛ́s: ðə skɛ́jtər drɛ́s flɛ́ərd æt ðə wɛ́jst, lɛ́ndᵻŋ ə plɛ́jfəl sᵻ̀ləwɛ́t.",
+        "hash": "TXT_23eabeb893bbfa129f2afd40769c65.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Cropped Trousers: The cropped trousers hit above his ankles, showing off fun socks.  ",
+        "ipa": "krɒ́pt tráwzərz: ðə krɒ́pt tráwzərz hᵻ́t əbʌ́v hᵻz ǽŋkəlz, ʃówᵻŋ ɔ́f fʌ́n sɒ́ks.",
+        "hash": "TXT_d1b7032259977f351cdbbb41dd2fb3.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Bedtime Robe: The bedtime robe wrapped her in comfort before heading to bed.  ",
+        "ipa": "bɛ́dtàjm rówb: ðə bɛ́dtàjm rówb rǽpt hər ᵻn kʌ́mfərt bəfɔ́r hɛ́dᵻŋ tə bɛ́d.",
+        "hash": "TXT_71b54d4fac90f56a2e08e0a43d6f7f.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Beanie Hat: The beanie hat kept his head toasty while walking his dog at dawn.  ",
+        "ipa": "bíjnij hǽt: ðə bíjnij hǽt kɛ́pt hᵻz hɛ́d tówstij wájl wɔ́kᵻŋ hᵻz dɔ́ɡ æt dɔ́n.",
+        "hash": "TXT_63c905fa464b44f2459f41180a1150.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Ski Jacket: The ski jacket offered moisture protection and insulation on the slopes.  ",
+        "ipa": "skíj dʒǽkət: ðə skíj dʒǽkət ɔ́fərd mɔ́jstʃər prətɛ́kʃən ənd ᵻ̀nsəlɛ́jʃən ɒn ðə slówps.",
+        "hash": "TXT_bea2313cc718337cce6ec42eb53a2f.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Fur Coat: The fur coat (faux or real) made a dramatic statement on a cold day.  ",
+        "ipa": "fɜ́r kówt: ðə fɜ́r kówt (fow ɔr ríjəl) mɛ́jd ə drəmǽtᵻk stɛ́jtmənt ɒn ə kówld dɛ́j.",
+        "hash": "TXT_4ddb5beaaeffc2fef9ea377fe71454.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "House Slippers: The house slippers were lined with plush material for cozy feet at home.  ",
+        "ipa": "haws slᵻ́pərz: ðə haws slᵻ́pərz wɜ́r lájnd wᵻð plʌ́ʃ mətɪ́ərijəl fɔr kówzij fíjt æt hówm.",
+        "hash": "TXT_2b222798ad843469a9227c9604fc01.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Wrist Warmer: The wrist warmer stopped chilly air from creeping up her sleeves.  ",
+        "ipa": "rᵻ́st wɔ́rmər: ðə rᵻ́st wɔ́rmər stɒ́pt tʃᵻ́lij ɛ́ər frəm kríjpᵻŋ ʌp hər slíjvz.",
+        "hash": "TXT_30071105535276178639e48f1bf57b.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Infinity Scarf: The infinity scarf looped twice around her neck for style and warmth.  ",
+        "ipa": "ᵻ̀nfᵻ́nᵻtij skɑ́rf: ðə ᵻ̀nfᵻ́nᵻtij skɑ́rf lúwpt twájs əráwnd hər nɛ́k fɔr stájl ənd wɔ́rmθ.",
+        "hash": "TXT_2621d0bd4c5e0ca2dc846f9c5de0a8.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Polo Shirt: The polo shirt offered a sporty yet polished look with its collar and buttons.  ",
+        "ipa": "pówlow ʃɜ́rt: ðə pówlow ʃɜ́rt ɔ́fərd ə spɔ́rtij jɛt pɒ́lᵻʃt lʊ́k wᵻð ᵻts kɒ́lər ənd bʌ́tənz.",
+        "hash": "TXT_d2aa071039751c3dcb41bc7599cd5d.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Mermaid Gown: The mermaid gown clung to her curves before flaring out at the hem.  ",
+        "ipa": "mɜ́rmɛ̀jd ɡáwn: ðə mɜ́rmɛ̀jd ɡáwn klʌ́ŋ tə hər kɜ́rvz bəfɔ́r flɛ́ərᵻŋ awt æt ðə hɛ́m.",
+        "hash": "TXT_2982c8b0d104af952d7d8ca7c05b93.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Bib Overalls: The bib overalls gave a relaxed, country feel to her weekend outfit.  ",
+        "ipa": "bᵻ́b ówvərɔ̀lz: ðə bᵻ́b ówvərɔ̀lz ɡɛ́jv ə rijlǽkst, kʌ́ntrij fíjl tə hər wíjkɛ̀nd áwtfᵻ̀t.",
+        "hash": "TXT_134e3cb70ba39fba9aba1a22411f51.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Hoodie Dress: The hoodie dress combined comfort and street style in a single piece.  ",
+        "ipa": "hʊ́dij drɛ́s: ðə hʊ́dij drɛ́s kəmbájnd kʌ́mfərt ənd stríjt stájl ᵻn ə sᵻ́ŋɡəl píjs.",
+        "hash": "TXT_6bb0e28b5cc439590d6294c77bc017.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Boxer Shorts: The boxer shorts provided a loose, comfy fit for sleeping.  ",
+        "ipa": "bɒ́ksər ʃɔ́rts: ðə bɒ́ksər ʃɔ́rts prəvájdᵻd ə lúws, kʌ́mfij fᵻ́t fɔr slíjpᵻŋ.",
+        "hash": "TXT_54759871469c9b2b73175c77735560.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Kitten Heels: The kitten heels were dainty enough for formal settings without straining her feet.  ",
+        "ipa": "kᵻ́tən híjlz: ðə kᵻ́tən híjlz wɜ́r dɛ́jntij ənʌ́f fɔr fɔ́rməl sɛ́tᵻŋz wᵻðáwt strɛ́jnᵻŋ hər fíjt.",
+        "hash": "TXT_167387883d6310570480792d386576.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Open-Toe Pumps: The open-toe pumps revealed a bright pedicure during the summer soiree.  ",
+        "ipa": "ówpən-tów pʌ́mps: ðə ówpən-tów pʌ́mps rəvíjld ə brájt pɛ́dᵻkjʊr dʊ́rᵻŋ ðə sʌ́mər swɑrɛ́j.",
+        "hash": "TXT_e27132a8ca9dd8bf25771e4a055f30.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Cummerbund Sash: The cummerbund sash completed his black-tie attire for the gala.  ",
+        "ipa": "kʌmərbʌ̀nd sǽʃ: ðə kʌmərbʌ̀nd sǽʃ kəmplíjtᵻd hᵻz blǽk-táj ətájər fɔr ðə ɡǽlə.",
+        "hash": "TXT_370556fd43a601a13b4a0e90d94ffe.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Buckle Boots: The buckle boots added edgy metal details to her autumn wardrobe.  ",
+        "ipa": "bʌ́kəl búwts: ðə bʌ́kəl búwts ǽdᵻd ɛ́dʒij mɛ́təl díjtɛjlz tə hər ɔ́təm wɔ́rdròwb.",
+        "hash": "TXT_d7a4dae46c7c82e18d408ef06dbe38.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Visor Cap: The visor cap shielded her eyes from the sun at the tennis match.  ",
+        "ipa": "vájzər kǽp: ðə vájzər kǽp ʃíjldᵻd hər ájz frəm ðə sʌ́n æt ðə tɛ́nᵻs mǽtʃ.",
+        "hash": "TXT_f85218c28621ae6448d6a4c0d99848.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Bow Blouse: The bow blouse tied neatly at her neck, exuding feminine charm.  ",
+        "ipa": "bow bláws: ðə bow bláws tájd níjtlij æt hər nɛ́k, əɡzúwdᵻŋ fɛ́mᵻnən tʃɑ́rm.",
+        "hash": "TXT_d6a847ef18451c4322942eee65b50a.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Down Jacket: The down jacket packed easily into her bag for unexpected temperature drops.  ",
+        "ipa": "dawn dʒǽkət: ðə dawn dʒǽkət pǽkt íjzəlij ᵻntə hər bǽɡ fɔr ʌ̀nəkspɛ́ktᵻd tɛ́mpərətʃər drɒ́ps.",
+        "hash": "TXT_8d359ad9da930c1e9274766560a057.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Tweed Skirt: The tweed skirt carried a subtle pattern that fit her office’s dress code.  ",
+        "ipa": "twíjd skɜ́rt: ðə twíjd skɜ́rt kǽrijd ə sʌ́təl pǽtərn thət fᵻ́t hər ɔ́fᵻs'z drɛ́s kówd.",
+        "hash": "TXT_e8e192feb89b0f81de16f565b09bab.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Swim Trunks: The swim trunks dried quickly after his dip in the pool.  ",
+        "ipa": "swᵻ́m trʌ́ŋks: ðə swᵻ́m trʌ́ŋks drájd kwᵻ́klij ǽftər hᵻz dᵻ́p ᵻn ðə púwl.",
+        "hash": "TXT_ab9fe4400c948416e848eed420ceeb.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Polka-Dot Dress: The polka-dot dress brought a playful, retro vibe to her brunch outfit.  ",
+        "ipa": "pówkɒ-dɒ́t drɛ́s: ðə pówkɒ-dɒ́t drɛ́s brɔ́t ə plɛ́jfəl, rɛ́trow vájb tə hər brʌ́ntʃ áwtfᵻ̀t.",
+        "hash": "TXT_47be1dc18f71918534382e7d62674a.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Argyle Vest: The argyle vest layered over a button-down shirt for a scholarly look.  ",
+        "ipa": "ɑ́rɡàjl vɛ́st: ðə ɑ́rɡàjl vɛ́st lɛ́jərd ówvər ə bʌ́tən-dawn ʃɜ́rt fɔr ə skɒ́lərlij lʊ́k.",
+        "hash": "TXT_f877d03a8da6180b8b8bd5ba268857.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Bandana Scarf: The bandana scarf added a touch of rebellious flair to his casual attire.  ",
+        "ipa": "bæ̀ndǽnə skɑ́rf: ðə bæ̀ndǽnə skɑ́rf ǽdᵻd ə tʌ́tʃ əv rəbɛ́ljəs flɛ́ər tə hᵻz kǽʒəwəl ətájər.",
+        "hash": "TXT_5b785a8c66241df5603384d36a705c.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Knee-High Boots: The knee-high boots kept her legs warm while looking chic with a skirt.  ",
+        "ipa": "níj-háj búwts: ðə níj-háj búwts kɛ́pt hər lɛ́ɡz wɔ́rm wájl lʊ́kᵻŋ ʃíjk wᵻð ə skɜ́rt.",
+        "hash": "TXT_cbe1a696f09f8660b4cefb557d073d.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Overall Dress: The overall dress layered neatly over a fitted t-shirt for a casual feel.  ",
+        "ipa": "ówvərɔ̀l drɛ́s: ðə ówvərɔ̀l drɛ́s lɛ́jərd níjtlij ówvər ə fᵻ́tᵻd t-ʃɜ́rt fɔr ə kǽʒəwəl fíjl.",
+        "hash": "TXT_6aab55fa3200f833f5b6f8f19fb85f.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Mock-Neck Top: The mock-neck top provided a slightly raised collar without the bulk of a turtleneck.  ",
+        "ipa": "mɒ́k-nɛ́k tɒ́p: ðə mɒ́k-nɛ́k tɒ́p prəvájdᵻd ə slájtlij rɛ́jzd kɒ́lər wᵻðáwt ðə bʌ́lk əv ə tɜ́rtəlnɛ̀k.",
+        "hash": "TXT_e98414ea0d4311e0632becc188f4be.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Printed Leggings: The printed leggings showcased a vibrant pattern perfect for the gym.  ",
+        "ipa": "prᵻ́ntᵻd lɛ́ɡᵻŋz: ðə prᵻ́ntᵻd lɛ́ɡᵻŋz ʃówkɛ̀jst ə vájbrənt pǽtərn pɜ́rfəkt fɔr ðə dʒᵻ́m.",
+        "hash": "TXT_79a4f73fc0f90ccdfbb35271044393.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Collarless Jacket: The collarless jacket framed her neckline and pearls elegantly.  ",
+        "ipa": "kɒ̀lərləs dʒǽkət: ðə kɒ̀lərləs dʒǽkət frɛ́jmd hər nɛ́klàjn ənd pɜ́rlz ɛ́ləɡəntlìj.",
+        "hash": "TXT_30b89112795b6fcba87d8339b2a5e7.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Mesh Bodysuit: The mesh bodysuit offered a bold statement beneath an open blazer.  ",
+        "ipa": "mɛ́ʃ bɒ́dijsùwt: ðə mɛ́ʃ bɒ́dijsùwt ɔ́fərd ə bówld stɛ́jtmənt bəníjθ ən ówpən blɛ́jzər.",
+        "hash": "TXT_e1fc95a370009e1307c9bfc3208741.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Kimono Robe: The kimono robe displayed intricate patterns and a relaxed, flowing cut.  ",
+        "ipa": "kᵻmównə rówb: ðə kᵻmównə rówb dᵻsplɛ́jd ᵻ́ntrᵻkət pǽtərnz ənd ə rijlǽkst, flówᵻŋ kʌ́t.",
+        "hash": "TXT_bf4472548b92904f02b8eda389303b.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Fishnet Tights: The fishnet tights added a bit of edge to her nighttime ensemble.  ",
+        "ipa": "fᵻʃnɛ̀t tájts: ðə fᵻʃnɛ̀t tájts ǽdᵻd ə bᵻ́t əv ɛ́dʒ tə hər nájttàjm ɒnsɒ́mbəl.",
+        "hash": "TXT_5674ee56da57cd75a7916c69a8ed8f.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "High-Low Dress: The high-low dress trailed behind her while showing off her legs in the front.  ",
+        "ipa": "háj-lów drɛ́s: ðə háj-lów drɛ́s trɛ́jld bəhájnd hər wájl ʃówᵻŋ ɔ́f hər lɛ́ɡz ᵻn ðə frʌ́nt.",
+        "hash": "TXT_ac01cc9fe4f25c29021fbd915936a0.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Slip Dress: The slip dress gave a minimalist silhouette for a classy evening.  ",
+        "ipa": "slᵻ́p drɛ́s: ðə slᵻ́p drɛ́s ɡɛ́jv ə mᵻ́nᵻməlᵻst sᵻ̀ləwɛ́t fɔr ə klǽsij íjvnᵻŋ.",
+        "hash": "TXT_8fc8a51075c76d2927936952507f47.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Patchwork Jeans: The patchwork jeans pieced together contrasting denim for a boho-chic style.  ",
+        "ipa": "pǽtʃwɜ̀rk dʒíjnz: ðə pǽtʃwɜ̀rk dʒíjnz píjst təɡɛ́ðər kəntrǽstᵻŋ dɛ́nᵻm fɔr ə bówhow-ʃíjk stájl.",
+        "hash": "TXT_ca710db14299fef55df1dd6852fea3.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Tiered Skirt: The tiered skirt bounced playfully with every step she took.  ",
+        "ipa": "tíjərd skɜ́rt: ðə tíjərd skɜ́rt báwnst plɛ́jfəlij wᵻð ɛvərij stɛ́p ʃij tʊ́k.",
+        "hash": "TXT_96f5d47aa8171143be261d6dcd3251.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Button-Up Dress: The button-up dress allowed her to adjust the neckline and show as much or as little skin as she wanted.  ",
+        "ipa": "bʌ́tən-ʌp drɛ́s: ðə bʌ́tən-ʌp drɛ́s əláwd hər tə ədʒʌ́st ðə nɛ́klàjn ənd ʃów æz mʌtʃ ɔr æz lᵻ́təl skᵻ́n æz ʃij wɔ́ntᵻd.",
+        "hash": "TXT_f0383ac47e4e4829936d59038adb2d.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Suit Vest: The suit vest offered a polished layer over his dress shirt.  ",
+        "ipa": "súwt vɛ́st: ðə súwt vɛ́st ɔ́fərd ə pɒ́lᵻʃt lɛ́jər ówvər hᵻz drɛ́s ʃɜ́rt.",
+        "hash": "TXT_13296fa9ac8e72121005813d648dc3.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Buckle Sandals: The buckle sandals adjusted for a secure, comfortable fit.  ",
+        "ipa": "bʌ́kəl sǽndəlz: ðə bʌ́kəl sǽndəlz ədʒʌ́stᵻd fɔr ə səkjʊ́r, kʌ́mftərbəl fᵻ́t.",
+        "hash": "TXT_7a723f365ac88b798822fc679c30e8.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Thermal Underwear: The thermal underwear trapped heat effectively in frigid weather.  ",
+        "ipa": "θɜ́rməl ʌ́ndərwɛ̀ər: ðə θɜ́rməl ʌ́ndərwɛ̀ər trǽpt híjt əfɛ́ktᵻvlij ᵻn frᵻ́dʒəd wɛ́ðər.",
+        "hash": "TXT_0cb70f97d0cf193803571aa7203f5c.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Padded Coat: The padded coat guaranteed warmth on even the coldest winter day.  ",
+        "ipa": "pǽdᵻd kówt: ðə pǽdᵻd kówt ɡɛ̀ərəntíjd wɔ́rmθ ɒn íjvən ðə kówldəst wᵻ́ntər dɛ́j.",
+        "hash": "TXT_5361a7eac7390de517b6dcf2ff1715.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Lace Chemise: The lace chemise added a romantic touch to her sleepwear.  ",
+        "ipa": "lɛ́js ʃəmíjz: ðə lɛ́js ʃəmíjz ǽdᵻd ə rowmǽntᵻk tʌ́tʃ tə hər slíjpwɛ̀ər.",
+        "hash": "TXT_fa8312b54cbb8d32a571c40fb80052.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Short-Sleeve Blouse: The short-sleeve blouse remained comfortable in her warm office.  ",
+        "ipa": "ʃɔ́rt-slíjv bláws: ðə ʃɔ́rt-slíjv bláws rəmɛ́jnd kʌ́mftərbəl ᵻn hər wɔ́rm ɔ́fᵻs.",
+        "hash": "TXT_64d3d27d883f6f22151bce045b14fb.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Argyle Sweater: The argyle sweater’s diamond pattern felt traditional yet stylish.  ",
+        "ipa": "ɑ́rɡàjl swɛ́tər: ðə ɑ́rɡàjl swɛ́tər'z dájmənd pǽtərn fɛ́lt trədᵻ́ʃənəl jɛt stájlᵻʃ.",
+        "hash": "TXT_03cf0772e62dc8e3de99191da54d99.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Buttoned Cardigan: The buttoned cardigan let her control how many layers to show.  ",
+        "ipa": "bʌ́tənd kɑ́rdᵻɡən: ðə bʌ́tənd kɑ́rdᵻɡən lɛt hər kəntrówl háw mɛ́nij lɛ́jərz tə ʃów.",
+        "hash": "TXT_a1b1b374c1feb1c93aa204bd4b1690.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Square-Toe Shoes: The square-toe shoes distinguished her style from more common round-toe versions.  ",
+        "ipa": "skwɛ́ər-tów ʃúwz: ðə skwɛ́ər-tów ʃúwz dᵻstᵻ́ŋɡwᵻʃt hər stájl frəm mɔr kɒ́mən ráwnd-tów vɜ́rʒənz.",
+        "hash": "TXT_cbe416d1f79f8a6e56e17b14c2dcb7.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Padded Bra Straps: The padded bra straps prevented shoulder pain throughout the day.  ",
+        "ipa": "pǽdᵻd brɒ́ strǽps: ðə pǽdᵻd brɒ́ strǽps prəvɛ́ntᵻd ʃówldər pɛ́jn θruwáwt ðə dɛ́j.",
+        "hash": "TXT_162045d6c6932352f1e7612ee914b9.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Paperbag Waist Shorts: The paperbag waist shorts cinched neatly to accentuate her figure.  ",
+        "ipa": "pɛ́jpərbæ̀ɡ wɛ́jst ʃɔ́rts: ðə pɛ́jpərbæ̀ɡ wɛ́jst ʃɔ́rts sᵻ́ntʃt níjtlij tə æksɛ́ntʃuwɛjt hər fᵻ́ɡjər.",
+        "hash": "TXT_244c904f75fbda84cd7f789b54e039.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Sporty Leggings: The sporty leggings featured a thick waistband that stayed in place during exercise.  ",
+        "ipa": "spɔ́rtij lɛ́ɡᵻŋz: ðə spɔ́rtij lɛ́ɡᵻŋz fíjtʃərd ə θᵻ́k wɛ́jstbænd thət stɛ́jd ᵻn plɛ́js dʊ́rᵻŋ ɛ́ksərsàjz.",
+        "hash": "TXT_f84f264189966de60bc00baa2458a6.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Velvet Pants: The velvet pants shone under the party lights, adding a touch of glam.  ",
+        "ipa": "vɛ́lvət pǽnts: ðə vɛ́lvət pǽnts ʃówn ʌ́ndər ðə pɑ́rtij lájts, ǽdᵻŋ ə tʌ́tʃ əv ɡlǽm.",
+        "hash": "TXT_f327e155209dfd4f4a5d683b93f818.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Garter Belt: The garter belt held up her stockings for a vintage appeal.  ",
+        "ipa": "ɡɑ́rtər bɛ́lt: ðə ɡɑ́rtər bɛ́lt hɛ́ld ʌp hər stɒ́kᵻŋz fɔr ə vᵻ́ntᵻdʒ əpíjl.",
+        "hash": "TXT_f9fdcefc3ab422abdb665d01891aaf.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Cutout Dress: The cutout dress revealed subtle slivers of skin at strategic spots.  ",
+        "ipa": "kʌ́tàwt drɛ́s: ðə kʌ́tàwt drɛ́s rəvíjld sʌ́təl slᵻ́vərz əv skᵻ́n æt strətíjdʒᵻk spɒ́ts.",
+        "hash": "TXT_17701dc323b923ffce5fd82ea5d24c.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Printed Kimono: The printed kimono elevated her jeans and tank top to a stylish statement.  ",
+        "ipa": "prᵻ́ntᵻd kᵻmównə: ðə prᵻ́ntᵻd kᵻmównə ɛ́ləvɛ̀jtᵻd hər dʒíjnz ənd tǽŋk tɒ́p tə ə stájlᵻʃ stɛ́jtmənt.",
+        "hash": "TXT_cf4af8704c8ec1a3009d6d25f7f636.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Long-Sleeve Tee: The long-sleeve tee was essential for layering in changing temperatures.  ",
+        "ipa": "lɔ́ŋ-slíjv tíj: ðə lɔ́ŋ-slíjv tíj wɒz əsɛ́nʃəl fɔr lɛ́jərᵻŋ ᵻn tʃɛ́jndʒᵻŋ tɛ́mpərətʃərz.",
+        "hash": "TXT_4353fc9aef508e4bfdea5736392fa3.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Front-Tie Shirt: The front-tie shirt could be knotted for a cute, relaxed look.  ",
+        "ipa": "frʌ́nt-táj ʃɜ́rt: ðə frʌ́nt-táj ʃɜ́rt kʊ́d bij nɒ́tᵻd fɔr ə kjúwt, rijlǽkst lʊ́k.",
+        "hash": "TXT_e4fcec0bec26d2ab789fe7da777ec0.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Fold-Over Boots: The fold-over boots allowed her to adjust the height for different outfits.  ",
+        "ipa": "fówld-ówvər búwts: ðə fówld-ówvər búwts əláwd hər tə ədʒʌ́st ðə hájt fɔr dᵻ́fərənt áwtfᵻ̀ts.",
+        "hash": "TXT_f5aabbbe01c373549a8960d13b3d7d.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Corduroy Skirt: The corduroy skirt paired perfectly with thick tights on a blustery day.  ",
+        "ipa": "kɔ́rdərɔ̀j skɜ́rt: ðə kɔ́rdərɔ̀j skɜ́rt pɛ́ərd pɜ́rfəktlij wᵻð θᵻ́k tájts ɒn ə blʌ́stərij dɛ́j.",
+        "hash": "TXT_e0edfb30d3e60d45040e5e8d4f4df2.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Bucket Hat: The bucket hat made a playful comeback from ‘90s fashion.  ",
+        "ipa": "bʌ́kət hǽt: ðə bʌ́kət hǽt mɛ́jd ə plɛ́jfəl kʌ́mbæ̀k frəm ‘90s fǽʃən.",
+        "hash": "TXT_847e357c0054059963324a8a51caef.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Boyshort Panties: The boyshort panties provided extra coverage and comfort.  ",
+        "ipa": "bɔjʃɔrt pǽntijz: ðə bɔjʃɔrt pǽntijz prəvájdᵻd ɛ́kstrə kʌ́vərᵻdʒ ənd kʌ́mfərt.",
+        "hash": "TXT_8bfb24b2cafa745473631d2b3d83ff.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Balconette Bra: The balconette bra lifted subtly for a flattering neckline.  ",
+        "ipa": "bælkənɛ́t brɒ́: ðə bælkənɛ́t brɒ́ lᵻ́ftᵻd sʌ́təlij fɔr ə flǽtərᵻŋ nɛ́klàjn.",
+        "hash": "TXT_6416d98fd100fa381fd1b69caa64d1.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Racerback Bra: The racerback bra stayed hidden under her sleeveless gym shirts.  ",
+        "ipa": "rɛ́jsərbæ̀k brɒ́: ðə rɛ́jsərbæ̀k brɒ́ stɛ́jd hᵻ́dən ʌ́ndər hər slíjvlᵻs dʒᵻ́m ʃɜ́rts.",
+        "hash": "TXT_e63468f35a7fd9895b37b9bafd2123.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Belted Jumpsuit: The belted jumpsuit cinched the waist and elongated her frame.  ",
+        "ipa": "bɛ́ltᵻd dʒʌ́mpsùwt: ðə bɛ́ltᵻd dʒʌ́mpsùwt sᵻ́ntʃt ðə wɛ́jst ənd əlɔ́ŋɡɛjtᵻd hər frɛ́jm.",
+        "hash": "TXT_1c54b056f44b1e11ba7084816f7794.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Accordion Skirt: The accordion skirt folded neatly to create a full, flowing shape.  ",
+        "ipa": "əkɔ́rdijən skɜ́rt: ðə əkɔ́rdijən skɜ́rt fówldᵻd níjtlij tə krijɛ́jt ə fʊ́l, flówᵻŋ ʃɛ́jp.",
+        "hash": "TXT_fa2235eb3b61fd8d2e998963b08626.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Paperbag Waist Pants: The paperbag waist pants tied around her middle in a sweet bow.  ",
+        "ipa": "pɛ́jpərbæ̀ɡ wɛ́jst pǽnts: ðə pɛ́jpərbæ̀ɡ wɛ́jst pǽnts tájd əráwnd hər mᵻ́dəl ᵻn ə swíjt bow.",
+        "hash": "TXT_7a859dbaec8d68aa6c5bebb4694a2a.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Double-Breasted Blazer: The double-breasted blazer exuded confidence and structure.  ",
+        "ipa": "dʌ́bəl-brɛ́stᵻd blɛ́jzər: ðə dʌ́bəl-brɛ́stᵻd blɛ́jzər əɡzúwdᵻd kɒ́nfᵻdəns ənd strʌ́ktʃər.",
+        "hash": "TXT_48f48c746457afd7ce6e7a1cc2772b.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Slide Sandals: The slide sandals slipped on effortlessly for a quick errand run.  ",
+        "ipa": "slájd sǽndəlz: ðə slájd sǽndəlz slᵻ́pt ɒn ɛ́fərtləslij fɔr ə kwᵻ́k ɛ́ərənd rʌ́n.",
+        "hash": "TXT_2ecea9efd86e075ec7bbc2d1753222.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Tulle Skirt: The tulle skirt added a ballerina-like grace to her dinner outfit.  ",
+        "ipa": "tʌl skɜ́rt: ðə tʌl skɜ́rt ǽdᵻd ə bæ̀ləríjnə-lájk ɡrɛ́js tə hər dᵻ́nər áwtfᵻ̀t.",
+        "hash": "TXT_36387aae3f2dc70c8a076b153776f5.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Peekaboo Shoulder Top: The peekaboo shoulder top revealed a flirty glimpse of skin.  ",
+        "ipa": "pijkəbùw ʃówldər tɒ́p: ðə pijkəbùw ʃówldər tɒ́p rəvíjld ə flɜ́rtij ɡlᵻ́mps əv skᵻ́n.",
+        "hash": "TXT_131f350bd7b5ca310abfe380c76d86.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Embroidered Jeans: The embroidered jeans featured floral stitching along the pockets.  ",
+        "ipa": "ɛmbrɔ́jdərd dʒíjnz: ðə ɛmbrɔ́jdərd dʒíjnz fíjtʃərd flɔ́rəl stᵻ́tʃᵻŋ əlɔ́ŋ ðə pɒ́kəts.",
+        "hash": "TXT_dcafaca852845692dd9ba8e1d5ea57.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Utility Jacket: The utility jacket’s multiple pockets served as both style and function.  ",
+        "ipa": "juwtᵻ́lᵻtij dʒǽkət: ðə juwtᵻ́lᵻtij dʒǽkət's mʌ́ltᵻpəl pɒ́kəts sɜ́rvd æz bówθ stájl ənd fʌ́ŋkʃən.",
+        "hash": "TXT_c90540dd22d42e72f12123be7e6c8b.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Bath Robe: The bath robe enveloped her in plush warmth after a hot shower.  ",
+        "ipa": "bǽθ rówb: ðə bǽθ rówb ɛnvɛ́ləpt hər ᵻn plʌ́ʃ wɔ́rmθ ǽftər ə hɒ́t ʃáwər.",
+        "hash": "TXT_b450bedbc2ff179b42665319eaecc8.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Pleather Leggings: The pleather leggings provided a faux leather look that was edgy yet animal-friendly.  ",
+        "ipa": "plɛ́ðər lɛ́ɡᵻŋz: ðə plɛ́ðər lɛ́ɡᵻŋz prəvájdᵻd ə fow lɛ́ðər lʊ́k thət wɒz ɛ́dʒij jɛt ǽnᵻməl-frɛ́ndlij.",
+        "hash": "TXT_a04c769d9433de9526c0e21997308d.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Crop Hoodie: The crop hoodie displayed her midriff for a sporty-chic style.  ",
+        "ipa": "krɒ́p hʊ́dij: ðə krɒ́p hʊ́dij dᵻsplɛ́jd hər mᵻdrᵻf fɔr ə spɔ́rtij-ʃíjk stájl.",
+        "hash": "TXT_750dabb73d1ea8d93f119becbd0413.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Mock-Neck Dress: The mock-neck dress combined modesty and trendiness into one piece.  ",
+        "ipa": "mɒ́k-nɛ́k drɛ́s: ðə mɒ́k-nɛ́k drɛ́s kəmbájnd mɒ́dəstij ənd trɛndíjnəs ᵻntə wʌ́n píjs.",
+        "hash": "TXT_3441fb6fac98425369a2a6ed9a597a.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Colorblock Sweater: The colorblock sweater showed off bold contrasting shades.  ",
+        "ipa": "kʌlərblɒk swɛ́tər: ðə kʌlərblɒk swɛ́tər ʃówd ɔ́f bówld kəntrǽstᵻŋ ʃɛ́jdz.",
+        "hash": "TXT_4fe3ffd393e0460dcb61e59431e866.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Choker Necklace: The choker necklace fit snugly around her neck for a retro accent.  ",
+        "ipa": "tʃowkər nɛ́kləs: ðə tʃowkər nɛ́kləs fᵻ́t snʌ́ɡlij əráwnd hər nɛ́k fɔr ə rɛ́trow ǽksɛ̀nt.",
+        "hash": "TXT_f87c48e071a11c388c167ccb1e934a.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Flannel Pajamas: The flannel pajamas were cozy for curling up by the fireplace.  ",
+        "ipa": "flǽnəl pədʒǽməz: ðə flǽnəl pədʒǽməz wɜ́r kówzij fɔr kɜ́rlᵻŋ ʌp baj ðə fájərplɛ̀js.",
+        "hash": "TXT_3710714c12c24ba3db51e08f09f3f1.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Bow Headband: The bow headband pulled back her hair with a sweet girly charm.  ",
+        "ipa": "bow hɛ́dbæ̀nd: ðə bow hɛ́dbæ̀nd pʊ́ld bǽk hər hɛ́ər wᵻð ə swíjt ɡɜ́rlij tʃɑ́rm.",
+        "hash": "TXT_3af95e089e7f06deb1cafbcdd8d157.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Bomber Jacket: The bomber jacket had ribbed cuffs and a cropped silhouette.  ",
+        "ipa": "bɒ́mər dʒǽkət: ðə bɒ́mər dʒǽkət hǽd rᵻ́bd kʌ́fs ənd ə krɒ́pt sᵻ̀ləwɛ́t.",
+        "hash": "TXT_f4dc0bfdf015547ac8895388db665c.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Tube Top: The tube top offered a strapless option for warm weather.  ",
+        "ipa": "tjúwb tɒ́p: ðə tjúwb tɒ́p ɔ́fərd ə strǽpləs ɒ́pʃən fɔr wɔ́rm wɛ́ðər.",
+        "hash": "TXT_fa94a1c0d3c75c7a0b393bd2e1170b.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Slingback Heels: The slingback heels secured her foot with a strap around the heel.  ",
+        "ipa": "slᵻŋbæk híjlz: ðə slᵻŋbæk híjlz səkjʊ́rd hər fʊ́t wᵻð ə strǽp əráwnd ðə híjl.",
+        "hash": "TXT_dd2c1698e2e3687d6fdfbc49fb5533.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Boiler Suit: The boiler suit created a one-piece outfit that was both trendy and practical.  ",
+        "ipa": "bɔ́jlər súwt: ðə bɔ́jlər súwt krijɛ́jtᵻd ə wʌ́n-píjs áwtfᵻ̀t thət wɒz bówθ trɛ́ndij ənd prǽktᵻkəl.",
+        "hash": "TXT_a99f0dcd507edb7d914068db26f332.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Wrap Cardigan: The wrap cardigan crossed over her torso and tied to keep it in place.  ",
+        "ipa": "rǽp kɑ́rdᵻɡən: ðə rǽp kɑ́rdᵻɡən krɔ́st ówvər hər tɔ́rsòw ənd tájd tə kíjp ᵻt ᵻn plɛ́js.",
+        "hash": "TXT_46ad71502187122ed7b253095d9518.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Graphic Tee Dress: The graphic tee dress transformed a casual shirt into a stylish tunic.  ",
+        "ipa": "ɡrǽfᵻk tíj drɛ́s: ðə ɡrǽfᵻk tíj drɛ́s trænsfɔ́rmd ə kǽʒəwəl ʃɜ́rt ᵻntə ə stájlᵻʃ túwnᵻk.",
+        "hash": "TXT_e720682be043ead962340671e0d76d.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Pointed-Toe Boots: The pointed-toe boots elongated her legs under fitted pants.  ",
+        "ipa": "pɔ́jntᵻd-tów búwts: ðə pɔ́jntᵻd-tów búwts əlɔ́ŋɡɛjtᵻd hər lɛ́ɡz ʌ́ndər fᵻ́tᵻd pǽnts.",
+        "hash": "TXT_fedf8430287ecf14e81b26073fd657.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Knit Poncho: The knit poncho draped softly over her shoulders for relaxed warmth.  ",
+        "ipa": "nᵻ́t pɒ́ntʃow: ðə nᵻ́t pɒ́ntʃow drɛ́jpt sɔ́flij ówvər hər ʃówldərz fɔr rijlǽkst wɔ́rmθ.",
+        "hash": "TXT_9613330b7ac34d5c450d24d38a64c1.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Linen Romper: The linen romper combined a top and shorts into a breezy summer piece.  ",
+        "ipa": "lᵻ́nən rɒ́mpər: ðə lᵻ́nən rɒ́mpər kəmbájnd ə tɒ́p ənd ʃɔ́rts ᵻntə ə bríjzij sʌ́mər píjs.",
+        "hash": "TXT_87d099240285ce68e3c897d5b259a6.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Open-Knit Sweater: The open-knit sweater provided a ventilated layer for mild days.  ",
+        "ipa": "ówpən-nᵻ́t swɛ́tər: ðə ówpən-nᵻ́t swɛ́tər prəvájdᵻd ə vɛ́nəlɛ̀jtᵻd lɛ́jər fɔr májld dɛ́jz.",
+        "hash": "TXT_17af4d5fd5398ff01981f736859bd2.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Floppy Sun Hat: The floppy sun hat offered maximum UV protection during her beach vacation.  ",
+        "ipa": "flɒ́pij sʌ́n hǽt: ðə flɒ́pij sʌ́n hǽt ɔ́fərd mǽksᵻməm UV prətɛ́kʃən dʊ́rᵻŋ hər bíjtʃ vɛjkɛ́jʃən.",
+        "hash": "TXT_fba589c4931ad9dcb15b6dc44e8ed5.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Slip-On Sneakers: The slip-on sneakers had elastic gussets for easy on and off.  ",
+        "ipa": "slᵻ́p-ɒn sníjkərz: ðə slᵻ́p-ɒn sníjkərz hǽd əlǽstᵻk ɡʌ́səts fɔr íjzij ɒn ənd ɔ́f.",
+        "hash": "TXT_80c3baf132bab4792ba5be6b88f808.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Tiered Dress: The tiered dress featured multiple layers of fabric for extra dimension.  ",
+        "ipa": "tíjərd drɛ́s: ðə tíjərd drɛ́s fíjtʃərd mʌ́ltᵻpəl lɛ́jərz əv fǽbrᵻk fɔr ɛ́kstrə dajmɛ́nʃən.",
+        "hash": "TXT_294c14b551f667d92f9ccae96a7e69.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Dress Shorts: The dress shorts looked tailored and presentable for a casual office setting.  ",
+        "ipa": "drɛ́s ʃɔ́rts: ðə drɛ́s ʃɔ́rts lʊ́kt tɛ́jlərd ənd prəzɛ́ntəbəl fɔr ə kǽʒəwəl ɔ́fᵻs sɛ́tᵻŋ.",
+        "hash": "TXT_813400efc4788005863ffb7d0291f9.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Camel Coat: The camel coat lent a refined, neutral tone to her winter wardrobe.  ",
+        "ipa": "kǽməl kówt: ðə kǽməl kówt lɛ́nt ə rəfájnd, núwtrəl tówn tə hər wᵻ́ntər wɔ́rdròwb.",
+        "hash": "TXT_0e4a7db3bc9188ba323aac7c0d2d0d.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Cowl-Neck Sweater: The cowl-neck sweater draped loosely around her neck.  ",
+        "ipa": "káwl-nɛ́k swɛ́tər: ðə káwl-nɛ́k swɛ́tər drɛ́jpt lúwslij əráwnd hər nɛ́k.",
+        "hash": "TXT_23419055a9efbdc3678697083f2df9.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Draped Blouse: The draped blouse fell elegantly across her torso.  ",
+        "ipa": "drɛ́jpt bláws: ðə drɛ́jpt bláws fɛ́l ɛ́ləɡəntlìj əkrɔ́s hər tɔ́rsòw.",
+        "hash": "TXT_f673bbdcf201cbf9cc3d7b942f4181.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Fedora Cap: The fedora cap replaced a more formal hat with a relaxed edge.  ",
+        "ipa": "fədɔ́rə kǽp: ðə fədɔ́rə kǽp rìjplɛ́jst ə mɔr fɔ́rməl hǽt wᵻð ə rijlǽkst ɛ́dʒ.",
+        "hash": "TXT_046d5fcbb21d0ed79c939aa0ebc4e8.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Waterproof Jacket: The waterproof jacket kept him dry through sudden downpours.  ",
+        "ipa": "wɔ́tərprùwf dʒǽkət: ðə wɔ́tərprùwf dʒǽkət kɛ́pt hᵻm dráj θrúw sʌ́dən dáwnpɔ̀rz.",
+        "hash": "TXT_b301f3d07bb19aa4ed5a1e47236da9.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Crop Blazer: The crop blazer cut off at the waist, offering a modern twist on a classic.  ",
+        "ipa": "krɒ́p blɛ́jzər: ðə krɒ́p blɛ́jzər kʌ́t ɔ́f æt ðə wɛ́jst, ɔ́fərᵻŋ ə mɒ́dərn twᵻ́st ɒn ə klǽsᵻk.",
+        "hash": "TXT_0ffba92bf10317fa7ac693e4c6a657.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Harem Jumpsuit: The harem jumpsuit combined baggy legs with a comfortable waistband.  ",
+        "ipa": "hɛ́ərəm dʒʌ́mpsùwt: ðə hɛ́ərəm dʒʌ́mpsùwt kəmbájnd bǽɡij lɛ́ɡz wᵻð ə kʌ́mftərbəl wɛ́jstbænd.",
+        "hash": "TXT_34a68b9cb25972898b94966ccb8d43.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Corduroy Overalls: The corduroy overalls delivered warmth and a retro silhouette.  ",
+        "ipa": "kɔ́rdərɔ̀j ówvərɔ̀lz: ðə kɔ́rdərɔ̀j ówvərɔ̀lz dəlᵻ́vərd wɔ́rmθ ənd ə rɛ́trow sᵻ̀ləwɛ́t.",
+        "hash": "TXT_971e5037c08a1931a07079a6b84e45.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Trucker Cap: The trucker cap had a mesh back that allowed airflow on hot days.  ",
+        "ipa": "trʌ́kər kǽp: ðə trʌ́kər kǽp hǽd ə mɛ́ʃ bǽk thət əláwd ɛ́ərflow ɒn hɒ́t dɛ́jz.",
+        "hash": "TXT_472be6e4e3159d7dd380c7ce2c3d20.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Leather Vest: The leather vest gave her ensemble a tough yet fashionable dimension.  ",
+        "ipa": "lɛ́ðər vɛ́st: ðə lɛ́ðər vɛ́st ɡɛ́jv hər ɒnsɒ́mbəl ə tʌ́f jɛt fǽʃənəbəl dajmɛ́nʃən.",
+        "hash": "TXT_8a3a9c674537b38fb090f876fe5e36.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Floral Kimono: The floral kimono brightened up her plain tank and shorts outfit.  ",
+        "ipa": "flɔ́rəl kᵻmównə: ðə flɔ́rəl kᵻmównə brájtənd ʌp hər plɛ́jn tǽŋk ənd ʃɔ́rts áwtfᵻ̀t.",
+        "hash": "TXT_01ad2137395226fc93acae67cff508.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Platform Boots: The platform boots added both height and a rebellious flair.  ",
+        "ipa": "plǽtfɔ̀rm búwts: ðə plǽtfɔ̀rm búwts ǽdᵻd bówθ hájt ənd ə rəbɛ́ljəs flɛ́ər.",
+        "hash": "TXT_16fbb6d172338a89c9cb6d6e3d03bd.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Tuxedo Jacket: The tuxedo jacket elevated his formal attire to black-tie standards.  ",
+        "ipa": "tʌ̀ksíjdow dʒǽkət: ðə tʌ̀ksíjdow dʒǽkət ɛ́ləvɛ̀jtᵻd hᵻz fɔ́rməl ətájər tə blǽk-táj stǽndərdz.",
+        "hash": "TXT_91f4ce8aa69353afe2223d95890559.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Babydoll Dress: The babydoll dress hung loosely from the bust, providing a playful shape.  ",
+        "ipa": "bɛ́jbijdɔ̀l drɛ́s: ðə bɛ́jbijdɔ̀l drɛ́s hʌ́ŋ lúwslij frəm ðə bʌ́st, prəvájdᵻŋ ə plɛ́jfəl ʃɛ́jp.",
+        "hash": "TXT_9749cec89eddf8fab60387332d06c4.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Thigh-High Socks: The thigh-high socks peeked out over her tall boots.  ",
+        "ipa": "θáj-háj sɒ́ks: ðə θáj-háj sɒ́ks píjkt awt ówvər hər tɔ́l búwts.",
+        "hash": "TXT_d1ee19eccc395792123fa51cb6a3ee.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Combat Pants: The combat pants had reinforced seams and plenty of pockets.  ",
+        "ipa": "kɒ́mbæt pǽnts: ðə kɒ́mbæt pǽnts hǽd rìjᵻnfɔ́rst síjmz ənd plɛ́ntij əv pɒ́kəts.",
+        "hash": "TXT_02e597cad5aa9d365a6e38389a5301.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "No-Show Socks: The no-show socks stayed hidden inside her loafers.  ",
+        "ipa": "now-ʃów sɒ́ks: ðə now-ʃów sɒ́ks stɛ́jd hᵻ́dən ᵻnsájd hər lówfərz.",
+        "hash": "TXT_48cda17217edee724083850041ef83.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Boyfriend Blazer: The boyfriend blazer fit loosely, creating an effortless look.  ",
+        "ipa": "bɔ́jfrɛ̀nd blɛ́jzər: ðə bɔ́jfrɛ̀nd blɛ́jzər fᵻ́t lúwslij, krijɛ́jtᵻŋ ən ɛ́fərtləs lʊ́k.",
+        "hash": "TXT_1d737bcd5d91948551532eadc75bcb.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Slouchy Sweater: The slouchy sweater dropped off one shoulder for a relaxed vibe.  ",
+        "ipa": "sláwtʃij swɛ́tər: ðə sláwtʃij swɛ́tər drɒ́pt ɔ́f wʌ́n ʃówldər fɔr ə rijlǽkst vájb.",
+        "hash": "TXT_afb1dfd8432f29334fa9eff3564cde.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Sailor Pants: The sailor pants featured decorative buttons and a wide leg cut.  ",
+        "ipa": "sɛ́jlər pǽnts: ðə sɛ́jlər pǽnts fíjtʃərd dɛ́kərətᵻv bʌ́tənz ənd ə wájd lɛ́ɡ kʌ́t.",
+        "hash": "TXT_30f2eeea70c0dd5ac2c93a267b2527.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Cheeky Underwear: The cheeky underwear offered moderate coverage with a flirty cut.  ",
+        "ipa": "tʃíjkij ʌ́ndərwɛ̀ər: ðə tʃíjkij ʌ́ndərwɛ̀ər ɔ́fərd mɒ́dərɛ̀jt kʌ́vərᵻdʒ wᵻð ə flɜ́rtij kʌ́t.",
+        "hash": "TXT_4d78dbc259c766b683449f7620409a.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Bandage Dress: The bandage dress hugged her figure with its stretchy, form-fitting material.  ",
+        "ipa": "bǽndᵻdʒ drɛ́s: ðə bǽndᵻdʒ drɛ́s hʌ́ɡd hər fᵻ́ɡjər wᵻð ᵻts strɛ́tʃij, fɔ́rm-fᵻ́tᵻŋ mətɪ́ərijəl.",
+        "hash": "TXT_166fac1728da9edf187f8341894b9c.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Sherpa Coat: The sherpa coat lined her with fuzzy insulation in extremely cold weather.  ",
+        "ipa": "ʃɜ́rpə kówt: ðə ʃɜ́rpə kówt lájnd hər wᵻð fʌ́zij ᵻ̀nsəlɛ́jʃən ᵻn əkstríjmlij kówld wɛ́ðər.",
+        "hash": "TXT_3e89051e3c78a4872a03edd918dfc7.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Waterproof Boots: The waterproof boots allowed her to trudge through rain or mud without worry.  ",
+        "ipa": "wɔ́tərprùwf búwts: ðə wɔ́tərprùwf búwts əláwd hər tə trʌ́dʒ θrúw rɛ́jn ɔr mʌ́d wᵻðáwt wɜ́rij.",
+        "hash": "TXT_7526cb2634492c6a34a784f93ea6da.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Buckle Heels: The buckle heels fastened around her ankle with a secure strap.  ",
+        "ipa": "bʌ́kəl híjlz: ðə bʌ́kəl híjlz fǽsənd əráwnd hər ǽŋkəl wᵻð ə səkjʊ́r strǽp.",
+        "hash": "TXT_0dd3b6ea01258a21d0543d30aba449.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Button-Front Skirt: The button-front skirt let her adjust the slit by leaving some buttons undone.  ",
+        "ipa": "bʌ́tən-frʌ́nt skɜ́rt: ðə bʌ́tən-frʌ́nt skɜ́rt lɛt hər ədʒʌ́st ðə slᵻ́t baj líjvᵻŋ sʌm bʌ́tənz ʌ̀ndʌ́n.",
+        "hash": "TXT_7a8606f46e2ea48a29fc72a3023c7e.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Shawl Collar Cardigan: The shawl collar cardigan framed his neck in soft, draping fabric.  ",
+        "ipa": "ʃɔ́l kɒ́lər kɑ́rdᵻɡən: ðə ʃɔ́l kɒ́lər kɑ́rdᵻɡən frɛ́jmd hᵻz nɛ́k ᵻn sɒ́ft, drɛ́jpᵻŋ fǽbrᵻk.",
+        "hash": "TXT_2cd69211396663742d8d52e32e7928.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Flared Trousers: The flared trousers created a balanced silhouette with their wide hems.  ",
+        "ipa": "flɛ́ərd tráwzərz: ðə flɛ́ərd tráwzərz krijɛ́jtᵻd ə bǽlənst sᵻ̀ləwɛ́t wᵻð ðɛər wájd hɛ́mz.",
+        "hash": "TXT_399abb2ed2975ad8ea4e8728a3e601.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Padded Shoulder Blazer: The padded shoulder blazer gave her a powerful, structured look.  ",
+        "ipa": "pǽdᵻd ʃówldər blɛ́jzər: ðə pǽdᵻd ʃówldər blɛ́jzər ɡɛ́jv hər ə páwərfəl, strʌ́ktʃərd lʊ́k.",
+        "hash": "TXT_87e9a72a79226125116f97d8cdfe20.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Slit Skirt: The slit skirt offered a glimpse of leg whenever she moved.  ",
+        "ipa": "slᵻ́t skɜ́rt: ðə slᵻ́t skɜ́rt ɔ́fərd ə ɡlᵻ́mps əv lɛ́ɡ wɛnɛ́vər ʃij múwvd.",
+        "hash": "TXT_c3c18e6847294afe37ecd318b2edef.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Puffer Vest: The puffer vest kept her torso warm but left her arms free.  ",
+        "ipa": "pʌ́fər vɛ́st: ðə pʌ́fər vɛ́st kɛ́pt hər tɔ́rsòw wɔ́rm bʌt lɛ́ft hər ɑ́rmz fríj.",
+        "hash": "TXT_10a109f3e21804a162e799c138ff48.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Convertible Pants: The convertible pants zipped off at the knees, turning into shorts.  ",
+        "ipa": "kənvɜ́rtᵻbəl pǽnts: ðə kənvɜ́rtᵻbəl pǽnts zᵻ́pt ɔ́f æt ðə níjz, tɜ́rnᵻŋ ᵻntə ʃɔ́rts.",
+        "hash": "TXT_18955f85fed794f90f19ac100ffe8c.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Empire Waist Dress: The empire waist dress gathered just below her bust, creating a flowy shape.  ",
+        "ipa": "ɛ́mpajər wɛ́jst drɛ́s: ðə ɛ́mpajər wɛ́jst drɛ́s ɡǽðərd dʒəst bijlów hər bʌ́st, krijɛ́jtᵻŋ ə flówij ʃɛ́jp.",
+        "hash": "TXT_ecd44d99fb0b625204dcecdf146556.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "High-Low Skirt: The high-low skirt exposed her knees in the front and trailed longer in the back.  ",
+        "ipa": "háj-lów skɜ́rt: ðə háj-lów skɜ́rt əkspówzd hər níjz ᵻn ðə frʌ́nt ənd trɛ́jld lɔ́ŋɡər ᵻn ðə bǽk.",
+        "hash": "TXT_89a64528d803fd0bb53a4622678de4.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Vintage Coat: The vintage coat had antique buttons that told a story of style from another era.  ",
+        "ipa": "vᵻ́ntᵻdʒ kówt: ðə vᵻ́ntᵻdʒ kówt hǽd æntíjk bʌ́tənz thət tówld ə stɔ́rij əv stájl frəm ənʌ́ðər ɛ́ərə.",
+        "hash": "TXT_db086a71d5a1644b6b14cad5253415.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Spaghetti-Strap Top: The spaghetti-strap top left her shoulders bare for a summery look.  ",
+        "ipa": "spəɡɛ́tij-strǽp tɒ́p: ðə spəɡɛ́tij-strǽp tɒ́p lɛ́ft hər ʃówldərz bɛ́ər fɔr ə sʌ́mərij lʊ́k.",
+        "hash": "TXT_3f3fa12c520e7e0d8bf69737715c15.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Tie-Waist Coat: The tie-waist coat cinched neatly at the midsection to define her figure.  ",
+        "ipa": "táj-wɛ́jst kówt: ðə táj-wɛ́jst kówt sᵻ́ntʃt níjtlij æt ðə mᵻ́dsɛ̀kʃən tə dəfájn hər fᵻ́ɡjər.",
+        "hash": "TXT_2e79839a122b153544276f86401e69.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Henley Dress: The henley dress adapted a buttoned neckline for a relaxed, casual vibe.  ",
+        "ipa": "hɛ́nlij drɛ́s: ðə hɛ́nlij drɛ́s ədǽptᵻd ə bʌ́tənd nɛ́klàjn fɔr ə rijlǽkst, kǽʒəwəl vájb.",
+        "hash": "TXT_e64d071b279def2114f8e533f33ee0.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Lace-Up Boots: The lace-up boots offered a snug fit that could be tightened or loosened at will.  ",
+        "ipa": "lɛ́js-ʌp búwts: ðə lɛ́js-ʌp búwts ɔ́fərd ə snʌ́ɡ fᵻ́t thət kʊ́d bij tájtənd ɔr lúwsənd æt wᵻl.",
+        "hash": "TXT_7a4158499e8cc16554c53ef2e08519.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Jogger Pants: The jogger pants had elastic cuffs at the ankles for a tapered finish.  ",
+        "ipa": "dʒɒ́ɡər pǽnts: ðə dʒɒ́ɡər pǽnts hǽd əlǽstᵻk kʌ́fs æt ðə ǽŋkəlz fɔr ə tɛ́jpərd fᵻ́nᵻʃ.",
+        "hash": "TXT_e6dec048f681be097ab9217ed0d495.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Gladiator Sandals: The gladiator sandals laced up her calves for a statement-making effect.  ",
+        "ipa": "ɡlǽdijɛ̀jtər sǽndəlz: ðə ɡlǽdijɛ̀jtər sǽndəlz lɛ́jst ʌp hər kǽvz fɔr ə stɛ́jtmənt-mɛ́jkᵻŋ əfɛ́kt.",
+        "hash": "TXT_9ec57c1ed361bbaac1fc1a722d50af.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Cutout Top: The cutout top revealed small geometric openings for a trendy look.  ",
+        "ipa": "kʌ́tàwt tɒ́p: ðə kʌ́tàwt tɒ́p rəvíjld smɔ́l dʒìjəmɛ́trᵻk ówpənᵻŋz fɔr ə trɛ́ndij lʊ́k.",
+        "hash": "TXT_a6446153691c6ce5f87d7e1b98b21e.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Shift Dress: The shift dress fell straight from the shoulders, creating a loose shape.  ",
+        "ipa": "ʃᵻ́ft drɛ́s: ðə ʃᵻ́ft drɛ́s fɛ́l strɛ́jt frəm ðə ʃówldərz, krijɛ́jtᵻŋ ə lúws ʃɛ́jp.",
+        "hash": "TXT_16a27fefba550a3fd64e92766af2bd.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Bridesmaid Dress: The bridesmaid dress matched the wedding theme without overshadowing the bride.  ",
+        "ipa": "brájdzmɛ̀jd drɛ́s: ðə brájdzmɛ̀jd drɛ́s mǽtʃt ðə wɛ́dᵻŋ θíjm wᵻðáwt ówvərʃǽdowᵻŋ ðə brájd.",
+        "hash": "TXT_ce4c17cf0066da625656909a3bee61.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Waterproof Poncho: The waterproof poncho slipped over her head to cover her from sudden rain.  ",
+        "ipa": "wɔ́tərprùwf pɒ́ntʃow: ðə wɔ́tərprùwf pɒ́ntʃow slᵻ́pt ówvər hər hɛ́d tə kʌ́vər hər frəm sʌ́dən rɛ́jn.",
+        "hash": "TXT_79e6081dd31c569e24c5e9ebd9bc85.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Babydoll Top: The babydoll top had an empire cut that flowed away from her torso.  ",
+        "ipa": "bɛ́jbijdɔ̀l tɒ́p: ðə bɛ́jbijdɔ̀l tɒ́p hǽd ən ɛ́mpajər kʌ́t thət flówd əwɛ́j frəm hər tɔ́rsòw.",
+        "hash": "TXT_5d1a06b3c56405cda712dbed87cf1a.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Suede Booties: The suede booties hit just above her ankles, bridging the gap between shoes and boots.  ",
+        "ipa": "swɛ́jd búwtijz: ðə swɛ́jd búwtijz hᵻ́t dʒəst əbʌ́v hər ǽŋkəlz, brᵻ́dʒᵻŋ ðə ɡǽp bijtwíjn ʃúwz ənd búwts.",
+        "hash": "TXT_fae426aee495e76d3d0fc4defdca63.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Pencil Trousers: The pencil trousers were slim-cut, perfect for a professional environment.  ",
+        "ipa": "pɛ́nsəl tráwzərz: ðə pɛ́nsəl tráwzərz wɜ́r slᵻ́m-kʌ́t, pɜ́rfəkt fɔr ə prəfɛ́ʃənəl ənvájərənmənt.",
+        "hash": "TXT_289e0cac74c36ccdfc026db03b8537.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Ruched Dress: The ruched dress gathered along the sides, creating flattering drapes on her figure.  ",
+        "ipa": "ruwʃt drɛ́s: ðə ruwʃt drɛ́s ɡǽðərd əlɔ́ŋ ðə sájdz, krijɛ́jtᵻŋ flǽtərᵻŋ drɛ́jps ɒn hər fᵻ́ɡjər.",
+        "hash": "TXT_46d457f01d41d3605a8f49e234f43d.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Hammer Pants: The hammer pants had exaggerated baggy thighs and a narrow ankle fit.  ",
+        "ipa": "hǽmər pǽnts: ðə hǽmər pǽnts hǽd əɡzǽdʒərɛ̀jtᵻd bǽɡij θájz ənd ə nǽrow ǽŋkəl fᵻ́t.",
+        "hash": "TXT_97fec1968c954804052f41a8d055d1.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Square Scarf: The square scarf was versatile enough to wear around her neck or as a headband.  ",
+        "ipa": "skwɛ́ər skɑ́rf: ðə skwɛ́ər skɑ́rf wɒz vɜ́rsətajl ənʌ́f tə wɛ́ər əráwnd hər nɛ́k ɔr æz ə hɛ́dbæ̀nd.",
+        "hash": "TXT_3e12f7e0731c5fa8b59b53060c9da6.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Combat Boots: The combat boots were sturdy and laced all the way up for an urban style.  ",
+        "ipa": "kɒ́mbæt búwts: ðə kɒ́mbæt búwts wɜ́r stɜ́rdij ənd lɛ́jst ɔl ðə wɛj ʌp fɔr ən ɜ́rbən stájl.",
+        "hash": "TXT_2deec46aa602b718a6db966e37ac3c.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Knitted Mittens: The knitted mittens kept her fingers together for extra warmth in the snow.  ",
+        "ipa": "nᵻ́tᵻd mᵻ́tənz: ðə nᵻ́tᵻd mᵻ́tənz kɛ́pt hər fᵻ́ŋɡərz təɡɛ́ðər fɔr ɛ́kstrə wɔ́rmθ ᵻn ðə snów.",
+        "hash": "TXT_dc36696cd991c197cc8f6235a862b1.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Trapeze Dress: The trapeze dress flared out from the shoulders, giving a breezy silhouette.  ",
+        "ipa": "trəpíjz drɛ́s: ðə trəpíjz drɛ́s flɛ́ərd awt frəm ðə ʃówldərz, ɡᵻ́vᵻŋ ə bríjzij sᵻ̀ləwɛ́t.",
+        "hash": "TXT_bf483769762517a61b4af80993330f.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Denim Overalls: The denim overalls had adjustable straps and a big chest pocket.  ",
+        "ipa": "dɛ́nᵻm ówvərɔ̀lz: ðə dɛ́nᵻm ówvərɔ̀lz hǽd ədʒʌ́stəbəl strǽps ənd ə bᵻ́ɡ tʃɛ́st pɒ́kət.",
+        "hash": "TXT_8ed152f0fcb4c3a27bf4626df6b50c.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Zipper Leggings: The zipper leggings added edgy details near the ankles and pockets.  ",
+        "ipa": "zᵻ́pər lɛ́ɡᵻŋz: ðə zᵻ́pər lɛ́ɡᵻŋz ǽdᵻd ɛ́dʒij díjtɛjlz nɪ́ər ðə ǽŋkəlz ənd pɒ́kəts.",
+        "hash": "TXT_0e709024d1e2967f1781a941e2c94f.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Cold-Shoulder Sweater: The cold-shoulder sweater revealed small cutouts around her shoulders.  ",
+        "ipa": "kówld-ʃówldər swɛ́tər: ðə kówld-ʃówldər swɛ́tər rəvíjld smɔ́l kʌ́tàwts əráwnd hər ʃówldərz.",
+        "hash": "TXT_d61b7b8647d4f8e1f65ba4295f12f4.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Double-Buckle Belt: The double-buckle belt stood out with its two shining metal clasps.  ",
+        "ipa": "dʌ́bəl-bʌ́kəl bɛ́lt: ðə dʌ́bəl-bʌ́kəl bɛ́lt stʊ́d awt wᵻð ᵻts túw ʃájnᵻŋ mɛ́təl klæsps.",
+        "hash": "TXT_253c67810fd820e829cc37382059c8.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Plaid Skirt: The plaid skirt gave a nod to classic school uniform style.  ",
+        "ipa": "plǽd skɜ́rt: ðə plǽd skɜ́rt ɡɛ́jv ə nɒ́d tə klǽsᵻk skúwl júwnᵻfɔ̀rm stájl.",
+        "hash": "TXT_3cd22bc29c2cb8add2d36a639c9cb6.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Mock-Neck Sweater: The mock-neck sweater was cozy yet left her neck partially free.  ",
+        "ipa": "mɒ́k-nɛ́k swɛ́tər: ðə mɒ́k-nɛ́k swɛ́tər wɒz kówzij jɛt lɛ́ft hər nɛ́k pɑ́rʃəlij fríj.",
+        "hash": "TXT_2d4e2729874d6f229469ccda56b218.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Pajama Set: The pajama set matched top and bottoms for a coordinated bedtime look.  ",
+        "ipa": "pədʒǽmə sɛ́t: ðə pədʒǽmə sɛ́t mǽtʃt tɒ́p ənd bɒ́təmz fɔr ə kowɔ́rdᵻnɛ̀jtᵻd bɛ́dtàjm lʊ́k.",
+        "hash": "TXT_f7311ffd97b73398e96163edf09de8.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Sheer Blouse: The sheer blouse required a layering cami underneath for coverage.  ",
+        "ipa": "ʃɪ́ər bláws: ðə ʃɪ́ər bláws rəkwájərd ə lɛ́jərᵻŋ kæmij ʌ̀ndərníjθ fɔr kʌ́vərᵻdʒ.",
+        "hash": "TXT_23ea51a4402c9a4bb425b932609fa4.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Velour Tracksuit: The velour tracksuit blended comfort with a slight sheen.  ",
+        "ipa": "vɛ̀lúwr træksùwt: ðə vɛ̀lúwr træksùwt blɛ́ndᵻd kʌ́mfərt wᵻð ə slájt ʃíjn.",
+        "hash": "TXT_df2570a33f99835496eb937edd2498.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Lace Shorts: The lace shorts looked cute over opaque tights on cooler days.  ",
+        "ipa": "lɛ́js ʃɔ́rts: ðə lɛ́js ʃɔ́rts lʊ́kt kjúwt ówvər owpɛ́jk tájts ɒn kúwlər dɛ́jz.",
+        "hash": "TXT_b971249b4cef5f16b2f8a7ca1fdfe9.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Draped Cardigan: The draped cardigan featured long panels in the front for a cascading effect.  ",
+        "ipa": "drɛ́jpt kɑ́rdᵻɡən: ðə drɛ́jpt kɑ́rdᵻɡən fíjtʃərd lɔ́ŋ pǽnəlz ᵻn ðə frʌ́nt fɔr ə kæskɛ́jdᵻŋ əfɛ́kt.",
+        "hash": "TXT_207e225ac3c22295ae182b6158146a.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Slouch Boots: The slouch boots scrunched softly around her calves.  ",
+        "ipa": "sláwtʃ búwts: ðə sláwtʃ búwts skrʌ́ntʃt sɔ́flij əráwnd hər kǽvz.",
+        "hash": "TXT_1fb4ab6ac7288ef3a689c7b8cfd11b.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Bandeau Bikini: The bandeau bikini top stayed in place with a hidden grip or tie.  ",
+        "ipa": "bændów bᵻkíjnij: ðə bændów bᵻkíjnij tɒ́p stɛ́jd ᵻn plɛ́js wᵻð ə hᵻ́dən ɡrᵻ́p ɔr táj.",
+        "hash": "TXT_64439fc39235c930be7211d21f9d5f.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Marled Sweater: The marled sweater combined two different yarn colors for a heathered appearance.  ",
+        "ipa": "mɑrld swɛ́tər: ðə mɑrld swɛ́tər kəmbájnd túw dᵻ́fərənt jɑ́rn kʌ́lərz fɔr ə hɛ́ðərd əpɪ́ərəns.",
+        "hash": "TXT_76fd7aa7facd330710fd0c35aaf1c2.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Straight-Leg Pants: The straight-leg pants suited her desire for a streamlined silhouette.  ",
+        "ipa": "strɛ́jt-lɛ́ɡ pǽnts: ðə strɛ́jt-lɛ́ɡ pǽnts súwtᵻd hər dəzájər fɔr ə stríjmlàjnd sᵻ̀ləwɛ́t.",
+        "hash": "TXT_b088fe18b6c443e9783d54fd8da5aa.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Fringe Vest: The fringe vest swung gently with each movement, evoking a festival feel.  ",
+        "ipa": "frᵻ́ndʒ vɛ́st: ðə frᵻ́ndʒ vɛ́st swʌ́ŋ dʒɛ́ntlij wᵻð ijtʃ múwvmənt, əvówkᵻŋ ə fɛ́stᵻvəl fíjl.",
+        "hash": "TXT_62bb6cdf8293d96b8995cb3834c045.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Ankle Strap Heels: The ankle strap heels buckled securely around her lower calf.  ",
+        "ipa": "ǽŋkəl strǽp híjlz: ðə ǽŋkəl strǽp híjlz bʌ́kəld səkjʊ́rlij əráwnd hər lówər kǽf.",
+        "hash": "TXT_5933603b7adbfdf14fee120ecebe13.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Patch Pocket Shorts: The patch pocket shorts had large, visible pockets sewn on the outside.  ",
+        "ipa": "pǽtʃ pɒ́kət ʃɔ́rts: ðə pǽtʃ pɒ́kət ʃɔ́rts hǽd lɑ́rdʒ, vᵻ́zᵻbəl pɒ́kəts sówn ɒn ðə áwtsájd.",
+        "hash": "TXT_89a3661e799802a18de2c31de07f39.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Silk Pajamas: The silk pajamas felt cooling and luxurious for a restful night’s sleep.  ",
+        "ipa": "sᵻ́lk pədʒǽməz: ðə sᵻ́lk pədʒǽməz fɛ́lt kúwlᵻŋ ənd ləɡʒɜ́rijəs fɔr ə rɛ́stfəl nájt's slíjp.",
+        "hash": "TXT_51a5654795a6c601233bb92440f015.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Pleated Culottes: The pleated culottes gave the illusion of a skirt while remaining pants.  ",
+        "ipa": "plíjtᵻd kjuwlɒ́ts: ðə plíjtᵻd kjuwlɒ́ts ɡɛ́jv ðə ᵻ̀lúwʒən əv ə skɜ́rt wájl rəmɛ́jnᵻŋ pǽnts.",
+        "hash": "TXT_18b12e1490b05de49f68613df47e98.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Houndstooth Coat: The houndstooth coat boasted a classic black-and-white pattern.  ",
+        "ipa": "háwndztùwθ kówt: ðə háwndztùwθ kówt bówstᵻd ə klǽsᵻk blǽk-ənd-wájt pǽtərn.",
+        "hash": "TXT_1694686bdadb17813362130ed763e3.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Leather Gloves: The leather gloves shielded her hands from the winter chill.  ",
+        "ipa": "lɛ́ðər ɡlʌ́vz: ðə lɛ́ðər ɡlʌ́vz ʃíjldᵻd hər hǽndz frəm ðə wᵻ́ntər tʃᵻ́l.",
+        "hash": "TXT_75bd6ed8114e1499fbdf9b3589c1ea.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Gaucho Pants: The gaucho pants fell mid-calf and flared out for a dramatic look.  ",
+        "ipa": "ɡáwtʃow pǽnts: ðə ɡáwtʃow pǽnts fɛ́l mᵻ́d-kǽf ənd flɛ́ərd awt fɔr ə drəmǽtᵻk lʊ́k.",
+        "hash": "TXT_22135bb9dcd432252e54d72ef73925.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Studded Jacket: The studded jacket had metallic accents that sparkled under bright lights.  ",
+        "ipa": "stʌ́dᵻd dʒǽkət: ðə stʌ́dᵻd dʒǽkət hǽd mətǽlᵻk ǽksɛnts thət spɑ́rkəld ʌ́ndər brájt lájts.",
+        "hash": "TXT_31fe94906fe8aac9be79e5cdc5c583.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Chunky Sweater: The chunky sweater felt thick and comforting in colder climates.  ",
+        "ipa": "tʃʌ́ŋkij swɛ́tər: ðə tʃʌ́ŋkij swɛ́tər fɛ́lt θᵻ́k ənd kʌ́mfərtᵻŋ ᵻn kówldər klájməts.",
+        "hash": "TXT_a071e5e46b02133eb6ec400f185200.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Sherpa Hoodie: The sherpa hoodie lined her torso with soft fleece for ultimate coziness.  ",
+        "ipa": "ʃɜ́rpə hʊ́dij: ðə ʃɜ́rpə hʊ́dij lájnd hər tɔ́rsòw wᵻð sɒ́ft flíjs fɔr ʌ́ltᵻmət kówzijnəs.",
+        "hash": "TXT_3e896bf9a0d7f86ad5e737365d8ddb.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Teddy Coat: The teddy coat resembled a plush teddy bear in both look and feel.  ",
+        "ipa": "tɛ́dij kówt: ðə tɛ́dij kówt rijzɛ́mbəld ə plʌ́ʃ tɛ́dij bɛ́ər ᵻn bówθ lʊ́k ənd fíjl.",
+        "hash": "TXT_67e04063b8af4eee168855eeae992a.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Longline Bikini: The longline bikini top extended slightly below the bust for extra coverage.  ",
+        "ipa": "lɔŋlajn bᵻkíjnij: ðə lɔŋlajn bᵻkíjnij tɒ́p əkstɛ́ndᵻd slájtlij bijlów ðə bʌ́st fɔr ɛ́kstrə kʌ́vərᵻdʒ.",
+        "hash": "TXT_2cd56995f1280be7f0e4f98adf8dea.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Patchwork Jacket: The patchwork jacket combined different fabrics in a bold mosaic.  ",
+        "ipa": "pǽtʃwɜ̀rk dʒǽkət: ðə pǽtʃwɜ̀rk dʒǽkət kəmbájnd dᵻ́fərənt fǽbrᵻks ᵻn ə bówld mowzɛ́jᵻk.",
+        "hash": "TXT_af3937ab39a6a90ebb5808b747ce48.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Plunge Dress: The plunge dress featured a daring, low-cut neckline.  ",
+        "ipa": "plʌ́ndʒ drɛ́s: ðə plʌ́ndʒ drɛ́s fíjtʃərd ə dɛ́ərᵻŋ, lów-kʌ́t nɛ́klàjn.",
+        "hash": "TXT_7832683073886e7da4761e5beae671.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Knee-Length Shorts: The knee-length shorts struck a modest yet casual balance.  ",
+        "ipa": "níj-lɛ́ŋθ ʃɔ́rts: ðə níj-lɛ́ŋθ ʃɔ́rts strʌ́k ə mɒ́dəst jɛt kǽʒəwəl bǽləns.",
+        "hash": "TXT_df319137de83445f26e309a6bd3f51.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Boyfriend Blouse: The boyfriend blouse fit loosely, mimicking a borrowed men’s shirt.  ",
+        "ipa": "bɔ́jfrɛ̀nd bláws: ðə bɔ́jfrɛ̀nd bláws fᵻ́t lúwslij, mᵻ́mᵻkᵻŋ ə bɑ́rowd mɛ́n'z ʃɜ́rt.",
+        "hash": "TXT_1e3d200078eaf2d4d0ac21c7b2675a.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Linen Tunic: The linen tunic hung effortlessly, ideal for breezy summer afternoons.  ",
+        "ipa": "lᵻ́nən túwnᵻk: ðə lᵻ́nən túwnᵻk hʌ́ŋ ɛ́fərtləslij, ajdíjəl fɔr bríjzij sʌ́mər æ̀ftərnúwnz.",
+        "hash": "TXT_fbee1e9887f88a0c4440a486be1781.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Over-The-Knee Boots: The over-the-knee boots covered most of her leg for a dramatic effect.  ",
+        "ipa": "ówvər-ðə-níj búwts: ðə ówvər-ðə-níj búwts kʌ́vərd mówst əv hər lɛ́ɡ fɔr ə drəmǽtᵻk əfɛ́kt.",
+        "hash": "TXT_abbe2337d87d0f8b8e5a057aae0301.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Crisscross Top: The crisscross top overlapped panels in front, creating an interesting focal point.  ",
+        "ipa": "krᵻ́skrɔ̀s tɒ́p: ðə krᵻ́skrɔ̀s tɒ́p ówvərlæ̀pt pǽnəlz ᵻn frʌ́nt, krijɛ́jtᵻŋ ən ᵻ́ntərəstᵻŋ fówkəl pɔ́jnt.",
+        "hash": "TXT_2e5a54c049244761c50185300a9ebc.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Embroidered Tunic: The embroidered tunic showcased colorful patterns near the collar and sleeves.  ",
+        "ipa": "ɛmbrɔ́jdərd túwnᵻk: ðə ɛmbrɔ́jdərd túwnᵻk ʃówkɛ̀jst kʌ́lərfəl pǽtərnz nɪ́ər ðə kɒ́lər ənd slíjvz.",
+        "hash": "TXT_be61985295dbc8c5a41d77ec9cf9f9.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Bardot Dress: The bardot dress framed her shoulders in a romantic, off-shoulder style.  ",
+        "ipa": "bɑrdów drɛ́s: ðə bɑrdów drɛ́s frɛ́jmd hər ʃówldərz ᵻn ə rowmǽntᵻk, ɔ́f-ʃówldər stájl.",
+        "hash": "TXT_de33655baea745f0cdd73d6d4bcc17.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "D-ring Belt: The d-ring belt looped securely without a traditional buckle.  ",
+        "ipa": "d-rᵻ́ŋ bɛ́lt: ðə d-rᵻ́ŋ bɛ́lt lúwpt səkjʊ́rlij wᵻðáwt ə trədᵻ́ʃənəl bʌ́kəl.",
+        "hash": "TXT_8a2f1ca35325a4b89a4e45b57da234.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Bodycon Skirt: The bodycon skirt hugged her hips for a form-fitting look.  ",
+        "ipa": "bɒ́dijkɒn skɜ́rt: ðə bɒ́dijkɒn skɜ́rt hʌ́ɡd hər hᵻ́ps fɔr ə fɔ́rm-fᵻ́tᵻŋ lʊ́k.",
+        "hash": "TXT_13b9142f75179502d4b6c45a492789.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Sherpa Vest: The sherpa vest added extra warmth without fully covering her arms.  ",
+        "ipa": "ʃɜ́rpə vɛ́st: ðə ʃɜ́rpə vɛ́st ǽdᵻd ɛ́kstrə wɔ́rmθ wᵻðáwt fʊ́lij kʌ́vərᵻŋ hər ɑ́rmz.",
+        "hash": "TXT_42ab52361c8e61777c4114d915809f.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Mesh Insert Leggings: The mesh insert leggings added ventilation and a modern design.  ",
+        "ipa": "mɛ́ʃ ᵻnsɜ́rt lɛ́ɡᵻŋz: ðə mɛ́ʃ ᵻnsɜ́rt lɛ́ɡᵻŋz ǽdᵻd vɛ̀nəlɛ́jʃən ənd ə mɒ́dərn dəzájn.",
+        "hash": "TXT_75a68d26455e9968841e9dbdc8e07d.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Chambray Shirt: The chambray shirt felt lightweight, similar to denim but softer.  ",
+        "ipa": "tʃæmbrɛ̀j ʃɜ́rt: ðə tʃæmbrɛ̀j ʃɜ́rt fɛ́lt lájtwɛ́jt, sᵻ́mᵻlər tə dɛ́nᵻm bʌt sɒ́ftər.",
+        "hash": "TXT_a82ddf9bdf962e7afa485d3649bf22.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Kimono Cardigan: The kimono cardigan had wide sleeves that added flow to her outfit.  ",
+        "ipa": "kᵻmównə kɑ́rdᵻɡən: ðə kᵻmównə kɑ́rdᵻɡən hǽd wájd slíjvz thət ǽdᵻd flów tə hər áwtfᵻ̀t.",
+        "hash": "TXT_672c01e198fe478bc97d3a2f5048d4.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Cable-Knit Hat: The cable-knit hat matched her favorite winter scarf in both pattern and color.  ",
+        "ipa": "kɛ́jbəl-nᵻ́t hǽt: ðə kɛ́jbəl-nᵻ́t hǽt mǽtʃt hər fɛ́jvərᵻt wᵻ́ntər skɑ́rf ᵻn bówθ pǽtərn ənd kʌ́lər.",
+        "hash": "TXT_2aae4b8687419f1c084daf333d4c6e.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Raglan Tee: The raglan tee had sleeves in a contrasting color that attached diagonally at the collar.  ",
+        "ipa": "rǽɡlən tíj: ðə rǽɡlən tíj hǽd slíjvz ᵻn ə kəntrǽstᵻŋ kʌ́lər thət ətǽtʃt dajǽɡənəlij æt ðə kɒ́lər.",
+        "hash": "TXT_6f54d9c693141b975c3f0dbcf832d2.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Skort Bottoms: The skort bottoms combined the coverage of shorts with the look of a skirt.  ",
+        "ipa": "skɔrt bɒ́təmz: ðə skɔrt bɒ́təmz kəmbájnd ðə kʌ́vərᵻdʒ əv ʃɔ́rts wᵻð ðə lʊ́k əv ə skɜ́rt.",
+        "hash": "TXT_c3bfb0f03baf83bd514eee3dcf06fe.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Paisley Scarf: The paisley scarf boasted swirling, teardrop-shaped motifs.  ",
+        "ipa": "pɛ́jzlij skɑ́rf: ðə pɛ́jzlij skɑ́rf bówstᵻd swɜ́rlᵻŋ, tɪərdrɒp-ʃɛ́jpt mowtíjfs.",
+        "hash": "TXT_ca729e5ad5daa8a1ca0ab334b9366e.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Embossed Boots: The embossed boots had raised patterns for a subtle, stylish detail.  ",
+        "ipa": "əmbɔ́st búwts: ðə əmbɔ́st búwts hǽd rɛ́jzd pǽtərnz fɔr ə sʌ́təl, stájlᵻʃ díjtɛjl.",
+        "hash": "TXT_a361c5115f038162b55f3931a2ee3b.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Flap-Pocket Jacket: The flap-pocket jacket secured small belongings behind fold-over flaps.  ",
+        "ipa": "flǽp-pɒ́kət dʒǽkət: ðə flǽp-pɒ́kət dʒǽkət səkjʊ́rd smɔ́l bəlɔ́ŋᵻŋz bəhájnd fówld-ówvər flǽps.",
+        "hash": "TXT_08147cad10b72a35da3d1f61b9899d.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Viscose Blouse: The viscose blouse draped gently against her skin, feeling light and airy.  ",
+        "ipa": "vᵻskòws bláws: ðə vᵻskòws bláws drɛ́jpt dʒɛ́ntlij əɡɛ́jnst hər skᵻ́n, fíjlᵻŋ lájt ənd ɛ́ərij.",
+        "hash": "TXT_77ecd13f883fd14edf19f04ded4117.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Raw-Edge Jeans: The raw-edge jeans had an unfinished hem that frayed stylishly around her ankles.  ",
+        "ipa": "rɔ́-ɛ́dʒ dʒíjnz: ðə rɔ́-ɛ́dʒ dʒíjnz hǽd ən ʌ̀nfᵻ́nᵻʃt hɛ́m thət frɛ́jd stájlᵻʃlij əráwnd hər ǽŋkəlz.",
+        "hash": "TXT_41ba3409bc5f77985d1229e94ed09b.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Foil Print Leggings: The foil print leggings shimmered whenever the light hit them.  ",
+        "ipa": "fɔ́jl prᵻ́nt lɛ́ɡᵻŋz: ðə fɔ́jl prᵻ́nt lɛ́ɡᵻŋz ʃᵻ́mərd wɛnɛ́vər ðə lájt hᵻ́t ðɛm.",
+        "hash": "TXT_65f6ce4f336351ec5ea6776c3c0af7.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Mary Jane Heels: The mary jane heels sported a strap across the instep for vintage charm.  ",
+        "ipa": "mɛ́ərij dʒɛ́jn híjlz: ðə mɛ́ərij dʒɛ́jn híjlz spɔ́rtᵻd ə strǽp əkrɔ́s ðə ᵻ́nstɛ̀p fɔr vᵻ́ntᵻdʒ tʃɑ́rm.",
+        "hash": "TXT_27249a1c36db17b6e9e1d330bc6a18.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Cutout Sandals: The cutout sandals exposed glimpses of her feet through geometric shapes.  ",
+        "ipa": "kʌ́tàwt sǽndəlz: ðə kʌ́tàwt sǽndəlz əkspówzd ɡlᵻ́mpsᵻz əv hər fíjt θrúw dʒìjəmɛ́trᵻk ʃɛ́jps.",
+        "hash": "TXT_177a8fe62a787ddb0e1d324503000f.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Square-Neck Top: The square-neck top framed her collarbones in neat, angled lines.  ",
+        "ipa": "skwɛ́ər-nɛ́k tɒ́p: ðə skwɛ́ər-nɛ́k tɒ́p frɛ́jmd hər kɒlərbòwnz ᵻn níjt, ǽŋɡəld lájnz.",
+        "hash": "TXT_80929aa6a57d70406e348d19fe0968.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Bell-Sleeve Dress: The bell-sleeve dress fanned out at her wrists with dramatic flair.  ",
+        "ipa": "bɛ́l-slíjv drɛ́s: ðə bɛ́l-slíjv drɛ́s fǽnd awt æt hər rᵻ́sts wᵻð drəmǽtᵻk flɛ́ər.",
+        "hash": "TXT_015a1fcbfff6569cdf1e8c12c6ada2.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Cape Coat: The cape coat replaced traditional sleeves with wide openings for her arms.  ",
+        "ipa": "kɛ́jp kówt: ðə kɛ́jp kówt rìjplɛ́jst trədᵻ́ʃənəl slíjvz wᵻð wájd ówpənᵻŋz fɔr hər ɑ́rmz.",
+        "hash": "TXT_f5aff391325ae0dc8f2f20e10f83c4.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Hooded Poncho: The hooded poncho merged a warm wrap with a protective hood.  ",
+        "ipa": "hʊ́dᵻd pɒ́ntʃow: ðə hʊ́dᵻd pɒ́ntʃow mɜ́rdʒd ə wɔ́rm rǽp wᵻð ə prətɛ́ktᵻv hʊ́d.",
+        "hash": "TXT_2f41ad54ff7449e19ef5d26ff7eff2.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Tie-Dye Shirt: The tie-dye shirt displayed swirls of vibrant color in a retro style.  ",
+        "ipa": "táj-dáj ʃɜ́rt: ðə táj-dáj ʃɜ́rt dᵻsplɛ́jd swɜ́rlz əv vájbrənt kʌ́lər ᵻn ə rɛ́trow stájl.",
+        "hash": "TXT_0e687bd8c48a0a3e1905e3886c4f1f.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Zipper Hoodie: The zipper hoodie allowed her to open or close it depending on the temperature.  ",
+        "ipa": "zᵻ́pər hʊ́dij: ðə zᵻ́pər hʊ́dij əláwd hər tə ówpən ɔr klóws ᵻt dəpɛ́ndᵻŋ ɒn ðə tɛ́mpərətʃər.",
+        "hash": "TXT_a3c5b1715f1605489a59bd7f222004.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Drawstring Hoodie: The drawstring hoodie let her tighten the hood for extra warmth.  ",
+        "ipa": "drɔ́strᵻ̀ŋ hʊ́dij: ðə drɔ́strᵻ̀ŋ hʊ́dij lɛt hər tájtən ðə hʊ́d fɔr ɛ́kstrə wɔ́rmθ.",
+        "hash": "TXT_b3351105101fcd4cb92eb949496d0a.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Checkered Skirt: The checkered skirt used bold squares that paired well with solid tops.  ",
+        "ipa": "tʃɛ́kərd skɜ́rt: ðə tʃɛ́kərd skɜ́rt júwzd bówld skwɛ́ərz thət pɛ́ərd wɛ́l wᵻð sɒ́lᵻd tɒ́ps.",
+        "hash": "TXT_07ebae8050e71ea486174d45e46071.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Embroidered Denim: The embroidered denim jacket turned plain fabric into wearable art.  ",
+        "ipa": "ɛmbrɔ́jdərd dɛ́nᵻm: ðə ɛmbrɔ́jdərd dɛ́nᵻm dʒǽkət tɜ́rnd plɛ́jn fǽbrᵻk ᵻntə wɛ́ərəbəl ɑ́rt.",
+        "hash": "TXT_f11ad9b007ea207a69980b5417c654.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Split-Hem Pants: The split-hem pants opened slightly at the ankles, revealing her shoes.  ",
+        "ipa": "splᵻ́t-hɛ́m pǽnts: ðə splᵻ́t-hɛ́m pǽnts ówpənd slájtlij æt ðə ǽŋkəlz, rəvíjlᵻŋ hər ʃúwz.",
+        "hash": "TXT_0831d497fc0e6b43d9bcc1f628ad64.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Broderie Anglaise Dress: The broderie anglaise dress featured eyelet embroidery for a delicate texture.  ",
+        "ipa": "brɔdɛ́ərij æŋɡlɛ́jz drɛ́s: ðə brɔdɛ́ərij æŋɡlɛ́jz drɛ́s fíjtʃərd ájlət ɛmbrɔ́jdərij fɔr ə dɛ́lᵻkət tɛ́kstʃər.",
+        "hash": "TXT_86d49ed9ee929af68a11e58365c864.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Camo Pants: The camo pants brought a military-inspired element to her streetwear.  ",
+        "ipa": "kǽmow pǽnts: ðə kǽmow pǽnts brɔ́t ə mᵻ́lᵻtɛ̀ərij-ᵻ̀nspájərd ɛ́ləmənt tə hər stríjtwɛ̀ər.",
+        "hash": "TXT_15b3c91308977ac86e95e5dbc82ae6.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Ruched Top: The ruched top had gathered fabric along the sides to enhance her figure.  ",
+        "ipa": "ruwʃt tɒ́p: ðə ruwʃt tɒ́p hǽd ɡǽðərd fǽbrᵻk əlɔ́ŋ ðə sájdz tə ənhǽns hər fᵻ́ɡjər.",
+        "hash": "TXT_0a7734ee7a4fcca4d5fa2941d5a817.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Thermal Leggings: The thermal leggings trapped body heat for better insulation in cold weather.  ",
+        "ipa": "θɜ́rməl lɛ́ɡᵻŋz: ðə θɜ́rməl lɛ́ɡᵻŋz trǽpt bɒ́dij híjt fɔr bɛ́tər ᵻ̀nsəlɛ́jʃən ᵻn kówld wɛ́ðər.",
+        "hash": "TXT_644242ffe722ad9b506b5bd3ea73e9.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "T-Strap Sandals: The t-strap sandals looped between her toes and around her ankle.  ",
+        "ipa": "t-strǽp sǽndəlz: ðə t-strǽp sǽndəlz lúwpt bijtwíjn hər tówz ənd əráwnd hər ǽŋkəl.",
+        "hash": "TXT_88bd9db396b8c34942e016c3288f78.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Lace Kimono: The lace kimono draped over her swimsuit at the beach.  ",
+        "ipa": "lɛ́js kᵻmównə: ðə lɛ́js kᵻmównə drɛ́jpt ówvər hər swᵻ́msùwt æt ðə bíjtʃ.",
+        "hash": "TXT_c221c0d30c5e27d8b2ed56c6dc0b68.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Longline Bralette: The longline bralette extended below the bust for extra coverage under sheer tops.  ",
+        "ipa": "lɔŋlajn brəlɛ́t: ðə lɔŋlajn brəlɛ́t əkstɛ́ndᵻd bijlów ðə bʌ́st fɔr ɛ́kstrə kʌ́vərᵻdʒ ʌ́ndər ʃɪ́ər tɒ́ps.",
+        "hash": "TXT_20f01b1fcf23f0e7f3b4c8d539d0f0.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Hooded Parka: The hooded parka included a fur lining for cozy winter wear.  ",
+        "ipa": "hʊ́dᵻd pɑ́rkə: ðə hʊ́dᵻd pɑ́rkə ᵻnklúwdᵻd ə fɜ́r lájnᵻŋ fɔr kówzij wᵻ́ntər wɛ́ər.",
+        "hash": "TXT_5c1cf0c3693aff06d68f70f956d9e8.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Ball Gown: The ball gown skimmed the floor in layers of luxurious fabric.  ",
+        "ipa": "bɔ́l ɡáwn: ðə bɔ́l ɡáwn skᵻ́md ðə flɔ́r ᵻn lɛ́jərz əv ləɡʒɜ́rijəs fǽbrᵻk.",
+        "hash": "TXT_09b72a7c3c7ef5526239f5dc7284ac.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Crew-Neck Dress: The crew-neck dress gave her neckline a simple, modest shape.  ",
+        "ipa": "krúw-nɛ́k drɛ́s: ðə krúw-nɛ́k drɛ́s ɡɛ́jv hər nɛ́klàjn ə sᵻ́mpəl, mɒ́dəst ʃɛ́jp.",
+        "hash": "TXT_751cb416cdf931d8684b79636da6f0.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Tasseled Scarf: The tasseled scarf ended in small, playful fringes.  ",
+        "ipa": "tǽsəld skɑ́rf: ðə tǽsəld skɑ́rf ɛ́ndᵻd ᵻn smɔ́l, plɛ́jfəl frᵻ́ndʒᵻz.",
+        "hash": "TXT_970efa9f302483c994d2017fe3f7be.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Henley Sweater: The henley sweater combined a buttoned neckline with knit warmth.  ",
+        "ipa": "hɛ́nlij swɛ́tər: ðə hɛ́nlij swɛ́tər kəmbájnd ə bʌ́tənd nɛ́klàjn wᵻð nᵻ́t wɔ́rmθ.",
+        "hash": "TXT_66d54839d7a56bbb2ecbb946cee10d.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Floral Romper: The floral romper fused shorts and a top into a breezy summer piece.  ",
+        "ipa": "flɔ́rəl rɒ́mpər: ðə flɔ́rəl rɒ́mpər fjúwzd ʃɔ́rts ənd ə tɒ́p ᵻntə ə bríjzij sʌ́mər píjs.",
+        "hash": "TXT_cf0f231c3455c436b2a1c4e8ddff77.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Linen Shorts: The linen shorts helped her stay cool in scorching temperatures.  ",
+        "ipa": "lᵻ́nən ʃɔ́rts: ðə lᵻ́nən ʃɔ́rts hɛ́lpt hər stɛ́j kúwl ᵻn skɔ́rtʃᵻŋ tɛ́mpərətʃərz.",
+        "hash": "TXT_4b3f89b88ea4b37dcd7517acd825e0.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Printed Sarong: The printed sarong wrapped around her waist for a beachy cover-up.  ",
+        "ipa": "prᵻ́ntᵻd sərɔ́ŋ: ðə prᵻ́ntᵻd sərɔ́ŋ rǽpt əráwnd hər wɛ́jst fɔr ə bíjtʃij kʌ́vər-ʌp.",
+        "hash": "TXT_da529deca47d716443277db49b9216.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Mock-Neck Blouse: The mock-neck blouse offered a gentle rise at the collar without folding.  ",
+        "ipa": "mɒ́k-nɛ́k bláws: ðə mɒ́k-nɛ́k bláws ɔ́fərd ə dʒɛ́ntəl rájz æt ðə kɒ́lər wᵻðáwt fówldᵻŋ.",
+        "hash": "TXT_9ef25fac1eaf74ce432a96805ce18f.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Anorak Jacket: The anorak jacket featured a large front pocket and a drawstring waist.  ",
+        "ipa": "ǽnəræ̀k dʒǽkət: ðə ǽnəræ̀k dʒǽkət fíjtʃərd ə lɑ́rdʒ frʌ́nt pɒ́kət ənd ə drɔ́strᵻ̀ŋ wɛ́jst.",
+        "hash": "TXT_9f19a13fade3330ac172236da4e186.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Velvet Dress: The velvet dress shone under the spotlights at the holiday party.  ",
+        "ipa": "vɛ́lvət drɛ́s: ðə vɛ́lvət drɛ́s ʃówn ʌ́ndər ðə spɒ́tlàjts æt ðə hɒ́lədɛ̀j pɑ́rtij.",
+        "hash": "TXT_0a65b7ccff40968b6a45eaa70b734f.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Boho Skirt: The boho skirt sported a patchwork of vibrant patterns.  ",
+        "ipa": "bówhow skɜ́rt: ðə bówhow skɜ́rt spɔ́rtᵻd ə pǽtʃwɜ̀rk əv vájbrənt pǽtərnz.",
+        "hash": "TXT_e51c8003145e144bfa010fadbef204.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Tennis Skirt: The tennis skirt flared slightly to allow free movement on the court.  ",
+        "ipa": "tɛ́nᵻs skɜ́rt: ðə tɛ́nᵻs skɜ́rt flɛ́ərd slájtlij tə əláw fríj múwvmənt ɒn ðə kɔ́rt.",
+        "hash": "TXT_f263545ca4b076470db7d0f6cb4bdc.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Sequin Blazer: The sequin blazer shimmered with every motion under bright lights.  ",
+        "ipa": "síjkwᵻn blɛ́jzər: ðə síjkwᵻn blɛ́jzər ʃᵻ́mərd wᵻð ɛvərij mówʃən ʌ́ndər brájt lájts.",
+        "hash": "TXT_94293c9eafaea63965e9104b8a291c.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Gingham Dress: The gingham dress displayed classic checks for a picnic-perfect look.  ",
+        "ipa": "ɡᵻ́ŋəm drɛ́s: ðə ɡᵻ́ŋəm drɛ́s dᵻsplɛ́jd klǽsᵻk tʃɛ́ks fɔr ə pᵻ́knᵻ̀k-pɜ́rfəkt lʊ́k.",
+        "hash": "TXT_ddba95e1558a080a6d2bd752db1051.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Hooded Cloak: The hooded cloak gave a mysterious, medieval touch to her costume.  ",
+        "ipa": "hʊ́dᵻd klówk: ðə hʊ́dᵻd klówk ɡɛ́jv ə mᵻstɪ́ərijəs, mijdíjvəl tʌ́tʃ tə hər kɒ́stuwm.",
+        "hash": "TXT_4ea6ae27d0e220dc8a11db013bc364.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Bandeau Dress: The bandeau dress supported her bust without straps and hugged her waist.  ",
+        "ipa": "bændów drɛ́s: ðə bændów drɛ́s səpɔ́rtᵻd hər bʌ́st wᵻðáwt strǽps ənd hʌ́ɡd hər wɛ́jst.",
+        "hash": "TXT_3e77e6d9bb38c5aaa67767b31d77f2.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Nursing Bra: The nursing bra had convenient flaps for easy feeding access.  ",
+        "ipa": "nɜ́rsᵻŋ brɒ́: ðə nɜ́rsᵻŋ brɒ́ hǽd kənvíjnjənt flǽps fɔr íjzij fíjdᵻŋ ǽksɛ̀s.",
+        "hash": "TXT_c7c4773b040277aaf7947efb80b60d.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Printed Cardigan: The printed cardigan featured bold, colorful motifs.  ",
+        "ipa": "prᵻ́ntᵻd kɑ́rdᵻɡən: ðə prᵻ́ntᵻd kɑ́rdᵻɡən fíjtʃərd bówld, kʌ́lərfəl mowtíjfs.",
+        "hash": "TXT_f12656978bd61f585607f922630627.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Split Maxi Skirt: The split maxi skirt allowed her to walk comfortably while covered.  ",
+        "ipa": "splᵻ́t mǽksij skɜ́rt: ðə splᵻ́t mǽksij skɜ́rt əláwd hər tə wɒ́k kʌ́mfərtəblij wájl kʌ́vərd.",
+        "hash": "TXT_0818e33a83158c092219573b32f849.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Boyfriend Tee: The boyfriend tee hung loosely, giving her a relaxed silhouette.  ",
+        "ipa": "bɔ́jfrɛ̀nd tíj: ðə bɔ́jfrɛ̀nd tíj hʌ́ŋ lúwslij, ɡᵻ́vᵻŋ hər ə rijlǽkst sᵻ̀ləwɛ́t.",
+        "hash": "TXT_49c39ea6325905858aae98f106dcf2.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Chiffon Blouse: The chiffon blouse flowed elegantly around her shoulders.  ",
+        "ipa": "ʃᵻfɒ́n bláws: ðə ʃᵻfɒ́n bláws flówd ɛ́ləɡəntlìj əráwnd hər ʃówldərz.",
+        "hash": "TXT_ad5864cc32924395fd9316ac33866a.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Cropped Blouse: The cropped blouse stopped above her natural waistline.  ",
+        "ipa": "krɒ́pt bláws: ðə krɒ́pt bláws stɒ́pt əbʌ́v hər nǽtʃərəl wɛ́jstlàjn.",
+        "hash": "TXT_20033cfe0cb90e3b488fe78e9c0a61.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Metallic Jacket: The metallic jacket reflected light, standing out in any crowd.  ",
+        "ipa": "mətǽlᵻk dʒǽkət: ðə mətǽlᵻk dʒǽkət rəflɛ́ktᵻd lájt, stǽndᵻŋ awt ᵻn ɛ́nij kráwd.",
+        "hash": "TXT_9b82fbdf7934a2e22ceb3e53971940.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Square-Neck Dress: The square-neck dress framed her collarbones with clean angles.  ",
+        "ipa": "skwɛ́ər-nɛ́k drɛ́s: ðə skwɛ́ər-nɛ́k drɛ́s frɛ́jmd hər kɒlərbòwnz wᵻð klíjn ǽŋɡəlz.",
+        "hash": "TXT_1f127c8afded215bd58aca31880bd5.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Bib Apron: The bib apron protected her clothes while she cooked in the kitchen.  ",
+        "ipa": "bᵻ́b ɛ́jprən: ðə bᵻ́b ɛ́jprən prətɛ́ktᵻd hər klówðz wájl ʃij kʊ́kt ᵻn ðə kᵻ́tʃən.",
+        "hash": "TXT_f962da7d4a8890644598b4ac82abad.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Knot-Front Top: The knot-front top featured a twist of fabric right at the waist.  ",
+        "ipa": "nɒ́t-frʌ́nt tɒ́p: ðə nɒ́t-frʌ́nt tɒ́p fíjtʃərd ə twᵻ́st əv fǽbrᵻk rájt æt ðə wɛ́jst.",
+        "hash": "TXT_ce3778be4c71f963cbe0d6b901f11e.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Suede Mules: The suede mules slipped on quickly and offered a soft texture.  ",
+        "ipa": "swɛ́jd mjúwlz: ðə swɛ́jd mjúwlz slᵻ́pt ɒn kwᵻ́klij ənd ɔ́fərd ə sɒ́ft tɛ́kstʃər.",
+        "hash": "TXT_7d7f7301b1eba11416606295cd4876.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Balloon Sleeves: The balloon sleeves billowed out around her arms before gathering at the wrists.  ",
+        "ipa": "bəlúwn slíjvz: ðə bəlúwn slíjvz bᵻ́lowd awt əráwnd hər ɑ́rmz bəfɔ́r ɡǽðərᵻŋ æt ðə rᵻ́sts.",
+        "hash": "TXT_3bfe375fe72f8797ba60baca7a7508.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Toggle Coat: The toggle coat closed with rope loops and wooden buttons for a classic look.  ",
+        "ipa": "tɒ́ɡəl kówt: ðə tɒ́ɡəl kówt klówzd wᵻð rówp lúwps ənd wʊ́dən bʌ́tənz fɔr ə klǽsᵻk lʊ́k.",
+        "hash": "TXT_6c2b50989edd2bbddfdfd9ba0975ed.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Sleeveless Blazer: The sleeveless blazer layered nicely over a long-sleeve turtleneck.  ",
+        "ipa": "slíjvlᵻs blɛ́jzər: ðə slíjvlᵻs blɛ́jzər lɛ́jərd nájslij ówvər ə lɔ́ŋ-slíjv tɜ́rtəlnɛ̀k.",
+        "hash": "TXT_f1320556834940dbfccce9b9016613.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Backless Dress: The backless dress showed off her entire back, secured only by neck ties.  ",
+        "ipa": "bǽkləs drɛ́s: ðə bǽkləs drɛ́s ʃówd ɔ́f hər əntájər bǽk, səkjʊ́rd ównlij baj nɛ́k tájz.",
+        "hash": "TXT_fa61fdf5589c9786d659956f3e8f58.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Printed Shorts: The printed shorts displayed bright florals against a neutral background.  ",
+        "ipa": "prᵻ́ntᵻd ʃɔ́rts: ðə prᵻ́ntᵻd ʃɔ́rts dᵻsplɛ́jd brájt flɔ́rəlz əɡɛ́jnst ə núwtrəl bǽkɡràwnd.",
+        "hash": "TXT_2f30288cd491ce04c8e9b209410d9a.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Dress Socks: The dress socks rose to mid-calf beneath his suit trousers.  ",
+        "ipa": "drɛ́s sɒ́ks: ðə drɛ́s sɒ́ks rówz tə mᵻ́d-kǽf bəníjθ hᵻz súwt tráwzərz.",
+        "hash": "TXT_fd282634680d2da51a6d1f0b9e95cf.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Fitted Waistcoat: The fitted waistcoat slimmed his torso under a matching suit jacket.  ",
+        "ipa": "fᵻ́tᵻd wɛ́jskòwt: ðə fᵻ́tᵻd wɛ́jskòwt slᵻ́md hᵻz tɔ́rsòw ʌ́ndər ə mǽtʃᵻŋ súwt dʒǽkət.",
+        "hash": "TXT_fb5ab4083fd42c94ba4676e6bc9128.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Sash Belt: The sash belt wrapped around her waist and knotted into a decorative bow.  ",
+        "ipa": "sǽʃ bɛ́lt: ðə sǽʃ bɛ́lt rǽpt əráwnd hər wɛ́jst ənd nɒ́tᵻd ᵻntə ə dɛ́kərətᵻv bow.",
+        "hash": "TXT_a01f7377b45e1c77c4c8f300f7fcaa.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Peplum Top: The peplum top flared at the waist, creating a flattering silhouette.  ",
+        "ipa": "pɛ́pləm tɒ́p: ðə pɛ́pləm tɒ́p flɛ́ərd æt ðə wɛ́jst, krijɛ́jtᵻŋ ə flǽtərᵻŋ sᵻ̀ləwɛ́t.",
+        "hash": "TXT_2afd69b7069fcc3c2e7976583b2adc.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Balloon Pants: The balloon pants cinched at the ankles and billowed at the thighs.  ",
+        "ipa": "bəlúwn pǽnts: ðə bəlúwn pǽnts sᵻ́ntʃt æt ðə ǽŋkəlz ənd bᵻ́lowd æt ðə θájz.",
+        "hash": "TXT_d7789835b4306726d38545a07a3647.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Tiered Maxi Dress: The tiered maxi dress swung dramatically with each step she took.  ",
+        "ipa": "tíjərd mǽksij drɛ́s: ðə tíjərd mǽksij drɛ́s swʌ́ŋ drəmǽtᵻkəlij wᵻð ijtʃ stɛ́p ʃij tʊ́k.",
+        "hash": "TXT_d55d673d3e9c6d68bc9e21009e9ff4.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Low-Rise Jeans: The low-rise jeans rested comfortably on her hips.  ",
+        "ipa": "lów-rájz dʒíjnz: ðə lów-rájz dʒíjnz rɛ́stᵻd kʌ́mfərtəblij ɒn hər hᵻ́ps.",
+        "hash": "TXT_2c2d6d40735b1f76b45661112bea80.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Athletic Hoodie: The athletic hoodie featured performance fabric for sweat-wicking during workouts.  ",
+        "ipa": "æθlɛ́tᵻk hʊ́dij: ðə æθlɛ́tᵻk hʊ́dij fíjtʃərd pərfɔ́rməns fǽbrᵻk fɔr swɛ́t-wᵻkᵻŋ dʊ́rᵻŋ wɜ́rkàwts.",
+        "hash": "TXT_d0f2d056a88a24afebadfcd661723b.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Square-Toe Boots: The square-toe boots contrasted with more common round or pointed designs.  ",
+        "ipa": "skwɛ́ər-tów búwts: ðə skwɛ́ər-tów búwts kəntrǽstᵻd wᵻð mɔr kɒ́mən ráwnd ɔr pɔ́jntᵻd dəzájnz.",
+        "hash": "TXT_51fb60d06ad57a8eab48e28ed1aa5f.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Pinafore Dress: The pinafore dress layered well over a blouse or sweater for a youthful look.  ",
+        "ipa": "pᵻnəfɔ̀r drɛ́s: ðə pᵻnəfɔ̀r drɛ́s lɛ́jərd wɛ́l ówvər ə bláws ɔr swɛ́tər fɔr ə júwθfəl lʊ́k.",
+        "hash": "TXT_7dff491c4bb77a0fa4139553904805.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Velour Robe: The velour robe enveloped her in plush luxury after bathing.  ",
+        "ipa": "vɛ̀lúwr rówb: ðə vɛ̀lúwr rówb ɛnvɛ́ləpt hər ᵻn plʌ́ʃ lʌ́ɡʒərij ǽftər bɛ́jðᵻŋ.",
+        "hash": "TXT_da5e90aadaa730dc34caf125be751b.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Oversized Blazer: The oversized blazer borrowed an androgynous charm for her outfit.  ",
+        "ipa": "ówvərsàjzd blɛ́jzər: ðə ówvərsàjzd blɛ́jzər bɑ́rowd ən ændrɔ́dʒənəs tʃɑ́rm fɔr hər áwtfᵻ̀t.",
+        "hash": "TXT_73f93f9e93976be9aecc979a4a10a5.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Below-Knee Skirt: The below-knee skirt allowed modest coverage while still showing a bit of calf.  ",
+        "ipa": "bijlów-níj skɜ́rt: ðə bijlów-níj skɜ́rt əláwd mɒ́dəst kʌ́vərᵻdʒ wájl stᵻ́l ʃówᵻŋ ə bᵻ́t əv kǽf.",
+        "hash": "TXT_41a1a74184524eebd5e8a2366ea5c5.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Kimono Sleeve Top: The kimono sleeve top opened wide, reminiscent of traditional Japanese garments.  ",
+        "ipa": "kᵻmównə slíjv tɒ́p: ðə kᵻmównə slíjv tɒ́p ówpənd wájd, rɛ̀mᵻnᵻ́sənt əv trədᵻ́ʃənəl dʒæ̀pəníjz ɡɑ́rmənts.",
+        "hash": "TXT_bb328e5eca8d4fb065ad55731eaece.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Trench Dress: The trench dress combined coat-like details with a feminine silhouette.  ",
+        "ipa": "trɛ́ntʃ drɛ́s: ðə trɛ́ntʃ drɛ́s kəmbájnd kówt-lájk díjtɛjlz wᵻð ə fɛ́mᵻnən sᵻ̀ləwɛ́t.",
+        "hash": "TXT_b75b93e6aa901e3fa3b85a677a7f35.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Pinstripe Suit: The pinstripe suit gave him a sharp, business-oriented appearance.  ",
+        "ipa": "pᵻ́nstràjp súwt: ðə pᵻ́nstràjp súwt ɡɛ́jv hᵻm ə ʃɑ́rp, bᵻ́znəs-ɔ́rijɛ̀ntᵻd əpɪ́ərəns.",
+        "hash": "TXT_688718e4d9c9e3809ad8b4d4407dd7.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Shawl Scarf: The shawl scarf doubled as a wrap for her shoulders in chilly evenings.  ",
+        "ipa": "ʃɔ́l skɑ́rf: ðə ʃɔ́l skɑ́rf dʌ́bəld æz ə rǽp fɔr hər ʃówldərz ᵻn tʃᵻ́lij íjvnᵻŋz.",
+        "hash": "TXT_38b1c5d0ce307daaf29ad8120528a2.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Corded Belt: The corded belt added texture and tied in a simple knot at her waist.  ",
+        "ipa": "kɔ́rdᵻd bɛ́lt: ðə kɔ́rdᵻd bɛ́lt ǽdᵻd tɛ́kstʃər ənd tájd ᵻn ə sᵻ́mpəl nɒ́t æt hər wɛ́jst.",
+        "hash": "TXT_27b739daa07db991f79bce163d434b.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Open-Back Sweater: The open-back sweater offered a surprising detail when she turned around.  ",
+        "ipa": "ówpən-bǽk swɛ́tər: ðə ówpən-bǽk swɛ́tər ɔ́fərd ə sərprájzᵻŋ díjtɛjl wɛ́n ʃij tɜ́rnd əráwnd.",
+        "hash": "TXT_951dce86790b7ab57967c5b893e6d5.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Paperbag Waist Skirt: The paperbag waist skirt gathered at her midsection with a statement bow.  ",
+        "ipa": "pɛ́jpərbæ̀ɡ wɛ́jst skɜ́rt: ðə pɛ́jpərbæ̀ɡ wɛ́jst skɜ́rt ɡǽðərd æt hər mᵻ́dsɛ̀kʃən wᵻð ə stɛ́jtmənt bow.",
+        "hash": "TXT_9b5eb0dc104016ccf3e70e453a0552.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Quilted Gilet: The quilted gilet gave him core warmth without restricting his arms.  ",
+        "ipa": "kwᵻ́ltᵻd ʒᵻlɛ́j: ðə kwᵻ́ltᵻd ʒᵻlɛ́j ɡɛ́jv hᵻm kɔ́r wɔ́rmθ wᵻðáwt rəstrᵻ́ktᵻŋ hᵻz ɑ́rmz.",
+        "hash": "TXT_bd6e8795b8ffe8a791a765ac673388.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Slingback Flats: The slingback flats looped around her heel, ensuring a comfortable fit.  ",
+        "ipa": "slᵻŋbæk flǽts: ðə slᵻŋbæk flǽts lúwpt əráwnd hər híjl, ɛnʃʊ́rᵻŋ ə kʌ́mftərbəl fᵻ́t.",
+        "hash": "TXT_165c055c16759ec2bc5b1ceaf85f4b.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Patch Pocket Shirt: The patch pocket shirt showed off large, square pockets on the front.  ",
+        "ipa": "pǽtʃ pɒ́kət ʃɜ́rt: ðə pǽtʃ pɒ́kət ʃɜ́rt ʃówd ɔ́f lɑ́rdʒ, skwɛ́ər pɒ́kəts ɒn ðə frʌ́nt.",
+        "hash": "TXT_bf4091d234130dae9c970d693ca12a.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Keyhole Blouse: The keyhole blouse revealed a small opening at her neckline.  ",
+        "ipa": "kíjhòwl bláws: ðə kíjhòwl bláws rəvíjld ə smɔ́l ówpənᵻŋ æt hər nɛ́klàjn.",
+        "hash": "TXT_c035356ee84ad35b10444f3e241e3d.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Poplin Dress: The poplin dress’s crisp cotton felt perfect for warm-weather events.  ",
+        "ipa": "pɒ́plᵻn drɛ́s: ðə pɒ́plᵻn drɛ́s'z krᵻ́sp kɒ́tən fɛ́lt pɜ́rfəkt fɔr wɔ́rm-wɛ́ðər əvɛ́nts.",
+        "hash": "TXT_03d59eee97a0402ec2c7632e491ed9.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Faux-Leather Skirt: The faux-leather skirt delivered the edgy look of leather without the real hide.  ",
+        "ipa": "fow-lɛ́ðər skɜ́rt: ðə fow-lɛ́ðər skɜ́rt dəlᵻ́vərd ðə ɛ́dʒij lʊ́k əv lɛ́ðər wᵻðáwt ðə ríjəl hájd.",
+        "hash": "TXT_45b3a14ac3013e597aa93477c2a619.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Waffle-Knit Top: The waffle-knit top had a textured, grid-like pattern for added warmth.  ",
+        "ipa": "wɒ́fəl-nᵻ́t tɒ́p: ðə wɒ́fəl-nᵻ́t tɒ́p hǽd ə tɛ́kstʃərd, ɡrᵻ́d-lájk pǽtərn fɔr ǽdᵻd wɔ́rmθ.",
+        "hash": "TXT_682d8a63b6493df1a009e1908991d7.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Embellished Jeans: The embellished jeans sported studs and rhinestones along the seams.  ",
+        "ipa": "ɛmbɛ́lᵻʃt dʒíjnz: ðə ɛmbɛ́lᵻʃt dʒíjnz spɔ́rtᵻd stʌ́dz ənd rájnstòwnz əlɔ́ŋ ðə síjmz.",
+        "hash": "TXT_b8869fa56c423f59ea49f401a6857c.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Halter Bikini: The halter bikini tied around her neck for adjustable support at the beach.  ",
+        "ipa": "hɔ́ltər bᵻkíjnij: ðə hɔ́ltər bᵻkíjnij tájd əráwnd hər nɛ́k fɔr ədʒʌ́stəbəl səpɔ́rt æt ðə bíjtʃ.",
+        "hash": "TXT_3a6cdcc02d275eb6c7a566afa9f29c.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Cable-Knit Scarf: The cable-knit scarf matched her beanie in both color and texture.  ",
+        "ipa": "kɛ́jbəl-nᵻ́t skɑ́rf: ðə kɛ́jbəl-nᵻ́t skɑ́rf mǽtʃt hər bíjnij ᵻn bówθ kʌ́lər ənd tɛ́kstʃər.",
+        "hash": "TXT_626ac1081880ee1d92fc50d7341359.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Gore-Tex Jacket: The gore-tex jacket shielded him from heavy rain during outdoor adventures.  ",
+        "ipa": "ɡɔ́r-tɛ́ks dʒǽkət: ðə ɡɔ́r-tɛ́ks dʒǽkət ʃíjldᵻd hᵻm frəm hɛ́vij rɛ́jn dʊ́rᵻŋ áwtdɔ̀r ædvɛ́ntʃərz.",
+        "hash": "TXT_2b58d01d9a3263ec4422a934f406e7.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Wrap Shawl: The wrap shawl draped over her shoulders for a timeless, classic look.  ",
+        "ipa": "rǽp ʃɔ́l: ðə rǽp ʃɔ́l drɛ́jpt ówvər hər ʃówldərz fɔr ə tájmləs, klǽsᵻk lʊ́k.",
+        "hash": "TXT_8f177f4722dc1fa1bfa0810d3d29ad.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Tweed Blazer: The tweed blazer worked for chilly autumn days at the office.  ",
+        "ipa": "twíjd blɛ́jzər: ðə twíjd blɛ́jzər wɜ́rkt fɔr tʃᵻ́lij ɔ́təm dɛ́jz æt ðə ɔ́fᵻs.",
+        "hash": "TXT_78f78283aeed7b4fc40679419deea6.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "High-Neck Dress: The high-neck dress offered more coverage for a refined look.  ",
+        "ipa": "háj-nɛ́k drɛ́s: ðə háj-nɛ́k drɛ́s ɔ́fərd mɔr kʌ́vərᵻdʒ fɔr ə rəfájnd lʊ́k.",
+        "hash": "TXT_6cf085a4aee2e63cb217c9a1372c30.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Cutoff Shorts: The cutoff shorts had frayed edges, revealing their DIY origins.  ",
+        "ipa": "kʌ́tɔ̀f ʃɔ́rts: ðə kʌ́tɔ̀f ʃɔ́rts hǽd frɛ́jd ɛ́dʒᵻz, rəvíjlᵻŋ ðɛər DIY ɔ́rᵻdʒᵻnz.",
+        "hash": "TXT_ccf91bc0f6779b088cc7320a5695ad.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Popover Shirt: The popover shirt had a partial placket, easier to slip on than a full button-down.  ",
+        "ipa": "pɒpówvɜ̀r ʃɜ́rt: ðə pɒpówvɜ̀r ʃɜ́rt hǽd ə pɑ́rʃəl plǽkᵻt, íjzijər tə slᵻ́p ɒn ðʌn ə fʊ́l bʌ́tən-dawn.",
+        "hash": "TXT_affac6f64755a8c978862f28510321.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Brogue Shoes: The brogue shoes added decorative perforations for a touch of polish.  ",
+        "ipa": "brəʊɡ ʃúwz: ðə brəʊɡ ʃúwz ǽdᵻd dɛ́kərətᵻv pɜ̀rfərɛ́jʃənz fɔr ə tʌ́tʃ əv pɒ́lᵻʃ.",
+        "hash": "TXT_d4633184e3200c4a649513082a36fb.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "School Uniform: The school uniform included a pleated skirt and a crisp, collared shirt.  ",
+        "ipa": "skúwl júwnᵻfɔ̀rm: ðə skúwl júwnᵻfɔ̀rm ᵻnklúwdᵻd ə plíjtᵻd skɜ́rt ənd ə krᵻ́sp, kɒ́lərd ʃɜ́rt.",
+        "hash": "TXT_508bcf10b7f45f833dbba84a5f4a96.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Sculpted Heels: The sculpted heels had artistic shapes that made a bold fashion statement.  ",
+        "ipa": "skʌ́lptᵻd híjlz: ðə skʌ́lptᵻd híjlz hǽd ɑrtᵻ́stᵻk ʃɛ́jps thət mɛ́jd ə bówld fǽʃən stɛ́jtmənt.",
+        "hash": "TXT_b2cf06799d084c3d5567debf48b2c8.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Drop-Crotch Pants: The drop-crotch pants hung low between the legs for an unconventional style.  ",
+        "ipa": "drɒ́p-krɒ́tʃ pǽnts: ðə drɒ́p-krɒ́tʃ pǽnts hʌ́ŋ lów bijtwíjn ðə lɛ́ɡz fɔr ən ʌ̀nkənvɛ́nʃənəl stájl.",
+        "hash": "TXT_14d9bedb4e2505285b56cd4f7ffc11.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Twill Jacket: The twill jacket was sturdy yet lightweight enough for transitional weather.  ",
+        "ipa": "twᵻ́l dʒǽkət: ðə twᵻ́l dʒǽkət wɒz stɜ́rdij jɛt lájtwɛ́jt ənʌ́f fɔr trænsᵻ́ʃənəl wɛ́ðər.",
+        "hash": "TXT_ae7751f0b7e3b0835ae0b5f5998040.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Hooded Cape: The hooded cape draped over her shoulders and head in a dramatic sweep.  ",
+        "ipa": "hʊ́dᵻd kɛ́jp: ðə hʊ́dᵻd kɛ́jp drɛ́jpt ówvər hər ʃówldərz ənd hɛ́d ᵻn ə drəmǽtᵻk swíjp.",
+        "hash": "TXT_339d0be035621f647b13ec77b916cf.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Cinched-Waist Dress: The cinched-waist dress emphasized her hourglass figure.  ",
+        "ipa": "sᵻ́ntʃt-wɛ́jst drɛ́s: ðə sᵻ́ntʃt-wɛ́jst drɛ́s ɛ́mfəsajzd hər áwərɡlæ̀s fᵻ́ɡjər.",
+        "hash": "TXT_2311d091fede2f8424c6c46d27ad87.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Fisherman Sweater: The fisherman sweater featured intricate cable patterns reminiscent of seafaring tradition.  ",
+        "ipa": "fᵻ́ʃərmæ̀n swɛ́tər: ðə fᵻ́ʃərmæ̀n swɛ́tər fíjtʃərd ᵻ́ntrᵻkət kɛ́jbəl pǽtərnz rɛ̀mᵻnᵻ́sənt əv síjfɛ̀ərᵻŋ trədᵻ́ʃən.",
+        "hash": "TXT_e527515e5e1fddeb7a05c353f97f13.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Ruffle Skirt: The ruffle skirt added layers of frills for a playful movement.  ",
+        "ipa": "rʌ́fəl skɜ́rt: ðə rʌ́fəl skɜ́rt ǽdᵻd lɛ́jərz əv frᵻ́lz fɔr ə plɛ́jfəl múwvmənt.",
+        "hash": "TXT_28582a1a5df45b03d12dbd6bc1c9da.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Bodysuit Leotard: The bodysuit leotard snapped at the crotch for a secure, streamlined fit.  ",
+        "ipa": "bɒ́dijsùwt líjətɑ̀rd: ðə bɒ́dijsùwt líjətɑ̀rd snǽpt æt ðə krɒ́tʃ fɔr ə səkjʊ́r, stríjmlàjnd fᵻ́t.",
+        "hash": "TXT_a4477dd45fdd8f5be088de6148981c.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Collarless Coat: The collarless coat gave a modern aesthetic without extra fabric around the neck.  ",
+        "ipa": "kɒ̀lərləs kówt: ðə kɒ̀lərləs kówt ɡɛ́jv ə mɒ́dərn ɛsθɛ́tᵻk wᵻðáwt ɛ́kstrə fǽbrᵻk əráwnd ðə nɛ́k.",
+        "hash": "TXT_376ba660c0559de35ec1ca4a7bd9ed.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Elastic Waistband Shorts: The elastic waistband shorts allowed total flexibility for lounging.  ",
+        "ipa": "əlǽstᵻk wɛ́jstbænd ʃɔ́rts: ðə əlǽstᵻk wɛ́jstbænd ʃɔ́rts əláwd tówtəl flɛ̀ksᵻbᵻ́lᵻtij fɔr láwndʒᵻŋ.",
+        "hash": "TXT_b2dabeeafc84857e6598ccc2ee972e.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Leopard Print Leggings: The leopard print leggings showcased her wild, adventurous side.  ",
+        "ipa": "lɛ́pərd prᵻ́nt lɛ́ɡᵻŋz: ðə lɛ́pərd prᵻ́nt lɛ́ɡᵻŋz ʃówkɛ̀jst hər wájld, ædvɛ́ntʃərəs sájd.",
+        "hash": "TXT_021545d2a5311b94c20cfca987574f.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Marled Cardigan: The marled cardigan combined two different yarn shades for a mottled effect.  ",
+        "ipa": "mɑrld kɑ́rdᵻɡən: ðə mɑrld kɑ́rdᵻɡən kəmbájnd túw dᵻ́fərənt jɑ́rn ʃɛ́jdz fɔr ə mɒ́təld əfɛ́kt.",
+        "hash": "TXT_3a676e18b1a128cf4de55379bb5247.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Flannel Pajama Set: The flannel pajama set kept him warm and snug on frosty nights.  ",
+        "ipa": "flǽnəl pədʒǽmə sɛ́t: ðə flǽnəl pədʒǽmə sɛ́t kɛ́pt hᵻm wɔ́rm ənd snʌ́ɡ ɒn frɔ́stij nájts.",
+        "hash": "TXT_729e1ffb23628e64dd495ab3c6249a.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Scuba Dress: The scuba dress used stretchy, thick fabric that contoured to her body.  ",
+        "ipa": "skúwbə drɛ́s: ðə skúwbə drɛ́s júwzd strɛ́tʃij, θᵻ́k fǽbrᵻk thət kɒ́ntʊ̀rd tə hər bɒ́dij.",
+        "hash": "TXT_a026961f96a73ce909a39250118d4a.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Puff-Sleeve Blouse: The puff-sleeve blouse voluminously framed her upper arms.  ",
+        "ipa": "pʌ́f-slíjv bláws: ðə pʌ́f-slíjv bláws vəlúwmənəslij frɛ́jmd hər ʌ́pər ɑ́rmz.",
+        "hash": "TXT_b9cfa3cc06a1850adcef5f4f9ee12b.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Cutaway Coat: The cutaway coat curved upward at the front hem for a striking shape.  ",
+        "ipa": "kʌ́təwɛj kówt: ðə kʌ́təwɛj kówt kɜ́rvd ʌ́pwərd æt ðə frʌ́nt hɛ́m fɔr ə strájkᵻŋ ʃɛ́jp.",
+        "hash": "TXT_c58e024990d0dcc7ae106981a9fa9b.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Crossbody Bag: The crossbody bag draped diagonally, leaving her hands free to explore the city.  ",
+        "ipa": "krɔ́sbɒ̀dij bǽɡ: ðə krɔ́sbɒ̀dij bǽɡ drɛ́jpt dajǽɡənəlij, líjvᵻŋ hər hǽndz fríj tə əksplɔ́r ðə sᵻ́tij.",
+        "hash": "TXT_7a875dc6deae6706e006899fad8674.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Fanny Pack: The fanny pack fastened around her waist for convenient, quick access to essentials.  ",
+        "ipa": "fǽnij pǽk: ðə fǽnij pǽk fǽsənd əráwnd hər wɛ́jst fɔr kənvíjnjənt, kwᵻ́k ǽksɛ̀s tə əsɛ́nʃəlz.",
+        "hash": "TXT_008aad59f53aa773a85a5eb429fc38.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Sheer Kimono: The sheer kimono offered a lightweight layering piece in translucent fabric.  ",
+        "ipa": "ʃɪ́ər kᵻmównə: ðə ʃɪ́ər kᵻmównə ɔ́fərd ə lájtwɛ́jt lɛ́jərᵻŋ píjs ᵻn trænslúwsənt fǽbrᵻk.",
+        "hash": "TXT_aca612fab70587fbad6910c0bc8853.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Convertible Bra: The convertible bra transformed its straps for racerback or halter options.  ",
+        "ipa": "kənvɜ́rtᵻbəl brɒ́: ðə kənvɜ́rtᵻbəl brɒ́ trænsfɔ́rmd ᵻts strǽps fɔr rɛ́jsərbæ̀k ɔr hɔ́ltər ɒ́pʃənz.",
+        "hash": "TXT_278cde920f6b1d9f79b1dc60036b56.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Balaclava Mask: The balaclava mask covered everything but her eyes for extreme cold protection.  ",
+        "ipa": "bɒ̀lɒklɒ́vɒ mǽsk: ðə bɒ̀lɒklɒ́vɒ mǽsk kʌ́vərd ɛ́vrijθᵻ̀ŋ bʌt hər ájz fɔr əkstríjm kówld prətɛ́kʃən.",
+        "hash": "TXT_7c90e226e93a38a916b172406a6b63.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Scalloped Hem Shorts: The scalloped hem shorts added a girly detail to her casual attire.  ",
+        "ipa": "skɒ́ləpt hɛ́m ʃɔ́rts: ðə skɒ́ləpt hɛ́m ʃɔ́rts ǽdᵻd ə ɡɜ́rlij díjtɛjl tə hər kǽʒəwəl ətájər.",
+        "hash": "TXT_3b22aea68b4543ff87d859634380b6.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Wide-Leg Jumpsuit: The wide-leg jumpsuit flowed gracefully with each step on the runway.  ",
+        "ipa": "wájd-lɛ́ɡ dʒʌ́mpsùwt: ðə wájd-lɛ́ɡ dʒʌ́mpsùwt flówd ɡrɛ́jsfəlij wᵻð ijtʃ stɛ́p ɒn ðə rʌ́nwɛ̀j.",
+        "hash": "TXT_4d4cb36e8290598810ff2c849a3196.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Toga Dress: The toga dress draped across one shoulder for a Grecian-inspired look.  ",
+        "ipa": "tówɡə drɛ́s: ðə tówɡə drɛ́s drɛ́jpt əkrɔ́s wʌ́n ʃówldər fɔr ə ɡríjʃən-ᵻ̀nspájərd lʊ́k.",
+        "hash": "TXT_9765d69b978b0501262437e8e9414c.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Tweed Cap: The tweed cap gave him a rustic charm in cooler climates.  ",
+        "ipa": "twíjd kǽp: ðə twíjd kǽp ɡɛ́jv hᵻm ə rʌ́stᵻk tʃɑ́rm ᵻn kúwlər klájməts.",
+        "hash": "TXT_b4883640789c4dd47ac1ac99a74562.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Two-Piece Set: The two-piece set matched top and bottom in coordinating colors or patterns.  ",
+        "ipa": "túw-píjs sɛ́t: ðə túw-píjs sɛ́t mǽtʃt tɒ́p ənd bɒ́təm ᵻn kowɔ́rdᵻnɛ̀jtᵻŋ kʌ́lərz ɔr pǽtərnz.",
+        "hash": "TXT_bcf5be50916787acef577cb332e62d.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Gossamer Shawl: The gossamer shawl was so light it seemed almost transparent.  ",
+        "ipa": "ɡɒ́səmər ʃɔ́l: ðə ɡɒ́səmər ʃɔ́l wɒz sow lájt ᵻt síjmd ɔ́lmowst trænspǽrənt.",
+        "hash": "TXT_fb7efcff47bf23eb5a3b2465e3693e.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Sateen Pajamas: The sateen pajamas caught the light for a subtle shimmer in her nighttime routine.  ",
+        "ipa": "sætíjn pədʒǽməz: ðə sætíjn pədʒǽməz kɒ́t ðə lájt fɔr ə sʌ́təl ʃᵻ́mər ᵻn hər nájttàjm ruwtíjn.",
+        "hash": "TXT_6373ff91b61a50e6a870f79f50ff28.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Mock-Wrap Dress: The mock-wrap dress gave the illusion of a wrap style without the extra tying.  ",
+        "ipa": "mɒ́k-rǽp drɛ́s: ðə mɒ́k-rǽp drɛ́s ɡɛ́jv ðə ᵻ̀lúwʒən əv ə rǽp stájl wᵻðáwt ðə ɛ́kstrə tájᵻŋ.",
+        "hash": "TXT_fb6b566792ba353fa1423fac103643.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Bowknot Shoes: The bowknot shoes featured a decorative bow right at the toe.  ",
+        "ipa": "bównɒ̀t ʃúwz: ðə bównɒ̀t ʃúwz fíjtʃərd ə dɛ́kərətᵻv bow rájt æt ðə tów.",
+        "hash": "TXT_93964ae5f01891c1431ef7f5aadfdf.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Velvet Leggings: The velvet leggings were both warm and eye-catching for the holiday season.  ",
+        "ipa": "vɛ́lvət lɛ́ɡᵻŋz: ðə vɛ́lvət lɛ́ɡᵻŋz wɜ́r bówθ wɔ́rm ənd áj-kǽtʃᵻŋ fɔr ðə hɒ́lədɛ̀j síjzən.",
+        "hash": "TXT_63122c9f353955bd821c6de64a9f33.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Lattice-Back Top: The lattice-back top crisscrossed in the back for a visually striking look.  ",
+        "ipa": "lǽtᵻs-bǽk tɒ́p: ðə lǽtᵻs-bǽk tɒ́p krᵻ́skrɔ̀st ᵻn ðə bǽk fɔr ə vᵻ́ʒwəlij strájkᵻŋ lʊ́k.",
+        "hash": "TXT_a354e519c6bf7947c6d0fe5de5b51e.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Puffer Scarf: The puffer scarf provided quilted warmth around her neck.  ",
+        "ipa": "pʌ́fər skɑ́rf: ðə pʌ́fər skɑ́rf prəvájdᵻd kwᵻ́ltᵻd wɔ́rmθ əráwnd hər nɛ́k.",
+        "hash": "TXT_b3494fbf42aef6b33967672f4317e6.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Dolphin Shorts: The dolphin shorts curved upward at the side hem for an athletic, retro vibe.  ",
+        "ipa": "dɒ́lfən ʃɔ́rts: ðə dɒ́lfən ʃɔ́rts kɜ́rvd ʌ́pwərd æt ðə sájd hɛ́m fɔr ən æθlɛ́tᵻk, rɛ́trow vájb.",
+        "hash": "TXT_c467658c2572865ee7a0bec2dc341d.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Wristlet Clutch: The wristlet clutch looped around her wrist for easy carrying at parties.  ",
+        "ipa": "rᵻ́slɛ̀t klʌ́tʃ: ðə rᵻ́slɛ̀t klʌ́tʃ lúwpt əráwnd hər rᵻ́st fɔr íjzij kǽrijᵻŋ æt pɑ́rtijz.",
+        "hash": "TXT_1b97bb2a6c5a3ed3e031180cadeaf6.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Half-Zip Sweater: The half-zip sweater allowed partial ventilation when needed.  ",
+        "ipa": "hǽf-zᵻ́p swɛ́tər: ðə hǽf-zᵻ́p swɛ́tər əláwd pɑ́rʃəl vɛ̀nəlɛ́jʃən wɛ́n níjdᵻd.",
+        "hash": "TXT_6ae7fc82e0d9da1cf98d61197affc3.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Mary Jane Flats: The mary jane flats combined a simple shape with a single strap for stability.  ",
+        "ipa": "mɛ́ərij dʒɛ́jn flǽts: ðə mɛ́ərij dʒɛ́jn flǽts kəmbájnd ə sᵻ́mpəl ʃɛ́jp wᵻð ə sᵻ́ŋɡəl strǽp fɔr stəbᵻ́lᵻtij.",
+        "hash": "TXT_a4bbd47ad53bcc1903c2733bf3db4a.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Fox Fur Collar: The fox fur collar (real or faux) attached to her coat for extra coziness.  ",
+        "ipa": "fɒ́ks fɜ́r kɒ́lər: ðə fɒ́ks fɜ́r kɒ́lər (ríjəl ɔr fow) ətǽtʃt tə hər kówt fɔr ɛ́kstrə kówzijnəs.",
+        "hash": "TXT_c732804474f31afc95857bf87060cf.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Ribbed Tank: The ribbed tank highlighted her arms with its close-fitting, textured fabric.  ",
+        "ipa": "rᵻ́bd tǽŋk: ðə rᵻ́bd tǽŋk hájlàjtᵻd hər ɑ́rmz wᵻð ᵻts klóws-fᵻ́tᵻŋ, tɛ́kstʃərd fǽbrᵻk.",
+        "hash": "TXT_517687a51f9ca981da27c3e7df155e.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Sherpa Lined Hoodie: The sherpa lined hoodie kept her unbelievably warm during the snowstorm.  ",
+        "ipa": "ʃɜ́rpə lájnd hʊ́dij: ðə ʃɜ́rpə lájnd hʊ́dij kɛ́pt hər ʌ̀nbəlíjvəblij wɔ́rm dʊ́rᵻŋ ðə snówstɔ̀rm.",
+        "hash": "TXT_94591a50ee23d6623611b74764d209.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Balloon Sleeve Dress: The balloon sleeve dress expanded dramatically at the arms, tapering at the wrists.  ",
+        "ipa": "bəlúwn slíjv drɛ́s: ðə bəlúwn slíjv drɛ́s əkspǽndᵻd drəmǽtᵻkəlij æt ðə ɑ́rmz, tɛ́jpərᵻŋ æt ðə rᵻ́sts.",
+        "hash": "TXT_21f688d90777ccf8ced089fa2139f7.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Waterproof Pants: The waterproof pants let him hike through wet grass without soaking through.  ",
+        "ipa": "wɔ́tərprùwf pǽnts: ðə wɔ́tərprùwf pǽnts lɛt hᵻm hájk θrúw wɛ́t ɡrǽs wᵻðáwt sówkᵻŋ θrúw.",
+        "hash": "TXT_bd97917ca2503480c4069495318c67.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "High-Cut Bikini: The high-cut bikini elongated her legs by sitting above her hip bones.  ",
+        "ipa": "háj-kʌ́t bᵻkíjnij: ðə háj-kʌ́t bᵻkíjnij əlɔ́ŋɡɛjtᵻd hər lɛ́ɡz baj sᵻ́tᵻŋ əbʌ́v hər hᵻ́p bównz.",
+        "hash": "TXT_db47f75d946106b3230512296b06a9.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Espadrille Flats: The espadrille flats used braided jute soles for a summertime staple.  ",
+        "ipa": "ɛ̀spədrᵻ́l flǽts: ðə ɛ̀spədrᵻ́l flǽts júwzd brɛ́jdᵻd dʒúwt sówlz fɔr ə sʌ́mərtàjm stɛ́jpəl.",
+        "hash": "TXT_4159cbe56ab70a3bb661d51f6179cd.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Crochet Cardigan: The crochet cardigan displayed intricate openwork stitches.  ",
+        "ipa": "krowʃɛ́j kɑ́rdᵻɡən: ðə krowʃɛ́j kɑ́rdᵻɡən dᵻsplɛ́jd ᵻ́ntrᵻkət ówpənwɜ̀rk stᵻ́tʃᵻz.",
+        "hash": "TXT_676c1f203a1ba6676e456982d3db0c.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Peplum Jacket: The peplum jacket flared out below the waist for a fit-and-flare effect.  ",
+        "ipa": "pɛ́pləm dʒǽkət: ðə pɛ́pləm dʒǽkət flɛ́ərd awt bijlów ðə wɛ́jst fɔr ə fᵻ́t-ənd-flɛ́ər əfɛ́kt.",
+        "hash": "TXT_4369d38b965a4f18636018ff71cd35.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Pussy-Bow Blouse: The pussy-bow blouse tied at the neck, creating a feminine statement.  ",
+        "ipa": "pʊ́sij-bow bláws: ðə pʊ́sij-bow bláws tájd æt ðə nɛ́k, krijɛ́jtᵻŋ ə fɛ́mᵻnən stɛ́jtmənt.",
+        "hash": "TXT_285f8c9225ca2731e8c79b4c387b85.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Knotted Headband: The knotted headband gathered her hairline with a stylish center knot.  ",
+        "ipa": "nɒ́tᵻd hɛ́dbæ̀nd: ðə nɒ́tᵻd hɛ́dbæ̀nd ɡǽðərd hər hɛ́ərlàjn wᵻð ə stájlᵻʃ sɛ́ntər nɒ́t.",
+        "hash": "TXT_39eaec2a0c26085cc1f976c3165b57.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Bell-Bottom Pants: The bell-bottom pants opened wide at the hem for a groovy, vintage look.  ",
+        "ipa": "bɛ́l-bɒ́təm pǽnts: ðə bɛ́l-bɒ́təm pǽnts ówpənd wájd æt ðə hɛ́m fɔr ə ɡrúwvij, vᵻ́ntᵻdʒ lʊ́k.",
+        "hash": "TXT_9fb00249e32bfde6417d51bf446c9e.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Bolero Jacket: The bolero jacket ended just under the bust, complementing a dressy outfit.  ",
+        "ipa": "bowlɛ́ərow dʒǽkət: ðə bowlɛ́ərow dʒǽkət ɛ́ndᵻd dʒəst ʌ́ndər ðə bʌ́st, kɒ́mpləmɛ̀ntᵻŋ ə drɛ́sij áwtfᵻ̀t.",
+        "hash": "TXT_89d80306cab77d30c39cb9bf546654.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Georgette Dress: The georgette dress floated softly against her skin, thanks to its airy fabric.  ",
+        "ipa": "dʒɔrdʒɛ́t drɛ́s: ðə dʒɔrdʒɛ́t drɛ́s flówtᵻd sɔ́flij əɡɛ́jnst hər skᵻ́n, θǽŋks tə ᵻts ɛ́ərij fǽbrᵻk.",
+        "hash": "TXT_791cdb4748fba00dfaa2dde8ecac05.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Elastic Cuff Pants: The elastic cuff pants created a jogger-like style at the ankles.  ",
+        "ipa": "əlǽstᵻk kʌ́f pǽnts: ðə əlǽstᵻk kʌ́f pǽnts krijɛ́jtᵻd ə dʒɒ́ɡər-lájk stájl æt ðə ǽŋkəlz.",
+        "hash": "TXT_488f3c647d57aa80297686be07a908.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Sports Leggings: The sports leggings were squat-proof and ideal for intense gym sessions.  ",
+        "ipa": "spɔ́rts lɛ́ɡᵻŋz: ðə spɔ́rts lɛ́ɡᵻŋz wɜ́r skwɒ́t-prúwf ənd ajdíjəl fɔr ᵻ̀ntɛ́ns dʒᵻ́m sɛ́ʃənz.",
+        "hash": "TXT_72d7b87a6e2a10d1a75addbd767022.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Crochet Crop Top: The crochet crop top showcased hand-knit flowers across the front.  ",
+        "ipa": "krowʃɛ́j krɒ́p tɒ́p: ðə krowʃɛ́j krɒ́p tɒ́p ʃówkɛ̀jst hǽnd-nᵻ́t fláwərz əkrɔ́s ðə frʌ́nt.",
+        "hash": "TXT_7cf0d248f47874ea0d07760ed982ae.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Pilot Jacket: The pilot jacket included a fleece-lined collar reminiscent of vintage aviators.  ",
+        "ipa": "pájlət dʒǽkət: ðə pájlət dʒǽkət ᵻnklúwdᵻd ə flíjs-lájnd kɒ́lər rɛ̀mᵻnᵻ́sənt əv vᵻ́ntᵻdʒ ɛ́jvijɛjtərz.",
+        "hash": "TXT_69b03e2794bb59d14d682644ba9b13.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Flannel Nightgown: The flannel nightgown offered full coverage and warmth on cold nights.  ",
+        "ipa": "flǽnəl nájtɡàwn: ðə flǽnəl nájtɡàwn ɔ́fərd fʊ́l kʌ́vərᵻdʒ ənd wɔ́rmθ ɒn kówld nájts.",
+        "hash": "TXT_ed7bc21331e1eb7295051a958d870a.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Track Pants: The track pants featured side stripes for a retro athletic look.  ",
+        "ipa": "trǽk pǽnts: ðə trǽk pǽnts fíjtʃərd sájd strájps fɔr ə rɛ́trow æθlɛ́tᵻk lʊ́k.",
+        "hash": "TXT_2131957c1a4fb0b8c00f0b98b0091b.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Cocoon Coat: The cocoon coat enveloped her frame in a shapely, oval silhouette.  ",
+        "ipa": "kəkúwn kówt: ðə kəkúwn kówt ɛnvɛ́ləpt hər frɛ́jm ᵻn ə ʃɛ́jplij, ówvəl sᵻ̀ləwɛ́t.",
+        "hash": "TXT_c03623a0fa5701b6fd2ca68dfaf492.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Straw Visor: The straw visor protected her face from sun without trapping heat on her head.  ",
+        "ipa": "strɔ́ vájzər: ðə strɔ́ vájzər prətɛ́ktᵻd hər fɛ́js frəm sʌ́n wᵻðáwt trǽpᵻŋ híjt ɒn hər hɛ́d.",
+        "hash": "TXT_7574b6ec7f9aa6e37a84cbb996cc9b.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Laptop Bag: The laptop bag included a padded compartment to safeguard electronics.  ",
+        "ipa": "lǽptɒ̀p bǽɡ: ðə lǽptɒ̀p bǽɡ ᵻnklúwdᵻd ə pǽdᵻd kəmpɑ́rtmənt tə sɛ́jfɡɑ̀rd ələktrɒ́nᵻks.",
+        "hash": "TXT_1e3486aef609ad6f2317bd02e568a1.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Drawstring Skirt: The drawstring skirt tightened at her waist for an adjustable fit.  ",
+        "ipa": "drɔ́strᵻ̀ŋ skɜ́rt: ðə drɔ́strᵻ̀ŋ skɜ́rt tájtənd æt hər wɛ́jst fɔr ən ədʒʌ́stəbəl fᵻ́t.",
+        "hash": "TXT_4dfdd9d2669d02bb456f1bf60ee624.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Ruffle Sleeve Blouse: The ruffle sleeve blouse added layers of fabric at the shoulders.  ",
+        "ipa": "rʌ́fəl slíjv bláws: ðə rʌ́fəl slíjv bláws ǽdᵻd lɛ́jərz əv fǽbrᵻk æt ðə ʃówldərz.",
+        "hash": "TXT_42897c8bbca136ccd0c76c1ae64732.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Loafers Slip-Ons: The loafers slip-ons provided a comfortable, hassle-free option for dressier outfits.  ",
+        "ipa": "lówfərz slᵻ́p-ɒ́nz: ðə lówfərz slᵻ́p-ɒ́nz prəvájdᵻd ə kʌ́mftərbəl, hǽsəl-fríj ɒ́pʃən fɔr drɛ́sijər áwtfᵻ̀ts.",
+        "hash": "TXT_2676290ed2559d5a57ec0c2d048910.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Polka-Dot Blouse: The polka-dot blouse infused playfulness into her business-casual wardrobe.  ",
+        "ipa": "pówkɒ-dɒ́t bláws: ðə pówkɒ-dɒ́t bláws ᵻ̀nfjúwzd plɛ́jfəlnəs ᵻntə hər bᵻ́znəs-kǽʒəwəl wɔ́rdròwb.",
+        "hash": "TXT_197e6be84e5a59f466a1fbae3a089e.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Side-Tie Bikini: The side-tie bikini bottoms adjusted at the hips for the perfect fit.  ",
+        "ipa": "sájd-táj bᵻkíjnij: ðə sájd-táj bᵻkíjnij bɒ́təmz ədʒʌ́stᵻd æt ðə hᵻ́ps fɔr ðə pɜ́rfəkt fᵻ́t.",
+        "hash": "TXT_212e7e2e2f4cab0ceb00a0dca793fc.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Playsuit Outfit: The playsuit outfit was a short, playful take on a full-body piece.  ",
+        "ipa": "plɛ́jsùwt áwtfᵻ̀t: ðə plɛ́jsùwt áwtfᵻ̀t wɒz ə ʃɔ́rt, plɛ́jfəl tɛ́jk ɒn ə fʊ́l-bɒ́dij píjs.",
+        "hash": "TXT_70cb69930f517e29dfd4e74bf7e217.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Midi Skirt: The midi skirt landed halfway down her calves for a versatile length.  ",
+        "ipa": "míjdij skɜ́rt: ðə míjdij skɜ́rt lǽndᵻd hǽfwɛ́j dawn hər kǽvz fɔr ə vɜ́rsətajl lɛ́ŋθ.",
+        "hash": "TXT_527a2c22db0e1639f8992aa546292c.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Puff-Sleeve Top: The puff-sleeve top lifted gently at the shoulders for a youthful vibe.  ",
+        "ipa": "pʌ́f-slíjv tɒ́p: ðə pʌ́f-slíjv tɒ́p lᵻ́ftᵻd dʒɛ́ntlij æt ðə ʃówldərz fɔr ə júwθfəl vájb.",
+        "hash": "TXT_90dca1a4bc6d09e2c66dbd52f5d5f0.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Shawl Lapel Blazer: The shawl lapel blazer curved smoothly around his chest instead of forming sharp notches.  ",
+        "ipa": "ʃɔ́l ləpɛ́l blɛ́jzər: ðə ʃɔ́l ləpɛ́l blɛ́jzər kɜ́rvd smúwðlij əráwnd hᵻz tʃɛ́st ᵻ̀nstɛ́d əv fɔ́rmᵻŋ ʃɑ́rp nɒ́tʃᵻz.",
+        "hash": "TXT_bf6d488e90dddb640dacad52732ee1.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Drawstring Hoodie: The drawstring hoodie let him pull the hood securely around his face.  ",
+        "ipa": "drɔ́strᵻ̀ŋ hʊ́dij: ðə drɔ́strᵻ̀ŋ hʊ́dij lɛt hᵻm pʊ́l ðə hʊ́d səkjʊ́rlij əráwnd hᵻz fɛ́js.",
+        "hash": "TXT_68820f12c3f05dd18aed4a4cf7d676.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Moto Pants: The moto pants included ribbed panels for a biker-inspired style.  ",
+        "ipa": "mɒ́tow pǽnts: ðə mɒ́tow pǽnts ᵻnklúwdᵻd rᵻ́bd pǽnəlz fɔr ə bájkər-ᵻ̀nspájərd stájl.",
+        "hash": "TXT_5d1dbf4bd0dd7587ab6f4aa7e6fd48.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Quarter-Zip Pullover: The quarter-zip pullover let him adjust the neckline while jogging.  ",
+        "ipa": "kwɔ́rtər-zᵻ́p pʊlówvər: ðə kwɔ́rtər-zᵻ́p pʊlówvər lɛt hᵻm ədʒʌ́st ðə nɛ́klàjn wájl dʒɒ́ɡᵻŋ.",
+        "hash": "TXT_eb8db6c6c0b798d09394b2c232e8aa.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Fleece Leggings: The fleece leggings offered extra insulation during wintertime errands.  ",
+        "ipa": "flíjs lɛ́ɡᵻŋz: ðə flíjs lɛ́ɡᵻŋz ɔ́fərd ɛ́kstrə ᵻ̀nsəlɛ́jʃən dʊ́rᵻŋ wᵻ́ntərtàjm ɛ́ərəndz.",
+        "hash": "TXT_9b7d9a0f7499b85a82de09a5034911.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Tie-Dye Hoodie: The tie-dye hoodie combined comfort with bursts of psychedelic color.  ",
+        "ipa": "táj-dáj hʊ́dij: ðə táj-dáj hʊ́dij kəmbájnd kʌ́mfərt wᵻð bɜ́rsts əv sàjkədɛ́lᵻk kʌ́lər.",
+        "hash": "TXT_72e79334f81ef3ebb24beaa98cf2cd.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Collar Detail Dress: The collar detail dress had a contrasting collar for a pop of sophistication.  ",
+        "ipa": "kɒ́lər díjtɛjl drɛ́s: ðə kɒ́lər díjtɛjl drɛ́s hǽd ə kəntrǽstᵻŋ kɒ́lər fɔr ə pɒ́p əv səfᵻ̀stᵻkɛ́jʃən.",
+        "hash": "TXT_9275b4793ea97e2d1f26c90e482ad3.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Overall Shorts: The overall shorts merged the bib front of overalls with the length of shorts.  ",
+        "ipa": "ówvərɔ̀l ʃɔ́rts: ðə ówvərɔ̀l ʃɔ́rts mɜ́rdʒd ðə bᵻ́b frʌ́nt əv ówvərɔ̀lz wᵻð ðə lɛ́ŋθ əv ʃɔ́rts.",
+        "hash": "TXT_cd520d8160804745e653bd3fb36896.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Embellished Collar Shirt: The embellished collar shirt glistened with pearls sewn around the neckline.  ",
+        "ipa": "ɛmbɛ́lᵻʃt kɒ́lər ʃɜ́rt: ðə ɛmbɛ́lᵻʃt kɒ́lər ʃɜ́rt ɡlᵻ́sənd wᵻð pɜ́rlz sówn əráwnd ðə nɛ́klàjn.",
+        "hash": "TXT_f1a18a5eba566d6cb556056649112b.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Cracked-Effect Leather: The cracked-effect leather jacket showed a vintage, weathered look.  ",
+        "ipa": "krǽkt-əfɛ́kt lɛ́ðər: ðə krǽkt-əfɛ́kt lɛ́ðər dʒǽkət ʃówd ə vᵻ́ntᵻdʒ, wɛ́ðərd lʊ́k.",
+        "hash": "TXT_ab4a7f159b7f3e2927e31d3eff82d2.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Wide-Leg Jumpsuit: The wide-leg jumpsuit allowed her to move easily while maintaining a sleek silhouette.  ",
+        "ipa": "wájd-lɛ́ɡ dʒʌ́mpsùwt: ðə wájd-lɛ́ɡ dʒʌ́mpsùwt əláwd hər tə múwv íjzəlij wájl mɛjntɛ́jnᵻŋ ə slíjk sᵻ̀ləwɛ́t.",
+        "hash": "TXT_0d75cc7d76db4b58657dfe5c3e2347.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Tasseled Kimono: The tasseled kimono added a bohemian accent to her beach attire.  ",
+        "ipa": "tǽsəld kᵻmównə: ðə tǽsəld kᵻmównə ǽdᵻd ə bowhíjmijən ǽksɛ̀nt tə hər bíjtʃ ətájər.",
+        "hash": "TXT_73c9f538d5536fce8a7bcd6dacd005.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Panel Leggings: The panel leggings mixed different textures for a unique, color-blocked design.  ",
+        "ipa": "pǽnəl lɛ́ɡᵻŋz: ðə pǽnəl lɛ́ɡᵻŋz mᵻ́kst dᵻ́fərənt tɛ́kstʃərz fɔr ə juwnᵻ́k, kʌ́lər-blɒ́kt dəzájn.",
+        "hash": "TXT_6137df74ab0e0b95a329aaefb37488.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Fringe Boots: The fringe boots swayed with every step, channeling Western flair.  ",
+        "ipa": "frᵻ́ndʒ búwts: ðə frᵻ́ndʒ búwts swɛ́jd wᵻð ɛvərij stɛ́p, tʃǽnəlᵻŋ wɛ́stərn flɛ́ər.",
+        "hash": "TXT_a8354524f60aa85f30e028b112a7a1.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Oversized Shirt: The oversized shirt doubled as a dress with a belt for shape.  ",
+        "ipa": "ówvərsàjzd ʃɜ́rt: ðə ówvərsàjzd ʃɜ́rt dʌ́bəld æz ə drɛ́s wᵻð ə bɛ́lt fɔr ʃɛ́jp.",
+        "hash": "TXT_b4410edd8563f8805ac6feb9001246.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Velvet Culottes: The velvet culottes combined plush fabric with a breezy, cropped leg.  ",
+        "ipa": "vɛ́lvət kjuwlɒ́ts: ðə vɛ́lvət kjuwlɒ́ts kəmbájnd plʌ́ʃ fǽbrᵻk wᵻð ə bríjzij, krɒ́pt lɛ́ɡ.",
+        "hash": "TXT_cd3c0a279fb383936ada2da2defea1.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Cuff Bracelet: The cuff bracelet slid onto her wrist to accent her outfit with metallic shine.  ",
+        "ipa": "kʌ́f brɛ́jslət: ðə kʌ́f brɛ́jslət slᵻ́d ɒntuw hər rᵻ́st tə ǽksɛ̀nt hər áwtfᵻ̀t wᵻð mətǽlᵻk ʃájn.",
+        "hash": "TXT_8144a747c5a85a1d0e841228905014.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Ribbed Sweater Dress: The ribbed sweater dress hugged her body and felt cozy all day.  ",
+        "ipa": "rᵻ́bd swɛ́tər drɛ́s: ðə rᵻ́bd swɛ́tər drɛ́s hʌ́ɡd hər bɒ́dij ənd fɛ́lt kówzij ɔl dɛ́j.",
+        "hash": "TXT_1b1deaad13628d8c89a91d4c00429d.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Holographic Jacket: The holographic jacket reflected light in a rainbow of shifting colors.  ",
+        "ipa": "hɒ̀ləɡrǽfᵻk dʒǽkət: ðə hɒ̀ləɡrǽfᵻk dʒǽkət rəflɛ́ktᵻd lájt ᵻn ə rɛ́jnbòw əv ʃᵻ́ftᵻŋ kʌ́lərz.",
+        "hash": "TXT_6808f5ba9be3d4f52cc9c115260199.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Front-Tie Bikini: The front-tie bikini top tightened in the center for adjustable support.  ",
+        "ipa": "frʌ́nt-táj bᵻkíjnij: ðə frʌ́nt-táj bᵻkíjnij tɒ́p tájtənd ᵻn ðə sɛ́ntər fɔr ədʒʌ́stəbəl səpɔ́rt.",
+        "hash": "TXT_4e1f5f9156bece2d3fcf45c712346b.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Duster Coat: The duster coat reached almost to her ankles for a dramatic entrance.  ",
+        "ipa": "dʌ́stər kówt: ðə dʌ́stər kówt ríjtʃt ɔ́lmowst tə hər ǽŋkəlz fɔr ə drəmǽtᵻk ɛ́ntrəns.",
+        "hash": "TXT_3fbeaf0e062e3c5f12d697b1e46403.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Gauzy Wrap: The gauzy wrap draped over her shoulders, providing just a hint of coverage.  ",
+        "ipa": "ɡɔ́zij rǽp: ðə ɡɔ́zij rǽp drɛ́jpt ówvər hər ʃówldərz, prəvájdᵻŋ dʒəst ə hᵻ́nt əv kʌ́vərᵻdʒ.",
+        "hash": "TXT_b8fbf2fc675e30071ab3e7eb5d0385.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Wingtip Shoes: The wingtip shoes sported decorative perforations along the toe cap.  ",
+        "ipa": "wᵻ́ŋtᵻ̀p ʃúwz: ðə wᵻ́ŋtᵻ̀p ʃúwz spɔ́rtᵻd dɛ́kərətᵻv pɜ̀rfərɛ́jʃənz əlɔ́ŋ ðə tów kǽp.",
+        "hash": "TXT_7de59c56905296c23db765f6941919.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Seamed Stockings: The seamed stockings drew a flattering line down the back of her legs.  ",
+        "ipa": "síjmd stɒ́kᵻŋz: ðə síjmd stɒ́kᵻŋz drúw ə flǽtərᵻŋ lájn dawn ðə bǽk əv hər lɛ́ɡz.",
+        "hash": "TXT_ad16937559172daa534e0361bae62d.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Teddy Sweater: The teddy sweater felt soft and plush, just like a cuddly bear.  ",
+        "ipa": "tɛ́dij swɛ́tər: ðə tɛ́dij swɛ́tər fɛ́lt sɒ́ft ənd plʌ́ʃ, dʒəst lájk ə kʌ́dlij bɛ́ər.",
+        "hash": "TXT_2cbb99344c84d05c11bbeabb9c007d.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Metallic Leggings: The metallic leggings shone under the club’s neon lights.  ",
+        "ipa": "mətǽlᵻk lɛ́ɡᵻŋz: ðə mətǽlᵻk lɛ́ɡᵻŋz ʃówn ʌ́ndər ðə klʌ́b'z níjɒn lájts.",
+        "hash": "TXT_bf242d2d11a691d77d20226d74044d.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Drawstring Waist Dress: The drawstring waist dress let her adjust the fit around her torso.  ",
+        "ipa": "drɔ́strᵻ̀ŋ wɛ́jst drɛ́s: ðə drɔ́strᵻ̀ŋ wɛ́jst drɛ́s lɛt hər ədʒʌ́st ðə fᵻ́t əráwnd hər tɔ́rsòw.",
+        "hash": "TXT_c852d6545bf4416b2cdb74a45ae8e8.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Slip-On Loafers: The slip-on loafers needed no laces or buckles—just a quick push of the foot.  ",
+        "ipa": "slᵻ́p-ɒn lówfərz: ðə slᵻ́p-ɒn lówfərz níjdᵻd now lɛ́jsᵻz ɔr bʌ́kəlz—dʒəst ə kwᵻ́k pʊ́ʃ əv ðə fʊ́t.",
+        "hash": "TXT_b51ae0f19f996f621db1b3b5e921d4.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Velvet Kimono: The velvet kimono gave her simple outfit a lavish twist.  ",
+        "ipa": "vɛ́lvət kᵻmównə: ðə vɛ́lvət kᵻmównə ɡɛ́jv hər sᵻ́mpəl áwtfᵻ̀t ə lǽvᵻʃ twᵻ́st.",
+        "hash": "TXT_42681cbf53841b5c056c845e90e8e6.mp3",
+        "score": 0.5
+    },
+    {
+        "txt": "Leopard Print Coat: The leopard print coat emphasized her bold, confident personality.  ",
+        "ipa": "lɛ́pərd prᵻ́nt kówt: ðə lɛ́pərd prᵻ́nt kówt ɛ́mfəsajzd hər bówld, kɒ́nfᵻdənt pɜ̀rsənǽlᵻtij.",
+        "hash": "TXT_301dc111266c813b6e550223f1aadb.mp3",
+        "score": 0.5
+    }
+]
