@@ -1,0 +1,2346 @@
+[
+    {
+        "Question": "When you're in the kitchen and the recipe instructs you to quickly cook vegetables over medium heat with a little oil in a pan, which culinary technique are you most likely using?",
+        "RightAnswer": "sauté",
+        "WrongAnswers": [
+            "bake",
+            "boil",
+            "grill",
+            "steam",
+            "roast"
+        ],
+        "Explanation": "Sautéing is a cooking method that involves cooking food quickly in a small amount of oil or fat over relatively high heat. It's a great way to soften vegetables, develop flavors, and bring out the vibrant colors in your dish. The goal is to cook evenly with frequent stirring or flipping, ensuring the food is nicely browned and not burnt.",
+        "trans_Question": "wɛ́n júwr ɪn ðə kɪ́tʃən ənd ðə rɛ́sɪpij ɪnstrʌ́kts juw tə kwɪ́klij kʊ́k vɛ́dʒtəbəlz ówvər míjdijəm híjt wɪð ə lɪ́təl ɔ́jl ɪn ə pǽn, wɪ́tʃ kjúwlɪnɛ̀ərij tɛkníjk ɑr juw mówst lájklij júwzɪŋ?",
+        "trans_RightAnswer": "sɔé",
+        "trans_WrongAnswers": [
+            "béjk",
+            "bɔ́jl",
+            "ɡrɪ́l",
+            "stíjm",
+            "rówst"
+        ],
+        "trans_Explanation": "sowtéjɪŋ ɪz ə kʊ́kɪŋ mɛ́θəd ðət ɪnvɒ́lvz kʊ́kɪŋ fúwd kwɪ́klij ɪn ə smɔ́l əmáwnt əv ɔ́jl ɔr fǽt ówvər rɛ́lətɪvlij háj híjt. ɪt's ə ɡréjt wej tə sɒ́fən vɛ́dʒtəbəlz, dəvɛ́ləp fléjvərz, ənd brɪ́ŋ awt ðə vájbrənt kʌ́lərz ɪn jɔr dɪ́ʃ. ðə ɡówl ɪz tə kʊ́k íjvənlij wɪð fríjkwənt stɜ́rɪŋ ɔr flɪ́pɪŋ, ɛnʃʊ́rɪŋ ðə fúwd ɪz nájslij bráwnd ənd nɒt bɜ́rnt."
+    },
+    {
+        "Question": "During a culinary class, the chef asked students to slow-cook a piece of meat, first by searing it at a high temperature and then letting it simmer gently in a closed pot with some liquid. Which cooking technique is the chef referring to?",
+        "RightAnswer": "braise",
+        "WrongAnswers": [
+            "grill",
+            "fry",
+            "roast",
+            "poach",
+            "steam"
+        ],
+        "Explanation": "Braising is a cooking method that involves browning the food with high heat and then finishing it slowly in liquid. This technique is perfect for tougher cuts of meat as the long, slow cooking breaks down the tough connective tissue, resulting in a tender and flavorful dish. It's like giving the food a relaxing spa day: intense heat therapy followed by a soothing bath to bring out its best qualities.",
+        "trans_Question": "dʊ́rɪŋ ə kjúwlɪnɛ̀ərij klǽs, ðə ʃɛ́f ǽskt stúwdənts tə slów-kʊ́k ə píjs əv míjt, fɜ́rst baj sɪ́ərɪŋ ɪt æt ə háj tɛ́mpərətʃər ənd ðɛn lɛ́tɪŋ ɪt sɪ́mər dʒɛ́ntlij ɪn ə klówzd pɒ́t wɪð sʌm lɪ́kwɪd. wɪ́tʃ kʊ́kɪŋ tɛkníjk ɪz ðə ʃɛ́f rəfɜ́rɪŋ tə?",
+        "trans_RightAnswer": "bréjz",
+        "trans_WrongAnswers": [
+            "ɡrɪ́l",
+            "fráj",
+            "rówst",
+            "pówtʃ",
+            "stíjm"
+        ],
+        "trans_Explanation": "bréjzɪŋ ɪz ə kʊ́kɪŋ mɛ́θəd ðət ɪnvɒ́lvz bráwnɪŋ ðə fúwd wɪð háj híjt ənd ðɛn fɪ́nɪʃɪŋ ɪt slówlij ɪn lɪ́kwɪd. ðɪs tɛkníjk ɪz pɜ́rfəkt fɔr tʌ́fər kʌ́ts əv míjt æz ðə lɔ́ŋ, slów kʊ́kɪŋ bréjks dawn ðə tʌ́f kənɛ́ktɪv tɪ́sjùw, rəzʌ́ltɪŋ ɪn ə tɛ́ndər ənd fléjvərfəl dɪ́ʃ. ɪt's lájk ɡɪ́vɪŋ ðə fúwd ə rijlǽksɪŋ spɒ́ déj: ɪntɛ́ns híjt θɛ́ərəpij fɒ́lowd baj ə súwðɪŋ bǽθ tə brɪ́ŋ awt ɪts bɛ́st kwɑ́lətijz."
+    },
+    {
+        "Question": "If you want to prepare an egg with a tender white and creamy yolk by gently cooking it in simmering water, which culinary technique should you use?",
+        "RightAnswer": "poach",
+        "WrongAnswers": [
+            "grill",
+            "fry",
+            "roast",
+            "bake",
+            "steam"
+        ],
+        "Explanation": "To 'poach' an egg means to cook it by gently slipping it from its shell into barely simmering water. The key is to keep the water at just the right temperature—hot but not boiling—so the egg cooks delicately. This method yields that perfect silky texture, setting the whites while leaving the yolk delightfully runny.",
+        "trans_Question": "ɪf juw wɒ́nt tə prəpɛ́ər ən ɛ́ɡ wɪð ə tɛ́ndər wájt ənd kríjmij jówk baj dʒɛ́ntlij kʊ́kɪŋ ɪt ɪn sɪ́mərɪŋ wɔ́tər, wɪ́tʃ kjúwlɪnɛ̀ərij tɛkníjk ʃʊd juw juwz?",
+        "trans_RightAnswer": "pówtʃ",
+        "trans_WrongAnswers": [
+            "ɡrɪ́l",
+            "fráj",
+            "rówst",
+            "béjk",
+            "stíjm"
+        ],
+        "trans_Explanation": "tə 'pówtʃ' ən ɛ́ɡ míjnz tə kʊ́k ɪt baj dʒɛ́ntlij slɪ́pɪŋ ɪt frəm ɪts ʃɛ́l ɪntə bɛ́ərlij sɪ́mərɪŋ wɔ́tər. ðə kíj ɪz tə kíjp ðə wɔ́tər æt dʒəst ðə rájt tɛ́mpərətʃər—hɒ́t bʌt nɒt bɔ́jlɪŋ—sow ðə ɛ́ɡ kʊ́ks dɛ́lɪkətlij. ðɪs mɛ́θəd jíjldz ðət pɜ́rfəkt sɪ́lkij tɛ́kstʃər, sɛ́tɪŋ ðə wájts wájl líjvɪŋ ðə jówk dəlájtfəlij rʌ́nij."
+    },
+    {
+        "Question": "In the world of cooking, what term describes the process of briefly boiling vegetables and then plunging them into cold water to halt the cooking process and preserve their color and texture?",
+        "RightAnswer": "blanch",
+        "WrongAnswers": [
+            "braise",
+            "poach",
+            "sear",
+            "sauté",
+            "broil"
+        ],
+        "Explanation": "Blanching is a cooking technique where food, typically vegetables, is briefly submerged in boiling water and then rapidly cooled in ice water. This process not only enhances color and texture but also helps in loosening the skins of some vegetables and fruits, making them easier to peel. It's a handy technique to ensure your greens remain vibrant and delicious!",
+        "trans_Question": "ɪn ðə wɜ́rld əv kʊ́kɪŋ, wɒt tɜ́rm dəskrájbz ðə prɒ́sɛs əv bríjflij bɔ́jlɪŋ vɛ́dʒtəbəlz ənd ðɛn plʌ́ndʒɪŋ ðɛm ɪntə kówld wɔ́tər tə hɔ́lt ðə kʊ́kɪŋ prɒ́sɛs ənd prəzɜ́rv ðɛər kʌ́lər ənd tɛ́kstʃər?",
+        "trans_RightAnswer": "blǽntʃ",
+        "trans_WrongAnswers": [
+            "bréjz",
+            "pówtʃ",
+            "sɪ́ər",
+            "sɔé",
+            "brɔ́jl"
+        ],
+        "trans_Explanation": "blǽntʃɪŋ ɪz ə kʊ́kɪŋ tɛkníjk wɛ́ər fúwd, tɪ́pɪkəlij vɛ́dʒtəbəlz, ɪz bríjflij sʌbmɜ́rdʒd ɪn bɔ́jlɪŋ wɔ́tər ənd ðɛn rǽpɪdlij kúwld ɪn ájs wɔ́tər. ðɪs prɒ́sɛs nɒt ównlij ənhǽnsɪz kʌ́lər ənd tɛ́kstʃər bʌt ɔ́lsow hɛ́lps ɪn lúwsənɪŋ ðə skɪ́nz əv sʌm vɛ́dʒtəbəlz ənd frúwts, méjkɪŋ ðɛm íjzijər tə píjl. ɪt's ə hǽndij tɛkníjk tə ənʃʊ́r jɔr ɡríjnz rəméjn vájbrənt ənd dəlɪ́ʃəs!"
+    },
+    {
+        "Question": "While preparing a delicate sauce to top off your dish, the recipe emphasizes the need to keep the liquid just below boiling, where small bubbles gently form and break. What cooking technique is being described here?",
+        "RightAnswer": "simmer",
+        "WrongAnswers": [
+            "boil",
+            "saute",
+            "sear",
+            "bake",
+            "grill"
+        ],
+        "Explanation": "Simmering is a cooking technique where you heat a liquid until it reaches a temperature just below boiling, typically between 180-200°F (82-93°C). This allows small bubbles to appear on the liquid's surface, creating a gentle, controlled cooking environment. Simmering is perfect for slowly cooking ingredients to enhance flavors, keep foods tender, and ensure even cooking without the intense agitation of boiling.",
+        "trans_Question": "wájl prəpɛ́ərɪŋ ə dɛ́lɪkət sɔ́s tə tɒ́p ɔ́f jɔr dɪ́ʃ, ðə rɛ́sɪpij ɛ́mfəsajzɪz ðə níjd tə kíjp ðə lɪ́kwɪd dʒəst bijlów bɔ́jlɪŋ, wɛ́ər smɔ́l bʌ́bəlz dʒɛ́ntlij fɔ́rm ənd bréjk. wɒt kʊ́kɪŋ tɛkníjk ɪz bíjɪŋ dəskrájbd hɪər?",
+        "trans_RightAnswer": "sɪ́mər",
+        "trans_WrongAnswers": [
+            "bɔ́jl",
+            "sɔtéj",
+            "sɪ́ər",
+            "béjk",
+            "ɡrɪ́l"
+        ],
+        "trans_Explanation": "sɪ́mərɪŋ ɪz ə kʊ́kɪŋ tɛkníjk wɛ́ər juw híjt ə lɪ́kwɪd əntɪ́l ɪt ríjtʃɪz ə tɛ́mpərətʃər dʒəst bijlów bɔ́jlɪŋ, tɪ́pɪkəlij bijtwíjn 180-200°F (82-93°C). ðɪs əláwz smɔ́l bʌ́bəlz tə əpɪ́ər ɒn ðə lɪ́kwɪd'z sɜ́rfəs, krijéjtɪŋ ə dʒɛ́ntəl, kəntrówld kʊ́kɪŋ ənvájərənmənt. sɪ́mərɪŋ ɪz pɜ́rfəkt fɔr slówlij kʊ́kɪŋ ɪnɡríjdijənts tə ənhǽns fléjvərz, kíjp fúwdz tɛ́ndər, ənd ənʃʊ́r íjvən kʊ́kɪŋ wɪðáwt ðə ɪntɛ́ns æ̀dʒɪtéjʃən əv bɔ́jlɪŋ."
+    },
+    {
+        "Question": "In preparing a fluffy omelette, which kitchen tool would you typically use to beat the eggs to incorporate air quickly and achieve that perfect texture?",
+        "RightAnswer": "whisk",
+        "WrongAnswers": [
+            "spatula",
+            "ladle",
+            "tongs",
+            "grater",
+            "peeler"
+        ],
+        "Explanation": "A whisk is a kitchen tool that consists of a set of looped wires or a coil attached to a handle. It's specifically designed to aerate mixtures, making it ideal for beating eggs or making whipped cream, as it efficiently incorporates air into liquids to achieve a light, airy consistency.",
+        "trans_Question": "ɪn prəpɛ́ərɪŋ ə flʌ́fij ɒ́mlɪt, wɪ́tʃ kɪ́tʃən túwl wʊd juw tɪ́pɪkəlij juwz tə bíjt ðə ɛ́ɡz tə ɪnkɔ́rpərejt ɛ́ər kwɪ́klij ənd ətʃíjv ðət pɜ́rfəkt tɛ́kstʃər?",
+        "trans_RightAnswer": "wɪ́sk",
+        "trans_WrongAnswers": [
+            "spǽtʃʊ̀lə",
+            "léjdəl",
+            "tɒ́ŋz",
+            "ɡréjtər",
+            "píjlər"
+        ],
+        "trans_Explanation": "ə wɪ́sk ɪz ə kɪ́tʃən túwl ðət kənsɪ́sts əv ə sɛ́t əv lúwpt wájərz ɔr ə kɔ́jl ətǽtʃt tə ə hǽndəl. ɪt's spəsɪ́fɪklij dəzájnd tə /ˈɛər.ejt/ mɪ́kstʃərz, méjkɪŋ ɪt ajdíjəl fɔr bíjtɪŋ ɛ́ɡz ɔr méjkɪŋ wɪ́pt kríjm, æz ɪt əfɪ́ʃəntlij ɪnkɔ́rpərejts ɛ́ər ɪntə lɪ́kwɪdz tə ətʃíjv ə lájt, ɛ́ərij kənsɪ́stənsij."
+    },
+    {
+        "Question": "In the context of preparing a delicate soufflé, which culinary technique involves gently incorporating ingredients, such as whipped egg whites, without deflating them?",
+        "RightAnswer": "fold",
+        "WrongAnswers": [
+            "chop",
+            "whisk",
+            "blend",
+            "knead",
+            "sauté"
+        ],
+        "Explanation": "In cooking, 'fold' is a method used to gently combine a light, airy ingredient with a heavier mixture. Typically, this means adding something like whipped cream or beaten egg whites to a batter without losing their delicate texture. The process usually involves using a spatula to carefully lift and turn the mixtures together, rather than stirring vigorously. This ensures the air stays trapped, giving your dish a light and fluffy consistency.",
+        "trans_Question": "ɪn ðə kɒ́ntɛkst əv prəpɛ́ərɪŋ ə dɛ́lɪkət suwfléjé, wɪ́tʃ kjúwlɪnɛ̀ərij tɛkníjk ɪnvɒ́lvz dʒɛ́ntlij ɪnkɔ́rpərejtɪŋ ɪnɡríjdijənts, sʌtʃ æz wɪ́pt ɛ́ɡ wájts, wɪðáwt dəfléjtɪŋ ðɛm?",
+        "trans_RightAnswer": "fówld",
+        "trans_WrongAnswers": [
+            "tʃɒ́p",
+            "wɪ́sk",
+            "blɛ́nd",
+            "níjd",
+            "sɔé"
+        ],
+        "trans_Explanation": "ɪn kʊ́kɪŋ, 'fówld' ɪz ə mɛ́θəd júwzd tə dʒɛ́ntlij kɒ́mbajn ə lájt, ɛ́ərij ɪnɡríjdijənt wɪð ə hɛ́vijər mɪ́kstʃər. tɪ́pɪkəlij, ðɪs míjnz ǽdɪŋ sʌ́mθɪŋ lájk wɪ́pt kríjm ɔr bíjtən ɛ́ɡ wájts tə ə bǽtər wɪðáwt lúwzɪŋ ðɛər dɛ́lɪkət tɛ́kstʃər. ðə prɒ́sɛs júwʒəlij ɪnvɒ́lvz júwzɪŋ ə spǽtʃʊ̀lə tə kɛ́ərfəlij lɪ́ft ənd tɜ́rn ðə mɪ́kstʃərz təɡɛ́ðər, rǽðər ðʌn stɜ́rɪŋ vɪ́ɡərəslij. ðɪs ənʃʊ́rz ðə ɛ́ər stéjz trǽpt, ɡɪ́vɪŋ jɔr dɪ́ʃ ə lájt ənd flʌ́fij kənsɪ́stənsij."
+    },
+    {
+        "Question": "Chef Laura always tells her students to prepare the onions a certain way when making her famous spaghetti sauce for the best texture. What kitchen technique is she referring to when she instructs them to chop the onions into very small, fine pieces?",
+        "RightAnswer": "mince",
+        "WrongAnswers": [
+            "julienne",
+            "dice",
+            "chop",
+            "slice",
+            "grate"
+        ],
+        "Explanation": "To 'mince' means to cut food ingredients, usually vegetables or meat, into very small, fine pieces. It's a technique often used in cooking to ensure even texture and to distribute flavors more thoroughly in a dish. When you mince onions, for example, you create tiny bits that melt into sauces and soups, enhancing the overall flavor without creating noticeable chunks.",
+        "trans_Question": "ʃɛ́f lɔ́rə ɔ́lwejz tɛ́lz hər stúwdənts tə prəpɛ́ər ðə ʌ́njənz ə sɜ́rtən wej wɛ́n méjkɪŋ hər féjməs spəɡɛ́tij sɔ́s fɔr ðə bɛ́st tɛ́kstʃər. wɒt kɪ́tʃən tɛkníjk ɪz ʃij rəfɜ́rɪŋ tə wɛ́n ʃij ɪnstrʌ́kts ðɛm tə tʃɒ́p ðə ʌ́njənz ɪntə vɛ́ərij smɔ́l, fájn píjsɪz?",
+        "trans_RightAnswer": "mɪ́ns",
+        "trans_WrongAnswers": [
+            "dʒuwlíjən",
+            "dájs",
+            "tʃɒ́p",
+            "slájs",
+            "ɡréjt"
+        ],
+        "trans_Explanation": "tə 'mɪ́ns' míjnz tə kʌ́t fúwd ɪnɡríjdijənts, júwʒəlij vɛ́dʒtəbəlz ɔr míjt, ɪntə vɛ́ərij smɔ́l, fájn píjsɪz. ɪt's ə tɛkníjk ɔ́fən júwzd ɪn kʊ́kɪŋ tə ənʃʊ́r íjvən tɛ́kstʃər ənd tə dɪstrɪ́bjuwt fléjvərz mɔr θɜ́rəlij ɪn ə dɪ́ʃ. wɛ́n juw mɪ́ns ʌ́njənz, fɔr əɡzǽmpəl, juw krijéjt tájnij bɪ́ts ðət mɛ́lt ɪntə sɔ́sɪz ənd súwps, ɛnhǽnsɪŋ ðə ówvərɔ̀l fléjvər wɪðáwt krijéjtɪŋ nówtɪsəbəl tʃʌ́ŋks."
+    },
+    {
+        "Question": "Imagine you're preparing a vibrant summer salad and the recipe asks you to cut the carrots into thin, matchstick-sized pieces. What culinary term is used to describe this particular style of cutting vegetables?",
+        "RightAnswer": "julienne",
+        "WrongAnswers": [
+            "brunoise",
+            "chiffonade",
+            "dicing",
+            "chopping",
+            "mincing"
+        ],
+        "Explanation": "Julienne is a fancy French term that makes you look like a pro in the kitchen when you cut your vegetables into long, thin strips about the size of matchsticks. It's not just for showing off; julienned vegetables can cook more evenly and add a delightful texture to your dishes.",
+        "trans_Question": "ɪmǽdʒɪn júwr prəpɛ́ərɪŋ ə vájbrənt sʌ́mər sǽləd ənd ðə rɛ́sɪpij ǽsks juw tə kʌ́t ðə kǽrəts ɪntə θɪ́n, mǽtʃstɪk-sájzd píjsɪz. wɒt kjúwlɪnɛ̀ərij tɜ́rm ɪz júwzd tə dəskrájb ðɪs pərtɪ́kjələr stájl əv kʌ́tɪŋ vɛ́dʒtəbəlz?",
+        "trans_RightAnswer": "dʒuwlíjən",
+        "trans_WrongAnswers": [
+            "bruwnwɒ́z",
+            "ˌʃɪf.əˈnɑd",
+            "dájsɪŋ",
+            "tʃɒ́pɪŋ",
+            "mɪ́nsɪŋ"
+        ],
+        "trans_Explanation": "dʒuwlíjən ɪz ə fǽnsij frɛ́ntʃ tɜ́rm ðət méjks juw lʊ́k lájk ə prów ɪn ðə kɪ́tʃən wɛ́n juw kʌ́t jɔr vɛ́dʒtəbəlz ɪntə lɔ́ŋ, θɪ́n strɪ́ps əbawt ðə sájz əv /ˈmætʃ.stɪks/. ɪt's nɒt dʒəst fɔr ʃówɪŋ ɔ́f; /dʒuwlijˈɛnd/ vɛ́dʒtəbəlz kən kʊ́k mɔr íjvənlij ənd ǽd ə dəlájtfəl tɛ́kstʃər tə jɔr dɪ́ʃɪz."
+    },
+    {
+        "Question": "When adding a burst of citrus flavor to your dish, which ingredient is known for providing this tangy essence, particularly when using the outer peel of a lemon or orange?",
+        "RightAnswer": "zest",
+        "WrongAnswers": [
+            "rind",
+            "pulp",
+            "seed",
+            "juice",
+            "pit"
+        ],
+        "Explanation": "Zest refers to the small pieces of the colored outer skin of citrus fruits like lemons, oranges, and limes. It packs a powerful punch of fresh, tangy flavor because it contains essential oils and is often used to add a delightful citrus aroma and taste to both sweet and savory dishes.",
+        "trans_Question": "wɛ́n ǽdɪŋ ə bɜ́rst əv sɪ́trəs fléjvər tə jɔr dɪ́ʃ, wɪ́tʃ ɪnɡríjdijənt ɪz nówn fɔr prəvájdɪŋ ðɪs tæŋij ɛ́səns, pərtɪ́kjələrlij wɛ́n júwzɪŋ ðə áwtər píjl əv ə lɛ́mən ɔr ɔ́rəndʒ?",
+        "trans_RightAnswer": "zɛ́st",
+        "trans_WrongAnswers": [
+            "rájnd",
+            "pʌ́lp",
+            "síjd",
+            "dʒúws",
+            "pɪ́t"
+        ],
+        "trans_Explanation": "zɛ́st rəfɜ́rz tə ðə smɔ́l píjsɪz əv ðə kʌ́lərd áwtər skɪ́n əv sɪ́trəs frúwts lájk lɛ́mənz, ɔ́rəndʒɪz, ənd lájmz. ɪt pǽks ə páwərfəl pʌ́ntʃ əv frɛ́ʃ, tæŋij fléjvər bəkɒ́z ɪt kəntéjnz əsɛ́nʃəl ɔ́jlz ənd ɪz ɔ́fən júwzd tə ǽd ə dəlájtfəl sɪ́trəs ərówmə ənd téjst tə bówθ swíjt ənd séjvərij dɪ́ʃɪz."
+    },
+    {
+        "Question": "During a cooking demonstration, the chef asked the audience what term is used to describe the process of heating sugar until it turns golden brown, enhancing its flavor and adding a rich, sweet depth to various dishes?",
+        "RightAnswer": "caramelize",
+        "WrongAnswers": [
+            "glaze",
+            "braise",
+            "temper",
+            "ferment",
+            "marinate"
+        ],
+        "Explanation": "To 'caramelize' means to cook sugar until it melts and turns a beautiful golden brown. As the sugar heats, it starts to break down and develops a complex, rich flavor that's both sweet and slightly bitter. This process isn't just limited to sugar — when you're sautéing onions or roast vegetables until they're browned and sweet, you're caramelizing those sugars within! Caramelization adds depth and sweetness to many dishes, from desserts to savory stews.",
+        "trans_Question": "dʊ́rɪŋ ə kʊ́kɪŋ dɛ̀mənstréjʃən, ðə ʃɛ́f ǽskt ðə ɒ́dijəns wɒt tɜ́rm ɪz júwzd tə dəskrájb ðə prɒ́sɛs əv híjtɪŋ ʃʊ́ɡər əntɪ́l ɪt tɜ́rnz ɡówldən bráwn, ɛnhǽnsɪŋ ɪts fléjvər ənd ǽdɪŋ ə rɪ́tʃ, swíjt dɛ́pθ tə vɛ́ərijəs dɪ́ʃɪz?",
+        "trans_RightAnswer": "kǽrəməlàjz",
+        "trans_WrongAnswers": [
+            "ɡléjz",
+            "bréjz",
+            "tɛ́mpər",
+            "fɜ́rmɛnt",
+            "mɛ́ərənèjt"
+        ],
+        "trans_Explanation": "tə 'kǽrəməlàjz' míjnz tə kʊ́k ʃʊ́ɡər əntɪ́l ɪt mɛ́lts ənd tɜ́rnz ə bjúwtɪfəl ɡówldən bráwn. æz ðə ʃʊ́ɡər híjts, ɪt stɑ́rts tə bréjk dawn ənd dəvɛ́ləps ə kɒ́mplɛks, rɪ́tʃ fléjvər ðət's bówθ swíjt ənd slájtlij bɪ́tər. ðɪs prɒ́sɛs ɪzənt dʒəst lɪ́mɪtɪd tə ʃʊ́ɡər — wɛ́n júwr sowtéjɪŋ ʌ́njənz ɔr rówst vɛ́dʒtəbəlz əntɪ́l ðɛ́ər bráwnd ənd swíjt, júwr kǽrəmɛlajzɪŋ ðowz ʃʊ́ɡərz wɪðɪ́n! kæ̀rəmələzéjʃən ǽdz dɛ́pθ ənd swíjtnəs tə mɛ́nij dɪ́ʃɪz, frəm dəzɜ́rts tə séjvərij stúwz."
+    },
+    {
+        "Question": "After cooking a roast in a pan, Jamie wants to create a flavorful sauce using those tasty browned bits stuck to the bottom. What culinary technique will Jamie use to dissolve those bits and enhance the sauce's flavor?",
+        "RightAnswer": "deglaze",
+        "WrongAnswers": [
+            "braise",
+            "emulsify",
+            "marinate",
+            "caramelize",
+            "fricassee"
+        ],
+        "Explanation": "To deglaze is to add liquid to a hot pan to lift the tasty caramelized bits sticking to the bottom. These bits, called 'fond,' are full of rich flavors and give your sauces or gravies an exceptional depth. When you deglaze, the liquid, such as broth, wine, or vinegar, helps dissolve and incorporate these flavors into a delicious concoction. It's a bit like turning kitchen magic into sauce!",
+        "trans_Question": "ǽftər kʊ́kɪŋ ə rówst ɪn ə pǽn, dʒéjmij wɒ́nts tə krijéjt ə fléjvərfəl sɔ́s júwzɪŋ ðowz téjstij bráwnd bɪ́ts stʌ́k tə ðə bɒ́təm. wɒt kjúwlɪnɛ̀ərij tɛkníjk wɪl dʒéjmij juwz tə dɪzɒ́lv ðowz bɪ́ts ənd ənhǽns ðə sɔ́s'z fléjvər?",
+        "trans_RightAnswer": "dəˈɡlejz",
+        "trans_WrongAnswers": [
+            "bréjz",
+            "ɪmʌ́lsəfàj",
+            "mɛ́ərənèjt",
+            "kǽrəməlàjz",
+            "frɪkəsíj"
+        ],
+        "trans_Explanation": "tə /dəˈɡlejz/ ɪz tə ǽd lɪ́kwɪd tə ə hɒ́t pǽn tə lɪ́ft ðə téjstij kǽrəməlàjzd bɪ́ts stɪ́kɪŋ tə ðə bɒ́təm. ðijz bɪ́ts, kɔ́ld 'fɒ́nd,' ɑr fʊ́l əv rɪ́tʃ fléjvərz ənd ɡɪ́v jɔr sɔ́sɪz ɔr ɡréjvijz ən əksɛ́pʃənəl dɛ́pθ. wɛ́n juw dəɡléjz, ðə lɪ́kwɪd, sʌtʃ æz brɔ́θ, wájn, ɔr vɪ́nəɡər, hɛ́lps dɪzɒ́lv ənd ɪnkɔ́rpərejt ðijz fléjvərz ɪntə ə dəlɪ́ʃəs kənkɒ́kʃən. ɪt's ə bɪ́t lájk tɜ́rnɪŋ kɪ́tʃən mǽdʒɪk ɪntə sɔ́s!"
+    },
+    {
+        "Question": "When preparing a dish to enhance its flavor and tenderness, chefs often immerse the food in a seasoned liquid for a period of time. What is this common culinary technique called?",
+        "RightAnswer": "marinate",
+        "WrongAnswers": [
+            "sauté",
+            "fillet",
+            "broil",
+            "dredge",
+            "caramelize"
+        ],
+        "Explanation": "To marinate means to soak food, usually meat or vegetables, in a mixture of spices, oils, and other flavors to infuse them with taste and make them more tender. This process not only allows the food to absorb rich flavors but also can help in breaking down proteins, resulting in a more succulent texture. It's like giving your food a flavorful bath that makes it more delicious!",
+        "trans_Question": "wɛ́n prəpɛ́ərɪŋ ə dɪ́ʃ tə ənhǽns ɪts fléjvər ənd tɛ́ndərnəs, ʃɛ́fs ɔ́fən ɪmɜ́rs ðə fúwd ɪn ə síjzənd lɪ́kwɪd fɔr ə pɪ́ərijəd əv tájm. wɒt ɪz ðɪs kɒ́mən kjúwlɪnɛ̀ərij tɛkníjk kɔ́ld?",
+        "trans_RightAnswer": "mɛ́ərənèjt",
+        "trans_WrongAnswers": [
+            "sɔé",
+            "fɪlʌ́t",
+            "brɔ́jl",
+            "drɛ́dʒ",
+            "kǽrəməlàjz"
+        ],
+        "trans_Explanation": "tə mɛ́ərənèjt míjnz tə sówk fúwd, júwʒəlij míjt ɔr vɛ́dʒtəbəlz, ɪn ə mɪ́kstʃər əv spájsɪz, ɔ́jlz, ənd ʌ́ðər fléjvərz tə ɪnfjúwz ðɛm wɪð téjst ənd méjk ðɛm mɔr tɛ́ndər. ðɪs prɒ́sɛs nɒt ównlij əláwz ðə fúwd tə əbzɔ́rb rɪ́tʃ fléjvərz bʌt ɔ́lsow kən hɛ́lp ɪn bréjkɪŋ dawn prówtìjnz, rəzʌ́ltɪŋ ɪn ə mɔr sʌ́kjəlɪnt tɛ́kstʃər. ɪt's lájk ɡɪ́vɪŋ jɔr fúwd ə fléjvərfəl bǽθ ðət méjks ɪt mɔr dəlɪ́ʃəs!"
+    },
+    {
+        "Question": "While preparing a homemade salad dressing, Chef Lisa skillfully combined olive oil and vinegar until they formed a smooth and homogeneous mixture. What technique did she use to achieve this blend?",
+        "RightAnswer": "emulsify",
+        "WrongAnswers": [
+            "caramelize",
+            "ferment",
+            "sauté",
+            "braise",
+            "blanch"
+        ],
+        "Explanation": "Emulsifying is the process of mixing two liquids that usually don't mix well, like oil and vinegar, into a smooth and consistent blend. This is often achieved by vigorously whisking or blending, allowing tiny droplets of one liquid to disperse through the other, resulting in a stable mixture. It's like finding harmony in a kitchen dance where oil and water agree to come together just right!",
+        "trans_Question": "wájl prəpɛ́ərɪŋ ə hówméjd sǽləd drɛ́sɪŋ, ʃɛ́f lájsə skɪ́lfəlij kəmbájnd ɒ́lɪv ɔ́jl ənd vɪ́nəɡər əntɪ́l ðej fɔ́rmd ə smúwð ənd hòwmədʒɛ́nijəs mɪ́kstʃər. wɒt tɛkníjk dɪd ʃij juwz tə ətʃíjv ðɪs blɛ́nd?",
+        "trans_RightAnswer": "ɪmʌ́lsəfàj",
+        "trans_WrongAnswers": [
+            "kǽrəməlàjz",
+            "fɜ́rmɛnt",
+            "sɔé",
+            "bréjz",
+            "blǽntʃ"
+        ],
+        "trans_Explanation": "əmʌ́lsɪfajɪŋ ɪz ðə prɒ́sɛs əv mɪ́ksɪŋ túw lɪ́kwɪdz ðət júwʒəlij dównt mɪ́ks wɛ́l, lájk ɔ́jl ənd vɪ́nəɡər, ɪntə ə smúwð ənd kənsɪ́stənt blɛ́nd. ðɪs ɪz ɔ́fən ətʃíjvd baj vɪ́ɡərəslij hwɪ́skɪŋ ɔr blɛ́ndɪŋ, əláwɪŋ tájnij drɒ́pləts əv wʌ́n lɪ́kwɪd tə dɪspɜ́rs θrúw ðə ʌ́ðər, rəzʌ́ltɪŋ ɪn ə stéjbəl mɪ́kstʃər. ɪt's lájk fájndɪŋ hɑ́rmənij ɪn ə kɪ́tʃən dǽns wɛ́ər ɔ́jl ənd wɔ́tər əɡríj tə kʌ́m təɡɛ́ðər dʒəst rájt!"
+    },
+    {
+        "Question": "When making homemade bread, what term describes the process of allowing the dough to rest and rise until it doubles in size?",
+        "RightAnswer": "proof",
+        "WrongAnswers": [
+            "chop",
+            "frost",
+            "simmer",
+            "whisk",
+            "knead"
+        ],
+        "Explanation": "In the world of baking, 'proofing' refers to the final rise of the bread dough before baking. This crucial step allows the yeast to ferment and the dough to expand, which contributes to the bread's texture and flavor. Without proofing, bread can turn out dense and lack the airy lightness that makes it so delightful.",
+        "trans_Question": "wɛ́n méjkɪŋ hówméjd brɛ́d, wɒt tɜ́rm dəskrájbz ðə prɒ́sɛs əv əláwɪŋ ðə dów tə rɛ́st ənd rájz əntɪ́l ɪt dʌ́bəlz ɪn sájz?",
+        "trans_RightAnswer": "prúwf",
+        "trans_WrongAnswers": [
+            "tʃɒ́p",
+            "frɔ́st",
+            "sɪ́mər",
+            "wɪ́sk",
+            "níjd"
+        ],
+        "trans_Explanation": "ɪn ðə wɜ́rld əv béjkɪŋ, 'prúwfɪŋ' rəfɜ́rz tə ðə fájnəl rájz əv ðə brɛ́d dów bəfɔ́r béjkɪŋ. ðɪs krúwʃəl stɛ́p əláwz ðə jíjst tə fɜ́rmɛnt ənd ðə dów tə əkspǽnd, wɪ́tʃ kəntrɪ́bjuwts tə ðə brɛ́d'z tɛ́kstʃər ənd fléjvər. wɪðáwt prúwfɪŋ, brɛ́d kən tɜ́rn awt dɛ́ns ənd lǽk ðə ɛ́ərij lájtnəs ðət méjks ɪt sow dəlájtfəl."
+    },
+    {
+        "Question": "Imagine you're making a delicious loaf of bread from scratch. After mixing the flour, water, yeast, and salt, what is the essential next step where you work the dough with your hands to develop its gluten structure and make it smooth and elastic?",
+        "RightAnswer": "knead",
+        "WrongAnswers": [
+            "whisk",
+            "blend",
+            "sift",
+            "slice",
+            "marinate"
+        ],
+        "Explanation": "To 'knead' is to thoroughly work dough by stretching, folding, and pressing it with your hands. This process is crucial in bread-making because it helps develop the gluten, which gives the bread its chewy texture and helps it rise by trapping air produced by the yeast. It's a bit like giving your dough a workout to make it strong enough to create the perfect loaf with a satisfying crumb.",
+        "trans_Question": "ɪmǽdʒɪn júwr méjkɪŋ ə dəlɪ́ʃəs lówf əv brɛ́d frəm skrǽtʃ. ǽftər mɪ́ksɪŋ ðə fláwər, wɔ́tər, jíjst, ənd sɔ́lt, wɒt ɪz ðə əsɛ́nʃəl nɛ́kst stɛ́p wɛ́ər juw wɜ́rk ðə dów wɪð jɔr hǽndz tə dəvɛ́ləp ɪts ɡlúwtən strʌ́ktʃər ənd méjk ɪt smúwð ənd əlǽstɪk?",
+        "trans_RightAnswer": "níjd",
+        "trans_WrongAnswers": [
+            "wɪ́sk",
+            "blɛ́nd",
+            "sɪ́ft",
+            "slájs",
+            "mɛ́ərənèjt"
+        ],
+        "trans_Explanation": "tə 'níjd' ɪz tə θɜ́rəlij wɜ́rk dów baj strɛ́tʃɪŋ, fówldɪŋ, ənd prɛ́sɪŋ ɪt wɪð jɔr hǽndz. ðɪs prɒ́sɛs ɪz krúwʃəl ɪn brɛ́d-méjkɪŋ bəkɒ́z ɪt hɛ́lps dəvɛ́ləp ðə ɡlúwtən, wɪ́tʃ ɡɪ́vz ðə brɛ́d ɪts tʃúwij tɛ́kstʃər ənd hɛ́lps ɪt rájz baj trǽpɪŋ ɛ́ər prədúwst baj ðə jíjst. ɪt's ə bɪ́t lájk ɡɪ́vɪŋ jɔr dów ə wɜ́rkàwt tə méjk ɪt strɔ́ŋ ənʌ́f tə krijéjt ðə pɜ́rfəkt lówf wɪð ə sǽtɪsfàjɪŋ krʌ́m."
+    },
+    {
+        "Question": "During a Sunday roast, which technique is used to periodically moisten the meat with juices or fat to keep it tender and flavorful?",
+        "RightAnswer": "baste",
+        "WrongAnswers": [
+            "whisk",
+            "sauté",
+            "chop",
+            "deglaze",
+            "marinate"
+        ],
+        "Explanation": "To 'baste' means to regularly spoon or brush liquid such as drippings or a marinade over cooking food. It's a common technique used during roasting to ensure the meat remains juicy and full of flavor by preventing it from drying out.",
+        "trans_Question": "dʊ́rɪŋ ə sʌ́ndej rówst, wɪ́tʃ tɛkníjk ɪz júwzd tə pìjərijɒ́dɪkəlij mɔ́jsən ðə míjt wɪð dʒúwsɪz ɔr fǽt tə kíjp ɪt tɛ́ndər ənd fléjvərfəl?",
+        "trans_RightAnswer": "béjst",
+        "trans_WrongAnswers": [
+            "wɪ́sk",
+            "sɔé",
+            "tʃɒ́p",
+            "dəˈɡlejz",
+            "mɛ́ərənèjt"
+        ],
+        "trans_Explanation": "tə 'béjst' míjnz tə rɛ́ɡjələrlij spúwn ɔr brʌ́ʃ lɪ́kwɪd sʌtʃ æz /ˈdrɪpɪŋz/ ɔr ə mɑ́rɪnèjd ówvər kʊ́kɪŋ fúwd. ɪt's ə kɒ́mən tɛkníjk júwzd dʊ́rɪŋ rówstɪŋ tə ənʃʊ́r ðə míjt rəméjnz dʒúwsij ənd fʊ́l əv fléjvər baj prəvɛ́ntɪŋ ɪt frəm drájɪŋ awt."
+    },
+    {
+        "Question": "While preparing a juicy steak in the oven, John decided to use a cooking method that involves direct heat from above. What cooking technique is John using?",
+        "RightAnswer": "Broil",
+        "WrongAnswers": [
+            "Sauté",
+            "Simmer",
+            "Bake",
+            "Roast",
+            "Poach"
+        ],
+        "Explanation": "Broiling is a cooking method that involves exposing food to direct heat from above, usually at high temperatures. It's similar to grilling but instead of the heat coming from below, it's produced from the top, often in an oven. This technique is perfect for quickly cooking foods and giving them a nicely browned, crispy surface while keeping the inside juicy. Think of it as an inverted grill!",
+        "trans_Question": "wájl prəpɛ́ərɪŋ ə dʒúwsij stéjk ɪn ðə ʌ́vən, dʒɒ́n dəsájdɪd tə juwz ə kʊ́kɪŋ mɛ́θəd ðət ɪnvɒ́lvz dɪərɛ́kt híjt frəm əbʌ́v. wɒt kʊ́kɪŋ tɛkníjk ɪz dʒɒ́n júwzɪŋ?",
+        "trans_RightAnswer": "brɔ́jl",
+        "trans_WrongAnswers": [
+            "sɔé",
+            "sɪ́mər",
+            "béjk",
+            "rówst",
+            "pówtʃ"
+        ],
+        "trans_Explanation": "brɔ́jlɪŋ ɪz ə kʊ́kɪŋ mɛ́θəd ðət ɪnvɒ́lvz əkspówzɪŋ fúwd tə dɪərɛ́kt híjt frəm əbʌ́v, júwʒəlij æt háj tɛ́mpərətʃərz. ɪt's sɪ́mɪlər tə ɡrɪ́lɪŋ bʌt ɪnstɛ́d əv ðə híjt kʌ́mɪŋ frəm bijlów, ɪt's prədúwst frəm ðə tɒ́p, ɔ́fən ɪn ən ʌ́vən. ðɪs tɛkníjk ɪz pɜ́rfəkt fɔr kwɪ́klij kʊ́kɪŋ fúwdz ənd ɡɪ́vɪŋ ðɛm ə nájslij bráwnd, krɪ́spij sɜ́rfəs wájl kíjpɪŋ ðə ɪnsájd dʒúwsij. θɪ́ŋk əv ɪt æz ən ɪnvɜ́rtɪd ɡrɪ́l!"
+    },
+    {
+        "Question": "While preparing a recipe that calls for finely shredded cheese to melt evenly, which kitchen action involves rubbing a hard ingredient against a rough surface?",
+        "RightAnswer": "grate",
+        "WrongAnswers": [
+            "slice",
+            "dice",
+            "chop",
+            "blend",
+            "whisk"
+        ],
+        "Explanation": "To 'grate' means to rub an ingredient, typically a hard block of food like cheese or vegetables, against a tool with small sharp-edged holes to shred or break it into small, thin pieces. This process is often used in cooking to ensure a smooth melt or even distribution in a dish.",
+        "trans_Question": "wájl prəpɛ́ərɪŋ ə rɛ́sɪpij ðət kɔ́lz fɔr fájnlij ʃrɛ́dɪd tʃíjz tə mɛ́lt íjvənlij, wɪ́tʃ kɪ́tʃən ǽkʃən ɪnvɒ́lvz rʌ́bɪŋ ə hɑ́rd ɪnɡríjdijənt əɡéjnst ə rʌ́f sɜ́rfəs?",
+        "trans_RightAnswer": "ɡréjt",
+        "trans_WrongAnswers": [
+            "slájs",
+            "dájs",
+            "tʃɒ́p",
+            "blɛ́nd",
+            "wɪ́sk"
+        ],
+        "trans_Explanation": "tə 'ɡréjt' míjnz tə rʌ́b ən ɪnɡríjdijənt, tɪ́pɪkəlij ə hɑ́rd blɒ́k əv fúwd lájk tʃíjz ɔr vɛ́dʒtəbəlz, əɡéjnst ə túwl wɪð smɔ́l ʃɑ́rp-ɛ́dʒd hówlz tə ʃrɛ́d ɔr bréjk ɪt ɪntə smɔ́l, θɪ́n píjsɪz. ðɪs prɒ́sɛs ɪz ɔ́fən júwzd ɪn kʊ́kɪŋ tə ənʃʊ́r ə smúwð mɛ́lt ɔr íjvən dɪ̀strəbjúwʃən ɪn ə dɪ́ʃ."
+    },
+    {
+        "Question": "In the world of culinary arts, what is the term for the technique used to brown the surface of meat quickly over high heat, resulting in a flavorful crust?",
+        "RightAnswer": "sear",
+        "WrongAnswers": [
+            "braise",
+            "poach",
+            "blanch",
+            "simmer",
+            "glaze"
+        ],
+        "Explanation": "Searing is a cooking technique used to create a flavorful and aromatic crust on the surface of food, most often meat, by applying high heat. This process not only enhances the taste but also gives the dish an appealing visual appeal and texture, locking in the juices to keep the meat tender inside.",
+        "trans_Question": "ɪn ðə wɜ́rld əv kjúwlɪnɛ̀ərij ɑ́rts, wɒt ɪz ðə tɜ́rm fɔr ðə tɛkníjk júwzd tə bráwn ðə sɜ́rfəs əv míjt kwɪ́klij ówvər háj híjt, rəzʌ́ltɪŋ ɪn ə fléjvərfəl krʌ́st?",
+        "trans_RightAnswer": "sɪ́ər",
+        "trans_WrongAnswers": [
+            "bréjz",
+            "pówtʃ",
+            "blǽntʃ",
+            "sɪ́mər",
+            "ɡléjz"
+        ],
+        "trans_Explanation": "sɪ́ərɪŋ ɪz ə kʊ́kɪŋ tɛkníjk júwzd tə krijéjt ə fléjvərfəl ənd ɛ̀ərəmǽtɪk krʌ́st ɒn ðə sɜ́rfəs əv fúwd, mówst ɔ́fən míjt, baj əplájɪŋ háj híjt. ðɪs prɒ́sɛs nɒt ównlij ənhǽnsɪz ðə téjst bʌt ɔ́lsow ɡɪ́vz ðə dɪ́ʃ ən əpíjlɪŋ vɪ́ʒəwəl əpíjl ənd tɛ́kstʃər, lɒ́kɪŋ ɪn ðə dʒúwsɪz tə kíjp ðə míjt tɛ́ndər ɪnsájd."
+    },
+    {
+        "Question": "In the context of kitchen adventures, what term describes the process of beating cream or eggs rapidly to incorporate air and increase volume?",
+        "RightAnswer": "whip",
+        "WrongAnswers": [
+            "grill",
+            "bake",
+            "sauté",
+            "simmer",
+            "marinate"
+        ],
+        "Explanation": "To 'whip' in the kitchen means to beat ingredients such as cream or egg whites quickly and continuously, usually with a whisk or mixer, to incorporate air and increase their volume. This technique results in a light and fluffy texture, perfect for topping desserts or making meringues. Imagine transforming liquid cream into a cloud-like topping for a piece of pie—now that's the magic of whipping!",
+        "trans_Question": "ɪn ðə kɒ́ntɛkst əv kɪ́tʃən ædvɛ́ntʃərz, wɒt tɜ́rm dəskrájbz ðə prɒ́sɛs əv bíjtɪŋ kríjm ɔr ɛ́ɡz rǽpɪdlij tə ɪnkɔ́rpərejt ɛ́ər ənd ɪnkríjs vɒ́ljuwm?",
+        "trans_RightAnswer": "wɪ́p",
+        "trans_WrongAnswers": [
+            "ɡrɪ́l",
+            "béjk",
+            "sɔé",
+            "sɪ́mər",
+            "mɛ́ərənèjt"
+        ],
+        "trans_Explanation": "tə 'wɪ́p' ɪn ðə kɪ́tʃən míjnz tə bíjt ɪnɡríjdijənts sʌtʃ æz kríjm ɔr ɛ́ɡ wájts kwɪ́klij ənd kəntɪ́njuwəslij, júwʒəlij wɪð ə wɪ́sk ɔr mɪ́ksər, tə ɪnkɔ́rpərejt ɛ́ər ənd ɪnkríjs ðɛər vɒ́ljuwm. ðɪs tɛkníjk rəzʌ́lts ɪn ə lájt ənd flʌ́fij tɛ́kstʃər, pɜ́rfəkt fɔr tɒ́pɪŋ dəzɜ́rts ɔr méjkɪŋ mərǽŋz. ɪmǽdʒɪn trænsfɔ́rmɪŋ lɪ́kwɪd kríjm ɪntə ə kláwd-lájk tɒ́pɪŋ fɔr ə píjs əv páj—náw ðət's ðə mǽdʒɪk əv wɪ́pɪŋ!"
+    },
+    {
+        "Question": "While preparing a festive dessert, Maria decided to brush a sweet, shiny coating over her homemade pastries to enhance their appearance and flavor. What culinary technique is Maria using?",
+        "RightAnswer": "glaze",
+        "WrongAnswers": [
+            "whisk",
+            "marinate",
+            "caramelize",
+            "deglaze",
+            "baste"
+        ],
+        "Explanation": "In cooking, a glaze is a thin, glossy coating that is often sweet and applied to foods like pastries, meats, or vegetables to improve their appearance and add a burst of flavor. Glazes can be made from various ingredients, such as sugar, honey, fruit juices, or even savory elements like soy sauce. The technique enhances both the visual and taste appeal of the dish, making it a popular choice for many chefs.",
+        "trans_Question": "wájl prəpɛ́ərɪŋ ə fɛ́stɪv dəzɜ́rt, məríjə dəsájdɪd tə brʌ́ʃ ə swíjt, ʃájnij kówtɪŋ ówvər hər hówméjd péjstrijz tə ənhǽns ðɛər əpɪ́ərəns ənd fléjvər. wɒt kjúwlɪnɛ̀ərij tɛkníjk ɪz məríjə júwzɪŋ?",
+        "trans_RightAnswer": "ɡléjz",
+        "trans_WrongAnswers": [
+            "wɪ́sk",
+            "mɛ́ərənèjt",
+            "kǽrəməlàjz",
+            "dəɡléjz",
+            "béjst"
+        ],
+        "trans_Explanation": "ɪn kʊ́kɪŋ, ə ɡléjz ɪz ə θɪ́n, ɡlɔ́sij kówtɪŋ ðət ɪz ɔ́fən swíjt ənd əplájd tə fúwdz lájk péjstrijz, míjts, ɔr vɛ́dʒtəbəlz tə ɪmprúwv ðɛər əpɪ́ərəns ənd ǽd ə bɜ́rst əv fléjvər. ɡléjzɪz kən bij méjd frəm vɛ́ərijəs ɪnɡríjdijənts, sʌtʃ æz ʃʊ́ɡər, hʌ́nij, frúwt dʒúwsɪz, ɔr íjvən séjvərij ɛ́ləmənts lájk sɔ́j sɔ́s. ðə tɛkníjk ənhǽnsɪz bówθ ðə vɪ́ʒəwəl ənd téjst əpíjl əv ðə dɪ́ʃ, méjkɪŋ ɪt ə pɒ́pjələr tʃɔ́js fɔr mɛ́nij ʃɛ́fs."
+    },
+    {
+        "Question": "During your cooking class, the chef asked everyone to turn the cooked carrots into a smooth consistency for the baby food. What culinary term describes this process of transforming ingredients into a creamy texture?",
+        "RightAnswer": "puree",
+        "WrongAnswers": [
+            "julienne",
+            "sauté",
+            "emulsion",
+            "caramelize",
+            "chop"
+        ],
+        "Explanation": "Puree is a technique in cooking where food is crushed or blended until it becomes a smooth, thick liquid. This method is often used for creating soups, baby food, or sauces to deliver a uniform texture and maximize flavor. The process typically involves using a blender, food processor, or masher. In contrast to chopping or slicing, pureeing removes any chunks or pieces, resulting in a consistent suave mixture.",
+        "trans_Question": "dʊ́rɪŋ jɔr kʊ́kɪŋ klǽs, ðə ʃɛ́f ǽskt ɛ́vrijwʌ̀n tə tɜ́rn ðə kʊ́kt kǽrəts ɪntə ə smúwð kənsɪ́stənsij fɔr ðə béjbij fúwd. wɒt kjúwlɪnɛ̀ərij tɜ́rm dəskrájbz ðɪs prɒ́sɛs əv trænsfɔ́rmɪŋ ɪnɡríjdijənts ɪntə ə kríjmij tɛ́kstʃər?",
+        "trans_RightAnswer": "pjʊréj",
+        "trans_WrongAnswers": [
+            "dʒuwlíjən",
+            "sɔé",
+            "əmʌ́lʃən",
+            "kǽrəməlàjz",
+            "tʃɒ́p"
+        ],
+        "trans_Explanation": "pjʊréj ɪz ə tɛkníjk ɪn kʊ́kɪŋ wɛ́ər fúwd ɪz krʌ́ʃt ɔr blɛ́ndɪd əntɪ́l ɪt bəkʌ́mz ə smúwð, θɪ́k lɪ́kwɪd. ðɪs mɛ́θəd ɪz ɔ́fən júwzd fɔr krijéjtɪŋ súwps, béjbij fúwd, ɔr sɔ́sɪz tə dəlɪ́vər ə júwnɪfɔ̀rm tɛ́kstʃər ənd mǽksɪmàjz fléjvər. ðə prɒ́sɛs tɪ́pɪkəlij ɪnvɒ́lvz júwzɪŋ ə blɛ́ndər, fúwd prɒ́sɛsər, ɔr mǽʃər. ɪn kɒ́ntræst tə tʃɒ́pɪŋ ɔr slájsɪŋ, pʊríjɪŋ rijmúwvz ɛ́nij tʃʌ́ŋks ɔr píjsɪz, rəzʌ́ltɪŋ ɪn ə kənsɪ́stənt swɒ́v mɪ́kstʃər."
+    },
+    {
+        "Question": "While preparing a rich and flavorful sauce for your dinner guests, you decide to simmer it for a while so it thickens and intensifies in taste. What culinary term describes this cooking process?",
+        "RightAnswer": "reduce",
+        "WrongAnswers": [
+            "emulsify",
+            "caramelize",
+            "blanch",
+            "marinate",
+            "brine"
+        ],
+        "Explanation": "In the culinary world, 'reduce' means to cook a liquid slowly until it thickens and its flavors become more concentrated. This is typically done by simmering or boiling the liquid down, allowing some of the water to evaporate, which intensifies the taste and creates a richer consistency.",
+        "trans_Question": "wájl prəpɛ́ərɪŋ ə rɪ́tʃ ənd fléjvərfəl sɔ́s fɔr jɔr dɪ́nər ɡɛ́sts, juw dəsájd tə sɪ́mər ɪt fɔr ə wájl sow ɪt θɪ́kənz ənd ɪntɛ́nsəfàjz ɪn téjst. wɒt kjúwlɪnɛ̀ərij tɜ́rm dəskrájbz ðɪs kʊ́kɪŋ prɒ́sɛs?",
+        "trans_RightAnswer": "rədjúws",
+        "trans_WrongAnswers": [
+            "ɪmʌ́lsəfàj",
+            "kǽrəməlàjz",
+            "blǽntʃ",
+            "mɛ́ərənèjt",
+            "brájn"
+        ],
+        "trans_Explanation": "ɪn ðə kjúwlɪnɛ̀ərij wɜ́rld, 'rədjúws' míjnz tə kʊ́k ə lɪ́kwɪd slówlij əntɪ́l ɪt θɪ́kənz ənd ɪts fléjvərz bəkʌ́m mɔr kɒ́nsəntrèjtɪd. ðɪs ɪz tɪ́pɪkəlij dʌ́n baj sɪ́mərɪŋ ɔr bɔ́jlɪŋ ðə lɪ́kwɪd dawn, əláwɪŋ sʌm əv ðə wɔ́tər tə əvǽpərèjt, wɪ́tʃ ɪntɛ́nsəfàjz ðə téjst ənd krijéjts ə rɪ́tʃər kənsɪ́stənsij."
+    },
+    {
+        "Question": "In the realm of chocolate-making, what is the term for the process of carefully controlling the temperature of melted chocolate to stabilize its structure and ensure a glossy finish and pleasant texture?",
+        "RightAnswer": "temper",
+        "WrongAnswers": [
+            "whip",
+            "blend",
+            "grate",
+            "knead",
+            "simmer"
+        ],
+        "Explanation": "Tempering chocolate is a critical step in chocolate-making that involves heating and cooling the chocolate to stabilize the crystals in cocoa butter. This process gives the chocolate a smooth, shiny appearance and a satisfying snap when broken, while also preventing visible sugar blooms or fat blooms. Properly tempered chocolate is also easier to work with for coating or molding.",
+        "trans_Question": "ɪn ðə rɛ́lm əv tʃɔ́klət-méjkɪŋ, wɒt ɪz ðə tɜ́rm fɔr ðə prɒ́sɛs əv kɛ́ərfəlij kəntrówlɪŋ ðə tɛ́mpərətʃər əv mɛ́ltɪd tʃɔ́klət tə stéjbɪlàjz ɪts strʌ́ktʃər ənd ənʃʊ́r ə ɡlɔ́sij fɪ́nɪʃ ənd plɛ́zənt tɛ́kstʃər?",
+        "trans_RightAnswer": "tɛ́mpər",
+        "trans_WrongAnswers": [
+            "wɪ́p",
+            "blɛ́nd",
+            "ɡréjt",
+            "níjd",
+            "sɪ́mər"
+        ],
+        "trans_Explanation": "tɛ́mpərɪŋ tʃɔ́klət ɪz ə krɪ́tɪkəl stɛ́p ɪn tʃɔ́klət-méjkɪŋ ðət ɪnvɒ́lvz híjtɪŋ ənd kúwlɪŋ ðə tʃɔ́klət tə stéjbɪlàjz ðə krɪ́stəlz ɪn kówkow bʌ́tər. ðɪs prɒ́sɛs ɡɪ́vz ðə tʃɔ́klət ə smúwð, ʃájnij əpɪ́ərəns ənd ə sǽtɪsfàjɪŋ snǽp wɛ́n brówkən, wájl ɔ́lsow prəvɛ́ntɪŋ vɪ́zɪbəl ʃʊ́ɡər blúwmz ɔr fǽt blúwmz. prɒ́pərlij tɛ́mpərd tʃɔ́klət ɪz ɔ́lsow íjzijər tə wɜ́rk wɪð fɔr kówtɪŋ ɔr mówldɪŋ."
+    },
+    {
+        "Question": "In the world of cooking, what term describes the process of coating food lightly with a dry ingredient, such as flour or breadcrumbs, before cooking to add texture and improve flavor?",
+        "RightAnswer": "dredge",
+        "WrongAnswers": [
+            "marinate",
+            "sauté",
+            "blanch",
+            "braise",
+            "caramelize"
+        ],
+        "Explanation": "In culinary terms, to 'dredge' means to lightly coat a food item with a dry ingredient like flour, breadcrumbs, or cornstarch. This technique is often used with proteins like chicken or fish to create a crisp crust when cooked and can also help thicken sauces. Unlike marinating or sautéing, dredging involves dry ingredients and provides a distinct outer texture that enhances the food's flavor and presentation.",
+        "trans_Question": "ɪn ðə wɜ́rld əv kʊ́kɪŋ, wɒt tɜ́rm dəskrájbz ðə prɒ́sɛs əv kówtɪŋ fúwd lájtlij wɪð ə dráj ɪnɡríjdijənt, sʌtʃ æz fláwər ɔr brɛ́dkrʌ̀mz, bəfɔ́r kʊ́kɪŋ tə ǽd tɛ́kstʃər ənd ɪmprúwv fléjvər?",
+        "trans_RightAnswer": "drɛ́dʒ",
+        "trans_WrongAnswers": [
+            "mɛ́ərənèjt",
+            "sɔé",
+            "blǽntʃ",
+            "bréjz",
+            "kǽrəməlàjz"
+        ],
+        "trans_Explanation": "ɪn kjúwlɪnɛ̀ərij tɜ́rmz, tə 'drɛ́dʒ' míjnz tə lájtlij kówt ə fúwd ájtəm wɪð ə dráj ɪnɡríjdijənt lájk fláwər, brɛ́dkrʌ̀mz, ɔr kɔ́rnstɑ̀rtʃ. ðɪs tɛkníjk ɪz ɔ́fən júwzd wɪð prówtìjnz lájk tʃɪ́kən ɔr fɪ́ʃ tə krijéjt ə krɪ́sp krʌ́st wɛ́n kʊ́kt ənd kən ɔ́lsow hɛ́lp θɪ́kən sɔ́sɪz. ʌ̀nlájk mɛ́ərənèjtɪŋ ɔr sowtéjɪŋ, drɛ́dʒɪŋ ɪnvɒ́lvz dráj ɪnɡríjdijənts ənd prəvájdz ə dɪstɪ́ŋkt áwtər tɛ́kstʃər ðət ənhǽnsɪz ðə fúwd'z fléjvər ənd prɛ̀zəntéjʃən."
+    },
+    {
+        "Question": "When preparing a delicate salmon dish that requires you to remove the bones and skin for a clean presentation, which term best describes the process of cutting the fish into a boneless, skinless piece?",
+        "RightAnswer": "fillet",
+        "WrongAnswers": [
+            "chop",
+            "cube",
+            "mince",
+            "slice",
+            "dice"
+        ],
+        "Explanation": "A 'fillet' in cooking refers to a piece of meat or fish that has been neatly cut away from the bone and often the skin, resulting in a tender, boneless piece that’s ready for cooking. It's especially popular for dishes that emphasize taste and texture, allowing for an elegant and refined presentation of the main ingredient.",
+        "trans_Question": "wɛ́n prəpɛ́ərɪŋ ə dɛ́lɪkət sǽmən dɪ́ʃ ðət rəkwájərz juw tə rijmúwv ðə bównz ənd skɪ́n fɔr ə klíjn prɛ̀zəntéjʃən, wɪ́tʃ tɜ́rm bɛ́st dəskrájbz ðə prɒ́sɛs əv kʌ́tɪŋ ðə fɪ́ʃ ɪntə ə bównləs, skɪ́nləs píjs?",
+        "trans_RightAnswer": "fɪlʌ́t",
+        "trans_WrongAnswers": [
+            "tʃɒ́p",
+            "kjúwb",
+            "mɪ́ns",
+            "slájs",
+            "dájs"
+        ],
+        "trans_Explanation": "ə 'fɪlʌ́t' ɪn kʊ́kɪŋ rəfɜ́rz tə ə píjs əv míjt ɔr fɪ́ʃ ðət həz bɪn níjtlij kʌ́t əwéj frəm ðə bówn ənd ɔ́fən ðə skɪ́n, rəzʌ́ltɪŋ ɪn ə tɛ́ndər, bównləs píjs ðət's rɛ́dij fɔr kʊ́kɪŋ. ɪt's əspɛ́ʃəlij pɒ́pjələr fɔr dɪ́ʃɪz ðət ɛ́mfəsajz téjst ənd tɛ́kstʃər, əláwɪŋ fɔr ən ɛ́ləɡənt ənd rəfájnd prɛ̀zəntéjʃən əv ðə méjn ɪnɡríjdijənt."
+    },
+    {
+        "Question": "During the preparation of a roast chicken, what term is used to describe the process of tying the legs and wings against the body to ensure even cooking and maintain a neat shape?",
+        "RightAnswer": "truss",
+        "WrongAnswers": [
+            "baste",
+            "sear",
+            "marinate",
+            "brine",
+            "glaze"
+        ],
+        "Explanation": "To 'truss' means to secure a bird such as a chicken or turkey with string so that it retains a compact shape while roasting. By doing this, the bird cooks more evenly and stays moist throughout, making a more visually appealing presentation. Trussing is a simple yet effective technique that enhances the overall quality of the dish.",
+        "trans_Question": "dʊ́rɪŋ ðə prɛ̀pəréjʃən əv ə rówst tʃɪ́kən, wɒt tɜ́rm ɪz júwzd tə dəskrájb ðə prɒ́sɛs əv tájɪŋ ðə lɛ́ɡz ənd wɪ́ŋz əɡéjnst ðə bɒ́dij tə ənʃʊ́r íjvən kʊ́kɪŋ ənd mejntéjn ə níjt ʃéjp?",
+        "trans_RightAnswer": "trʌ́s",
+        "trans_WrongAnswers": [
+            "béjst",
+            "sɪ́ər",
+            "mɛ́ərənèjt",
+            "brájn",
+            "ɡléjz"
+        ],
+        "trans_Explanation": "tə 'trʌ́s' míjnz tə səkjʊ́r ə bɜ́rd sʌtʃ æz ə tʃɪ́kən ɔr tɜ́rkij wɪð strɪ́ŋ sow ðət ɪt rijtéjnz ə kɒ́mpækt ʃéjp wájl rówstɪŋ. baj dúwɪŋ ðɪs, ðə bɜ́rd kʊ́ks mɔr íjvənlij ənd stéjz mɔ́jst θruwáwt, méjkɪŋ ə mɔr vɪ́ʒwəlij əpíjlɪŋ prɛ̀zəntéjʃən. trʌ́sɪŋ ɪz ə sɪ́mpəl jɛt əféktɪv tɛkníjk ðət ənhǽnsɪz ðə ówvərɔ̀l kwɑ́lᵻtij əv ðə dɪ́ʃ."
+    },
+    {
+        "Question": "During your culinary exploration, you decide to learn a new technique that involves cooking a large piece of meat evenly on all sides to achieve a crispy crust and tender inside. What is this method called?",
+        "RightAnswer": "roast",
+        "WrongAnswers": [
+            "grill",
+            "boil",
+            "fry",
+            "saute",
+            "steam"
+        ],
+        "Explanation": "Roasting is a cooking method where food, typically meat or vegetables, is cooked on all sides under dry heat, like in an oven, resulting in a flavorful, crispy exterior and a juicy interior. Unlike grilling, which uses direct heat from below, roasting encircles the food with heat, allowing it to cook evenly and develop rich flavors.",
+        "trans_Question": "dʊ́rɪŋ jɔr kjúwlɪnɛ̀ərij ɛ̀kspləréjʃən, juw dəsájd tə lɜ́rn ə núw tɛkníjk ðət ɪnvɒ́lvz kʊ́kɪŋ ə lɑ́rdʒ píjs əv míjt íjvənlij ɒn ɔl sájdz tə ətʃíjv ə krɪ́spij krʌ́st ənd tɛ́ndər ɪnsájd. wɒt ɪz ðɪs mɛ́θəd kɔ́ld?",
+        "trans_RightAnswer": "rówst",
+        "trans_WrongAnswers": [
+            "ɡrɪ́l",
+            "bɔ́jl",
+            "fráj",
+            "sɔtéj",
+            "stíjm"
+        ],
+        "trans_Explanation": "rówstɪŋ ɪz ə kʊ́kɪŋ mɛ́θəd wɛ́ər fúwd, tɪ́pɪkəlij míjt ɔr vɛ́dʒtəbəlz, ɪz kʊ́kt ɒn ɔl sájdz ʌ́ndər dráj híjt, lájk ɪn ən ʌ́vən, rəzʌ́ltɪŋ ɪn ə fléjvərfəl, krɪ́spij əkstɪ́ərijər ənd ə dʒúwsij ɪ̀ntɪ́ərijər. ʌ̀nlájk ɡrɪ́lɪŋ, wɪ́tʃ júwsɪz dɪərɛ́kt híjt frəm bijlów, rówstɪŋ /ɪnˈsɝkəlz/ ðə fúwd wɪð híjt, əláwɪŋ ɪt tə kʊ́k íjvənlij ənd dəvɛ́ləp rɪ́tʃ fléjvərz."
+    },
+    {
+        "Question": "During the holiday season, a popular bread-making technique involves intertwining strands of dough to create a visually appealing pattern often used in challah or certain festive breads. What is this technique called when you artfully weave these strands together?",
+        "RightAnswer": "braid",
+        "WrongAnswers": [
+            "knead",
+            "whip",
+            "fold",
+            "glaze",
+            "score"
+        ],
+        "Explanation": "In cooking, particularly in bread-making, braiding refers to the technique of weaving long strands of dough together to create a braided design. This method not only adds a decorative element to bread but also helps it bake more evenly. It's often used in traditional breads like challah, where the braided pattern is symbolic and adds to the bread's appeal.",
+        "trans_Question": "dʊ́rɪŋ ðə hɒ́lədèj síjzən, ə pɒ́pjələr brɛ́d-méjkɪŋ tɛkníjk ɪnvɒ́lvz ɪ́ntərtwàjnɪŋ strǽndz əv dów tə krijéjt ə vɪ́ʒwəlij əpíjlɪŋ pǽtərn ɔ́fən júwzd ɪn /ˈhɑlə/ ɔr sɜ́rtən fɛ́stɪv brɛ́dz. wɒt ɪz ðɪs tɛkníjk kɔ́ld wɛ́n juw ɑ́rtfəlij wíjv ðijz strǽndz təɡɛ́ðər?",
+        "trans_RightAnswer": "bréjd",
+        "trans_WrongAnswers": [
+            "níjd",
+            "wɪ́p",
+            "fówld",
+            "ɡléjz",
+            "skɔ́r"
+        ],
+        "trans_Explanation": "ɪn kʊ́kɪŋ, pərtɪ́kjələrlij ɪn brɛ́d-méjkɪŋ, bréjdɪŋ rəfɜ́rz tə ðə tɛkníjk əv wíjvɪŋ lɔ́ŋ strǽndz əv dów təɡɛ́ðər tə krijéjt ə bréjdɪd dəzájn. ðɪs mɛ́θəd nɒt ównlij ǽdz ə dɛ́kərətɪv ɛ́ləmənt tə brɛ́d bʌt ɔ́lsow hɛ́lps ɪt béjk mɔr íjvənlij. ɪt's ɔ́fən júwzd ɪn trədɪ́ʃənəl brɛ́dz lájk /ˈhɑlə/, wɛ́ər ðə bréjdɪd pǽtərn ɪz sɪmbɒ́lɪk ənd ǽdz tə ðə brɛ́d'z əpíjl."
+    },
+    {
+        "Question": "In the kitchen, when making a broth or sauce, what is the term for carefully removing the layer of fat or scum that rises to the surface during simmering?",
+        "RightAnswer": "skim",
+        "WrongAnswers": [
+            "scour",
+            "scrape",
+            "drizzle",
+            "whisk",
+            "stir"
+        ],
+        "Explanation": "In culinary terms, 'skim' refers to the process of gently taking off the fat or impurities that float to the top of a liquid, like a soup or stew. This is done to improve clarity and flavor. A cook uses a spoon, ladle, or skimmer to perform this task, ensuring that only the unwanted substances are removed while leaving the essential ingredients untouched.",
+        "trans_Question": "ɪn ðə kɪ́tʃən, wɛ́n méjkɪŋ ə brɔ́θ ɔr sɔ́s, wɒt ɪz ðə tɜ́rm fɔr kɛ́ərfəlij rijmúwvɪŋ ðə léjər əv fǽt ɔr skʌ́m ðət rájzɪz tə ðə sɜ́rfəs dʊ́rɪŋ sɪ́mərɪŋ?",
+        "trans_RightAnswer": "skɪ́m",
+        "trans_WrongAnswers": [
+            "skáwər",
+            "skréjp",
+            "drɪ́zəl",
+            "wɪ́sk",
+            "stɜ́r"
+        ],
+        "trans_Explanation": "ɪn kjúwlɪnɛ̀ərij tɜ́rmz, 'skɪ́m' rəfɜ́rz tə ðə prɒ́sɛs əv dʒɛ́ntlij téjkɪŋ ɔ́f ðə fǽt ɔr ɪ̀mpjʊ́rɪtijz ðət flówt tə ðə tɒ́p əv ə lɪ́kwɪd, lájk ə súwp ɔr stúw. ðɪs ɪz dʌ́n tə ɪmprúwv klɛ́ərɪtij ənd fléjvər. ə kʊ́k júwsɪz ə spúwn, léjdəl, ɔr skɪ́mər tə pərfɔ́rm ðɪs tǽsk, ɛnʃʊ́rɪŋ ðət ównlij ðə ʌ̀nwɔ́ntɪd sʌ́bstənsɪz ɑr rijmúwvd wájl líjvɪŋ ðə əsɛ́nʃəl ɪnɡríjdijənts ʌ̀ntʌ́tʃt."
+    },
+    {
+        "Question": "In a recipe for vegetables, John reads that he should cook them using hot vapor instead of boiling water. What cooking method is being described here?",
+        "RightAnswer": "steam",
+        "WrongAnswers": [
+            "fry",
+            "bake",
+            "grill",
+            "roast",
+            "sauté"
+        ],
+        "Explanation": "The cooking method described is 'steam.' This involves cooking food using the vapor produced by boiling water. It's a gentle and healthy way to cook, as it preserves the nutrients in the food while also keeping it moist and tender.",
+        "trans_Question": "ɪn ə rɛ́sɪpij fɔr vɛ́dʒtəbəlz, dʒɒ́n ríjdz ðət hij ʃʊd kʊ́k ðɛm júwzɪŋ hɒ́t véjpər ɪnstɛ́d əv bɔ́jlɪŋ wɔ́tər. wɒt kʊ́kɪŋ mɛ́θəd ɪz bíjɪŋ dəskrájbd hɪər?",
+        "trans_RightAnswer": "stíjm",
+        "trans_WrongAnswers": [
+            "fráj",
+            "béjk",
+            "ɡrɪ́l",
+            "rówst",
+            "sɔé"
+        ],
+        "trans_Explanation": "ðə kʊ́kɪŋ mɛ́θəd dəskrájbd ɪz 'stíjm.' ðɪs ɪnvɒ́lvz kʊ́kɪŋ fúwd júwzɪŋ ðə véjpər prədúwst baj bɔ́jlɪŋ wɔ́tər. ɪt's ə dʒɛ́ntəl ənd hɛ́lθij wej tə kʊ́k, æz ɪt prəzɜ́rvz ðə núwtrijənts ɪn ðə fúwd wájl ɔ́lsow kíjpɪŋ ɪt mɔ́jst ənd tɛ́ndər."
+    },
+    {
+        "Question": "While attempting to prepare the Thanksgiving turkey, Sandra read that soaking the turkey in a salty solution overnight enhances the flavor and tenderness. What is this technique called?",
+        "RightAnswer": "brine",
+        "WrongAnswers": [
+            "baste",
+            "marinate",
+            "glaze",
+            "pickle",
+            "cure"
+        ],
+        "Explanation": "Brine is a solution of salt and water used for soaking foods, like turkey, to boost flavor and juiciness. By immersing the food, the salty liquid penetrates the meat, preventing it from drying out during cooking and reducing shrinkage. This results not only in better texture but also in savory, enhanced taste that transforms even the simplest of dishes into something special.",
+        "trans_Question": "wájl ətɛ́mptɪŋ tə prəpɛ́ər ðə θæ̀ŋksɡɪ́vɪŋ tɜ́rkij, sǽndrə rɛ́d ðət sówkɪŋ ðə tɜ́rkij ɪn ə sɔ́ltij səlúwʃən ówvərnájt ənhǽnsɪz ðə fléjvər ənd tɛ́ndərnəs. wɒt ɪz ðɪs tɛkníjk kɔ́ld?",
+        "trans_RightAnswer": "brájn",
+        "trans_WrongAnswers": [
+            "béjst",
+            "mɛ́ərənèjt",
+            "ɡléjz",
+            "pɪ́kəl",
+            "kjʊ́r"
+        ],
+        "trans_Explanation": "brájn ɪz ə səlúwʃən əv sɔ́lt ənd wɔ́tər júwzd fɔr sówkɪŋ fúwdz, lájk tɜ́rkij, tə búwst fléjvər ənd dʒúwsijnəs. baj ɪmɜ́rsɪŋ ðə fúwd, ðə sɔ́ltij lɪ́kwɪd pɛ́nətrèjts ðə míjt, prəvɛ́ntɪŋ ɪt frəm drájɪŋ awt dʊ́rɪŋ kʊ́kɪŋ ənd rədjúwsɪŋ ʃrɪ́ŋkɪdʒ. ðɪs rəzʌ́lts nɒt ównlij ɪn bɛ́tər tɛ́kstʃər bʌt ɔ́lsow ɪn séjvərij, ənhǽnst téjst ðət trænsfɔ́rmz íjvən ðə sɪ́mpləst əv dɪ́ʃɪz ɪntə sʌ́mθɪŋ spɛ́ʃəl."
+    },
+    {
+        "Question": "In the art of charcuterie, what term is used to describe the process of preserving meats like bacon or ham by using methods such as salting, smoking, or drying?",
+        "RightAnswer": "cure",
+        "WrongAnswers": [
+            "blanch",
+            "marinate",
+            "poach",
+            "braise",
+            "sauté"
+        ],
+        "Explanation": "To 'cure' in the kitchen means to preserve food, especially meats, through methods like salting, smoking, or drying. This ancient technique not only extends the shelf life of the food but also enhances its flavor. Think of how slices of prosciutto or smoked salmon gain their distinctive taste and texture - that's the magic of curing at work!",
+        "trans_Question": "ɪn ðə ɑ́rt əv ʃɑrkúwtərij, wɒt tɜ́rm ɪz júwzd tə dəskrájb ðə prɒ́sɛs əv prəzɜ́rvɪŋ míjts lájk béjkən ɔr hǽm baj júwzɪŋ mɛ́θədz sʌtʃ æz sɔ́ltɪŋ, smówkɪŋ, ɔr drájɪŋ?",
+        "trans_RightAnswer": "kjʊ́r",
+        "trans_WrongAnswers": [
+            "blǽntʃ",
+            "mɛ́ərənèjt",
+            "pówtʃ",
+            "bréjz",
+            "sɔé"
+        ],
+        "trans_Explanation": "tə 'kjʊ́r' ɪn ðə kɪ́tʃən míjnz tə prəzɜ́rv fúwd, əspɛ́ʃəlij míjts, θrúw mɛ́θədz lájk sɔ́ltɪŋ, smówkɪŋ, ɔr drájɪŋ. ðɪs éjntʃənt tɛkníjk nɒt ównlij əkstɛ́ndz ðə ʃɛ́lf lájf əv ðə fúwd bʌt ɔ́lsow ənhǽnsɪz ɪts fléjvər. θɪ́ŋk əv háw slájsɪz əv prəʃúwtow ɔr smówkt sǽmən ɡéjn ðɛər dɪstɪ́ŋktɪv téjst ənd tɛ́kstʃər - ðət's ðə mǽdʒɪk əv kjʊ́rɪŋ æt wɜ́rk!"
+    },
+    {
+        "Question": "Which word describes the process of preserving cucumbers in a brine or vinegar solution to create a tangy snack?",
+        "RightAnswer": "pickle",
+        "WrongAnswers": [
+            "fry",
+            "roast",
+            "ferment",
+            "sear",
+            "steam"
+        ],
+        "Explanation": "To pickle something means to preserve it by immersing it in a solution like vinegar or brine. This technique not only enhances flavor with a distinctive tanginess but also extends the shelf life of fresh produce like cucumbers. It's a method that's beloved in many cuisines for its ability to transform ordinary vegetables into a zesty delight.",
+        "trans_Question": "wɪ́tʃ wɜ́rd dəskrájbz ðə prɒ́sɛs əv prəzɜ́rvɪŋ kjúwkəmbərz ɪn ə brájn ɔr vɪ́nəɡər səlúwʃən tə krijéjt ə tæŋij snǽk?",
+        "trans_RightAnswer": "pɪ́kəl",
+        "trans_WrongAnswers": [
+            "fráj",
+            "rówst",
+            "fɜ́rmɛnt",
+            "sɪ́ər",
+            "stíjm"
+        ],
+        "trans_Explanation": "tə pɪ́kəl sʌ́mθɪŋ míjnz tə prəzɜ́rv ɪt baj ɪmɜ́rsɪŋ ɪt ɪn ə səlúwʃən lájk vɪ́nəɡər ɔr brájn. ðɪs tɛkníjk nɒt ównlij ənhǽnsɪz fléjvər wɪð ə dɪstɪ́ŋktɪv /ˈtæŋɡɪnəs/ bʌt ɔ́lsow əkstɛ́ndz ðə ʃɛ́lf lájf əv frɛ́ʃ prədúws lájk kjúwkəmbərz. ɪt's ə mɛ́θəd ðət's bəlʌ́vd ɪn mɛ́nij kwɪzíjnz fɔr ɪts əbɪ́lɪtij tə trǽnsfɔrm ɔ́rdɪnɛ̀ərij vɛ́dʒtəbəlz ɪntə ə /ˈzɛstij/ dəlájt."
+    },
+    {
+        "Question": "While experimenting with classic recipes, Chef Olivia decided to use a technique that involves transforming sugars into alcohol and acids using natural bacteria. Which culinary process did she courageously embark upon?",
+        "RightAnswer": "ferment",
+        "WrongAnswers": [
+            "sear",
+            "emulsify",
+            "mince",
+            "caramelize",
+            "blanch"
+        ],
+        "Explanation": "In the culinary world, 'ferment' refers to the process where natural bacteria or yeast convert sugars into alcohol or acids. This technique not only preserves food, but it also amplifies flavors, creating delightful depth and complexity. Foods like yogurt, sauerkraut, and kimchi owe their tangy taste to fermentation, an age-old practice that adds a dynamic twist to your kitchen adventures.",
+        "trans_Question": "wájl əkspɛ́ərɪmɛ̀ntɪŋ wɪð klǽsɪk rɛ́sɪpijz, ʃɛ́f owlɪ́vijə dəsájdɪd tə juwz ə tɛkníjk ðət ɪnvɒ́lvz trænsfɔ́rmɪŋ ʃʊ́ɡərz ɪntə ǽlkəhɒl ənd ǽsɪdz júwzɪŋ nǽtʃərəl bæktɪ́ərijə. wɪ́tʃ kjúwlɪnɛ̀ərij prɒ́sɛs dɪd ʃij kəréjdʒəslij ɛmbɑ́rk əpɒ́n?",
+        "trans_RightAnswer": "fɜ́rmɛnt",
+        "trans_WrongAnswers": [
+            "sɪ́ər",
+            "ɪmʌ́lsəfàj",
+            "mɪ́ns",
+            "kǽrəməlàjz",
+            "blǽntʃ"
+        ],
+        "trans_Explanation": "ɪn ðə kjúwlɪnɛ̀ərij wɜ́rld, 'fɜ́rmɛnt' rəfɜ́rz tə ðə prɒ́sɛs wɛ́ər nǽtʃərəl bæktɪ́ərijə ɔr jíjst kɒ́nvɜrt ʃʊ́ɡərz ɪntə ǽlkəhɒl ɔr ǽsɪdz. ðɪs tɛkníjk nɒt ównlij prəzɜ́rvz fúwd, bʌt ɪt ɔ́lsow ǽmpləfàjz fléjvərz, krijéjtɪŋ dəlájtfəl dɛ́pθ ənd kəmplɛ́ksɪtij. fúwdz lájk jówɡərt, sáwərkràwt, ənd kɪ́mtʃij ów ðɛər tæŋij téjst tə fɜ̀rməntéjʃən, ən éjdʒ-ówld prǽktɪs ðət ǽdz ə dajnǽmɪk twɪ́st tə jɔr kɪ́tʃən ædvɛ́ntʃərz."
+    },
+    {
+        "Question": "If you're low on time but crave some delicious vegetables, which item from the pantry might you reach for that is typically sealed to preserve its contents?",
+        "RightAnswer": "can",
+        "WrongAnswers": [
+            "bottle",
+            "jar",
+            "carton",
+            "bag",
+            "pack"
+        ],
+        "Explanation": "In the context of the kitchen or cooking, a 'can' refers to a metal container used to store and preserve food. These containers are airtight and keep the contents from spoiling, often making them last for months or even years. Opening a can is a common way to enjoy fruits, vegetables, soups, and more, especially when fresh options are not available.",
+        "trans_Question": "ɪf júwr lów ɒn tájm bʌt kréjv sʌm dəlɪ́ʃəs vɛ́dʒtəbəlz, wɪ́tʃ ájtəm frəm ðə pǽntrij majt juw ríjtʃ fɔr ðət ɪz tɪ́pɪkəlij síjld tə prəzɜ́rv ɪts kɒ́ntɛnts?",
+        "trans_RightAnswer": "kən",
+        "trans_WrongAnswers": [
+            "bɒ́təl",
+            "dʒɑ́r",
+            "kɑ́rtən",
+            "bǽɡ",
+            "pǽk"
+        ],
+        "trans_Explanation": "ɪn ðə kɒ́ntɛkst əv ðə kɪ́tʃən ɔr kʊ́kɪŋ, ə 'kən' rəfɜ́rz tə ə mɛ́təl kəntéjnər júwzd tə stɔ́r ənd prəzɜ́rv fúwd. ðijz kəntéjnərz ɑr ɛ́ərtàjt ənd kíjp ðə kɒ́ntɛnts frəm spɔ́jlɪŋ, ɔ́fən méjkɪŋ ðɛm lǽst fɔr mʌ́nθs ɔr íjvən jɪ́ərz. ówpənɪŋ ə kən ɪz ə kɒ́mən wej tə əndʒɔ́j frúwts, vɛ́dʒtəbəlz, súwps, ənd mɔr, əspɛ́ʃəlij wɛ́n frɛ́ʃ ɒ́pʃənz ɑr nɒt əvéjləbəl."
+    },
+    {
+        "Question": "In the culinary world, chefs often use a specific term when they quickly pulverize or blend ingredients into a smooth consistency using a food processor. What is this term?",
+        "RightAnswer": "blitz",
+        "WrongAnswers": [
+            "saute",
+            "glaze",
+            "simmer",
+            "marinate",
+            "baste"
+        ],
+        "Explanation": "In cooking, to 'blitz' means to use a blender or food processor to rapidly mix, chop, or puree ingredients into a smooth mixture. Imagine turning whole tomatoes into a silky sauce in seconds or transforming nuts into a creamy paste. It's all about speed and efficiency—get ready to blitz your way through quick culinary tasks!",
+        "trans_Question": "ɪn ðə kjúwlɪnɛ̀ərij wɜ́rld, ʃɛ́fs ɔ́fən juwz ə spəsɪ́fɪk tɜ́rm wɛ́n ðej kwɪ́klij pʌ́lvəràjz ɔr blɛ́nd ɪnɡríjdijənts ɪntə ə smúwð kənsɪ́stənsij júwzɪŋ ə fúwd prɒ́sɛsər. wɒt ɪz ðɪs tɜ́rm?",
+        "trans_RightAnswer": "blɪ́ts",
+        "trans_WrongAnswers": [
+            "sɔtéj",
+            "ɡléjz",
+            "sɪ́mər",
+            "mɛ́ərənèjt",
+            "béjst"
+        ],
+        "trans_Explanation": "ɪn kʊ́kɪŋ, tə 'blɪ́ts' míjnz tə juwz ə blɛ́ndər ɔr fúwd prɒ́sɛsər tə rǽpɪdlij mɪ́ks, tʃɒ́p, ɔr pjʊréj ɪnɡríjdijənts ɪntə ə smúwð mɪ́kstʃər. ɪmǽdʒɪn tɜ́rnɪŋ hówl təmɒ́towz ɪntə ə sɪ́lkij sɔ́s ɪn sɛ́kəndz ɔr trænsfɔ́rmɪŋ nʌ́ts ɪntə ə kríjmij péjst. ɪt's ɔl əbawt spíjd ənd əfɪ́ʃənsij—ɡɛt rɛ́dij tə blɪ́ts jɔr wej θrúw kwɪ́k kjúwlɪnɛ̀ərij tǽsks!"
+    },
+    {
+        "Question": "After boiling the milk for too long, Sarah accidentally caused a kitchen mishap that can happen if you overheat liquid. What term describes this unintentional effect?",
+        "RightAnswer": "scald",
+        "WrongAnswers": [
+            "simmer",
+            "char",
+            "congeal",
+            "ferment",
+            "poach"
+        ],
+        "Explanation": "To 'scald' in cooking refers to heating a liquid, such as milk, to a near-boiling point without allowing it to boil over. It typically involves bringing the temperature up just enough to kill bacteria or to incorporate ingredients smoothly. Scalding can easily result in a burnt or overly heated state if not watched carefully, which may lead to undesirable flavors or textures.",
+        "trans_Question": "ǽftər bɔ́jlɪŋ ðə mɪ́lk fɔr túw lɔ́ŋ, sɛ́ərə æ̀ksvdɛ́ntəlij kɒ́zd ə kɪ́tʃən mɪ́shæ̀p ðət kən hǽpən ɪf juw ówvərhìjt lɪ́kwɪd. wɒt tɜ́rm dəskrájbz ðɪs ʌ̀nɪntɛ́nʃənəl əfɛ́kt?",
+        "trans_RightAnswer": "skɔ́ld",
+        "trans_WrongAnswers": [
+            "sɪ́mər",
+            "tʃɑ́r",
+            "kəndʒíjl",
+            "fɜ́rmɛnt",
+            "pówtʃ"
+        ],
+        "trans_Explanation": "tə 'skɔ́ld' ɪn kʊ́kɪŋ rəfɜ́rz tə híjtɪŋ ə lɪ́kwɪd, sʌtʃ æz mɪ́lk, tə ə nɪ́ər-bɔ́jlɪŋ pɔ́jnt wɪðáwt əláwɪŋ ɪt tə bɔ́jl ówvər. ɪt tɪ́pɪkəlij ɪnvɒ́lvz brɪ́ŋɪŋ ðə tɛ́mpərətʃər ʌp dʒəst ənʌ́f tə kɪ́l bæktɪ́ərijə ɔr tə ɪnkɔ́rpərejt ɪnɡríjdijənts smúwðlij. skɔ́ldɪŋ kən íjzəlij rəzʌ́lt ɪn ə bɜ́rnt ɔr ówvərlij híjtɪd stéjt ɪf nɒt wɒ́tʃt kɛ́ərfəlij, wɪ́tʃ mej líjd tə ʌ̀ndəzájərəbəl fléjvərz ɔr tɛ́kstʃərz."
+    },
+    {
+        "Question": "In preparing a stir-fry, a chef might choose to partially cook broccoli in boiling water before adding it to the pan. What is this technique called?",
+        "RightAnswer": "parboil",
+        "WrongAnswers": [
+            "sear",
+            "blanch",
+            "braise",
+            "poach",
+            "steam"
+        ],
+        "Explanation": "Parboiling is a cooking technique where food, such as vegetables or meats, is partially boiled for a short period of time. This method is used to soften the food without fully cooking it, making it easier and quicker to finish later. For example, parboiling broccoli before stir-frying ensures it's tender but not mushy, allowing it to blend harmoniously with other ingredients in the dish.",
+        "trans_Question": "ɪn prəpɛ́ərɪŋ ə stɜ́r-fráj, ə ʃɛ́f majt tʃúwz tə pɑ́rʃəlij kʊ́k brɒ́kəlij ɪn bɔ́jlɪŋ wɔ́tər bəfɔ́r ǽdɪŋ ɪt tə ðə pǽn. wɒt ɪz ðɪs tɛkníjk kɔ́ld?",
+        "trans_RightAnswer": "pɑ́rbɔ̀jl",
+        "trans_WrongAnswers": [
+            "sɪ́ər",
+            "blǽntʃ",
+            "bréjz",
+            "pówtʃ",
+            "stíjm"
+        ],
+        "trans_Explanation": "pɑ́rbɔ̀jlɪŋ ɪz ə kʊ́kɪŋ tɛkníjk wɛ́ər fúwd, sʌtʃ æz vɛ́dʒtəbəlz ɔr míjts, ɪz pɑ́rʃəlij bɔ́jld fɔr ə ʃɔ́rt pɪ́ərijəd əv tájm. ðɪs mɛ́θəd ɪz júwzd tə sɒ́fən ðə fúwd wɪðáwt fʊ́lij kʊ́kɪŋ ɪt, méjkɪŋ ɪt íjzijər ənd kwɪ́kər tə fɪ́nɪʃ léjtər. fɔr əɡzǽmpəl, pɑ́rbɔ̀jlɪŋ brɒ́kəlij bəfɔ́r stɜ́r-frájɪŋ ənʃʊ́rz ɪt's tɛ́ndər bʌt nɒt mʌ́ʃij, əláwɪŋ ɪt tə blɛ́nd hɑrmównijəslij wɪð ʌ́ðər ɪnɡríjdijənts ɪn ðə dɪ́ʃ."
+    },
+    {
+        "Question": "During the seafood cooking class, Chef Antonio demonstrates how to expertly prepare oysters before serving. What is the term for removing the outer shell from an oyster?",
+        "RightAnswer": "shuck",
+        "WrongAnswers": [
+            "peel",
+            "shell",
+            "husk",
+            "skin",
+            "de-shell"
+        ],
+        "Explanation": "To 'shuck' is the process of removing the outer shell from shellfish such as oysters and clams. It's a delicate task requiring a special knife to gently open and separate the shell halves without damaging the tender meat inside. This skill is essential in many culinary settings, especially when preparing shellfish for eating raw or cooking.",
+        "trans_Question": "dʊ́rɪŋ ðə síjfùwd kʊ́kɪŋ klǽs, ʃɛ́f æntównijow dɛ́mənstrèjts háw tə ɛ́kspərtlij prəpɛ́ər ɔ́jstərz bəfɔ́r sɜ́rvɪŋ. wɒt ɪz ðə tɜ́rm fɔr rijmúwvɪŋ ðə áwtər ʃɛ́l frəm ən ɔ́jstər?",
+        "trans_RightAnswer": "ʃʌ́k",
+        "trans_WrongAnswers": [
+            "píjl",
+            "ʃɛ́l",
+            "hʌ́sk",
+            "skɪ́n",
+            "de-ʃɛ́l"
+        ],
+        "trans_Explanation": "tə 'ʃʌ́k' ɪz ðə prɒ́sɛs əv rijmúwvɪŋ ðə áwtər ʃɛ́l frəm ʃɛ́lfɪ̀ʃ sʌtʃ æz ɔ́jstərz ənd klǽmz. ɪt's ə dɛ́lɪkət tǽsk rijkwájərɪŋ ə spɛ́ʃəl nájf tə dʒɛ́ntlij ówpən ənd sɛ́pərət ðə ʃɛ́l hǽvz wɪðáwt dǽmɪdʒɪŋ ðə tɛ́ndər míjt ɪnsájd. ðɪs skɪ́l ɪz əsɛ́nʃəl ɪn mɛ́nij kjúwlɪnɛ̀ərij sɛ́tɪŋz, əspɛ́ʃəlij wɛ́n prəpɛ́ərɪŋ ʃɛ́lfɪ̀ʃ fɔr íjtɪŋ rɔ́ ɔr kʊ́kɪŋ."
+    },
+    {
+        "Question": "In baking, which term describes the process of passing dry ingredients like flour through a mesh or sieve to remove lumps and aerate them?",
+        "RightAnswer": "sift",
+        "WrongAnswers": [
+            "whisk",
+            "knead",
+            "fold",
+            "beat",
+            "cream"
+        ],
+        "Explanation": "Sifting is a technique used in baking to make sure dry ingredients, such as flour or powdered sugar, are free of clumps and well aerated. By passing them through a fine mesh, you not only break up any lumps but also introduce air, which can lead to a lighter texture in your baked goods. It might seem like a simple step, but it can make a noticeable difference in the final result of your cakes or pastries.",
+        "trans_Question": "ɪn béjkɪŋ, wɪ́tʃ tɜ́rm dəskrájbz ðə prɒ́sɛs əv pǽsɪŋ dráj ɪnɡríjdijənts lájk fláwər θrúw ə mɛ́ʃ ɔr sɪ́v tə rijmúwv lʌ́mps ənd /ˈɛər.ə.tejt/ ðɛm?",
+        "trans_RightAnswer": "sɪ́ft",
+        "trans_WrongAnswers": [
+            "wɪ́sk",
+            "níjd",
+            "fówld",
+            "bíjt",
+            "kríjm"
+        ],
+        "trans_Explanation": "sɪ́ftɪŋ ɪz ə tɛkníjk júwzd ɪn béjkɪŋ tə méjk ʃʊ́r dráj ɪnɡríjdijənts, sʌtʃ æz fláwər ɔr páwdərd ʃʊ́ɡər, ɑr fríj əv klʌ́mps ənd wɛ́l ɛ́ərèjtɪd. baj pǽsɪŋ ðɛm θrúw ə fájn mɛ́ʃ, juw nɒt ównlij bréjk ʌp ɛ́nij lʌ́mps bʌt ɔ́lsow ɪntrədúws ɛ́ər, wɪ́tʃ kən líjd tə ə lájtər tɛ́kstʃər ɪn jɔr béjkt ɡʊ́dz. ɪt majt síjm lájk ə sɪ́mpəl stɛ́p, bʌt ɪt kən méjk ə nówtɪsəbəl dɪ́fərəns ɪn ðə fájnəl rəzʌ́lt əv jɔr kéjks ɔr péjstrijz."
+    },
+    {
+        "Question": "While preparing a barbecue, Emma used a long metal stick to hold chunks of meat and vegetables together for grilling. What is this tool called?",
+        "RightAnswer": "skewer",
+        "WrongAnswers": [
+            "spatula",
+            "tongs",
+            "peeler",
+            "whisk",
+            "colander"
+        ],
+        "Explanation": "A skewer is a long, thin rod, often made of wood or metal, used to hold food together while cooking. It is popular for grilling or roasting meat and vegetables, allowing for easy rotation and even cooking. Skewers are essential tools for making kebabs and satay and are perfect for evenly cooking your favorite ingredients over a flame.",
+        "trans_Question": "wájl prəpɛ́ərɪŋ ə bɑ́rbɪkjùw, ɛ́mə júwzd ə lɔ́ŋ mɛ́təl stɪ́k tə hówld tʃʌ́ŋks əv míjt ənd vɛ́dʒtəbəlz təɡɛ́ðər fɔr ɡrɪ́lɪŋ. wɒt ɪz ðɪs túwl kɔ́ld?",
+        "trans_RightAnswer": "skjúwər",
+        "trans_WrongAnswers": [
+            "spǽtʃʊ̀lə",
+            "tɒ́ŋz",
+            "píjlər",
+            "wɪ́sk",
+            "kɒ́ləndər"
+        ],
+        "trans_Explanation": "ə skjúwər ɪz ə lɔ́ŋ, θɪ́n rɒ́d, ɔ́fən méjd əv wʊ́d ɔr mɛ́təl, júwzd tə hówld fúwd təɡɛ́ðər wájl kʊ́kɪŋ. ɪt ɪz pɒ́pjələr fɔr ɡrɪ́lɪŋ ɔr rówstɪŋ míjt ənd vɛ́dʒtəbəlz, əláwɪŋ fɔr íjzij rowtéjʃən ənd íjvən kʊ́kɪŋ. skjúwərz ɑr əsɛ́nʃəl túwlz fɔr méjkɪŋ kəbǽbz ənd /səˈtaj/ ənd ɑr pɜ́rfəkt fɔr íjvənlij kʊ́kɪŋ jɔr féjvərɪt ɪnɡríjdijənts ówvər ə fléjm."
+    },
+    {
+        "Question": "During the holiday dinner preparations, the chef decided to fill the turkey with a mixture of bread crumbs and herbs. Which word best describes this cooking process?",
+        "RightAnswer": "stuff",
+        "WrongAnswers": [
+            "grate",
+            "whisk",
+            "saute",
+            "broil",
+            "chop"
+        ],
+        "Explanation": "In the culinary world, 'stuff' means to fill an ingredient, typically meat or a vegetable, with a savory or sweet mixture. This technique enhances flavor and texture, providing a delightful surprise when the dish is served. For instance, you might stuff a turkey with a blend of bread, herbs, and spices before roasting it to perfection.",
+        "trans_Question": "dʊ́rɪŋ ðə hɒ́lədèj dɪ́nər prɛ̀pəréjʃənz, ðə ʃɛ́f dəsájdɪd tə fɪ́l ðə tɜ́rkij wɪð ə mɪ́kstʃər əv brɛ́d krʌ́mz ənd ɜ́rbz. wɪ́tʃ wɜ́rd bɛ́st dəskrájbz ðɪs kʊ́kɪŋ prɒ́sɛs?",
+        "trans_RightAnswer": "stʌ́f",
+        "trans_WrongAnswers": [
+            "ɡréjt",
+            "wɪ́sk",
+            "sɔtéj",
+            "brɔ́jl",
+            "tʃɒ́p"
+        ],
+        "trans_Explanation": "ɪn ðə kjúwlɪnɛ̀ərij wɜ́rld, 'stʌ́f' míjnz tə fɪ́l ən ɪnɡríjdijənt, tɪ́pɪkəlij míjt ɔr ə vɛ́dʒtəbəl, wɪð ə séjvərij ɔr swíjt mɪ́kstʃər. ðɪs tɛkníjk ənhǽnsɪz fléjvər ənd tɛ́kstʃər, prəvájdɪŋ ə dəlájtfəl sərprájz wɛ́n ðə dɪ́ʃ ɪz sɜ́rvd. fɔr ɪ́nstəns, juw majt stʌ́f ə tɜ́rkij wɪð ə blɛ́nd əv brɛ́d, ɜ́rbz, ənd spájsɪz bəfɔ́r rówstɪŋ ɪt tə pərfɛ́kʃən."
+    },
+    {
+        "Question": "In the context of baking, what term describes the gentle method of combining light, airy ingredients like whipped cream or beaten egg whites into a thicker mixture to maintain as much air as possible?",
+        "RightAnswer": "fold",
+        "WrongAnswers": [
+            "whisk",
+            "stir",
+            "knead",
+            "blend",
+            "beat"
+        ],
+        "Explanation": "In cooking, 'folding' is a method where you gently combine delicate mixtures or ingredients to maintain their lightness and airiness. Instead of vigorously mixing, you use a spatula to carefully lift the mixture from underneath and incorporate it by turning it over, typically in a circular motion. This technique is crucial in preserving the airy structure of ingredients like whipped cream or egg whites, which can be deflated if handled too roughly.",
+        "trans_Question": "ɪn ðə kɒ́ntɛkst əv béjkɪŋ, wɒt tɜ́rm dəskrájbz ðə dʒɛ́ntəl mɛ́θəd əv kəmbájnɪŋ lájt, ɛ́ərij ɪnɡríjdijənts lájk wɪ́pt kríjm ɔr bíjtən ɛ́ɡ wájts ɪntə ə θɪ́kər mɪ́kstʃər tə mejntéjn æz mʌtʃ ɛ́ər æz pɒ́sɪbəl?",
+        "trans_RightAnswer": "fówld",
+        "trans_WrongAnswers": [
+            "wɪ́sk",
+            "stɜ́r",
+            "níjd",
+            "blɛ́nd",
+            "bíjt"
+        ],
+        "trans_Explanation": "ɪn kʊ́kɪŋ, 'fówldɪŋ' ɪz ə mɛ́θəd wɛ́ər juw dʒɛ́ntlij kɒ́mbajn dɛ́lɪkət mɪ́kstʃərz ɔr ɪnɡríjdijənts tə mejntéjn ðɛər lájtnəs ənd ɛ́ərijnəs. ɪnstɛ́d əv vɪ́ɡərəslij mɪ́ksɪŋ, juw juwz ə spǽtʃʊ̀lə tə kɛ́ərfəlij lɪ́ft ðə mɪ́kstʃər frəm ʌ̀ndərníjθ ənd ɪnkɔ́rpərejt ɪt baj tɜ́rnɪŋ ɪt ówvər, tɪ́pɪkəlij ɪn ə sɜ́rkjələr mówʃən. ðɪs tɛkníjk ɪz krúwʃəl ɪn prəzɜ́rvɪŋ ðə ɛ́ərij strʌ́ktʃər əv ɪnɡríjdijənts lájk wɪ́pt kríjm ɔr ɛ́ɡ wájts, wɪ́tʃ kən bij dəfléjtɪd ɪf hǽndəld túw rʌ́flij."
+    },
+    {
+        "Question": "In the culinary world, what term is used to describe the decorative toppings or additions placed on a dish to enhance its appearance and sometimes add subtle flavors?",
+        "RightAnswer": "garnish",
+        "WrongAnswers": [
+            "marinade",
+            "sauté",
+            "deglaze",
+            "caramelize",
+            "infuse"
+        ],
+        "Explanation": "A 'garnish' is a delightful touch to any dish, adding both beauty and a hint of flavor. Imagine those sprigs of fresh herbs, a joyful sprinkle of nuts, or a dash of colorful spices that not only decorate your plate but also complement and elevate the overall taste experience.",
+        "trans_Question": "ɪn ðə kjúwlɪnɛ̀ərij wɜ́rld, wɒt tɜ́rm ɪz júwzd tə dəskrájb ðə dɛ́kərətɪv tɒ́pɪŋz ɔr ədɪ́ʃənz pléjst ɒn ə dɪ́ʃ tə ənhǽns ɪts əpɪ́ərəns ənd sʌ́mtàjmz ǽd sʌ́təl fléjvərz?",
+        "trans_RightAnswer": "ɡɑ́rnɪʃ",
+        "trans_WrongAnswers": [
+            "mɑ́rɪnèjd",
+            "sɔé",
+            "dəɡléjz",
+            "kǽrəməlàjz",
+            "ɪnfjúwz"
+        ],
+        "trans_Explanation": "ə 'ɡɑ́rnɪʃ' ɪz ə dəlájtfəl tʌ́tʃ tə ɛ́nij dɪ́ʃ, ǽdɪŋ bówθ bjúwtij ənd ə hɪ́nt əv fléjvər. ɪmǽdʒɪn ðowz /sprɪɡz/ əv frɛ́ʃ ɜ́rbz, ə dʒɔ́jfəl sprɪ́ŋkəl əv nʌ́ts, ɔr ə dǽʃ əv kʌ́lərfəl spájsɪz ðət nɒt ównlij dɛ́kərèjt jɔr pléjt bʌt ɔ́lsow kɒ́mpləmənt ənd ɛ́ləvèjt ðə ówvərɔ̀l téjst əkspɪ́ərijəns."
+    },
+    {
+        "Question": "When Emily decided to try a new recipe for dinner, she carefully tossed her vegetables into a heated skillet with a little oil. Which cooking technique is Emily using to achieve a crispy exterior without deep-fat immersion?",
+        "RightAnswer": "pan-fry",
+        "WrongAnswers": [
+            "boil",
+            "poach",
+            "bake",
+            "steam",
+            "braise"
+        ],
+        "Explanation": "Pan-frying involves cooking food in a small amount of hot oil or fat in a skillet over medium-high heat. This method allows you to achieve a tasty and crispy outer layer on a variety of foods, such as vegetables, meats, or fish, without submerging them completely in oil, as you would with deep frying. It's perfect for when you want that crunchy texture and rich flavor without the extra oiliness.",
+        "trans_Question": "wɛ́n ɛ́mɪlij dəsájdɪd tə tráj ə núw rɛ́sɪpij fɔr dɪ́nər, ʃij kɛ́ərfəlij tɔ́st hər vɛ́dʒtəbəlz ɪntə ə híjtɪd skɪ́lət wɪð ə lɪ́təl ɔ́jl. wɪ́tʃ kʊ́kɪŋ tɛkníjk ɪz ɛ́mɪlij júwzɪŋ tə ətʃíjv ə krɪ́spij əkstɪ́ərijər wɪðáwt díjp-fǽt ɪmɜ́rʒən?",
+        "trans_RightAnswer": "pǽn-fráj",
+        "trans_WrongAnswers": [
+            "bɔ́jl",
+            "pówtʃ",
+            "béjk",
+            "stíjm",
+            "bréjz"
+        ],
+        "trans_Explanation": "pǽn-frájɪŋ ɪnvɒ́lvz kʊ́kɪŋ fúwd ɪn ə smɔ́l əmáwnt əv hɒ́t ɔ́jl ɔr fǽt ɪn ə skɪ́lət ówvər míjdijəm-háj híjt. ðɪs mɛ́θəd əláwz juw tə ətʃíjv ə téjstij ənd krɪ́spij áwtər léjər ɒn ə vərájətij əv fúwdz, sʌtʃ æz vɛ́dʒtəbəlz, míjts, ɔr fɪ́ʃ, wɪðáwt səbmɜ́rdʒɪŋ ðɛm kəmplíjtlij ɪn ɔ́jl, æz juw wʊd wɪð díjp frájɪŋ. ɪt's pɜ́rfəkt fɔr wɛ́n juw wɒ́nt ðət krʌ́ntʃij tɛ́kstʃər ənd rɪ́tʃ fléjvər wɪðáwt ðə ɛ́kstrə /ˈɔjlɪnəs/."
+    },
+    {
+        "Question": "In the culinary world, what term describes the process of submerging food fully in hot oil until it’s cooked to a crisp golden brown perfection, often associated with dishes like French fries and tempura?",
+        "RightAnswer": "deep-fry",
+        "WrongAnswers": [
+            "saute",
+            "steam",
+            "bake",
+            "grill",
+            "boil"
+        ],
+        "Explanation": "Deep-frying is a cooking method that involves immersing food completely in hot oil, allowing it to cook quickly at high temperatures. This technique gives food a crispy outer texture while maintaining a moist interior, making it perfect for creating dishes like fried chicken or onion rings. While delicious, it requires caution due to the risk of oil splatters and burns.",
+        "trans_Question": "ɪn ðə kjúwlɪnɛ̀ərij wɜ́rld, wɒt tɜ́rm dəskrájbz ðə prɒ́sɛs əv səbmɜ́rdʒɪŋ fúwd fʊ́lij ɪn hɒ́t ɔ́jl əntɪ́l ɪt's kʊ́kt tə ə krɪ́sp ɡówldən bráwn pərfɛ́kʃən, ɔ́fən əsówsijèjtɪd wɪð dɪ́ʃɪz lájk frɛ́ntʃ frájz ənd tɛmpʊ́rə?",
+        "trans_RightAnswer": "díjp-fráj",
+        "trans_WrongAnswers": [
+            "sɔtéj",
+            "stíjm",
+            "béjk",
+            "ɡrɪ́l",
+            "bɔ́jl"
+        ],
+        "trans_Explanation": "díjp-frájɪŋ ɪz ə kʊ́kɪŋ mɛ́θəd ðət ɪnvɒ́lvz ɪmɜ́rsɪŋ fúwd kəmplíjtlij ɪn hɒ́t ɔ́jl, əláwɪŋ ɪt tə kʊ́k kwɪ́klij æt háj tɛ́mpərətʃərz. ðɪs tɛkníjk ɡɪ́vz fúwd ə krɪ́spij áwtər tɛ́kstʃər wájl mejntéjnɪŋ ə mɔ́jst ɪ̀ntɪ́ərijər, méjkɪŋ ɪt pɜ́rfəkt fɔr krijéjtɪŋ dɪ́ʃɪz lájk frájd tʃɪ́kən ɔr ʌ́njən rɪ́ŋz. wájl dəlɪ́ʃəs, ɪt rəkwájərz kɒ́ʃən djúw tə ðə rɪ́sk əv ɔ́jl splǽtərz ənd bɜ́rnz."
+    },
+    {
+        "Question": "You're in the kitchen, preparing a quick and nutritious meal. You toss vegetables and meat in a hot wok with just a splash of oil, moving them around constantly to cook them evenly. What is this vibrant cooking method called?",
+        "RightAnswer": "stir-fry",
+        "WrongAnswers": [
+            "sauté",
+            "grill",
+            "bake",
+            "steam",
+            "roast"
+        ],
+        "Explanation": "Stir-fry is a fast and lively cooking technique often associated with Asian cuisine. It involves cooking ingredients quickly over high heat in a wok or pan, with frequent stirring. This method not only helps retain the nutrients and vibrant colors of vegetables but also allows flavors to mix deliciously. A classic stir-fry is typically crispy on the outside yet tender inside, offering a delightful texture contrast in every bite.",
+        "trans_Question": "júwr ɪn ðə kɪ́tʃən, prəpɛ́ərɪŋ ə kwɪ́k ənd nuwtrɪ́ʃəs míjl. juw tɔ́s vɛ́dʒtəbəlz ənd míjt ɪn ə hɒ́t wɒ́k wɪð dʒəst ə splǽʃ əv ɔ́jl, múwvɪŋ ðɛm əráwnd kɒ́nstəntlij tə kʊ́k ðɛm íjvənlij. wɒt ɪz ðɪs vájbrənt kʊ́kɪŋ mɛ́θəd kɔ́ld?",
+        "trans_RightAnswer": "stɜ́r-fráj",
+        "trans_WrongAnswers": [
+            "sɔé",
+            "ɡrɪ́l",
+            "béjk",
+            "stíjm",
+            "rówst"
+        ],
+        "trans_Explanation": "stɜ́r-fráj ɪz ə fǽst ənd lájvlij kʊ́kɪŋ tɛkníjk ɔ́fən əsówsijèjtɪd wɪð éjʒən kwɪzíjn. ɪt ɪnvɒ́lvz kʊ́kɪŋ ɪnɡríjdijənts kwɪ́klij ówvər háj híjt ɪn ə wɒ́k ɔr pǽn, wɪð fríjkwənt stɜ́rɪŋ. ðɪs mɛ́θəd nɒt ównlij hɛ́lps rijtéjn ðə núwtrijənts ənd vájbrənt kʌ́lərz əv vɛ́dʒtəbəlz bʌt ɔ́lsow əláwz fléjvərz tə mɪ́ks dəlɪ́ʃəʃlij. ə klǽsɪk stɜ́r-fráj ɪz tɪ́pɪkəlij krɪ́spij ɒn ðə áwtsájd jɛt tɛ́ndər ɪnsájd, ɔ́fərɪŋ ə dəlájtfəl tɛ́kstʃər kɒ́ntræst ɪn ɛvərij bájt."
+    },
+    {
+        "Question": "While preparing a quick vegetable stir-fry, you encounter a cooking instruction that requires you to cook the vegetables lightly in a small amount of oil over medium-high heat until they're slightly tender but still have a bit of crunch. What cooking technique is being described?",
+        "RightAnswer": "sauté",
+        "WrongAnswers": [
+            "boil",
+            "bake",
+            "deep-fry",
+            "grill",
+            "steam"
+        ],
+        "Explanation": "To 'sauté' means to cook food quickly in a small amount of oil or butter over relatively high heat. The goal is to lightly brown and cook the food while preserving its natural texture, flavor, and color. It's a popular technique in many cuisines because it enhances the flavors and retains more nutrients than some other methods.",
+        "trans_Question": "wájl prəpɛ́ərɪŋ ə kwɪ́k vɛ́dʒtəbəl stɜ́r-fráj, juw ənkáwntər ə kʊ́kɪŋ ɪnstrʌ́kʃən ðət rəkwájərz juw tə kʊ́k ðə vɛ́dʒtəbəlz lájtlij ɪn ə smɔ́l əmáwnt əv ɔ́jl ówvər míjdijəm-háj híjt əntɪ́l ðɛ́ər slájtlij tɛ́ndər bʌt stɪ́l həv ə bɪ́t əv krʌ́ntʃ. wɒt kʊ́kɪŋ tɛkníjk ɪz bíjɪŋ dəskrájbd?",
+        "trans_RightAnswer": "sɔé",
+        "trans_WrongAnswers": [
+            "bɔ́jl",
+            "béjk",
+            "díjp-fráj",
+            "ɡrɪ́l",
+            "stíjm"
+        ],
+        "trans_Explanation": "tə 'sɔé' míjnz tə kʊ́k fúwd kwɪ́klij ɪn ə smɔ́l əmáwnt əv ɔ́jl ɔr bʌ́tər ówvər rɛ́lətɪvlij háj híjt. ðə ɡówl ɪz tə lájtlij bráwn ənd kʊ́k ðə fúwd wájl prəzɜ́rvɪŋ ɪts nǽtʃərəl tɛ́kstʃər, fléjvər, ənd kʌ́lər. ɪt's ə pɒ́pjələr tɛkníjk ɪn mɛ́nij kwɪzíjnz bəkɒ́z ɪt ənhǽnsɪz ðə fléjvərz ənd rijtéjnz mɔr núwtrijənts ðʌn sʌm ʌ́ðər mɛ́θədz."
+    },
+    {
+        "Question": "While preparing a classic Eggs Benedict, what culinary technique involves gently cooking an ingredient in simmering water, creating a delicate texture without using excessive heat?",
+        "RightAnswer": "poach",
+        "WrongAnswers": [
+            "blanch",
+            "sear",
+            "bake",
+            "fry",
+            "grill"
+        ],
+        "Explanation": "To poach something, like an egg, means to cook it gently in simmering water without letting it boil. This technique is great for creating tender, delicately cooked food that maintains moisture and a soft texture, perfect for dishes like Eggs Benedict where a runny center is desired.",
+        "trans_Question": "wájl prəpɛ́ərɪŋ ə klǽsɪk ɛ́ɡz bɛ́nɪdɪkt, wɒt kjúwlɪnɛ̀ərij tɛkníjk ɪnvɒ́lvz dʒɛ́ntlij kʊ́kɪŋ ən ɪnɡríjdijənt ɪn sɪ́mərɪŋ wɔ́tər, krijéjtɪŋ ə dɛ́lɪkət tɛ́kstʃər wɪðáwt júwzɪŋ əksɛ́sɪv híjt?",
+        "trans_RightAnswer": "pówtʃ",
+        "trans_WrongAnswers": [
+            "blǽntʃ",
+            "sɪ́ər",
+            "béjk",
+            "fráj",
+            "ɡrɪ́l"
+        ],
+        "trans_Explanation": "tə pówtʃ sʌ́mθɪŋ, lájk ən ɛ́ɡ, míjnz tə kʊ́k ɪt dʒɛ́ntlij ɪn sɪ́mərɪŋ wɔ́tər wɪðáwt lɛ́tɪŋ ɪt bɔ́jl. ðɪs tɛkníjk ɪz ɡréjt fɔr krijéjtɪŋ tɛ́ndər, dɛ́lɪkətlij kʊ́kt fúwd ðət mejntéjnz mɔ́jstʃər ənd ə sɒ́ft tɛ́kstʃər, pɜ́rfəkt fɔr dɪ́ʃɪz lájk ɛ́ɡz bɛ́nɪdɪkt wɛ́ər ə rʌ́nij sɛ́ntər ɪz dəzájərd."
+    },
+    {
+        "Question": "While preparing breakfast, Emily placed slices of bread in the electric appliance to brown them to a crispy texture. What process was she undertaking?",
+        "RightAnswer": "toast",
+        "WrongAnswers": [
+            "grill",
+            "fry",
+            "bake",
+            "broil",
+            "roast"
+        ],
+        "Explanation": "To toast is to cook something, such as bread or nuts, quickly on both sides with dry heat until it's warm, crunchy, and slightly browned. This is commonly done using a toaster or an oven, and it often enhances flavor by adding a toasty, slightly charred taste.",
+        "trans_Question": "wájl prəpɛ́ərɪŋ brɛ́kfəst, ɛ́mɪlij pléjst slájsɪz əv brɛ́d ɪn ðə əlɛ́ktrɪk əplájəns tə bráwn ðɛm tə ə krɪ́spij tɛ́kstʃər. wɒt prɒ́sɛs wɒz ʃij ʌ́ndərtèjkɪŋ?",
+        "trans_RightAnswer": "tówst",
+        "trans_WrongAnswers": [
+            "ɡrɪ́l",
+            "fráj",
+            "béjk",
+            "brɔ́jl",
+            "rówst"
+        ],
+        "trans_Explanation": "tə tówst ɪz tə kʊ́k sʌ́mθɪŋ, sʌtʃ æz brɛ́d ɔr nʌ́ts, kwɪ́klij ɒn bówθ sájdz wɪð dráj híjt əntɪ́l ɪt's wɔ́rm, krʌ́ntʃij, ənd slájtlij bráwnd. ðɪs ɪz kɒ́mənlij dʌ́n júwzɪŋ ə tówstər ɔr ən ʌ́vən, ənd ɪt ɔ́fən ənhǽnsɪz fléjvər baj ǽdɪŋ ə tówstij, slájtlij tʃɑ́rd téjst."
+    },
+    {
+        "Question": "While preparing a delicious steak dinner, which cooking method involves exposing the meat to direct heat, often from above, similar to grilling but usually within an oven?",
+        "RightAnswer": "broil",
+        "WrongAnswers": [
+            "sauté",
+            "simmer",
+            "bake",
+            "roast",
+            "steam"
+        ],
+        "Explanation": "Broiling is a high-heat cooking method that involves cooking food directly under a heat element in an oven, similar to grilling but from above. It quickly sears the outside of foods like meats and vegetables, while keeping the inside tender, due to the intense heat coming from directly above the food. This technique can create deliciously crispy exteriors, perfect for enhancing flavors, especially in meats.",
+        "trans_Question": "wájl prəpɛ́ərɪŋ ə dəlɪ́ʃəs stéjk dɪ́nər, wɪ́tʃ kʊ́kɪŋ mɛ́θəd ɪnvɒ́lvz əkspówzɪŋ ðə míjt tə dɪərɛ́kt híjt, ɔ́fən frəm əbʌ́v, sɪ́mɪlər tə ɡrɪ́lɪŋ bʌt júwʒəlij wɪðɪ́n ən ʌ́vən?",
+        "trans_RightAnswer": "brɔ́jl",
+        "trans_WrongAnswers": [
+            "sɔé",
+            "sɪ́mər",
+            "béjk",
+            "rówst",
+            "stíjm"
+        ],
+        "trans_Explanation": "brɔ́jlɪŋ ɪz ə háj-híjt kʊ́kɪŋ mɛ́θəd ðət ɪnvɒ́lvz kʊ́kɪŋ fúwd dɪərɛ́klij ʌ́ndər ə híjt ɛ́ləmənt ɪn ən ʌ́vən, sɪ́mɪlər tə ɡrɪ́lɪŋ bʌt frəm əbʌ́v. ɪt kwɪ́klij sɪ́ərz ðə áwtsájd əv fúwdz lájk míjts ənd vɛ́dʒtəbəlz, wájl kíjpɪŋ ðə ɪnsájd tɛ́ndər, djúw tə ðə ɪntɛ́ns híjt kʌ́mɪŋ frəm dɪərɛ́klij əbʌ́v ðə fúwd. ðɪs tɛkníjk kən krijéjt dəlɪ́ʃəʃlij krɪ́spij əkstɪ́ərijərz, pɜ́rfəkt fɔr ɛnhǽnsɪŋ fléjvərz, əspɛ́ʃəlij ɪn míjts."
+    },
+    {
+        "Question": "If you want to make a delicious and crispy apple pie using an oven, what cooking method would your recipe most likely recommend?",
+        "RightAnswer": "bake",
+        "WrongAnswers": [
+            "fry",
+            "grill",
+            "steam",
+            "boil",
+            "sauté"
+        ],
+        "Explanation": "To bake means to cook food using the dry heat of an oven, where hot air circulates around the food, allowing it to cook evenly. This method is commonly used for bread, pastries, and desserts like the classic apple pie, creating a nice crust and reaching the perfect level of doneness.",
+        "trans_Question": "ɪf juw wɒ́nt tə méjk ə dəlɪ́ʃəs ənd krɪ́spij ǽpəl páj júwzɪŋ ən ʌ́vən, wɒt kʊ́kɪŋ mɛ́θəd wʊd jɔr rɛ́sɪpij mówst lájklij rɛ̀kəmɛ́nd?",
+        "trans_RightAnswer": "béjk",
+        "trans_WrongAnswers": [
+            "fráj",
+            "ɡrɪ́l",
+            "stíjm",
+            "bɔ́jl",
+            "sɔé"
+        ],
+        "trans_Explanation": "tə béjk míjnz tə kʊ́k fúwd júwzɪŋ ðə dráj híjt əv ən ʌ́vən, wɛ́ər hɒ́t ɛ́ər sɜ́rkjəlèjts əráwnd ðə fúwd, əláwɪŋ ɪt tə kʊ́k íjvənlij. ðɪs mɛ́θəd ɪz kɒ́mənlij júwzd fɔr brɛ́d, péjstrijz, ənd dəzɜ́rts lájk ðə klǽsɪk ǽpəl páj, krijéjtɪŋ ə nájs krʌ́st ənd ríjtʃɪŋ ðə pɜ́rfəkt lɛ́vəl əv /ˈdʌnɪnəs/."
+    },
+    {
+        "Question": "Which kitchen tool would you use if you're planning to cook hamburgers with direct heat, similar to a barbecue but indoors?",
+        "RightAnswer": "grill",
+        "WrongAnswers": [
+            "toaster",
+            "saucepan",
+            "blender",
+            "microwave",
+            "oven"
+        ],
+        "Explanation": "A grill is a cooking device that cooks food by applying heat from below, usually using metal grates. It's perfect for achieving those distinctive char lines on your food, similar to a barbecue but can be used indoors or outdoors. Whether gas or electric, grills are the go-to tool for searing steaks, burgers, and even vegetables, bringing that lovely smoky flavor to your dish.",
+        "trans_Question": "wɪ́tʃ kɪ́tʃən túwl wʊd juw juwz ɪf júwr plǽnɪŋ tə kʊ́k hǽmbərɡərz wɪð dɪərɛ́kt híjt, sɪ́mɪlər tə ə bɑ́rbɪkjùw bʌt ɪ́ndɔ̀rz?",
+        "trans_RightAnswer": "ɡrɪ́l",
+        "trans_WrongAnswers": [
+            "tówstər",
+            "sɔ́spæ̀n",
+            "blɛ́ndər",
+            "májkrəwèjv",
+            "ʌ́vən"
+        ],
+        "trans_Explanation": "ə ɡrɪ́l ɪz ə kʊ́kɪŋ dəvájs ðət kʊ́ks fúwd baj əplájɪŋ híjt frəm bijlów, júwʒəlij júwzɪŋ mɛ́təl ɡréjts. ɪt's pɜ́rfəkt fɔr ətʃíjvɪŋ ðowz dɪstɪ́ŋktɪv tʃɑ́r lájnz ɒn jɔr fúwd, sɪ́mɪlər tə ə bɑ́rbɪkjùw bʌt kən bij júwzd ɪ́ndɔ̀rz ɔr áwtdɔ́rz. wɛ́ðər ɡǽs ɔr əlɛ́ktrɪk, ɡrɪ́lz ɑr ðə ɡow-tə túwl fɔr sɪ́ərɪŋ stéjks, bɜ́rɡərz, ənd íjvən vɛ́dʒtəbəlz, brɪ́ŋɪŋ ðət lʌ́vlij smówkij fléjvər tə jɔr dɪ́ʃ."
+    },
+    {
+        "Question": "During the cooking class, the chef instructed us to partially cook the beef in a small amount of liquid after searing it to develop deep flavors. What is this classic French cooking technique called?",
+        "RightAnswer": "braise",
+        "WrongAnswers": [
+            "grill",
+            "fry",
+            "poach",
+            "roast",
+            "steam"
+        ],
+        "Explanation": "Braising is a cooking method that involves first searing food at a high temperature, and then finishing it off by simmering it in liquid at a lower temperature. This method helps to tenderize tougher cuts of meat while infusing them with a rich flavor. Often used in slow-cooked recipes, braising allows the meat to absorb the aromas of the cooking liquid, resulting in a dish that is juicy and flavorful.",
+        "trans_Question": "dʊ́rɪŋ ðə kʊ́kɪŋ klǽs, ðə ʃɛ́f ɪnstrʌ́ktɪd ʌs tə pɑ́rʃəlij kʊ́k ðə bíjf ɪn ə smɔ́l əmáwnt əv lɪ́kwɪd ǽftər sɪ́ərɪŋ ɪt tə dəvɛ́ləp díjp fléjvərz. wɒt ɪz ðɪs klǽsɪk frɛ́ntʃ kʊ́kɪŋ tɛkníjk kɔ́ld?",
+        "trans_RightAnswer": "bréjz",
+        "trans_WrongAnswers": [
+            "ɡrɪ́l",
+            "fráj",
+            "pówtʃ",
+            "rówst",
+            "stíjm"
+        ],
+        "trans_Explanation": "bréjzɪŋ ɪz ə kʊ́kɪŋ mɛ́θəd ðət ɪnvɒ́lvz fɜ́rst sɪ́ərɪŋ fúwd æt ə háj tɛ́mpərətʃər, ənd ðɛn fɪ́nɪʃɪŋ ɪt ɔ́f baj sɪ́mərɪŋ ɪt ɪn lɪ́kwɪd æt ə lówər tɛ́mpərətʃər. ðɪs mɛ́θəd hɛ́lps tə tɛ́ndəràjz tʌ́fər kʌ́ts əv míjt wájl ɪnfjúwzɪŋ ðɛm wɪð ə rɪ́tʃ fléjvər. ɔ́fən júwzd ɪn slów-kʊ́kt rɛ́sɪpijz, bréjzɪŋ əláwz ðə míjt tə əbzɔ́rb ðə ərówməz əv ðə kʊ́kɪŋ lɪ́kwɪd, rəzʌ́ltɪŋ ɪn ə dɪ́ʃ ðət ɪz dʒúwsij ənd fléjvərfəl."
+    },
+    {
+        "Question": "During the brisk winter months, Sheila loves to prepare a dish that simmers for hours, combining ingredients like beef, potatoes, and carrots into a warm, hearty meal that's perfect for cozy dinners. What is this dish called?",
+        "RightAnswer": "stew",
+        "WrongAnswers": [
+            "gratin",
+            "ratatouille",
+            "quiche",
+            "tart",
+            "paella"
+        ],
+        "Explanation": "A stew is a deliciously hearty dish that's made by slow-cooking chunks of meat and vegetables in a liquid, usually broth or water, over low heat. This simmering process allows all the flavors to meld together, creating a rich and comforting meal perfect for colder days.",
+        "trans_Question": "dʊ́rɪŋ ðə brɪ́sk wɪ́ntər mʌ́nθs, ʃíjlə lʌ́vz tə prəpɛ́ər ə dɪ́ʃ ðət sɪ́mərz fɔr áwərz, kəmbájnɪŋ ɪnɡríjdijənts lájk bíjf, pətéjtowz, ənd kǽrəts ɪntə ə wɔ́rm, hɑ́rtij míjl ðət's pɜ́rfəkt fɔr kówzij dɪ́nərz. wɒt ɪz ðɪs dɪ́ʃ kɔ́ld?",
+        "trans_RightAnswer": "stúw",
+        "trans_WrongAnswers": [
+            "ɡrətǽn",
+            "ræ̀tətúwj",
+            "kíjʃ",
+            "tɑ́rt",
+            "pajɛ́lə"
+        ],
+        "trans_Explanation": "ə stúw ɪz ə dəlɪ́ʃəʃlij hɑ́rtij dɪ́ʃ ðət's méjd baj slów-kʊ́kɪŋ tʃʌ́ŋks əv míjt ənd vɛ́dʒtəbəlz ɪn ə lɪ́kwɪd, júwʒəlij brɔ́θ ɔr wɔ́tər, ówvər lów híjt. ðɪs sɪ́mərɪŋ prɒ́sɛs əláwz ɔl ðə fléjvərz tə mɛ́ld təɡɛ́ðər, krijéjtɪŋ ə rɪ́tʃ ənd kʌ́mfərtɪŋ míjl pɜ́rfəkt fɔr kówldər déjz."
+    },
+    {
+        "Question": "In the middle of cooking an elaborate breakfast, Alex was asked to quickly mix eggs in a pan without worrying about keeping them in any particular shape. What cooking action was Alex performing?",
+        "RightAnswer": "scramble",
+        "WrongAnswers": [
+            "poach",
+            "fry",
+            "boil",
+            "grill",
+            "bake"
+        ],
+        "Explanation": "To scramble eggs means to beat them together and cook by stirring or flipping them until they form soft, curd-like pieces. This method of cooking ensures the eggs are mixed evenly and have a fluffy texture. It's often associated with quick and simple breakfasts where taste and texture are the focus rather than shape.",
+        "trans_Question": "ɪn ðə mɪ́dəl əv kʊ́kɪŋ ən əlǽbərət brɛ́kfəst, ǽlɛks wɒz ǽskt tə kwɪ́klij mɪ́ks ɛ́ɡz ɪn ə pǽn wɪðáwt wɜ́rijɪŋ əbawt kíjpɪŋ ðɛm ɪn ɛ́nij pərtɪ́kjələr ʃéjp. wɒt kʊ́kɪŋ ǽkʃən wɒz ǽlɛks pərfɔ́rmɪŋ?",
+        "trans_RightAnswer": "skrǽmbəl",
+        "trans_WrongAnswers": [
+            "pówtʃ",
+            "fráj",
+            "bɔ́jl",
+            "ɡrɪ́l",
+            "béjk"
+        ],
+        "trans_Explanation": "tə skrǽmbəl ɛ́ɡz míjnz tə bíjt ðɛm təɡɛ́ðər ənd kʊ́k baj stɜ́rɪŋ ɔr flɪ́pɪŋ ðɛm əntɪ́l ðej fɔ́rm sɒ́ft, kɜ́rd-lájk píjsɪz. ðɪs mɛ́θəd əv kʊ́kɪŋ ənʃʊ́rz ðə ɛ́ɡz ɑr mɪ́kst íjvənlij ənd həv ə flʌ́fij tɛ́kstʃər. ɪt's ɔ́fən əsówsijèjtɪd wɪð kwɪ́k ənd sɪ́mpəl brɛ́kfəsts wɛ́ər téjst ənd tɛ́kstʃər ɑr ðə fówkəs rǽðər ðʌn ʃéjp."
+    },
+    {
+        "Question": "In the world of culinary delights, what is the process called where vegetables are submerged in a brine or vinegar solution to extend their shelf life and enhance their flavor?",
+        "RightAnswer": "pickle",
+        "WrongAnswers": [
+            "caramelize",
+            "ferment",
+            "sauté",
+            "roast",
+            "grill"
+        ],
+        "Explanation": "Pickling is a method of preserving food by immersing it in a solution of vinegar or brine, often with added spices. This process not only extends the lifespan of the food but also imparts a tangy, zesty flavor that's beloved across many cultures. From crunchy cucumbers to spicy sauerkraut, pickling offers a punchy flavor profile that's both versatile and delicious."
+    },
+    {
+        "Question": "In order to prepare the perfect summer fruit salad, Joanna decided to soak the strawberries in sugar and lemon juice overnight to enhance their flavor and texture. What cooking technique is Joanna using?",
+        "RightAnswer": "macerate",
+        "WrongAnswers": [
+            "sauté",
+            "blanch",
+            "braise",
+            "caramelize",
+            "poach"
+        ],
+        "Explanation": "To macerate is to soak fruits in a liquid, often sugar and juice or alcohol, to soften them and enhance their natural flavors. This technique is like giving fruits a spa day, turning them into juicy, flavor-packed versions of themselves. It's an excellent method for creating richer, more delightful desserts or fresh salads.",
+        "trans_Question": "ɪn ɔ́rdər tə prəpɛ́ər ðə pɜ́rfəkt sʌ́mər frúwt sǽləd, dʒowǽnə dəsájdɪd tə sówk ðə strɔ́bɛ̀ərijz ɪn ʃʊ́ɡər ənd lɛ́mən dʒúws ówvərnájt tə ənhǽns ðɛər fléjvər ənd tɛ́kstʃər. wɒt kʊ́kɪŋ tɛkníjk ɪz dʒowǽnə júwzɪŋ?",
+        "trans_RightAnswer": "méjsərèjt",
+        "trans_WrongAnswers": [
+            "sɔé",
+            "blǽntʃ",
+            "bréjz",
+            "kǽrəməlàjz",
+            "pówtʃ"
+        ],
+        "trans_Explanation": "tə méjsərèjt ɪz tə sówk frúwts ɪn ə lɪ́kwɪd, ɔ́fən ʃʊ́ɡər ənd dʒúws ɔr ǽlkəhɒl, tə sɒ́fən ðɛm ənd ənhǽns ðɛər nǽtʃərəl fléjvərz. ðɪs tɛkníjk ɪz lájk ɡɪ́vɪŋ frúwts ə spɒ́ déj, tɜ́rnɪŋ ðɛm ɪntə dʒúwsij, fléjvər-pǽkt vɜ́rʒənz əv ðəmsɛ́lvz. ɪt's ən ɛ́ksələnt mɛ́θəd fɔr krijéjtɪŋ rɪ́tʃər, mɔr dəlájtfəl dəzɜ́rts ɔr frɛ́ʃ sǽlədz."
+    },
+    {
+        "Question": "In a theatrical display at the restaurant, the chef pours brandy over the dessert and sets it alight, creating a burst of flames. What is this cooking technique called?",
+        "RightAnswer": "flambé",
+        "WrongAnswers": [
+            "caramelize",
+            "poach",
+            "sauté",
+            "deglaze",
+            "baste"
+        ],
+        "Explanation": "Flambé is a cooking technique where alcohol is added to a hot pan to create a burst of flames. This method is often used to add drama to the presentation, as well as introduce unique flavors to the dish. By skilfully controlling the fire, chefs enhance the dining experience with a spectacular display that also serves the practical purpose of burning off the harshness of the alcohol while infusing a subtle hint of its essence into the meal.",
+        "trans_Question": "ɪn ə θijǽtrɪkəl dɪspléj æt ðə rɛ́strɑ́nt, ðə ʃɛ́f pɔ́rz brǽndij ówvər ðə dəzɜ́rt ənd sɛ́ts ɪt əlájt, krijéjtɪŋ ə bɜ́rst əv fléjmz. wɒt ɪz ðɪs kʊ́kɪŋ tɛkníjk kɔ́ld?",
+        "trans_RightAnswer": "flǽmé",
+        "trans_WrongAnswers": [
+            "kǽrəməlàjz",
+            "pówtʃ",
+            "sɔé",
+            "dəɡléjz",
+            "béjst"
+        ],
+        "trans_Explanation": "flǽmé ɪz ə kʊ́kɪŋ tɛkníjk wɛ́ər ǽlkəhɒl ɪz ǽdɪd tə ə hɒ́t pǽn tə krijéjt ə bɜ́rst əv fléjmz. ðɪs mɛ́θəd ɪz ɔ́fən júwzd tə ǽd drɒ́mə tə ðə prɛ̀zəntéjʃən, æz wɛ́l æz ɪntrədúws juwnɪ́k fléjvərz tə ðə dɪ́ʃ. baj skɪ́lfəlij kəntrówlɪŋ ðə fájər, ʃɛ́fs ənhǽns ðə dájnɪŋ əkspɪ́ərijəns wɪð ə spɛktǽkjələr dɪspléj ðət ɔ́lsow sɜ́rvz ðə prǽktɪkəl pɜ́rpəs əv bɜ́rnɪŋ ɔ́f ðə hɑ́rʃnəs əv ðə ǽlkəhɒl wájl ɪnfjúwzɪŋ ə sʌ́təl hɪ́nt əv ɪts ɛ́səns ɪntə ðə míjl."
+    },
+    {
+        "Question": "During the gourmet cooking class, Chef Mallory demonstrated how to properly __________ vegetables to enhance their flavor and preserve them. What term describes the process of immersing food in a liquid mixture often containing vinegar or wine to impart taste?",
+        "RightAnswer": "souse",
+        "WrongAnswers": [
+            "sear",
+            "blanch",
+            "grill",
+            "braise",
+            "poach"
+        ],
+        "Explanation": "To 'souse' means to soak or immerse food, especially vegetables, in a liquid solution, usually consisting of vinegar or a similar acidic mixture, often with added spices or herbs. This method not only enhances the taste of the ingredients but also acts as a way to preserve them, transforming simple vegetables into flavorful accompaniments.",
+        "trans_Question": "dʊ́rɪŋ ðə ɡʊ́rmèj kʊ́kɪŋ klǽs, ʃɛ́f mǽlərij dɛ́mənstrèjtɪd háw tə prɒ́pərlij __________ vɛ́dʒtəbəlz tə ənhǽns ðɛər fléjvər ənd prəzɜ́rv ðɛm. wɒt tɜ́rm dəskrájbz ðə prɒ́sɛs əv ɪmɜ́rsɪŋ fúwd ɪn ə lɪ́kwɪd mɪ́kstʃər ɔ́fən kəntéjnɪŋ vɪ́nəɡər ɔr wájn tə ɪ̀mpɑ́rt téjst?",
+        "trans_RightAnswer": "saws",
+        "trans_WrongAnswers": [
+            "sɪ́ər",
+            "blǽntʃ",
+            "ɡrɪ́l",
+            "bréjz",
+            "pówtʃ"
+        ],
+        "trans_Explanation": "tə 'saws' míjnz tə sówk ɔr ɪmɜ́rs fúwd, əspɛ́ʃəlij vɛ́dʒtəbəlz, ɪn ə lɪ́kwɪd səlúwʃən, júwʒəlij kənsɪ́stɪŋ əv vɪ́nəɡər ɔr ə sɪ́mɪlər əsɪ́dɪk mɪ́kstʃər, ɔ́fən wɪð ǽdɪd spájsɪz ɔr ɜ́rbz. ðɪs mɛ́θəd nɒt ównlij ənhǽnsɪz ðə téjst əv ðə ɪnɡríjdijənts bʌt ɔ́lsow ǽkts æz ə wej tə prəzɜ́rv ðɛm, trænsfɔ́rmɪŋ sɪ́mpəl vɛ́dʒtəbəlz ɪntə fléjvərfəl əkʌ́mpnijmənts."
+    },
+    {
+        "Question": "In the world of culinary arts, which term describes the process of exposing food to the aroma and flavor of burning wood, often in preparation to create a unique taste and preserve the item?",
+        "RightAnswer": "smoke",
+        "WrongAnswers": [
+            "ferment",
+            "grill",
+            "sauté",
+            "steam",
+            "bake"
+        ],
+        "Explanation": "To smoke food means to slow-cook it over smoldering wood chips or sawdust. This not only imparts a distinct smoky flavor but also helps to preserve the food. Think of smoked salmon or barbecue ribs—these items have a unique taste that comes from the smoke infusing into the food over time.",
+        "trans_Question": "ɪn ðə wɜ́rld əv kjúwlɪnɛ̀ərij ɑ́rts, wɪ́tʃ tɜ́rm dəskrájbz ðə prɒ́sɛs əv əkspówzɪŋ fúwd tə ðə ərówmə ənd fléjvər əv bɜ́rnɪŋ wʊ́d, ɔ́fən ɪn prɛ̀pəréjʃən tə krijéjt ə juwnɪ́k téjst ənd prəzɜ́rv ðə ájtəm?",
+        "trans_RightAnswer": "smówk",
+        "trans_WrongAnswers": [
+            "fɜ́rmɛnt",
+            "ɡrɪ́l",
+            "sɔé",
+            "stíjm",
+            "béjk"
+        ],
+        "trans_Explanation": "tə smówk fúwd míjnz tə slów-kʊ́k ɪt ówvər smówldərɪŋ wʊ́d tʃɪ́ps ɔr sɔ́dʌ̀st. ðɪs nɒt ównlij ɪ̀mpɑ́rts ə dɪstɪ́ŋkt smówkij fléjvər bʌt ɔ́lsow hɛ́lps tə prəzɜ́rv ðə fúwd. θɪ́ŋk əv smówkt sǽmən ɔr bɑ́rbɪkjùw rɪ́bz—ðijz ájtəmz həv ə juwnɪ́k téjst ðət kʌ́mz frəm ðə smówk ɪnfjúwzɪŋ ɪntə ðə fúwd ówvər tájm."
+    },
+    {
+        "Question": "In the world of culinary arts, if a chef is preparing eggs gently in hot water just below boiling point, which term best describes what they are doing?",
+        "RightAnswer": "coddle",
+        "WrongAnswers": [
+            "blanch",
+            "sauté",
+            "poach",
+            "braise",
+            "broil"
+        ],
+        "Explanation": "To 'coddle' in a cooking context means to gently cook food, like eggs, in water that is kept just below boiling. This method allows the food to cook slowly and gently, preserving its delicate texture and flavor without the risk of overcooking or toughening the proteins. It's like giving your food a warm bath, treating it tenderly to achieve perfectly gentle results.",
+        "trans_Question": "ɪn ðə wɜ́rld əv kjúwlɪnɛ̀ərij ɑ́rts, ɪf ə ʃɛ́f ɪz prəpɛ́ərɪŋ ɛ́ɡz dʒɛ́ntlij ɪn hɒ́t wɔ́tər dʒəst bijlów bɔ́jlɪŋ pɔ́jnt, wɪ́tʃ tɜ́rm bɛ́st dəskrájbz wɒt ðej ɑr dúwɪŋ?",
+        "trans_RightAnswer": "kɒ́dəl",
+        "trans_WrongAnswers": [
+            "blǽntʃ",
+            "sɔé",
+            "pówtʃ",
+            "bréjz",
+            "brɔ́jl"
+        ],
+        "trans_Explanation": "tə 'kɒ́dəl' ɪn ə kʊ́kɪŋ kɒ́ntɛkst míjnz tə dʒɛ́ntlij kʊ́k fúwd, lájk ɛ́ɡz, ɪn wɔ́tər ðət ɪz kɛ́pt dʒəst bijlów bɔ́jlɪŋ. ðɪs mɛ́θəd əláwz ðə fúwd tə kʊ́k slówlij ənd dʒɛ́ntlij, prəzɜ́rvɪŋ ɪts dɛ́lɪkət tɛ́kstʃər ənd fléjvər wɪðáwt ðə rɪ́sk əv òwvərkʊ́kɪŋ ɔr tʌ́fənɪŋ ðə prówtìjnz. ɪt's lájk ɡɪ́vɪŋ jɔr fúwd ə wɔ́rm bǽθ, tríjtɪŋ ɪt tɛ́ndərlij tə ətʃíjv pɜ́rfəktlij dʒɛ́ntəl rəzʌ́lts."
+    },
+    {
+        "Question": "During a cooking demonstration, the chef accidentally brought the lobster tail too close to the flame, causing the outer edges to blacken slightly. What is the term for this culinary mishap?",
+        "RightAnswer": "singe",
+        "WrongAnswers": [
+            "caramelize",
+            "sear",
+            "blanch",
+            "braise",
+            "poach"
+        ],
+        "Explanation": "To 'singe' something in cooking means to scorch or burn it lightly, often at the edges or surface, typically due to brief exposure to high heat. This can be accidental, as when food gets too close to a flame, causing slight blackening without cooking it through. It's a quick and minor burn, unlike more involved cooking processes.",
+        "trans_Question": "dʊ́rɪŋ ə kʊ́kɪŋ dɛ̀mənstréjʃən, ðə ʃɛ́f æ̀ksvdɛ́ntəlij brɔ́t ðə lɒ́bstər téjl túw klóws tə ðə fléjm, kɒ́zɪŋ ðə áwtər ɛ́dʒɪz tə blǽkən slájtlij. wɒt ɪz ðə tɜ́rm fɔr ðɪs kjúwlɪnɛ̀ərij mɪ́shæ̀p?",
+        "trans_RightAnswer": "sɪ́ndʒ",
+        "trans_WrongAnswers": [
+            "kǽrəməlàjz",
+            "sɪ́ər",
+            "blǽntʃ",
+            "bréjz",
+            "pówtʃ"
+        ],
+        "trans_Explanation": "tə 'sɪ́ndʒ' sʌ́mθɪŋ ɪn kʊ́kɪŋ míjnz tə skɔ́rtʃ ɔr bɜ́rn ɪt lájtlij, ɔ́fən æt ðə ɛ́dʒɪz ɔr sɜ́rfəs, tɪ́pɪkəlij djúw tə bríjf əkspówʒər tə háj híjt. ðɪs kən bij æ̀ksɪdɛ́ntəl, æz wɛ́n fúwd ɡɛ́ts túw klóws tə ə fléjm, kɒ́zɪŋ slájt blǽkənɪŋ wɪðáwt kʊ́kɪŋ ɪt θrúw. ɪt's ə kwɪ́k ənd májnər bɜ́rn, ʌ̀nlájk mɔr ɪnvɒ́lvd kʊ́kɪŋ prɒ́sɛsɪz."
+    },
+    {
+        "Question": "In the context of preparing a dish, which term is used to describe the method of slicing a piece of meat or fish almost in half and spreading it out like a book to make it thinner and quicker to cook?",
+        "RightAnswer": "butterfly",
+        "WrongAnswers": [
+            "julienne",
+            "poach",
+            "caramelize",
+            "blanch",
+            "braise"
+        ],
+        "Explanation": "When you 'butterfly' a piece of meat or fish, you're essentially giving it wings. The technique involves slicing the item down the middle, but not all the way through, and then opening it up like a book. This method not only helps in even cooking but also reduces the time needed to cook larger pieces, making them ideal for grilling or quick pan-frying.",
+        "trans_Question": "ɪn ðə kɒ́ntɛkst əv prəpɛ́ərɪŋ ə dɪ́ʃ, wɪ́tʃ tɜ́rm ɪz júwzd tə dəskrájb ðə mɛ́θəd əv slájsɪŋ ə píjs əv míjt ɔr fɪ́ʃ ɔ́lmowst ɪn hǽf ənd sprɛ́dɪŋ ɪt awt lájk ə bʊ́k tə méjk ɪt θɪ́nər ənd kwɪ́kər tə kʊ́k?",
+        "trans_RightAnswer": "bʌ́tərflàj",
+        "trans_WrongAnswers": [
+            "dʒuwlíjən",
+            "pówtʃ",
+            "kǽrəməlàjz",
+            "blǽntʃ",
+            "bréjz"
+        ],
+        "trans_Explanation": "wɛ́n juw 'bʌ́tərflàj' ə píjs əv míjt ɔr fɪ́ʃ, júwr əsɛ́nʃəlij ɡɪ́vɪŋ ɪt wɪ́ŋz. ðə tɛkníjk ɪnvɒ́lvz slájsɪŋ ðə ájtəm dawn ðə mɪ́dəl, bʌt nɒt ɔl ðə wej θrúw, ənd ðɛn ówpənɪŋ ɪt ʌp lájk ə bʊ́k. ðɪs mɛ́θəd nɒt ównlij hɛ́lps ɪn íjvən kʊ́kɪŋ bʌt ɔ́lsow rədjúwsɪz ðə tájm níjdɪd tə kʊ́k lɑ́rdʒər píjsɪz, méjkɪŋ ðɛm ajdíjəl fɔr ɡrɪ́lɪŋ ɔr kwɪ́k pǽn-frájɪŋ."
+    },
+    {
+        "Question": "In the world of culinary arts, which term is used to describe the process of cooking meat or fat over low heat to melt out the fats, often used when making crispy bacon or a delicious gravy?",
+        "RightAnswer": "render",
+        "WrongAnswers": [
+            "blanch",
+            "poach",
+            "sauté",
+            "braise",
+            "caramelize"
+        ],
+        "Explanation": "To 'render' in cooking means to melt down fat by applying low heat, usually with a stovetop method. This technique is often used when preparing dishes like crispy bacon or confit, allowing the fat to turn into liquid that can be used to add depth and flavor to other components of the meal. Think of it as gently coaxing the fat out of its solid state to use in your culinary masterpiece.",
+        "trans_Question": "ɪn ðə wɜ́rld əv kjúwlɪnɛ̀ərij ɑ́rts, wɪ́tʃ tɜ́rm ɪz júwzd tə dəskrájb ðə prɒ́sɛs əv kʊ́kɪŋ míjt ɔr fǽt ówvər lów híjt tə mɛ́lt awt ðə fǽts, ɔ́fən júwzd wɛ́n méjkɪŋ krɪ́spij béjkən ɔr ə dəlɪ́ʃəs ɡréjvij?",
+        "trans_RightAnswer": "rɛ́ndər",
+        "trans_WrongAnswers": [
+            "blǽntʃ",
+            "pówtʃ",
+            "sɔé",
+            "bréjz",
+            "kǽrəməlàjz"
+        ],
+        "trans_Explanation": "tə 'rɛ́ndər' ɪn kʊ́kɪŋ míjnz tə mɛ́lt dawn fǽt baj əplájɪŋ lów híjt, júwʒəlij wɪð ə stovtɒp mɛ́θəd. ðɪs tɛkníjk ɪz ɔ́fən júwzd wɛ́n prəpɛ́ərɪŋ dɪ́ʃɪz lájk krɪ́spij béjkən ɔr kɒnfíj, əláwɪŋ ðə fǽt tə tɜ́rn ɪntə lɪ́kwɪd ðət kən bij júwzd tə ǽd dɛ́pθ ənd fléjvər tə ʌ́ðər kəmpównənts əv ðə míjl. θɪ́ŋk əv ɪt æz dʒɛ́ntlij kówksɪŋ ðə fǽt awt əv ɪts sɒ́lɪd stéjt tə juwz ɪn jɔr kjúwlɪnɛ̀ərij mǽstərpìjs."
+    },
+    {
+        "Question": "Imagine you're in the kitchen, trying out a new soup recipe. The instructions tell you to quickly blend the soup into a smooth texture, as if you're rushing through the task. What is this culinary technique called?",
+        "RightAnswer": "blitz",
+        "WrongAnswers": [
+            "whisk",
+            "knead",
+            "sauté",
+            "marinate",
+            "poach"
+        ],
+        "Explanation": "In the kitchen, 'blitz' means to quickly blend or process ingredients, often using a blender or food processor, until smooth. It's a fast and efficient way to achieve a uniform texture, perfect for soups, smoothies, or sauces. Imagine you're in a hurry, and that's the speed and energy 'blitz' implies!",
+        "trans_Question": "ɪmǽdʒɪn júwr ɪn ðə kɪ́tʃən, trájɪŋ awt ə núw súwp rɛ́sɪpij. ðə ɪnstrʌ́kʃənz tɛ́l juw tə kwɪ́klij blɛ́nd ðə súwp ɪntə ə smúwð tɛ́kstʃər, æz ɪf júwr rʌ́ʃɪŋ θrúw ðə tǽsk. wɒt ɪz ðɪs kjúwlɪnɛ̀ərij tɛkníjk kɔ́ld?",
+        "trans_RightAnswer": "blɪ́ts",
+        "trans_WrongAnswers": [
+            "wɪ́sk",
+            "níjd",
+            "sɔé",
+            "mɛ́ərənèjt",
+            "pówtʃ"
+        ],
+        "trans_Explanation": "ɪn ðə kɪ́tʃən, 'blɪ́ts' míjnz tə kwɪ́klij blɛ́nd ɔr prɒ́sɛs ɪnɡríjdijənts, ɔ́fən júwzɪŋ ə blɛ́ndər ɔr fúwd prɒ́sɛsər, əntɪ́l smúwð. ɪt's ə fǽst ənd əfɪ́ʃənt wej tə ətʃíjv ə júwnɪfɔ̀rm tɛ́kstʃər, pɜ́rfəkt fɔr súwps, smuwðijz, ɔr sɔ́sɪz. ɪmǽdʒɪn júwr ɪn ə hɜ́rij, ənd ðət's ðə spíjd ənd ɛ́nərdʒij 'blɪ́ts' ɪmplájz!"
+    },
+    {
+        "Question": "In today's cooking class, the chef asked us to take fresh cabbage and _____ it to prepare a coleslaw. Which term describes this action, where we cut the cabbage into long, thin strips?",
+        "RightAnswer": "shred",
+        "WrongAnswers": [
+            "cube",
+            "dice",
+            "mince",
+            "julienne",
+            "chop"
+        ],
+        "Explanation": "When you 'shred' something in the kitchen, you're cutting it into thin, uneven strips. Imagine a piece of cabbage being transformed into delicate strands that can mix well with sauces or dressings. This technique is essential for dishes like coleslaw or when you want to incorporate vegetables without large chunks interrupting the texture of your dish.",
+        "trans_Question": "ɪn tədéj'z kʊ́kɪŋ klǽs, ðə ʃɛ́f ǽskt ʌs tə téjk frɛ́ʃ kǽbɪdʒ ənd _____ ɪt tə prəpɛ́ər ə kówlslɒ̀. wɪ́tʃ tɜ́rm dəskrájbz ðɪs ǽkʃən, wɛ́ər wij kʌ́t ðə kǽbɪdʒ ɪntə lɔ́ŋ, θɪ́n strɪ́ps?",
+        "trans_RightAnswer": "ʃrɛ́d",
+        "trans_WrongAnswers": [
+            "kjúwb",
+            "dájs",
+            "mɪ́ns",
+            "dʒuwlíjən",
+            "tʃɒ́p"
+        ],
+        "trans_Explanation": "wɛ́n juw 'ʃrɛ́d' sʌ́mθɪŋ ɪn ðə kɪ́tʃən, júwr kʌ́tɪŋ ɪt ɪntə θɪ́n, ʌ̀níjvən strɪ́ps. ɪmǽdʒɪn ə píjs əv kǽbɪdʒ bíjɪŋ trænsfɔ́rmd ɪntə dɛ́lɪkət strǽndz ðət kən mɪ́ks wɛ́l wɪð sɔ́sɪz ɔr drɛ́sɪŋz. ðɪs tɛkníjk ɪz əsɛ́nʃəl fɔr dɪ́ʃɪz lájk kówlslɒ̀ ɔr wɛ́n juw wɒ́nt tə ɪnkɔ́rpərejt vɛ́dʒtəbəlz wɪðáwt lɑ́rdʒ tʃʌ́ŋks ɪ̀ntərʌ́ptɪŋ ðə tɛ́kstʃər əv jɔr dɪ́ʃ."
+    },
+    {
+        "Question": "In the kitchen, when a recipe instructs you to turn herbs or spices into a fine powder using a mortar and pestle, what are you being asked to do?",
+        "RightAnswer": "pulverize",
+        "WrongAnswers": [
+            "julienne",
+            "simmer",
+            "whisk",
+            "poach",
+            "braise"
+        ],
+        "Explanation": "To 'pulverize' in the kitchen means to crush or grind something into a fine powder or a soft, tiny granulated consistency. This is often done to spices, nuts, or herbs to release their flavors fully and make them easier to incorporate into your dishes. Picture using a mortar and pestle to grind peppercorns until they resemble fine powder—that's pulverizing!",
+        "trans_Question": "ɪn ðə kɪ́tʃən, wɛ́n ə rɛ́sɪpij ɪnstrʌ́kts juw tə tɜ́rn ɜ́rbz ɔr spájsɪz ɪntə ə fájn páwdər júwzɪŋ ə mɔ́rtər ənd pɛ́səl, wɒt ɑr juw bíjɪŋ ǽskt tə dúw?",
+        "trans_RightAnswer": "pʌ́lvəràjz",
+        "trans_WrongAnswers": [
+            "dʒuwlíjən",
+            "sɪ́mər",
+            "wɪ́sk",
+            "pówtʃ",
+            "bréjz"
+        ],
+        "trans_Explanation": "tə 'pʌ́lvəràjz' ɪn ðə kɪ́tʃən míjnz tə krʌ́ʃ ɔr ɡrájnd sʌ́mθɪŋ ɪntə ə fájn páwdər ɔr ə sɒ́ft, tájnij /ˈɡræn.jə.lej.tɪd/ kənsɪ́stənsij. ðɪs ɪz ɔ́fən dʌ́n tə spájsɪz, nʌ́ts, ɔr ɜ́rbz tə rəlíjs ðɛər fléjvərz fʊ́lij ənd méjk ðɛm íjzijər tə ɪnkɔ́rpərejt ɪntə jɔr dɪ́ʃɪz. pɪ́ktʃər júwzɪŋ ə mɔ́rtər ənd pɛ́səl tə ɡrájnd pɛ́pərkɔ̀rnz əntɪ́l ðej rijzɛ́mbəl fájn páwdər—ðət's /ˈpʌlvəˌrajzɪŋ/!"
+    },
+    {
+        "Question": "In a culinary setting, what is the term for the round, tender shellfish that is often seared to perfection and known for its delicate texture and sweet taste?",
+        "RightAnswer": "scallop",
+        "WrongAnswers": [
+            "prawn",
+            "mussel",
+            "oyster",
+            "crab",
+            "clam"
+        ],
+        "Explanation": "A 'scallop' is a type of shellfish beloved by chefs for its melt-in-your-mouth texture and subtly sweet flavor. Often found at fine dining establishments, it is usually prepared by searing it to create a crispy exterior while maintaining its tenderness inside. Unlike other shellfish, scallops have a unique fan-shaped shell, making them as recognizable on the plate as they are delicious.",
+        "trans_Question": "ɪn ə kjúwlɪnɛ̀ərij sɛ́tɪŋ, wɒt ɪz ðə tɜ́rm fɔr ðə ráwnd, tɛ́ndər ʃɛ́lfɪ̀ʃ ðət ɪz ɔ́fən sɪ́ərd tə pərfɛ́kʃən ənd nówn fɔr ɪts dɛ́lɪkət tɛ́kstʃər ənd swíjt téjst?",
+        "trans_RightAnswer": "skǽləp",
+        "trans_WrongAnswers": [
+            "prɔ́n",
+            "mʌ́səl",
+            "ɔ́jstər",
+            "krǽb",
+            "klǽm"
+        ],
+        "trans_Explanation": "ə 'skǽləp' ɪz ə tájp əv ʃɛ́lfɪ̀ʃ bəlʌ́vd baj ʃɛ́fs fɔr ɪts mɛ́lt-ɪn-jɔr-máwθ tɛ́kstʃər ənd sʌ́təlij swíjt fléjvər. ɔ́fən fáwnd æt fájn dájnɪŋ ɛstǽblɪʃmənts, ɪt ɪz júwʒəlij prəpɛ́ərd baj sɪ́ərɪŋ ɪt tə krijéjt ə krɪ́spij əkstɪ́ərijər wájl mejntéjnɪŋ ɪts tɛ́ndərnəs ɪnsájd. ʌ̀nlájk ʌ́ðər ʃɛ́lfɪ̀ʃ, skǽləps həv ə juwnɪ́k fǽn-ʃéjpt ʃɛ́l, méjkɪŋ ðɛm æz rɛ̀kəɡnájzəbəl ɒn ðə pléjt æz ðej ɑr dəlɪ́ʃəs."
+    },
+    {
+        "Question": "In culinary terms, what is the technique called where vegetables are cut into thin, matchstick-like strips, often used to give salads a visually appealing texture?",
+        "RightAnswer": "julienne",
+        "WrongAnswers": [
+            "dice",
+            "chiffonade",
+            "brunoise",
+            "batonnet",
+            "mince"
+        ],
+        "Explanation": "Julienne is a classic French cutting technique where vegetables are sliced into thin, matchstick-sized strips. This method not only makes the vegetables cook more evenly but also adds a delicate, elegant touch to dishes. Imagine a carrot sliced so finely it resembles tiny orange sticks—perfect for mixing into salads or as a garnish.",
+        "trans_Question": "ɪn kjúwlɪnɛ̀ərij tɜ́rmz, wɒt ɪz ðə tɛkníjk kɔ́ld wɛ́ər vɛ́dʒtəbəlz ɑr kʌ́t ɪntə θɪ́n, mǽtʃstɪk-lájk strɪ́ps, ɔ́fən júwzd tə ɡɪ́v sǽlədz ə vɪ́ʒwəlij əpíjlɪŋ tɛ́kstʃər?",
+        "trans_RightAnswer": "dʒuwlíjən",
+        "trans_WrongAnswers": [
+            "dájs",
+            "ʃɪ̀fənɒ́d",
+            "bruwnwɒ́z",
+            "bətɒ́nɛt",
+            "mɪ́ns"
+        ],
+        "trans_Explanation": "dʒuwlíjən ɪz ə klǽsɪk frɛ́ntʃ kʌ́tɪŋ tɛkníjk wɛ́ər vɛ́dʒtəbəlz ɑr slájst ɪntə θɪ́n, mǽtʃstɪk-sájzd strɪ́ps. ðɪs mɛ́θəd nɒt ównlij méjks ðə vɛ́dʒtəbəlz kʊ́k mɔr íjvənlij bʌt ɔ́lsow ǽdz ə dɛ́lɪkət, ɛ́ləɡənt tʌ́tʃ tə dɪ́ʃɪz. ɪmǽdʒɪn ə kǽrət slájst sow fájnlij ɪt rijzɛ́mbəlz tájnij ɔ́rəndʒ stɪ́ks—pɜ́rfəkt fɔr mɪ́ksɪŋ ɪntə sǽlədz ɔr æz ə ɡɑ́rnɪʃ."
+    },
+    {
+        "Question": "In the cooking world, what is the term for cutting vegetables or food into small, even cubes to ensure they cook evenly and look appetizing?",
+        "RightAnswer": "dice",
+        "WrongAnswers": [
+            "mince",
+            "julienne",
+            "chop",
+            "slice",
+            "grate"
+        ],
+        "Explanation": "To 'dice' in cooking means to cut food into small, uniform cubes, typically around 1/4 to 1/2 inch in size. This technique not only ensures that your ingredients cook evenly but also gives your dish a pleasing, professional appearance. While 'mince' involves cutting into very tiny pieces and 'julienne' refers to thin strips, 'dice' focuses on creating small, cube-like shapes.",
+        "trans_Question": "ɪn ðə kʊ́kɪŋ wɜ́rld, wɒt ɪz ðə tɜ́rm fɔr kʌ́tɪŋ vɛ́dʒtəbəlz ɔr fúwd ɪntə smɔ́l, íjvən kjúwbz tə ənʃʊ́r ðej kʊ́k íjvənlij ənd lʊ́k ǽpɪtàjzɪŋ?",
+        "trans_RightAnswer": "dájs",
+        "trans_WrongAnswers": [
+            "mɪ́ns",
+            "dʒuwlíjən",
+            "tʃɒ́p",
+            "slájs",
+            "ɡréjt"
+        ],
+        "trans_Explanation": "tə 'dájs' ɪn kʊ́kɪŋ míjnz tə kʌ́t fúwd ɪntə smɔ́l, júwnɪfɔ̀rm kjúwbz, tɪ́pɪkəlij əráwnd 1/4 tə 1/2 ɪ́ntʃ ɪn sájz. ðɪs tɛkníjk nɒt ównlij ənʃʊ́rz ðət jɔr ɪnɡríjdijənts kʊ́k íjvənlij bʌt ɔ́lsow ɡɪ́vz jɔr dɪ́ʃ ə plíjzɪŋ, prəfɛ́ʃənəl əpɪ́ərəns. wájl 'mɪ́ns' ɪnvɒ́lvz kʌ́tɪŋ ɪntə vɛ́ərij tájnij píjsɪz ənd 'dʒuwlíjən' rəfɜ́rz tə θɪ́n strɪ́ps, 'dájs' fówkəsɪz ɒn krijéjtɪŋ smɔ́l, kjúwb-lájk ʃéjps."
+    },
+    {
+        "Question": "In the kitchen, Jamie often cuts vegetables into small, uniform pieces to ensure even cooking. What is the common term for this cube-shaped cut, often used for items like potatoes or cheese?",
+        "RightAnswer": "cube",
+        "WrongAnswers": [
+            "fillet",
+            "julienne",
+            "chop",
+            "slice",
+            "dice"
+        ],
+        "Explanation": "In cooking, a 'cube' refers to cutting food into small, square-shaped pieces of roughly the same size on all sides, typically around half an inch. This method is great for achieving even cooking and is commonly used for ingredients like meat, cheese, or vegetables. Cubing ensures that each piece cooks evenly and is a fundamental technique in culinary preparation.",
+        "trans_Question": "ɪn ðə kɪ́tʃən, dʒéjmij ɔ́fən kʌ́ts vɛ́dʒtəbəlz ɪntə smɔ́l, júwnɪfɔ̀rm píjsɪz tə ənʃʊ́r íjvən kʊ́kɪŋ. wɒt ɪz ðə kɒ́mən tɜ́rm fɔr ðɪs kjúwb-ʃéjpt kʌ́t, ɔ́fən júwzd fɔr ájtəmz lájk pətéjtowz ɔr tʃíjz?",
+        "trans_RightAnswer": "kjúwb",
+        "trans_WrongAnswers": [
+            "fɪlʌ́t",
+            "dʒuwlíjən",
+            "tʃɒ́p",
+            "slájs",
+            "dájs"
+        ],
+        "trans_Explanation": "ɪn kʊ́kɪŋ, ə 'kjúwb' rəfɜ́rz tə kʌ́tɪŋ fúwd ɪntə smɔ́l, skwɛ́ər-ʃéjpt píjsɪz əv rʌ́flij ðə séjm sájz ɒn ɔl sájdz, tɪ́pɪkəlij əráwnd hǽf ən ɪ́ntʃ. ðɪs mɛ́θəd ɪz ɡréjt fɔr ətʃíjvɪŋ íjvən kʊ́kɪŋ ənd ɪz kɒ́mənlij júwzd fɔr ɪnɡríjdijənts lájk míjt, tʃíjz, ɔr vɛ́dʒtəbəlz. /ˈkjuwbɪŋ/ ənʃʊ́rz ðət ijtʃ píjs kʊ́ks íjvənlij ənd ɪz ə fʌ̀ndəmɛ́ntəl tɛkníjk ɪn kjúwlɪnɛ̀ərij prɛ̀pəréjʃən."
+    },
+    {
+        "Question": "During a festive dinner, the head chef asked his apprentice to expertly slice the roast beef into thin, delicious pieces for serving. What term is commonly used to describe this culinary skill?",
+        "RightAnswer": "carve",
+        "WrongAnswers": [
+            "grill",
+            "simmer",
+            "sauté",
+            "marinate",
+            "glaze"
+        ],
+        "Explanation": "To carve means to cut meat into slices or pieces, typically at a formal occasion or during a meal. This skill requires precision and care to ensure that each piece is uniform and appetizing. It's a traditional practice often highlighted during festive meals or large gatherings.",
+        "trans_Question": "dʊ́rɪŋ ə fɛ́stɪv dɪ́nər, ðə hɛ́d ʃɛ́f ǽskt hɪz əprɛ́ntɪs tə ɛ́kspərtlij slájs ðə rówst bíjf ɪntə θɪ́n, dəlɪ́ʃəs píjsɪz fɔr sɜ́rvɪŋ. wɒt tɜ́rm ɪz kɒ́mənlij júwzd tə dəskrájb ðɪs kjúwlɪnɛ̀ərij skɪ́l?",
+        "trans_RightAnswer": "kɑ́rv",
+        "trans_WrongAnswers": [
+            "ɡrɪ́l",
+            "sɪ́mər",
+            "sɔé",
+            "mɛ́ərənèjt",
+            "ɡléjz"
+        ],
+        "trans_Explanation": "tə kɑ́rv míjnz tə kʌ́t míjt ɪntə slájsɪz ɔr píjsɪz, tɪ́pɪkəlij æt ə fɔ́rməl əkéjʒən ɔr dʊ́rɪŋ ə míjl. ðɪs skɪ́l rəkwájərz prəsɪ́ʒən ənd kɛ́ər tə ənʃʊ́r ðət ijtʃ píjs ɪz júwnɪfɔ̀rm ənd ǽpɪtàjzɪŋ. ɪt's ə trədɪ́ʃənəl prǽktɪs ɔ́fən hájlàjtɪd dʊ́rɪŋ fɛ́stɪv míjlz ɔr lɑ́rdʒ ɡǽðərɪŋz."
+    },
+    {
+        "Question": "When preparing a ham for roasting, what culinary technique involves making shallow cuts on the surface to help it cook evenly and absorb flavors better?",
+        "RightAnswer": "score",
+        "WrongAnswers": [
+            "dice",
+            "julienne",
+            "sear",
+            "blanch",
+            "caramelize"
+        ],
+        "Explanation": "To 'score' in cooking means to make shallow cuts in the surface of food before cooking. This technique is often used on meats like ham, chicken, or duck, allowing marinades or spices to penetrate more deeply and promoting even cooking. It's particularly useful for dishes that benefit from enhanced flavor absorption and a decorative appearance, such as when a glazed crust is desired.",
+        "trans_Question": "wɛ́n prəpɛ́ərɪŋ ə hǽm fɔr rówstɪŋ, wɒt kjúwlɪnɛ̀ərij tɛkníjk ɪnvɒ́lvz méjkɪŋ ʃǽlow kʌ́ts ɒn ðə sɜ́rfəs tə hɛ́lp ɪt kʊ́k íjvənlij ənd əbzɔ́rb fléjvərz bɛ́tər?",
+        "trans_RightAnswer": "skɔ́r",
+        "trans_WrongAnswers": [
+            "dájs",
+            "dʒuwlíjən",
+            "sɪ́ər",
+            "blǽntʃ",
+            "kǽrəməlàjz"
+        ],
+        "trans_Explanation": "tə 'skɔ́r' ɪn kʊ́kɪŋ míjnz tə méjk ʃǽlow kʌ́ts ɪn ðə sɜ́rfəs əv fúwd bəfɔ́r kʊ́kɪŋ. ðɪs tɛkníjk ɪz ɔ́fən júwzd ɒn míjts lájk hǽm, tʃɪ́kən, ɔr dʌ́k, əláwɪŋ mɑ́rɪnèjdz ɔr spájsɪz tə pɛ́nətrèjt mɔr díjplij ənd prəmówtɪŋ íjvən kʊ́kɪŋ. ɪt's pərtɪ́kjələrlij júwsfəl fɔr dɪ́ʃɪz ðət bɛ́nəfɪt frəm ənhǽnst fléjvər əbsɔ́rpʃən ənd ə dɛ́kərətɪv əpɪ́ərəns, sʌtʃ æz wɛ́n ə ɡléjzd krʌ́st ɪz dəzájərd."
+    },
+    {
+        "Question": "While preparing a chicken dish, the recipe instructs you to completely remove the bones from the meat before cooking. What culinary term best describes this process?",
+        "RightAnswer": "debone",
+        "WrongAnswers": [
+            "fillet",
+            "carve",
+            "mince",
+            "grate",
+            "whisk"
+        ],
+        "Explanation": "Debone refers to the process of removing bones from meat or fish before cooking. It requires skill and precision to ensure you don't sacrifice too much of the meat while removing the bones. This technique is especially important in recipes aiming for tenderness and flavor without the interference of bones. By deboning, you make it easier to eat and often faster to cook.",
+        "trans_Question": "wájl prəpɛ́ərɪŋ ə tʃɪ́kən dɪ́ʃ, ðə rɛ́sɪpij ɪnstrʌ́kts juw tə kəmplíjtlij rijmúwv ðə bównz frəm ðə míjt bəfɔ́r kʊ́kɪŋ. wɒt kjúwlɪnɛ̀ərij tɜ́rm bɛ́st dəskrájbz ðɪs prɒ́sɛs?",
+        "trans_RightAnswer": "dəbówn",
+        "trans_WrongAnswers": [
+            "fɪlʌ́t",
+            "kɑ́rv",
+            "mɪ́ns",
+            "ɡréjt",
+            "wɪ́sk"
+        ],
+        "trans_Explanation": "dəbówn rəfɜ́rz tə ðə prɒ́sɛs əv rijmúwvɪŋ bównz frəm míjt ɔr fɪ́ʃ bəfɔ́r kʊ́kɪŋ. ɪt rəkwájərz skɪ́l ənd prəsɪ́ʒən tə ənʃʊ́r juw dównt sǽkrɪfàjs túw mʌtʃ əv ðə míjt wájl rijmúwvɪŋ ðə bównz. ðɪs tɛkníjk ɪz əspɛ́ʃəlij ɪmpɔ́rtənt ɪn rɛ́sɪpijz éjmɪŋ fɔr tɛ́ndərnəs ənd fléjvər wɪðáwt ðə ɪ̀ntərfɪ́ərəns əv bównz. baj dɪbównɪŋ, juw méjk ɪt íjzijər tə íjt ənd ɔ́fən fǽstər tə kʊ́k."
+    },
+    {
+        "Question": "In a bustling gourmet kitchen, who is responsible for expertly carving and preparing cuts of meat before they are cooked to perfection by the chefs?",
+        "RightAnswer": "butcher",
+        "WrongAnswers": [
+            "baker",
+            "fishmonger",
+            "pastry chef",
+            "sommelier",
+            "line cook"
+        ],
+        "Explanation": "A butcher in the culinary world is the skilled artisan responsible for preparing cuts of meat. They take large sections of animals and break them down into recognizable pieces like steaks, chops, or roasts. Butchers are essential for ensuring the quality and presentation of meat dishes, working their magic behind the scenes before the cooking begins.",
+        "trans_Question": "ɪn ə bʌ́slɪŋ ɡʊ́rmèj kɪ́tʃən, huw ɪz rəspɒ́nsɪbəl fɔr ɛ́kspərtlij kɑ́rvɪŋ ənd prəpɛ́ərɪŋ kʌ́ts əv míjt bəfɔ́r ðej ɑr kʊ́kt tə pərfɛ́kʃən baj ðə ʃɛ́fs?",
+        "trans_RightAnswer": "bʊ́tʃər",
+        "trans_WrongAnswers": [
+            "béjkər",
+            "fɪ́ʃmɒ̀ŋɡər",
+            "péjstrij ʃɛ́f",
+            "sɒ̀məlíjej",
+            "lájn kʊ́k"
+        ],
+        "trans_Explanation": "ə bʊ́tʃər ɪn ðə kjúwlɪnɛ̀ərij wɜ́rld ɪz ðə skɪ́ld ɑ́rtɪzən rəspɒ́nsɪbəl fɔr prəpɛ́ərɪŋ kʌ́ts əv míjt. ðej téjk lɑ́rdʒ sɛ́kʃənz əv ǽnɪməlz ənd bréjk ðɛm dawn ɪntə rɛ̀kəɡnájzəbəl píjsɪz lájk stéjks, tʃɒ́ps, ɔr rówsts. bʊ́tʃərz ɑr əsɛ́nʃəl fɔr ɛnʃʊ́rɪŋ ðə kwɑ́lᵻtij ənd prɛ̀zəntéjʃən əv míjt dɪ́ʃɪz, wɜ́rkɪŋ ðɛər mǽdʒɪk bəhájnd ðə síjnz bəfɔ́r ðə kʊ́kɪŋ bəɡɪ́nz."
+    },
+    {
+        "Question": "In a busy kitchen, the chef asked the apprentice to make sure to remove the outer covering of the eggs before using them in the batter. What culinary term did the chef most likely use to refer to the outer covering of the eggs?",
+        "RightAnswer": "shell",
+        "WrongAnswers": [
+            "peel",
+            "rind",
+            "skin",
+            "bark",
+            "husk"
+        ],
+        "Explanation": "In cooking, the term 'shell' refers to the hard, protective outer layer of an egg. When preparing eggs for a recipe, it’s essential to remove this protective layer to access the yolk and white inside. While this may seem straightforward, the skill of cracking and separating eggs cleanly is a fundamental culinary technique.",
+        "trans_Question": "ɪn ə bɪ́zij kɪ́tʃən, ðə ʃɛ́f ǽskt ðə əprɛ́ntɪs tə méjk ʃʊ́r tə rijmúwv ðə áwtər kʌ́vərɪŋ əv ðə ɛ́ɡz bəfɔ́r júwzɪŋ ðɛm ɪn ðə bǽtər. wɒt kjúwlɪnɛ̀ərij tɜ́rm dɪd ðə ʃɛ́f mówst lájklij juwz tə rəfɜ́r tə ðə áwtər kʌ́vərɪŋ əv ðə ɛ́ɡz?",
+        "trans_RightAnswer": "ʃɛ́l",
+        "trans_WrongAnswers": [
+            "píjl",
+            "rájnd",
+            "skɪ́n",
+            "bɑ́rk",
+            "hʌ́sk"
+        ],
+        "trans_Explanation": "ɪn kʊ́kɪŋ, ðə tɜ́rm 'ʃɛ́l' rəfɜ́rz tə ðə hɑ́rd, prətɛ́ktɪv áwtər léjər əv ən ɛ́ɡ. wɛ́n prəpɛ́ərɪŋ ɛ́ɡz fɔr ə rɛ́sɪpij, ɪt's əsɛ́nʃəl tə rijmúwv ðɪs prətɛ́ktɪv léjər tə ǽksɛ̀s ðə jówk ənd wájt ɪnsájd. wájl ðɪs mej síjm stréjtfɔ́rwərd, ðə skɪ́l əv krǽkɪŋ ənd sɛ́pərèjtɪŋ ɛ́ɡz klíjnlij ɪz ə fʌ̀ndəmɛ́ntəl kjúwlɪnɛ̀ərij tɛkníjk."
+    },
+    {
+        "Question": "In preparing fresh corn on the cob, which term refers to the leafy outer layer you must remove before cooking or eating?",
+        "RightAnswer": "husk",
+        "WrongAnswers": [
+            "shell",
+            "core",
+            "pulp",
+            "rind",
+            "bran"
+        ],
+        "Explanation": "A 'husk' is the protective leafy exterior that surrounds ears of corn. While it's not suitable for eating, this layer serves as a natural shield for the kernels inside, keeping them moist and fresh until they’re ready to be enjoyed. Removing the husk is usually the first step when preparing corn for the table.",
+        "trans_Question": "ɪn prəpɛ́ərɪŋ frɛ́ʃ kɔ́rn ɒn ðə kɒ́b, wɪ́tʃ tɜ́rm rəfɜ́rz tə ðə líjfij áwtər léjər juw mʌst rijmúwv bəfɔ́r kʊ́kɪŋ ɔr íjtɪŋ?",
+        "trans_RightAnswer": "hʌ́sk",
+        "trans_WrongAnswers": [
+            "ʃɛ́l",
+            "kɔ́r",
+            "pʌ́lp",
+            "rájnd",
+            "brǽn"
+        ],
+        "trans_Explanation": "ə 'hʌ́sk' ɪz ðə prətɛ́ktɪv líjfij əkstɪ́ərijər ðət səráwndz íjərz əv kɔ́rn. wájl ɪt's nɒt súwtəbəl fɔr íjtɪŋ, ðɪs léjər sɜ́rvz æz ə nǽtʃərəl ʃíjld fɔr ðə kɜ́rnəlz ɪnsájd, kíjpɪŋ ðɛm mɔ́jst ənd frɛ́ʃ əntɪ́l ðɛər rɛ́dij tə bij əndʒɔ́jd. rijmúwvɪŋ ðə hʌ́sk ɪz júwʒəlij ðə fɜ́rst stɛ́p wɛ́n prəpɛ́ərɪŋ kɔ́rn fɔr ðə téjbəl."
+    },
+    {
+        "Question": "While preparing a fresh batch of your favorite espresso, you realize that the texture of the coffee beans is crucial for the coffee's rich flavor. What is the term for the process of turning coffee beans into a fine or coarse powder to make coffee?",
+        "RightAnswer": "grind",
+        "WrongAnswers": [
+            "slice",
+            "chop",
+            "dice",
+            "shred",
+            "crush"
+        ],
+        "Explanation": "In the culinary world, to 'grind' means to break down food into smaller particles, usually by using a machine such as a grinder or a mortar and pestle. This term is most commonly applied when preparing coffee, spices, or grains, where the aim is to get a finer texture necessary for enhancing flavor or for cooking purposes. When you grind coffee beans, for example, you're turning them into a fine or coarse powder that determines the strength and style of the coffee you will brew.",
+        "trans_Question": "wájl prəpɛ́ərɪŋ ə frɛ́ʃ bǽtʃ əv jɔr féjvərɪt ɛ̀ksprɛ́sòw, juw ríjəlàjz ðət ðə tɛ́kstʃər əv ðə kɒ́fij bíjnz ɪz krúwʃəl fɔr ðə kɒ́fij'z rɪ́tʃ fléjvər. wɒt ɪz ðə tɜ́rm fɔr ðə prɒ́sɛs əv tɜ́rnɪŋ kɒ́fij bíjnz ɪntə ə fájn ɔr kɔ́rs páwdər tə méjk kɒ́fij?",
+        "trans_RightAnswer": "ɡrájnd",
+        "trans_WrongAnswers": [
+            "slájs",
+            "tʃɒ́p",
+            "dájs",
+            "ʃrɛ́d",
+            "krʌ́ʃ"
+        ],
+        "trans_Explanation": "ɪn ðə kjúwlɪnɛ̀ərij wɜ́rld, tə 'ɡrájnd' míjnz tə bréjk dawn fúwd ɪntə smɔ́lər pɑ́rtɪkəlz, júwʒəlij baj júwzɪŋ ə məʃíjn sʌtʃ æz ə ɡrájndər ɔr ə mɔ́rtər ənd pɛ́səl. ðɪs tɜ́rm ɪz mówst kɒ́mənlij əplájd wɛ́n prəpɛ́ərɪŋ kɒ́fij, spájsɪz, ɔr ɡréjnz, wɛ́ər ðə éjm ɪz tə ɡɛt ə fájnər tɛ́kstʃər nɛ́səsɛ̀ərij fɔr ɛnhǽnsɪŋ fléjvər ɔr fɔr kʊ́kɪŋ pɜ́rpəsɪz. wɛ́n juw ɡrájnd kɒ́fij bíjnz, fɔr əɡzǽmpəl, júwr tɜ́rnɪŋ ðɛm ɪntə ə fájn ɔr kɔ́rs páwdər ðət dətɜ́rmɪnz ðə strɛ́ŋθ ənd stájl əv ðə kɒ́fij juw wɪl brúw."
+    },
+    {
+        "Question": "In a bustling kitchen, a chef reaches for a tool that grinds his fresh peppercorns into fine particles for seasoning his dishes. What is this essential tool called?",
+        "RightAnswer": "mill",
+        "WrongAnswers": [
+            "churner",
+            "grinder",
+            "strainer",
+            "blender",
+            "whisk"
+        ],
+        "Explanation": "A mill is a kitchen device used for grinding ingredients such as spices or grains into finer particles. It's often hand-operated or electric and comes in handy when you're looking to release the full flavor run of ingredients like peppercorns, coffee beans, or nuts. Unlike a blender or a grinder, a mill usually produces a more consistent and adjustable texture, making it indispensable for achieving just the right level of fineness in your recipes.",
+        "trans_Question": "ɪn ə bʌ́slɪŋ kɪ́tʃən, ə ʃɛ́f ríjtʃɪz fɔr ə túwl ðət ɡrájndz hɪz frɛ́ʃ pɛ́pərkɔ̀rnz ɪntə fájn pɑ́rtɪkəlz fɔr síjzənɪŋ hɪz dɪ́ʃɪz. wɒt ɪz ðɪs əsɛ́nʃəl túwl kɔ́ld?",
+        "trans_RightAnswer": "mɪ́l",
+        "trans_WrongAnswers": [
+            "tʃɜ́rnər",
+            "ɡrájndər",
+            "stréjnər",
+            "blɛ́ndər",
+            "wɪ́sk"
+        ],
+        "trans_Explanation": "ə mɪ́l ɪz ə kɪ́tʃən dəvájs júwzd fɔr ɡrájndɪŋ ɪnɡríjdijənts sʌtʃ æz spájsɪz ɔr ɡréjnz ɪntə fájnər pɑ́rtɪkəlz. ɪt's ɔ́fən hǽnd-ɒ́pərèjtɪd ɔr əlɛ́ktrɪk ənd kʌ́mz ɪn hǽndij wɛ́n júwr lʊ́kɪŋ tə rəlíjs ðə fʊ́l fléjvər rʌ́n əv ɪnɡríjdijənts lájk pɛ́pərkɔ̀rnz, kɒ́fij bíjnz, ɔr nʌ́ts. ʌ̀nlájk ə blɛ́ndər ɔr ə ɡrájndər, ə mɪ́l júwʒəlij prədúwsɪz ə mɔr kənsɪ́stənt ənd ədʒʌ́stəbəl tɛ́kstʃər, méjkɪŋ ɪt ɪ̀ndɪspɛ́nsəbəl fɔr ətʃíjvɪŋ dʒəst ðə rájt lɛ́vəl əv fájnəs ɪn jɔr rɛ́sɪpijz."
+    },
+    {
+        "Question": "In the recipe, the chef instructs you to use a pestle and mortar to transform garlic cloves into a fine paste. What kitchen task is being described here?",
+        "RightAnswer": "crush",
+        "WrongAnswers": [
+            "slice",
+            "whisk",
+            "dice",
+            "chop",
+            "peel"
+        ],
+        "Explanation": "To 'crush' in a culinary context means to break down food into small pieces or a paste using pressure. This is often achieved with tools like a mortar and pestle, which allow you to apply force and grind the ingredient, such as garlic, releasing its oils and enhancing its flavor for cooking.",
+        "trans_Question": "ɪn ðə rɛ́sɪpij, ðə ʃɛ́f ɪnstrʌ́kts juw tə juwz ə pɛ́səl ənd mɔ́rtər tə trǽnsfɔrm ɡɑ́rlɪk klówvz ɪntə ə fájn péjst. wɒt kɪ́tʃən tǽsk ɪz bíjɪŋ dəskrájbd hɪər?",
+        "trans_RightAnswer": "krʌ́ʃ",
+        "trans_WrongAnswers": [
+            "slájs",
+            "wɪ́sk",
+            "dájs",
+            "tʃɒ́p",
+            "píjl"
+        ],
+        "trans_Explanation": "tə 'krʌ́ʃ' ɪn ə kjúwlɪnɛ̀ərij kɒ́ntɛkst míjnz tə bréjk dawn fúwd ɪntə smɔ́l píjsɪz ɔr ə péjst júwzɪŋ prɛ́ʃər. ðɪs ɪz ɔ́fən ətʃíjvd wɪð túwlz lájk ə mɔ́rtər ənd pɛ́səl, wɪ́tʃ əláw juw tə əpláj fɔ́rs ənd ɡrájnd ðə ɪnɡríjdijənt, sʌtʃ æz ɡɑ́rlɪk, rəlíjsɪŋ ɪts ɔ́jlz ənd ɛnhǽnsɪŋ ɪts fléjvər fɔr kʊ́kɪŋ."
+    },
+    {
+        "Question": "During the cooking class, Chef Patricia instructed the students to transform the boiled potatoes into a smooth, creamy texture by using a tool. What was she asking them to do?",
+        "RightAnswer": "mash",
+        "WrongAnswers": [
+            "grate",
+            "dice",
+            "whip",
+            "chop",
+            "julienne"
+        ],
+        "Explanation": "To 'mash' means to crush or smash a food item, like potatoes, into a soft and creamy texture. This is usually done using a masher or a fork and involves squashing the food until it becomes smooth. In cooking, mashing is frequently used for creating dishes like mashed potatoes, where the goal is to have a uniform and lump-free consistency that's pleasing to the palate.",
+        "trans_Question": "dʊ́rɪŋ ðə kʊ́kɪŋ klǽs, ʃɛ́f pətrɪ́ʃə ɪnstrʌ́ktɪd ðə stúwdənts tə trǽnsfɔrm ðə bɔ́jld pətéjtowz ɪntə ə smúwð, kríjmij tɛ́kstʃər baj júwzɪŋ ə túwl. wɒt wɒz ʃij ǽskɪŋ ðɛm tə dúw?",
+        "trans_RightAnswer": "mǽʃ",
+        "trans_WrongAnswers": [
+            "ɡréjt",
+            "dájs",
+            "wɪ́p",
+            "tʃɒ́p",
+            "dʒuwlíjən"
+        ],
+        "trans_Explanation": "tə 'mǽʃ' míjnz tə krʌ́ʃ ɔr smǽʃ ə fúwd ájtəm, lájk pətéjtowz, ɪntə ə sɒ́ft ənd kríjmij tɛ́kstʃər. ðɪs ɪz júwʒəlij dʌ́n júwzɪŋ ə mǽʃər ɔr ə fɔ́rk ənd ɪnvɒ́lvz skwɒ́ʃɪŋ ðə fúwd əntɪ́l ɪt bəkʌ́mz smúwð. ɪn kʊ́kɪŋ, mǽʃɪŋ ɪz fríjkwəntlij júwzd fɔr krijéjtɪŋ dɪ́ʃɪz lájk mǽʃt pətéjtowz, wɛ́ər ðə ɡówl ɪz tə həv ə júwnɪfɔ̀rm ənd lʌ́mp-fríj kənsɪ́stənsij ðət's plíjzɪŋ tə ðə pǽlət."
+    },
+    {
+        "Question": "In the kitchen, when a recipe instructs you to lightly apply a mist of water or another liquid over food using a spray bottle, which term best describes this action?",
+        "RightAnswer": "spritz",
+        "WrongAnswers": [
+            "drizzle",
+            "soak",
+            "drench",
+            "pour",
+            "dip"
+        ],
+        "Explanation": "To 'spritz' is to spray a small amount of liquid in quick bursts, usually using a spray bottle, to lightly moisten food without soaking it. This technique is commonly used in cooking to add a subtle touch of flavor or moisture without changing the texture or structure of the dish.",
+        "trans_Question": "ɪn ðə kɪ́tʃən, wɛ́n ə rɛ́sɪpij ɪnstrʌ́kts juw tə lájtlij əpláj ə mɪ́st əv wɔ́tər ɔr ənʌ́ðər lɪ́kwɪd ówvər fúwd júwzɪŋ ə spréj bɒ́təl, wɪ́tʃ tɜ́rm bɛ́st dəskrájbz ðɪs ǽkʃən?",
+        "trans_RightAnswer": "sprɪts",
+        "trans_WrongAnswers": [
+            "drɪ́zəl",
+            "sówk",
+            "drɛ́ntʃ",
+            "pɔ́r",
+            "dɪ́p"
+        ],
+        "trans_Explanation": "tə 'sprɪts' ɪz tə spréj ə smɔ́l əmáwnt əv lɪ́kwɪd ɪn kwɪ́k bɜ́rsts, júwʒəlij júwzɪŋ ə spréj bɒ́təl, tə lájtlij mɔ́jsən fúwd wɪðáwt sówkɪŋ ɪt. ðɪs tɛkníjk ɪz kɒ́mənlij júwzd ɪn kʊ́kɪŋ tə ǽd ə sʌ́təl tʌ́tʃ əv fléjvər ɔr mɔ́jstʃər wɪðáwt tʃéjndʒɪŋ ðə tɛ́kstʃər ɔr strʌ́ktʃər əv ðə dɪ́ʃ."
+    },
+    {
+        "Question": "You're following a recipe that instructs you to lightly pour olive oil over a salad just before serving. Which culinary term describes the action of pouring a thin stream of liquid, like a fine rain, over food to enhance flavor or appearance?",
+        "RightAnswer": "drizzle",
+        "WrongAnswers": [
+            "sauté",
+            "macerate",
+            "whisk",
+            "knead",
+            "blanch"
+        ],
+        "Explanation": "In the culinary world, to 'drizzle' means to pour liquid slowly in a thin stream over food. Imagine raindrops gently falling on leaves, but in this case, it's something delicious like chocolate or olive oil enriching your dish. This method is often used to add a touch of flavor or a glossy look, as in when you drizzle dressing over a salad or glaze over a cake.",
+        "trans_Question": "júwr fɒ́lowɪŋ ə rɛ́sɪpij ðət ɪnstrʌ́kts juw tə lájtlij pɔ́r ɒ́lɪv ɔ́jl ówvər ə sǽləd dʒəst bəfɔ́r sɜ́rvɪŋ. wɪ́tʃ kjúwlɪnɛ̀ərij tɜ́rm dəskrájbz ðə ǽkʃən əv pɔ́rɪŋ ə θɪ́n stríjm əv lɪ́kwɪd, lájk ə fájn réjn, ówvər fúwd tə ənhǽns fléjvər ɔr əpɪ́ərəns?",
+        "trans_RightAnswer": "drɪ́zəl",
+        "trans_WrongAnswers": [
+            "sɔé",
+            "méjsərèjt",
+            "wɪ́sk",
+            "níjd",
+            "blǽntʃ"
+        ],
+        "trans_Explanation": "ɪn ðə kjúwlɪnɛ̀ərij wɜ́rld, tə 'drɪ́zəl' míjnz tə pɔ́r lɪ́kwɪd slówlij ɪn ə θɪ́n stríjm ówvər fúwd. ɪmǽdʒɪn réjndrɒ̀ps dʒɛ́ntlij fɒ́lɪŋ ɒn líjvz, bʌt ɪn ðɪs kéjs, ɪt's sʌ́mθɪŋ dəlɪ́ʃəs lájk tʃɔ́klət ɔr ɒ́lɪv ɔ́jl ɛnrɪ́tʃɪŋ jɔr dɪ́ʃ. ðɪs mɛ́θəd ɪz ɔ́fən júwzd tə ǽd ə tʌ́tʃ əv fléjvər ɔr ə ɡlɔ́sij lʊ́k, æz ɪn wɛ́n juw drɪ́zəl drɛ́sɪŋ ówvər ə sǽləd ɔr ɡléjz ówvər ə kéjk."
+    },
+    {
+        "Question": "While preparing a tasty pasta dish, you decide to pour the cooked spaghetti into a colander in the sink to remove the excess water. What is this action called?",
+        "RightAnswer": "drain",
+        "WrongAnswers": [
+            "sift",
+            "sprinkle",
+            "immerse",
+            "macerate",
+            "baste"
+        ],
+        "Explanation": "In a culinary context, to 'drain' means to remove liquid from food by pouring it through a strainer or colander. It's a common step in cooking, often used to separate cooked pasta from the water it was boiled in, ensuring your dish isn't soggy.",
+        "trans_Question": "wájl prəpɛ́ərɪŋ ə téjstij pɒ́stə dɪ́ʃ, juw dəsájd tə pɔ́r ðə kʊ́kt spəɡɛ́tij ɪntə ə kɒ́ləndər ɪn ðə sɪ́ŋk tə rijmúwv ðə ɛ́ksɛ̀s wɔ́tər. wɒt ɪz ðɪs ǽkʃən kɔ́ld?",
+        "trans_RightAnswer": "dréjn",
+        "trans_WrongAnswers": [
+            "sɪ́ft",
+            "sprɪ́ŋkəl",
+            "ɪmɜ́rs",
+            "méjsərèjt",
+            "béjst"
+        ],
+        "trans_Explanation": "ɪn ə kjúwlɪnɛ̀ərij kɒ́ntɛkst, tə 'dréjn' míjnz tə rijmúwv lɪ́kwɪd frəm fúwd baj pɔ́rɪŋ ɪt θrúw ə stréjnər ɔr kɒ́ləndər. ɪt's ə kɒ́mən stɛ́p ɪn kʊ́kɪŋ, ɔ́fən júwzd tə sɛ́pərət kʊ́kt pɒ́stə frəm ðə wɔ́tər ɪt wɒz bɔ́jld ɪn, ɛnʃʊ́rɪŋ jɔr dɪ́ʃ ɪzənt sɒ́ɡij."
+    },
+    {
+        "Question": "While preparing a fresh salad, Maria places the lettuce under a gentle stream of cold water to remove any dirt or impurities. What kitchen term best describes this action?",
+        "RightAnswer": "rinse",
+        "WrongAnswers": [
+            "simmer",
+            "grate",
+            "steep",
+            "sear",
+            "blend"
+        ],
+        "Explanation": "To 'rinse' means to wash something quickly, often with water, to remove dirt, grime, or unwanted substances. In cooking, this action is typically used for cleaning fresh produce like fruits and vegetables to ensure they are clean and safe to eat. Unlike a full wash, rinsing is a brief process that focuses on cleansing the surface.",
+        "trans_Question": "wájl prəpɛ́ərɪŋ ə frɛ́ʃ sǽləd, məríjə pléjsɪz ðə lɛ́təs ʌ́ndər ə dʒɛ́ntəl stríjm əv kówld wɔ́tər tə rijmúwv ɛ́nij dɜ́rt ɔr ɪ̀mpjʊ́rɪtijz. wɒt kɪ́tʃən tɜ́rm bɛ́st dəskrájbz ðɪs ǽkʃən?",
+        "trans_RightAnswer": "rɪ́ns",
+        "trans_WrongAnswers": [
+            "sɪ́mər",
+            "ɡréjt",
+            "stíjp",
+            "sɪ́ər",
+            "blɛ́nd"
+        ],
+        "trans_Explanation": "tə 'rɪ́ns' míjnz tə wɒ́ʃ sʌ́mθɪŋ kwɪ́klij, ɔ́fən wɪð wɔ́tər, tə rijmúwv dɜ́rt, ɡrájm, ɔr ʌ̀nwɔ́ntɪd sʌ́bstənsɪz. ɪn kʊ́kɪŋ, ðɪs ǽkʃən ɪz tɪ́pɪkəlij júwzd fɔr klíjnɪŋ frɛ́ʃ prədúws lájk frúwts ənd vɛ́dʒtəbəlz tə ənʃʊ́r ðej ɑr klíjn ənd séjf tə íjt. ʌ̀nlájk ə fʊ́l wɒ́ʃ, rɪ́nsɪŋ ɪz ə bríjf prɒ́sɛs ðət fówkəsɪz ɒn klɛ́nzɪŋ ðə sɜ́rfəs."
+    },
+    {
+        "Question": "While preparing a delicious apple pie, Susan reached for the tool that would remove the outer layer of the apples. What is this action commonly called in a kitchen setting?",
+        "RightAnswer": "peel",
+        "WrongAnswers": [
+            "slice",
+            "chop",
+            "grate",
+            "mash",
+            "core"
+        ],
+        "Explanation": "In cooking, to 'peel' something means to remove the outer skin or layer of fruits or vegetables using a peeler or a knife. This is a common first step in many recipes, helping to improve taste and texture. Imagine peeling an apple: you reveal the smooth, juicy part beneath the rough skin, readying it for the next step in your culinary creation.",
+        "trans_Question": "wájl prəpɛ́ərɪŋ ə dəlɪ́ʃəs ǽpəl páj, súwzən ríjtʃt fɔr ðə túwl ðət wʊd rijmúwv ðə áwtər léjər əv ðə ǽpəlz. wɒt ɪz ðɪs ǽkʃən kɒ́mənlij kɔ́ld ɪn ə kɪ́tʃən sɛ́tɪŋ?",
+        "trans_RightAnswer": "píjl",
+        "trans_WrongAnswers": [
+            "slájs",
+            "tʃɒ́p",
+            "ɡréjt",
+            "mǽʃ",
+            "kɔ́r"
+        ],
+        "trans_Explanation": "ɪn kʊ́kɪŋ, tə 'píjl' sʌ́mθɪŋ míjnz tə rijmúwv ðə áwtər skɪ́n ɔr léjər əv frúwts ɔr vɛ́dʒtəbəlz júwzɪŋ ə píjlər ɔr ə nájf. ðɪs ɪz ə kɒ́mən fɜ́rst stɛ́p ɪn mɛ́nij rɛ́sɪpijz, hɛ́lpɪŋ tə ɪmprúwv téjst ənd tɛ́kstʃər. ɪmǽdʒɪn píjlɪŋ ən ǽpəl: juw rəvíjl ðə smúwð, dʒúwsij pɑ́rt bəníjθ ðə rʌ́f skɪ́n, rɛ́dijɪŋ ɪt fɔr ðə nɛ́kst stɛ́p ɪn jɔr kjúwlɪnɛ̀ərij krijéjʃən."
+    },
+    {
+        "Question": "While preparing the ingredients for the fruit salad, which action involves removing the thin outer layer of apples with a knife to ensure they're clean and ready to eat?",
+        "RightAnswer": "pare",
+        "WrongAnswers": [
+            "slice",
+            "chop",
+            "dice",
+            "grate",
+            "peel"
+        ],
+        "Explanation": "To 'pare' means to carefully remove the outer skin or layer of a fruit or vegetable using a knife or another sharp tool. This process not only makes the produce more palatable but also neatens the appearance, allowing for a better culinary presentation. In contrast, words like 'slice' or 'chop' refer to cutting the item into pieces, not just removing the outer layer.",
+        "trans_Question": "wájl prəpɛ́ərɪŋ ðə ɪnɡríjdijənts fɔr ðə frúwt sǽləd, wɪ́tʃ ǽkʃən ɪnvɒ́lvz rijmúwvɪŋ ðə θɪ́n áwtər léjər əv ǽpəlz wɪð ə nájf tə ənʃʊ́r ðɛ́ər klíjn ənd rɛ́dij tə íjt?",
+        "trans_RightAnswer": "pɛ́ər",
+        "trans_WrongAnswers": [
+            "slájs",
+            "tʃɒ́p",
+            "dájs",
+            "ɡréjt",
+            "píjl"
+        ],
+        "trans_Explanation": "tə 'pɛ́ər' míjnz tə kɛ́ərfəlij rijmúwv ðə áwtər skɪ́n ɔr léjər əv ə frúwt ɔr vɛ́dʒtəbəl júwzɪŋ ə nájf ɔr ənʌ́ðər ʃɑ́rp túwl. ðɪs prɒ́sɛs nɒt ównlij méjks ðə prədúws mɔr pǽlətəbəl bʌt ɔ́lsow /ˈnijtənz/ ðə əpɪ́ərəns, əláwɪŋ fɔr ə bɛ́tər kjúwlɪnɛ̀ərij prɛ̀zəntéjʃən. ɪn kɒ́ntræst, wɜ́rdz lájk 'slájs' ɔr 'tʃɒ́p' rəfɜ́r tə kʌ́tɪŋ ðə ájtəm ɪntə píjsɪz, nɒt dʒəst rijmúwvɪŋ ðə áwtər léjər."
+    },
+    {
+        "Question": "While preparing an apple pie, Sarah was careful to remove the central part of each apple to ensure a smooth texture. What is the term used for this part of the fruit that contains seeds?",
+        "RightAnswer": "core",
+        "WrongAnswers": [
+            "peel",
+            "stem",
+            "pulp",
+            "rind",
+            "flesh"
+        ],
+        "Explanation": "The 'core' of a fruit, such as an apple, refers to the tough, central area that contains seeds and is generally not eaten. In cooking and baking, removing the core ensures that the final dish is smooth and free of unwanted textures or tastes from seeds. This process can also help achieve a more aesthetically pleasing presentation. Ensuring to remove the core is key when prepping fruits for recipes like pies and tarts.",
+        "trans_Question": "wájl prəpɛ́ərɪŋ ən ǽpəl páj, sɛ́ərə wɒz kɛ́ərfəl tə rijmúwv ðə sɛ́ntrəl pɑ́rt əv ijtʃ ǽpəl tə ənʃʊ́r ə smúwð tɛ́kstʃər. wɒt ɪz ðə tɜ́rm júwzd fɔr ðɪs pɑ́rt əv ðə frúwt ðət kəntéjnz síjdz?",
+        "trans_RightAnswer": "kɔ́r",
+        "trans_WrongAnswers": [
+            "píjl",
+            "stɛ́m",
+            "pʌ́lp",
+            "rájnd",
+            "flɛ́ʃ"
+        ],
+        "trans_Explanation": "ðə 'kɔ́r' əv ə frúwt, sʌtʃ æz ən ǽpəl, rəfɜ́rz tə ðə tʌ́f, sɛ́ntrəl ɛ́ərijə ðət kəntéjnz síjdz ənd ɪz dʒɛ́nərəlij nɒt íjtən. ɪn kʊ́kɪŋ ənd béjkɪŋ, rijmúwvɪŋ ðə kɔ́r ənʃʊ́rz ðət ðə fájnəl dɪ́ʃ ɪz smúwð ənd fríj əv ʌ̀nwɔ́ntɪd tɛ́kstʃərz ɔr téjsts frəm síjdz. ðɪs prɒ́sɛs kən ɔ́lsow hɛ́lp ətʃíjv ə mɔr ɛsθɛ́tɪklij plíjzɪŋ prɛ̀zəntéjʃən. ɛnʃʊ́rɪŋ tə rijmúwv ðə kɔ́r ɪz kíj wɛ́n prɛ́pɪŋ frúwts fɔr rɛ́sɪpijz lájk pájz ənd tɑ́rts."
+    },
+    {
+        "Question": "While preparing a fresh fruit salad, what do you call each individual piece when you carefully cut an orange into separate sections?",
+        "RightAnswer": "segment",
+        "WrongAnswers": [
+            "slice",
+            "chunk",
+            "cube",
+            "strip",
+            "section"
+        ],
+        "Explanation": "In the world of cooking, a 'segment' refers to one of the naturally occurring parts of a fruit like an orange or grapefruit. When you peel and separate these fruits, you'll find that they divide into clean, juicy morsels called segments. This method not only makes the fruit easier to handle but also retains its natural shape and juiciness, perfect for enhancing the look and taste of dishes like fruit salads or garnishes.",
+        "trans_Question": "wájl prəpɛ́ərɪŋ ə frɛ́ʃ frúwt sǽləd, wɒt dúw juw kɔ́l ijtʃ ɪndɪvɪ́dʒəwəl píjs wɛ́n juw kɛ́ərfəlij kʌ́t ən ɔ́rəndʒ ɪntə sɛ́pərət sɛ́kʃənz?",
+        "trans_RightAnswer": "sɛ́gmənt",
+        "trans_WrongAnswers": [
+            "slájs",
+            "tʃʌ́ŋk",
+            "kjúwb",
+            "strɪ́p",
+            "sɛ́kʃən"
+        ],
+        "trans_Explanation": "ɪn ðə wɜ́rld əv kʊ́kɪŋ, ə 'sɛ́gmənt' rəfɜ́rz tə wʌ́n əv ðə nǽtʃərəlij əkɜ́rɪŋ pɑ́rts əv ə frúwt lájk ən ɔ́rəndʒ ɔr ɡréjpfrùwt. wɛ́n juw píjl ənd sɛ́pərət ðijz frúwts, júwl fájnd ðət ðej dɪvájd ɪntə klíjn, dʒúwsij mɔ́rsəlz kɔ́ld sɛ́ɡmənts. ðɪs mɛ́θəd nɒt ównlij méjks ðə frúwt íjzijər tə hǽndəl bʌt ɔ́lsow rijtéjnz ɪts nǽtʃərəl ʃéjp ənd dʒúwsijnəs, pɜ́rfəkt fɔr ɛnhǽnsɪŋ ðə lʊ́k ənd téjst əv dɪ́ʃɪz lájk frúwt sǽlədz ɔr ɡɑ́rnɪʃɪz."
+    },
+    {
+        "Question": "In the kitchen, when preparing a salad, what is the term used to describe cutting a cucumber into thin, flat pieces?",
+        "RightAnswer": "slice",
+        "WrongAnswers": [
+            "dice",
+            "grate",
+            "mince",
+            "chop",
+            "julienne"
+        ],
+        "Explanation": "To 'slice' means to cut something into thin, broad pieces. It's a common technique used in cooking, especially for fruits and vegetables, where uniformity and even cooking are often desired. Imagine taking a cucumber and cutting it into those perfectly round pieces you see in salads; that’s slicing!",
+        "trans_Question": "ɪn ðə kɪ́tʃən, wɛ́n prəpɛ́ərɪŋ ə sǽləd, wɒt ɪz ðə tɜ́rm júwzd tə dəskrájb kʌ́tɪŋ ə kjúwkəmbər ɪntə θɪ́n, flǽt píjsɪz?",
+        "trans_RightAnswer": "slájs",
+        "trans_WrongAnswers": [
+            "dájs",
+            "ɡréjt",
+            "mɪ́ns",
+            "tʃɒ́p",
+            "dʒuwlíjən"
+        ],
+        "trans_Explanation": "tə 'slájs' míjnz tə kʌ́t sʌ́mθɪŋ ɪntə θɪ́n, brɔ́d píjsɪz. ɪt's ə kɒ́mən tɛkníjk júwzd ɪn kʊ́kɪŋ, əspɛ́ʃəlij fɔr frúwts ənd vɛ́dʒtəbəlz, wɛ́ər jùwnɪfɔ́rmɪtij ənd íjvən kʊ́kɪŋ ɑr ɔ́fən dəzájərd. ɪmǽdʒɪn téjkɪŋ ə kjúwkəmbər ənd kʌ́tɪŋ ɪt ɪntə ðowz pɜ́rfəktlij ráwnd píjsɪz juw síj ɪn sǽlədz; ðət's slájsɪŋ!"
+    },
+    {
+        "Question": "In culinary terms, when a chef asks you to break down a bunch of parsley into smaller pieces with repeated sharp knife movements, what technique are they referring to?",
+        "RightAnswer": "chop",
+        "WrongAnswers": [
+            "stir",
+            "blend",
+            "bake",
+            "knead",
+            "puree"
+        ],
+        "Explanation": "To 'chop' is to cut food into small, irregular pieces. Unlike dicing or mincing, which require more precision, chopping is a quick, somewhat rough, knife technique usually used on vegetables and herbs. It’s a bit like how an artist might chop away at a block of marble, except much smaller and less messy!",
+        "trans_Question": "ɪn kjúwlɪnɛ̀ərij tɜ́rmz, wɛ́n ə ʃɛ́f ǽsks juw tə bréjk dawn ə bʌ́ntʃ əv pɑ́rslij ɪntə smɔ́lər píjsɪz wɪð rəpíjtɪd ʃɑ́rp nájf múwvmənts, wɒt tɛkníjk ɑr ðej rəfɜ́rɪŋ tə?",
+        "trans_RightAnswer": "tʃɒ́p",
+        "trans_WrongAnswers": [
+            "stɜ́r",
+            "blɛ́nd",
+            "béjk",
+            "níjd",
+            "pjʊréj"
+        ],
+        "trans_Explanation": "tə 'tʃɒ́p' ɪz tə kʌ́t fúwd ɪntə smɔ́l, ɪ̀ərɛ́ɡjələr píjsɪz. ʌ̀nlájk dájsɪŋ ɔr mɪ́nsɪŋ, wɪ́tʃ rəkwájər mɔr prəsɪ́ʒən, tʃɒ́pɪŋ ɪz ə kwɪ́k, sʌ́mwʌ́t rʌ́f, nájf tɛkníjk júwʒəlij júwzd ɒn vɛ́dʒtəbəlz ənd ɜ́rbz. ɪt's ə bɪ́t lájk háw ən ɑ́rtɪst majt tʃɒ́p əwéj æt ə blɒ́k əv mɑ́rbəl, əksɛ́pt mʌtʃ smɔ́lər ənd lɛ́s mɛ́sij!"
+    },
+    {
+        "Question": "In a cooking class, you are instructed to cut vegetables into small, uniform pieces for a salad. What term best describes this specific way of chopping the vegetables?",
+        "RightAnswer": "cube",
+        "WrongAnswers": [
+            "julienne",
+            "dice",
+            "fillet",
+            "mince",
+            "grate"
+        ],
+        "Explanation": "When you 'cube' vegetables or any food, you chop them into small, square-shaped pieces. This technique is not only for aesthetic purposes but also helps in even cooking. Unlike dicing, which produces smaller, more evenly-sized pieces, cubing results in slightly larger chunks. This method is common for ingredients in salads or stews where you want to maintain a certain texture.",
+        "trans_Question": "ɪn ə kʊ́kɪŋ klǽs, juw ɑr ɪnstrʌ́ktɪd tə kʌ́t vɛ́dʒtəbəlz ɪntə smɔ́l, júwnɪfɔ̀rm píjsɪz fɔr ə sǽləd. wɒt tɜ́rm bɛ́st dəskrájbz ðɪs spəsɪ́fɪk wej əv tʃɒ́pɪŋ ðə vɛ́dʒtəbəlz?",
+        "trans_RightAnswer": "kjúwb",
+        "trans_WrongAnswers": [
+            "dʒuwlíjən",
+            "dájs",
+            "fɪlʌ́t",
+            "mɪ́ns",
+            "ɡréjt"
+        ],
+        "trans_Explanation": "wɛ́n juw 'kjúwb' vɛ́dʒtəbəlz ɔr ɛ́nij fúwd, juw tʃɒ́p ðɛm ɪntə smɔ́l, skwɛ́ər-ʃéjpt píjsɪz. ðɪs tɛkníjk ɪz nɒt ównlij fɔr ɛsθɛ́tɪk pɜ́rpəsɪz bʌt ɔ́lsow hɛ́lps ɪn íjvən kʊ́kɪŋ. ʌ̀nlájk dájsɪŋ, wɪ́tʃ prədúwsɪz smɔ́lər, mɔr íjvənlij-sájzd píjsɪz, /ˈkjuwbɪŋ/ rəzʌ́lts ɪn slájtlij lɑ́rdʒər tʃʌ́ŋks. ðɪs mɛ́θəd ɪz kɒ́mən fɔr ɪnɡríjdijənts ɪn sǽlədz ɔr stúwz wɛ́ər juw wɒ́nt tə mejntéjn ə sɜ́rtən tɛ́kstʃər."
+    },
+    {
+        "Question": "Imagine you're preparing a fresh salsa and you need to prepare the onions and tomatoes in a specific way to ensure they mix well with the other ingredients. Which term describes the process of cutting these vegetables into small, even cubes?",
+        "RightAnswer": "dice",
+        "WrongAnswers": [
+            "julienne",
+            "chop",
+            "mince",
+            "slice",
+            "shred"
+        ],
+        "Explanation": "To 'dice' means to cut food into small, uniformly-sized cubes. This technique is often used in cooking to ensure even cooking and to achieve a balanced mixture of ingredients in dishes like salsas, salads, or soups. Unlike chopping, which can result in varied shapes and sizes, dicing aims for consistent, small cubes that blend seamlessly together.",
+        "trans_Question": "ɪmǽdʒɪn júwr prəpɛ́ərɪŋ ə frɛ́ʃ sɔ́lsə ənd juw níjd tə prəpɛ́ər ðə ʌ́njənz ənd təmɒ́towz ɪn ə spəsɪ́fɪk wej tə ənʃʊ́r ðej mɪ́ks wɛ́l wɪð ðə ʌ́ðər ɪnɡríjdijənts. wɪ́tʃ tɜ́rm dəskrájbz ðə prɒ́sɛs əv kʌ́tɪŋ ðijz vɛ́dʒtəbəlz ɪntə smɔ́l, íjvən kjúwbz?",
+        "trans_RightAnswer": "dájs",
+        "trans_WrongAnswers": [
+            "dʒuwlíjən",
+            "tʃɒ́p",
+            "mɪ́ns",
+            "slájs",
+            "ʃrɛ́d"
+        ],
+        "trans_Explanation": "tə 'dájs' míjnz tə kʌ́t fúwd ɪntə smɔ́l, júwnɪfɔ̀rmlij-sájzd kjúwbz. ðɪs tɛkníjk ɪz ɔ́fən júwzd ɪn kʊ́kɪŋ tə ənʃʊ́r íjvən kʊ́kɪŋ ənd tə ətʃíjv ə bǽlənst mɪ́kstʃər əv ɪnɡríjdijənts ɪn dɪ́ʃɪz lájk sɒ́lsəz, sǽlədz, ɔr súwps. ʌ̀nlájk tʃɒ́pɪŋ, wɪ́tʃ kən rəzʌ́lt ɪn vɛ́ərijd ʃéjps ənd sájzɪz, dájsɪŋ éjmz fɔr kənsɪ́stənt, smɔ́l kjúwbz ðət blɛ́nd síjmləslij təɡɛ́ðər."
+    },
+    {
+        "Question": "In the cooking world, you find yourself with a block of Parmesan cheese. Your recipe instructs you to gently and thinly create delicate wisps of cheese to garnish your risotto. What culinary technique are you using?",
+        "RightAnswer": "shave",
+        "WrongAnswers": [
+            "chop",
+            "dice",
+            "grate",
+            "slice",
+            "mince"
+        ],
+        "Explanation": "In cooking, to 'shave' means to cut food, usually cheese or chocolate, into very thin slices or curls using a tool like a peeler or a sharp knife. This method is perfect for delicately enhancing dishes with fine, elegant layers of flavor and texture.",
+        "trans_Question": "ɪn ðə kʊ́kɪŋ wɜ́rld, juw fájnd jɔrsɛ́lf wɪð ə blɒ́k əv pɑ́rməzɒ̀n tʃíjz. jɔr rɛ́sɪpij ɪnstrʌ́kts juw tə dʒɛ́ntlij ənd θɪ́nlij krijéjt dɛ́lɪkət /wɪsps/ əv tʃíjz tə ɡɑ́rnɪʃ jɔr rìjsɔ́tòw. wɒt kjúwlɪnɛ̀ərij tɛkníjk ɑr juw júwzɪŋ?",
+        "trans_RightAnswer": "ʃéjv",
+        "trans_WrongAnswers": [
+            "tʃɒ́p",
+            "dájs",
+            "ɡréjt",
+            "slájs",
+            "mɪ́ns"
+        ],
+        "trans_Explanation": "ɪn kʊ́kɪŋ, tə 'ʃéjv' míjnz tə kʌ́t fúwd, júwʒəlij tʃíjz ɔr tʃɔ́klət, ɪntə vɛ́ərij θɪ́n slájsɪz ɔr kɜ́rlz júwzɪŋ ə túwl lájk ə píjlər ɔr ə ʃɑ́rp nájf. ðɪs mɛ́θəd ɪz pɜ́rfəkt fɔr dɛ́lɪkətlij ɛnhǽnsɪŋ dɪ́ʃɪz wɪð fájn, ɛ́ləɡənt léjərz əv fléjvər ənd tɛ́kstʃər."
+    },
+    {
+        "Question": "During the holiday dinner, Jamie's precise technique impressed everyone as he used the sharp knife to ___ the roasted turkey, ensuring each piece was perfectly sliced and ready to serve.",
+        "RightAnswer": "carve",
+        "WrongAnswers": [
+            "chop",
+            "dice",
+            "grate",
+            "mash",
+            "peel"
+        ],
+        "Explanation": "To 'carve' means to cut slices from a large piece of meat, typically in a skillful or ceremonious way. It's what you do to a delicious roast or turkey, cutting it carefully into slices for serving, often at festive gatherings. It's about precision and technique, ensuring each slice looks appetizing and is easy to serve.",
+        "trans_Question": "dʊ́rɪŋ ðə hɒ́lədèj dɪ́nər, dʒéjmij'z prəsájs tɛkníjk ɪ̀mprɛ́st ɛ́vrijwʌ̀n æz hij júwzd ðə ʃɑ́rp nájf tə ___ ðə rówstɪd tɜ́rkij, ɛnʃʊ́rɪŋ ijtʃ píjs wɒz pɜ́rfəktlij slájst ənd rɛ́dij tə sɜ́rv.",
+        "trans_RightAnswer": "kɑ́rv",
+        "trans_WrongAnswers": [
+            "tʃɒ́p",
+            "dájs",
+            "ɡréjt",
+            "mǽʃ",
+            "píjl"
+        ],
+        "trans_Explanation": "tə 'kɑ́rv' míjnz tə kʌ́t slájsɪz frəm ə lɑ́rdʒ píjs əv míjt, tɪ́pɪkəlij ɪn ə skɪ́lfəl ɔr /ˌsɛərəˈmownijəs/ wej. ɪt's wɒt juw dúw tə ə dəlɪ́ʃəs rówst ɔr tɜ́rkij, kʌ́tɪŋ ɪt kɛ́ərfəlij ɪntə slájsɪz fɔr sɜ́rvɪŋ, ɔ́fən æt fɛ́stɪv ɡǽðərɪŋz. ɪt's əbawt prəsɪ́ʒən ənd tɛkníjk, ɛnʃʊ́rɪŋ ijtʃ slájs lʊ́ks ǽpɪtàjzɪŋ ənd ɪz íjzij tə sɜ́rv."
+    },
+    {
+        "Question": "During your culinary adventure, you decide to make pancakes from scratch. You mix flour, eggs, milk, and a bit of sugar into a smooth, thick liquid that you then pour onto a hot griddle. What is this mixture called?",
+        "RightAnswer": "batter",
+        "WrongAnswers": [
+            "dough",
+            "pasta",
+            "syrup",
+            "custard",
+            "slurry"
+        ],
+        "Explanation": "In cooking, 'batter' refers to a mixture that's usually a combination of flour, eggs, and a liquid such as milk or water. This mixture is more liquid-like than 'dough' (which is stiffer) and is used to make a variety of delightful foods like pancakes, crepes, or for coating items before frying. Think of it as the pourable foundation for fluffy pancakes and crunchy tempura!",
+        "trans_Question": "dʊ́rɪŋ jɔr kjúwlɪnɛ̀ərij ædvɛ́ntʃər, juw dəsájd tə méjk pǽnkèjks frəm skrǽtʃ. juw mɪ́ks fláwər, ɛ́ɡz, mɪ́lk, ənd ə bɪ́t əv ʃʊ́ɡər ɪntə ə smúwð, θɪ́k lɪ́kwɪd ðət juw ðɛn pɔ́r ɒntə ə hɒ́t ɡrɪ́dəl. wɒt ɪz ðɪs mɪ́kstʃər kɔ́ld?",
+        "trans_RightAnswer": "bǽtər",
+        "trans_WrongAnswers": [
+            "dów",
+            "pɒ́stə",
+            "sɜ́rəp",
+            "kʌ́stərd",
+            "slɜ́rij"
+        ],
+        "trans_Explanation": "ɪn kʊ́kɪŋ, 'bǽtər' rəfɜ́rz tə ə mɪ́kstʃər ðət's júwʒəlij ə kɒ̀mbɪnéjʃən əv fláwər, ɛ́ɡz, ənd ə lɪ́kwɪd sʌtʃ æz mɪ́lk ɔr wɔ́tər. ðɪs mɪ́kstʃər ɪz mɔr lɪ́kwɪd-lájk ðʌn 'dów' (wɪ́tʃ ɪz stɪ́fər) ənd ɪz júwzd tə méjk ə vərájətij əv dəlájtfəl fúwdz lájk pǽnkèjks, kréjps, ɔr fɔr kówtɪŋ ájtəmz bəfɔ́r frájɪŋ. θɪ́ŋk əv ɪt æz ðə pɔ́rəbəl fawndéjʃən fɔr flʌ́fij pǽnkèjks ənd krʌ́ntʃij tɛmpʊ́rə!"
+    },
+    {
+        "Question": "In the world of cooking, particularly when baking, what term is used to describe a staple food made from flour and water, often leavened with yeast, that comes in various shapes and textures, like baguettes or sourdough?",
+        "RightAnswer": "bread",
+        "WrongAnswers": [
+            "pastry",
+            "pasta",
+            "batter",
+            "doughnut",
+            "scone"
+        ],
+        "Explanation": "Bread is a staple food typically made from wheat flour mixed with water and yeast, which causes it to rise during baking. It has been a key part of human diets for thousands of years due to its versatility and nutritional value. Bread can take many forms, from the crusty baguettes of France to the soft, robust loaves of sourdough, reflecting the cultural diversity in its preparation and ingredients.",
+        "trans_Question": "ɪn ðə wɜ́rld əv kʊ́kɪŋ, pərtɪ́kjələrlij wɛ́n béjkɪŋ, wɒt tɜ́rm ɪz júwzd tə dəskrájb ə stéjpəl fúwd méjd frəm fláwər ənd wɔ́tər, ɔ́fən lɛ́vənd wɪð jíjst, ðət kʌ́mz ɪn vɛ́ərijəs ʃéjps ənd tɛ́kstʃərz, lájk bæɡɛts ɔr sáwərdow?",
+        "trans_RightAnswer": "brɛ́d",
+        "trans_WrongAnswers": [
+            "péjstrij",
+            "pɒ́stə",
+            "bǽtər",
+            "dównʌ̀t",
+            "skówn"
+        ],
+        "trans_Explanation": "brɛ́d ɪz ə stéjpəl fúwd tɪ́pɪkəlij méjd frəm wíjt fláwər mɪ́kst wɪð wɔ́tər ənd jíjst, wɪ́tʃ kɒ́zɪz ɪt tə rájz dʊ́rɪŋ béjkɪŋ. ɪt həz bɪn ə kíj pɑ́rt əv hjúwmən dájəts fɔr θáwzəndz əv jɪ́ərz djúw tə ɪts vɜ̀rsətɪ́lɪtij ənd nuwtrɪ́ʃənəl vǽljuw. brɛ́d kən téjk mɛ́nij fɔ́rmz, frəm ðə krʌ́stij bæɡɛts əv frǽns tə ðə sɒ́ft, rowbʌ́st lówvz əv sáwərdow, rəflɛ́ktɪŋ ðə kʌ́ltʃərəl dajvɜ́rsɪtij ɪn ɪts prɛ̀pəréjʃən ənd ɪnɡríjdijənts."
+    },
+    {
+        "Question": "In the process of preparing a delicious breaded chicken, before frying, what term describes the action of covering the chicken with flour and breadcrumbs to ensure an even crust?",
+        "RightAnswer": "coat",
+        "WrongAnswers": [
+            "blend",
+            "dip",
+            "drizzle",
+            "marinate",
+            "sprinkle"
+        ],
+        "Explanation": "To 'coat' in the culinary world means to cover the surface of an ingredient with a thin layer of another ingredient, like flour, breadcrumbs, or batter. This is often done to add texture or flavor and to help ingredients crisp up during cooking. Imagine it as wrapping your food in a tasty blanket that enhances both flavor and appearance!",
+        "trans_Question": "ɪn ðə prɒ́sɛs əv prəpɛ́ərɪŋ ə dəlɪ́ʃəs brɛ́dɪd tʃɪ́kən, bəfɔ́r frájɪŋ, wɒt tɜ́rm dəskrájbz ðə ǽkʃən əv kʌ́vərɪŋ ðə tʃɪ́kən wɪð fláwər ənd brɛ́dkrʌ̀mz tə ənʃʊ́r ən íjvən krʌ́st?",
+        "trans_RightAnswer": "kówt",
+        "trans_WrongAnswers": [
+            "blɛ́nd",
+            "dɪ́p",
+            "drɪ́zəl",
+            "mɛ́ərənèjt",
+            "sprɪ́ŋkəl"
+        ],
+        "trans_Explanation": "tə 'kówt' ɪn ðə kjúwlɪnɛ̀ərij wɜ́rld míjnz tə kʌ́vər ðə sɜ́rfəs əv ən ɪnɡríjdijənt wɪð ə θɪ́n léjər əv ənʌ́ðər ɪnɡríjdijənt, lájk fláwər, brɛ́dkrʌ̀mz, ɔr bǽtər. ðɪs ɪz ɔ́fən dʌ́n tə ǽd tɛ́kstʃər ɔr fléjvər ənd tə hɛ́lp ɪnɡríjdijənts krɪ́sp ʌp dʊ́rɪŋ kʊ́kɪŋ. ɪmǽdʒɪn ɪt æz rǽpɪŋ jɔr fúwd ɪn ə téjstij blǽŋkət ðət ənhǽnsɪz bówθ fléjvər ənd əpɪ́ərəns!"
+    },
+    {
+        "Question": "Chef Mario is preparing a special chicken dish and he plans to enhance its flavor by soaking the meat in a mixture of spices, vinegar, and oil for a few hours before cooking. What culinary technique is Chef Mario using?",
+        "RightAnswer": "marinate",
+        "WrongAnswers": [
+            "baste",
+            "saute",
+            "brine",
+            "simmer",
+            "blanch"
+        ],
+        "Explanation": "To marinate is to soak food, often meat, in a flavorful liquid mixture, typically known as a marinade, to enhance its taste and sometimes its tenderness. This process not only infuses the food with a blend of herbs and spices but also can help to tenderize tougher cuts of meat. By letting the ingredients mingle, marinating transforms a dish into something more flavorful and aromatic, ready for an even more delicious culinary creation.",
+        "trans_Question": "ʃɛ́f mɑ́rijow ɪz prəpɛ́ərɪŋ ə spɛ́ʃəl tʃɪ́kən dɪ́ʃ ənd hij plǽnz tə ənhǽns ɪts fléjvər baj sówkɪŋ ðə míjt ɪn ə mɪ́kstʃər əv spájsɪz, vɪ́nəɡər, ənd ɔ́jl fɔr ə fjúw áwərz bəfɔ́r kʊ́kɪŋ. wɒt kjúwlɪnɛ̀ərij tɛkníjk ɪz ʃɛ́f mɑ́rijow júwzɪŋ?",
+        "trans_RightAnswer": "mɛ́ərənèjt",
+        "trans_WrongAnswers": [
+            "béjst",
+            "sɔtéj",
+            "brájn",
+            "sɪ́mər",
+            "blǽntʃ"
+        ],
+        "trans_Explanation": "tə mɛ́ərənèjt ɪz tə sówk fúwd, ɔ́fən míjt, ɪn ə fléjvərfəl lɪ́kwɪd mɪ́kstʃər, tɪ́pɪkəlij nówn æz ə mɑ́rɪnèjd, tə ənhǽns ɪts téjst ənd sʌ́mtàjmz ɪts tɛ́ndərnəs. ðɪs prɒ́sɛs nɒt ównlij ɪnfjúwzɪz ðə fúwd wɪð ə blɛ́nd əv ɜ́rbz ənd spájsɪz bʌt ɔ́lsow kən hɛ́lp tə tɛ́ndəràjz tʌ́fər kʌ́ts əv míjt. baj lɛ́tɪŋ ðə ɪnɡríjdijənts mɪ́ŋɡəl, mɛ́ərənèjtɪŋ trænsfɔ́rmz ə dɪ́ʃ ɪntə sʌ́mθɪŋ mɔr fléjvərfəl ənd ɛ̀ərəmǽtɪk, rɛ́dij fɔr ən íjvən mɔr dəlɪ́ʃəs kjúwlɪnɛ̀ərij krijéjʃən."
+    },
+    {
+        "Question": "In the art of culinary creation, which term best describes the process of steeping spices or herbs in a liquid to extract their flavors and aromas, often used to add depth to soups, teas, or oils?",
+        "RightAnswer": "infuse",
+        "WrongAnswers": [
+            "marinate",
+            "simmer",
+            "saute",
+            "blanch",
+            "braise"
+        ],
+        "Explanation": "To infuse is to immerse ingredients like herbs or spices in a liquid—be it water, milk, oil, or another—to draw out their vibrant flavors and delightful aromas. This technique is a gentle way to impart delicious essence into your dishes, transforming basic ingredients into something more aromatic and complex.",
+        "trans_Question": "ɪn ðə ɑ́rt əv kjúwlɪnɛ̀ərij krijéjʃən, wɪ́tʃ tɜ́rm bɛ́st dəskrájbz ðə prɒ́sɛs əv stíjpɪŋ spájsɪz ɔr ɜ́rbz ɪn ə lɪ́kwɪd tə ɛ́kstrəkt ðɛər fléjvərz ənd ərówməz, ɔ́fən júwzd tə ǽd dɛ́pθ tə súwps, tíjz, ɔr ɔ́jlz?",
+        "trans_RightAnswer": "ɪnfjúwz",
+        "trans_WrongAnswers": [
+            "mɛ́ərənèjt",
+            "sɪ́mər",
+            "sɔtéj",
+            "blǽntʃ",
+            "bréjz"
+        ],
+        "trans_Explanation": "tə ɪnfjúwz ɪz tə ɪmɜ́rs ɪnɡríjdijənts lájk ɜ́rbz ɔr spájsɪz ɪn ə lɪ́kwɪd—bij ɪt wɔ́tər, mɪ́lk, ɔ́jl, ɔr ənʌ́ðər—tə drɔ́ awt ðɛər vájbrənt fléjvərz ənd dəlájtfəl ərówməz. ðɪs tɛkníjk ɪz ə dʒɛ́ntəl wej tə ɪ̀mpɑ́rt dəlɪ́ʃəs ɛ́səns ɪntə jɔr dɪ́ʃɪz, trænsfɔ́rmɪŋ béjsɪk ɪnɡríjdijənts ɪntə sʌ́mθɪŋ mɔr ɛ̀ərəmǽtɪk ənd kɒ́mplɛks."
+    },
+    {
+        "Question": "During the preparation of herbal tea, which term describes the process of soaking the leaves in water to extract their flavors?",
+        "RightAnswer": "steep",
+        "WrongAnswers": [
+            "blend",
+            "grind",
+            "whisk",
+            "brew",
+            "ferment"
+        ],
+        "Explanation": "In cooking, 'steep' refers to soaking ingredients, like tea leaves or herbs, in a liquid such as water, usually hot, to extract the flavors and other desired properties. Think of it like letting your ingredients bathe leisurely in warm water, allowing their essence to infuse into the liquid, rather than getting involved in any vigorous activity like blending or whisking.",
+        "trans_Question": "dʊ́rɪŋ ðə prɛ̀pəréjʃən əv ɜ́rbəl tíj, wɪ́tʃ tɜ́rm dəskrájbz ðə prɒ́sɛs əv sówkɪŋ ðə líjvz ɪn wɔ́tər tə ɛ́kstrəkt ðɛər fléjvərz?",
+        "trans_RightAnswer": "stíjp",
+        "trans_WrongAnswers": [
+            "blɛ́nd",
+            "ɡrájnd",
+            "wɪ́sk",
+            "brúw",
+            "fɜ́rmɛnt"
+        ],
+        "trans_Explanation": "ɪn kʊ́kɪŋ, 'stíjp' rəfɜ́rz tə sówkɪŋ ɪnɡríjdijənts, lájk tíj líjvz ɔr ɜ́rbz, ɪn ə lɪ́kwɪd sʌtʃ æz wɔ́tər, júwʒəlij hɒ́t, tə ɛ́kstrəkt ðə fléjvərz ənd ʌ́ðər dəzájərd prɒ́pərtijz. θɪ́ŋk əv ɪt lájk lɛ́tɪŋ jɔr ɪnɡríjdijənts béjð líjzərlij ɪn wɔ́rm wɔ́tər, əláwɪŋ ðɛər ɛ́səns tə ɪnfjúwz ɪntə ðə lɪ́kwɪd, rǽðər ðʌn ɡɛ́tɪŋ ɪnvɒ́lvd ɪn ɛ́nij vɪ́ɡərəs æktɪ́vɪtij lájk blɛ́ndɪŋ ɔr hwɪ́skɪŋ."
+    },
+    {
+        "Question": "During the chilly autumn evening, Sarah decided to prepare her own pumpkin spice drink by combining hot water with spices. What term is used to describe the process of making hot drinks like tea or coffee using steeping?",
+        "RightAnswer": "brew",
+        "WrongAnswers": [
+            "ferment",
+            "blend",
+            "infuse",
+            "distill",
+            "simmer"
+        ],
+        "Explanation": "To 'brew' is to prepare a drink by allowing it to steep in hot water. In the kitchen, this term is most commonly associated with making tea or coffee, where ingredients like tea leaves or coffee grounds are exposed to hot water to extract flavors. The process can involve steeping, boiling, or fermentation, but the key aspect is the combination of ingredients with hot liquid to achieve a flavorful beverage.",
+        "trans_Question": "dʊ́rɪŋ ðə tʃɪ́lij ɔ́təm íjvnɪŋ, sɛ́ərə dəsájdɪd tə prəpɛ́ər hər ówn pʌ́mkɪn spájs drɪ́ŋk baj kəmbájnɪŋ hɒ́t wɔ́tər wɪð spájsɪz. wɒt tɜ́rm ɪz júwzd tə dəskrájb ðə prɒ́sɛs əv méjkɪŋ hɒ́t drɪ́ŋks lájk tíj ɔr kɒ́fij júwzɪŋ stíjpɪŋ?",
+        "trans_RightAnswer": "brúw",
+        "trans_WrongAnswers": [
+            "fɜ́rmɛnt",
+            "blɛ́nd",
+            "ɪnfjúwz",
+            "dɪstɪ́l",
+            "sɪ́mər"
+        ],
+        "trans_Explanation": "tə 'brúw' ɪz tə prəpɛ́ər ə drɪ́ŋk baj əláwɪŋ ɪt tə stíjp ɪn hɒ́t wɔ́tər. ɪn ðə kɪ́tʃən, ðɪs tɜ́rm ɪz mówst kɒ́mənlij əsówsijèjtɪd wɪð méjkɪŋ tíj ɔr kɒ́fij, wɛ́ər ɪnɡríjdijənts lájk tíj líjvz ɔr kɒ́fij ɡráwndz ɑr əkspówzd tə hɒ́t wɔ́tər tə ɛ́kstrəkt fléjvərz. ðə prɒ́sɛs kən ɪnvɒ́lv stíjpɪŋ, bɔ́jlɪŋ, ɔr fɜ̀rməntéjʃən, bʌt ðə kíj ǽspɛkt ɪz ðə kɒ̀mbɪnéjʃən əv ɪnɡríjdijənts wɪð hɒ́t lɪ́kwɪd tə ətʃíjv ə fléjvərfəl bɛ́vərɪdʒ."
+    },
+    {
+        "Question": "After boiling the pasta, which kitchen technique would remove the water while preserving the food?",
+        "RightAnswer": "strain",
+        "WrongAnswers": [
+            "blend",
+            "chop",
+            "marinate",
+            "season",
+            "grill"
+        ],
+        "Explanation": "The word 'strain' in a kitchen context refers to the process of removing liquid from food, often using a strainer or colander. For example, when you cook pasta, you 'strain' it to let the boiling water drain away, leaving just the pasta ready for your sauce or other ingredients. It's a simple yet essential step in cooking that prevents your dish from becoming too watery.",
+        "trans_Question": "ǽftər bɔ́jlɪŋ ðə pɒ́stə, wɪ́tʃ kɪ́tʃən tɛkníjk wʊd rijmúwv ðə wɔ́tər wájl prəzɜ́rvɪŋ ðə fúwd?",
+        "trans_RightAnswer": "stréjn",
+        "trans_WrongAnswers": [
+            "blɛ́nd",
+            "tʃɒ́p",
+            "mɛ́ərənèjt",
+            "síjzən",
+            "ɡrɪ́l"
+        ],
+        "trans_Explanation": "ðə wɜ́rd 'stréjn' ɪn ə kɪ́tʃən kɒ́ntɛkst rəfɜ́rz tə ðə prɒ́sɛs əv rijmúwvɪŋ lɪ́kwɪd frəm fúwd, ɔ́fən júwzɪŋ ə stréjnər ɔr kɒ́ləndər. fɔr əɡzǽmpəl, wɛ́n juw kʊ́k pɒ́stə, juw 'stréjn' ɪt tə lɛt ðə bɔ́jlɪŋ wɔ́tər dréjn əwéj, líjvɪŋ dʒəst ðə pɒ́stə rɛ́dij fɔr jɔr sɔ́s ɔr ʌ́ðər ɪnɡríjdijənts. ɪt's ə sɪ́mpəl jɛt əsɛ́nʃəl stɛ́p ɪn kʊ́kɪŋ ðət prəvɛ́nts jɔr dɪ́ʃ frəm bəkʌ́mɪŋ túw wɔ́tərij."
+    },
+    {
+        "Question": "During the soup-making competition, the chef reached for a specific tool to serve the broth without spilling, characterized by its long handle and deep bowl. What is this essential kitchen utensil?",
+        "RightAnswer": "ladle",
+        "WrongAnswers": [
+            "spatula",
+            "whisk",
+            "tongs",
+            "colander",
+            "peeler"
+        ],
+        "Explanation": "A ladle is a kitchen tool that resembles a large, deep spoon, designed for serving soups, stews, or other liquid dishes. Its long handle allows you to reach into deep pots and serve portions without making a mess, making it indispensable when handling large quantities of liquid.",
+        "trans_Question": "dʊ́rɪŋ ðə súwp-méjkɪŋ kɒ̀mpətɪ́ʃən, ðə ʃɛ́f ríjtʃt fɔr ə spəsɪ́fɪk túwl tə sɜ́rv ðə brɔ́θ wɪðáwt spɪ́lɪŋ, kǽrəktərajzd baj ɪts lɔ́ŋ hǽndəl ənd díjp bówl. wɒt ɪz ðɪs əsɛ́nʃəl kɪ́tʃən juwtɛ́nsəl?",
+        "trans_RightAnswer": "léjdəl",
+        "trans_WrongAnswers": [
+            "spǽtʃʊ̀lə",
+            "wɪ́sk",
+            "tɒ́ŋz",
+            "kɒ́ləndər",
+            "píjlər"
+        ],
+        "trans_Explanation": "ə léjdəl ɪz ə kɪ́tʃən túwl ðət rijzɛ́mbəlz ə lɑ́rdʒ, díjp spúwn, dəzájnd fɔr sɜ́rvɪŋ súwps, stúwz, ɔr ʌ́ðər lɪ́kwɪd dɪ́ʃɪz. ɪts lɔ́ŋ hǽndəl əláwz juw tə ríjtʃ ɪntə díjp pɒ́ts ənd sɜ́rv pɔ́rʃənz wɪðáwt méjkɪŋ ə mɛ́s, méjkɪŋ ɪt ɪ̀ndɪspɛ́nsəbəl wɛ́n hǽndəlɪŋ lɑ́rdʒ kwɑ́ntᵻtijz əv lɪ́kwɪd."
+    }
+]

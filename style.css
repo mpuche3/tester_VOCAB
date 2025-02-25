@@ -32,7 +32,8 @@ html {
 
 body {
     height: 100vh;
-    font-family: Consolas, Arial, sans-serif;
+    font-family: calibri, Consolas, Arial, sans-serif;
+    font-size: larger;
 }
 
 svg {

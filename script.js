@@ -97,9 +97,11 @@ const STATE = {
 
     get_text_to_read(){
         if (document.querySelector("#explanation_text").innerHTML.trim() === ""){
-            return document.querySelector("#question_text").innerHTML.trim()
+            // return document.querySelector("#question_text").innerHTML.trim()
+            return this._questions[this._index]["Question"]
         } else {
-            return document.querySelector("#explanation_text").innerHTML.trim()
+            // return document.querySelector("#explanation_text").innerHTML.trim()
+            return this._questions[this._index]["Explanation"]
         }
         
     },
@@ -146,7 +148,7 @@ const STATE = {
             document.querySelector("#click-explainer").style.height = 0
             document.querySelector("#click-explainer").style.minHeight = "20px";
         }
-        const explantion = this._questions[this._index]["Explanation"]
+        const explantion = this._questions[this._index]["trans_Explanation"]
         document.querySelector("#explanation_text").innerHTML = explantion
         play()
     },
@@ -243,11 +245,15 @@ const STATE = {
 
     refresh_text() {
         SCORE.renderScore()
-        document.querySelector("#question_text").innerHTML =  this._questions[this._index]["Question"]
-        document.querySelector("#opt01_text").innerHTML = this._questions[this._index]["RightAnswer"]
-        document.querySelector("#opt02_text").innerHTML = this._questions[this._index]["WrongAnswers"][0]
-        document.querySelector("#opt03_text").innerHTML = this._questions[this._index]["WrongAnswers"][1]
-        document.querySelector("#opt04_text").innerHTML = this._questions[this._index]["WrongAnswers"][2]
+        document.querySelector("#question_text").innerHTML =  this._questions[this._index]["trans_Question"]
+        document.querySelector("#opt01_text").innerHTML = this._questions[this._index]["trans_RightAnswer"]
+        try {
+            document.querySelector("#opt02_text").innerHTML = this._questions[this._index]["trans_WrongAnswers"][0]
+            document.querySelector("#opt03_text").innerHTML = this._questions[this._index]["trans_WrongAnswers"][1]
+            document.querySelector("#opt04_text").innerHTML = this._questions[this._index]["trans_WrongAnswers"][2]
+        } catch {
+            console.log("# Error")
+        }
         // if (this._isPhonetic){
         //     document.querySelector("#text").innerHTML = this.sentence.ipa.replace(":", "<br><br>")
         // } else {

@@ -1,0 +1,9 @@
+Help improve my English vocabulary. Advanced level (almost native-like). 
+
+Create a multiple-choice question for the word "{{word}}" in JSON format. The object should contain:  
+- "Question": (string) Engaging question that provides context for the word.
+- "RightAnswer": (string) The correct answer: "{{word}}".
+- "WrongAnswers": (array of strings) Five plausible but clearly incorrect alternatives. 
+- "Explanation": (string) A detailed, easy-to-understand definition of the word that is more engaging than overly technical. 
+
+Focus on making the language clear and engaging rather than strictly academic or formal.
