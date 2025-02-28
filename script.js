@@ -614,7 +614,7 @@ setTimeout(_ => {
     }
     read_data()
     STATE.refresh()
-}, 100)
+}, 1000)
 
 ///////////////////////////////////////////////
 //                                           //
@@ -637,7 +637,6 @@ function downloadJSON(data, filename = 'data.json') {
     document.body.removeChild(a);
 }
 
-//
 function showScreen(id) {
     pause_play()
     const home = document.getElementById("home");
@@ -661,7 +660,25 @@ function showScreen(id) {
     }
 }
 
-document.querySelector("#enter-btn").onclick = _ => showScreen("app")
-document.querySelector("#help-btn").onclick = _ => showScreen("help")
-document.querySelector("#help-logo").onclick = _ => showScreen("home")
-document.querySelector("#logo").onclick = _ => showScreen("home")
+function loadApp(x) {
+    pause_play()
+    const home = document.getElementById("home");
+    const help = document.getElementById("help");
+    const app = document.getElementById("app");
+    home.style.display = "none";
+    help.style.display = "none";
+    app.style.display = "flex";
+    STATE._category = x
+    read_data()
+    play()
+}
+
+document.querySelector("#enter-btn-clothes").onclick = _ => loadApp("clothes")
+document.querySelector("#enter-btn-house").onclick = _ => loadApp("house")
+document.querySelector("#enter-btn-padel").onclick = _ => loadApp("padel")
+document.querySelector("#help-btn").onclick = _ => showScreen("help");
+document.querySelector("#help-logo").onclick = _ => showScreen("home");
+document.querySelector("#logo").onclick = _ => showScreen("home");
+document.querySelector("#enter-btn").onclick = _ => showScreen("app");
+
+console.log("#02")

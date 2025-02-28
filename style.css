@@ -201,7 +201,29 @@ p {
 
 #enter-btn {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
+    row-gap: 50px;
+    align-items: center;
+    background-color: #396775;
+    color: #ffffff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 20px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 4rem;
+    font-size: 1.4rem;
+    visibility: visible;
+    width: 200px;
+}
+
+.enter-btn {
+    display: flex;
+    flex-direction: column;
     row-gap: 50px;
     align-items: center;
     background-color: #396775;
