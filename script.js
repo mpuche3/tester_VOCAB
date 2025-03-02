@@ -673,12 +673,18 @@ function loadApp(x) {
     play()
 }
 
-document.querySelector("#enter-btn-clothes").onclick = _ => loadApp("clothes")
-document.querySelector("#enter-btn-house").onclick = _ => loadApp("house")
-document.querySelector("#enter-btn-padel").onclick = _ => loadApp("padel")
-document.querySelector("#help-btn").onclick = _ => showScreen("help");
-document.querySelector("#help-logo").onclick = _ => showScreen("home");
-document.querySelector("#logo").onclick = _ => showScreen("home");
-document.querySelector("#enter-btn").onclick = _ => showScreen("app");
+document.querySelector("#logo").onclick = _ => {
+    const home = document.getElementById("home");
+    const app = document.getElementById("app");
+    home.style.display = "flex";
+    app.style.display = "none";
+}
+
+const xs = ["house", "padel", "clothes"]
+for (const x of xs){
+    if (document.querySelector(`#enter-btn-${x}`) !== null) {
+        document.querySelector(`#enter-btn-${x}`).onclick = _ => loadApp(x)
+    }
+}
 
 console.log("#02")
