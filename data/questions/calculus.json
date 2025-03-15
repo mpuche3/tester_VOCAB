@@ -4090,5 +4090,291 @@
             "dajmɛ́nʃənəl rəkɜ́rʒən"
         ],
         "trans_Explanation": "sɛ́lf-sɪ̀mɪlɛ́ərɪtij rəfɜ́rz tə ðə rəmɑ́rkəbəl prɒ́pərtij wɛ́ər ə mæ̀θəmǽtɪkəl ɒ́bdʒəkt kəntéjnz kɒ́pijz əv ɪtsɛ́lf æt smɔ́lər skéjlz. ɪn kǽlkjələs, pərtɪ́kjələrlij ɪn ðə stʌ́dij əv frǽktəlz, sɛ́lf-sɪ̀mɪlɛ́ərɪtij míjnz ðət zúwmɪŋ ɪn ɒn ə pɑ́rt əv ðə ɒ́bdʒəkt rəvíjlz ə strʌ́ktʃər ðət rijzɛ́mbəlz ðə hówl ɒ́bdʒəkt. ðə mǽndəlbrowt sɛ́t ənd kowtʃ snówflèjk ɑr klǽsɪk əɡzǽmpəlz wɛ́ər ðɪs prɒ́pərtij kən bij əbzɜ́rvd. ðɪs kɒ́nsɛpt kənɛ́kts tə ɪmpɔ́rtənt kǽlkjələs prɪ́nsɪpəlz lájk lɪ́mɪts ənd ɪ́nfɪnɪt sɪ́ərijz, æz sɛ́lf-sɪ́mɪlər ɒ́bdʒɛkts ɔ́fən ɪnvɒ́lv ɪ́nfɪnɪt prɒ́sɛsɪz ðət kənvɜ́rdʒ tə krijéjt kɒ́mplɛks strʌ́ktʃərz. sɛ́lf-sɪ̀mɪlɛ́ərɪtij hɛ́lps əkspléjn háw sɪ́mpəl rəkɜ́rsɪv rúwlz kən dʒɛ́nərèjt ɪnkrɛ́dɪblij kɒ́mplɛks pǽtərnz θrúw rɛ̀pətɪ́ʃən əkrɔ́s dɪ́fərənt skéjlz. ðɪs prɒ́pərtij ɪz fʌ̀ndəmɛ́ntəl tə ʌ̀ndərstǽndɪŋ frǽktəl dajmɛ́nʃən, wɪ́tʃ əkstɛ́ndz trədɪ́ʃənəl kǽlkjələs kɒ́nsɛpts əv dajmɛ̀nʃənǽlɪtij tə kǽptʃər ðə kəmplɛ́ksɪtij əv ðijz fǽsɪnèjtɪŋ mæ̀θəmǽtɪkəl ɒ́bdʒɛkts."
+    },
+    {
+        "Question": "When studying a dynamical system with position and momentum variables, what term describes the multidimensional space where each point represents a possible state of the system?",
+        "RightAnswer": "phase space",
+        "WrongAnswers": [
+            "vector field",
+            "state manifold",
+            "configuration domain",
+            "trajectory space",
+            "tangent bundle"
+        ],
+        "Explanation": "Phase space is a powerful conceptual framework in calculus and dynamical systems theory that allows us to visualize the complete state of a system at any moment. Rather than tracking variables separately over time, phase space creates a multidimensional landscape where each point represents a unique state of the system, incorporating all relevant variables like position and momentum simultaneously. As a system evolves according to its governing equations, it traces a path through this space called a trajectory. Phase space reveals patterns like attractors, periodic orbits, and chaotic regions that might be invisible when looking at individual variables alone. This approach transforms complicated time-dependent behavior into geometric structures, making it easier to understand the long-term behavior of complex systems in physics, engineering, and even economics.",
+        "trans_Question": "wɛ́n stʌ́dijɪŋ ə dajnǽmɪkəl sɪ́stəm wɪð pəzɪ́ʃən ənd mowmɛ́ntəm vɛ́ərijəbəlz, wɒt tɜ́rm dəskrájbz ðə mʌ́ltijdajménʃənəl spéjs wɛ́ər ijtʃ pɔ́jnt rɛ̀prəzɛ́nts ə pɒ́sɪbəl stéjt əv ðə sɪ́stəm?",
+        "trans_RightAnswer": "féjz spéjs",
+        "trans_WrongAnswers": [
+            "vɛ́ktər fíjld",
+            "stéjt mǽnɪfowld",
+            "kənfɪ̀ɡjəréjʃən dowméjn",
+            "trədʒɛ́ktərij spéjs",
+            "tǽndʒənt bʌ́ndəl"
+        ],
+        "trans_Explanation": "féjz spéjs ɪz ə páwərfəl kənsɛ́ptʃuwəl fréjmwɜ̀rk ɪn kǽlkjələs ənd dajnǽmɪkəl sɪ́stəmz θíjərij ðət əláwz ʌs tə vɪ́ʒwəlàjz ðə kəmplíjt stéjt əv ə sɪ́stəm æt ɛ́nij mówmənt. rǽðər ðʌn trǽkɪŋ vɛ́ərijəbəlz sɛ́pərətlij ówvər tájm, féjz spéjs krijéjts ə mʌ́ltijdajménʃənəl lǽnskèjp wɛ́ər ijtʃ pɔ́jnt rɛ̀prəzɛ́nts ə juwnɪ́k stéjt əv ðə sɪ́stəm, ɪnkɔ́rpərejtɪŋ ɔl rɛ́ləvənt vɛ́ərijəbəlz lájk pəzɪ́ʃən ənd mowmɛ́ntəm sàjməltéjnijəslij. æz ə sɪ́stəm əvɒ́lvz əkɔ́rdɪŋ tə ɪts ɡʌ́vərnɪŋ əkwéjʒənz, ɪt tréjsɪz ə pǽθ θrúw ðɪs spéjs kɔ́ld ə trədʒɛ́ktərij. féjz spéjs rəvíjlz pǽtərnz lájk ətrǽkərz, pɪ̀ərijɒ́dɪk ɔ́rbɪts, ənd kejɒ́tɪk ríjdʒənz ðət majt bij ɪnvɪ́zɪbəl wɛ́n lʊ́kɪŋ æt ɪndɪvɪ́dʒəwəl vɛ́ərijəbəlz əlówn. ðɪs əprówtʃ trænsfɔ́rmz kɒ́mplɪkèjtɪd tájm-dəpɛ́ndənt bəhéjvjər ɪntə dʒìjəmɛ́trɪk strʌ́ktʃərz, méjkɪŋ ɪt íjzijər tə ʌ̀ndərstǽnd ðə lɔ́ŋ-tɜ́rm bəhéjvjər əv kɒ́mplɛks sɪ́stəmz ɪn fɪ́zɪks, ɛ̀ndʒɪnɪ́ərɪŋ, ənd íjvən ɛ̀kənɒ́mɪks."
+    },
+    {
+        "Question": "In calculus, when studying rotational dynamics, what is the name of the geometric representation that maps the distribution of mass in a rotating body and visually represents the body's resistance to changes in its rotational motion?",
+        "RightAnswer": "inertia ellipsoid",
+        "WrongAnswers": [
+            "moment tensor",
+            "rotational manifold",
+            "angular momentum surface",
+            "principal axes distribution",
+            "mass distribution quadric"
+        ],
+        "Explanation": "The inertia ellipsoid is a key concept in the calculus of rotational dynamics that provides a geometric visualization of how mass is distributed within a rigid body. When a three-dimensional object rotates, its resistance to changes in rotational motion varies depending on the axis of rotation. The inertia ellipsoid captures this variation by creating an ellipsoidal surface where the distance from the center to any point on the surface is inversely proportional to the square root of the moment of inertia about the corresponding axis. This elegant mathematical construct helps us understand why objects tumble in certain ways when thrown. For instance, the rotation of asymmetric objects like a book tossed in the air can be predicted by analyzing the properties of its inertia ellipsoid. The concept connects multivariable calculus, linear algebra, and physics, making it an important tool for studying everything from the rotation of celestial bodies to the design of gyroscopes and spacecraft attitude control systems.",
+        "trans_Question": "ɪn kǽlkjələs, wɛ́n stʌ́dijɪŋ rowtéjʃənəl dajnǽmɪks, wɒt ɪz ðə néjm əv ðə dʒìjəmɛ́trɪk rɛ̀prəzɛntéjʃən ðət mǽps ðə dɪ̀strəbjúwʃən əv mǽs ɪn ə rówtèjtɪŋ bɒ́dij ənd vɪ́ʒwəlij rɛ̀prəzɛ́nts ðə bɒ́dij'z rəzɪ́stəns tə tʃéjndʒɪz ɪn ɪts rowtéjʃənəl mówʃən?",
+        "trans_RightAnswer": "ɪ̀nɜ́rʃə əlɪ́psɔjd",
+        "trans_WrongAnswers": [
+            "mówmənt tɛ́nsər",
+            "rowtéjʃənəl mǽnɪfowld",
+            "ǽŋɡjələr mowmɛ́ntəm sɜ́rfəs",
+            "prɪ́nsɪpəl ǽksìjz dɪ̀strəbjúwʃən",
+            "mǽs dɪ̀strəbjúwʃən kwɒ́drɪk"
+        ],
+        "trans_Explanation": "ðə ɪ̀nɜ́rʃə əlɪ́psɔjd ɪz ə kíj kɒ́nsɛpt ɪn ðə kǽlkjələs əv rowtéjʃənəl dajnǽmɪks ðət prəvájdz ə dʒìjəmɛ́trɪk vɪ̀ʒwəlɪzéjʃən əv háw mǽs ɪz dɪstrɪ́bjətɪd wɪðɪ́n ə rɪ́dʒɪd bɒ́dij. wɛ́n ə θríj-dajmɛ́nʃənəl ɒ́bdʒəkt rówtèjts, ɪts rəzɪ́stəns tə tʃéjndʒɪz ɪn rowtéjʃənəl mówʃən vɛ́ərijz dəpɛ́ndɪŋ ɒn ðə ǽksɪs əv rowtéjʃən. ðə ɪ̀nɜ́rʃə əlɪ́psɔjd kǽptʃərz ðɪs vɛ̀ərijéjʃən baj krijéjtɪŋ ən ɛlɪpsɔ́jdəl sɜ́rfəs wɛ́ər ðə dɪ́stəns frəm ðə sɛ́ntər tə ɛ́nij pɔ́jnt ɒn ðə sɜ́rfəs ɪz ɪnvɜ́rslij prəpɔ́rʃənəl tə ðə skwɛ́ər rúwt əv ðə mówmənt əv ɪ̀nɜ́rʃə əbawt ðə kɔ̀rəspɒ́ndɪŋ ǽksɪs. ðɪs ɛ́ləɡənt mæ̀θəmǽtɪkəl kɒ́nstrəkt hɛ́lps ʌs ʌ̀ndərstǽnd wáj ɒ́bdʒɛkts tʌ́mbəl ɪn sɜ́rtən wéjz wɛ́n θrówn. fɔr ɪ́nstəns, ðə rowtéjʃən əv èjsɪmɛ́trɪk ɒ́bdʒɛkts lájk ə bʊ́k tɔ́st ɪn ðə ɛ́ər kən bij prədɪ́ktɪd baj ǽnəlàjzɪŋ ðə prɒ́pərtijz əv ɪts ɪ̀nɜ́rʃə əlɪ́psɔjd. ðə kɒ́nsɛpt kənɛ́kts mʌ̀ltijvɛ́ərijəbəl kǽlkjələs, lɪ́nijər ǽldʒəbrə, ənd fɪ́zɪks, méjkɪŋ ɪt ən ɪmpɔ́rtənt túwl fɔr stʌ́dijɪŋ ɛ́vrijθɪ̀ŋ frəm ðə rowtéjʃən əv səlɛ́stʃəl bɒ́dijz tə ðə dəzájn əv dʒájərəskòwps ənd spéjskræ̀ft ǽtɪtùwd kəntrówl sɪ́stəmz."
+    },
+    {
+        "Question": "When analyzing the rotational motion of a three-dimensional rigid body, which concept represents the three values that characterize the minimum and maximum resistance to rotation around axes passing through the center of mass?",
+        "RightAnswer": "principal moments of inertia",
+        "WrongAnswers": [
+            "angular momentum vectors",
+            "rotational energy constants",
+            "inertial reference frames",
+            "mass distribution coefficients",
+            "angular velocity eigenvalues"
+        ],
+        "Explanation": "Principal moments of inertia are fundamental quantities in the study of rotating objects, representing the key values that characterize how mass is distributed in a rigid body. When a three-dimensional object rotates, its resistance to rotation depends on both its mass distribution and the axis of rotation. For any rigid body, there exist three special perpendicular axes, called principal axes, around which the object's resistance to rotation reaches either a maximum or minimum value. The corresponding resistance values along these axes are called the principal moments of inertia. What makes these values special is that when rotation occurs around a principal axis, the angular momentum and angular velocity vectors align, resulting in simpler rotational dynamics. In calculus terms, finding these values involves setting up and evaluating volume integrals that account for the distance of each mass element from the axis of rotation, and then solving what is essentially an eigenvalue problem. The concept is crucial in applications ranging from spacecraft design and control to understanding the physics of rotating celestial bodies.",
+        "trans_Question": "wɛ́n ǽnəlàjzɪŋ ðə rowtéjʃənəl mówʃən əv ə θríj-dajmɛ́nʃənəl rɪ́dʒɪd bɒ́dij, wɪ́tʃ kɒ́nsɛpt rɛ̀prəzɛ́nts ðə θríj vǽljuwz ðət kǽrəktərajz ðə mɪ́nɪməm ənd mǽksɪməm rəzɪ́stəns tə rowtéjʃən əráwnd ǽksìjz pǽsɪŋ θrúw ðə sɛ́ntər əv mǽs?",
+        "trans_RightAnswer": "prɪ́nsɪpəl mówmənts əv ɪ̀nɜ́rʃə",
+        "trans_WrongAnswers": [
+            "ǽŋɡjələr mowmɛ́ntəm vɛ́ktərz",
+            "rowtéjʃənəl ɛ́nərdʒij kɒ́nstənts",
+            "ɪ̀nɜ́rʃəl rɛ́fərəns fréjmz",
+            "mǽs dɪ̀strəbjúwʃən kòwəfɪ́ʃənts",
+            "ǽŋɡjələr vəlɒ́sɪtij ájɡənvæ̀ljuwz"
+        ],
+        "trans_Explanation": "prɪ́nsɪpəl mówmənts əv ɪ̀nɜ́rʃə ɑr fʌ̀ndəmɛ́ntəl kwɑ́ntᵻtijz ɪn ðə stʌ́dij əv rówtèjtɪŋ ɒ́bdʒɛkts, rɛ̀prəzɛ́ntɪŋ ðə kíj vǽljuwz ðət kǽrəktərajz háw mǽs ɪz dɪstrɪ́bjətɪd ɪn ə rɪ́dʒɪd bɒ́dij. wɛ́n ə θríj-dajmɛ́nʃənəl ɒ́bdʒəkt rówtèjts, ɪts rəzɪ́stəns tə rowtéjʃən dəpɛ́ndz ɒn bówθ ɪts mǽs dɪ̀strəbjúwʃən ənd ðə ǽksɪs əv rowtéjʃən. fɔr ɛ́nij rɪ́dʒɪd bɒ́dij, ðɛər əɡzɪ́st θríj spɛ́ʃəl pɜ̀rpəndɪ́kjələr ǽksìjz, kɔ́ld prɪ́nsɪpəl ǽksìjz, əráwnd wɪ́tʃ ðə ɒ́bdʒəkt's rəzɪ́stəns tə rowtéjʃən ríjtʃɪz ájðər ə mǽksɪməm ɔr mɪ́nɪməm vǽljuw. ðə kɔ̀rəspɒ́ndɪŋ rəzɪ́stəns vǽljuwz əlɔ́ŋ ðijz ǽksìjz ɑr kɔ́ld ðə prɪ́nsɪpəl mówmənts əv ɪ̀nɜ́rʃə. wɒt méjks ðijz vǽljuwz spɛ́ʃəl ɪz ðət wɛ́n rowtéjʃən əkɜ́rz əráwnd ə prɪ́nsɪpəl ǽksɪs, ðə ǽŋɡjələr mowmɛ́ntəm ənd ǽŋɡjələr vəlɒ́sɪtij vɛ́ktərz əlájn, rəzʌ́ltɪŋ ɪn sɪ́mplər rowtéjʃənəl dajnǽmɪks. ɪn kǽlkjələs tɜ́rmz, fájndɪŋ ðijz vǽljuwz ɪnvɒ́lvz sɛ́tɪŋ ʌp ənd əvǽljuwèjtɪŋ vɒ́ljuwm ɪ́ntəɡrəlz ðət əkáwnt fɔr ðə dɪ́stəns əv ijtʃ mǽs ɛ́ləmənt frəm ðə ǽksɪs əv rowtéjʃən, ənd ðɛn sɒ́lvɪŋ wɒt ɪz əsɛ́nʃəlij ən ájɡənvæ̀ljuw prɒ́bləm. ðə kɒ́nsɛpt ɪz krúwʃəl ɪn æ̀plɪkéjʃənz réjndʒɪŋ frəm spéjskræ̀ft dəzájn ənd kəntrówl tə ʌ̀ndərstǽndɪŋ ðə fɪ́zɪks əv rówtèjtɪŋ səlɛ́stʃəl bɒ́dijz."
+    },
+    {
+        "Question": "In mechanics and calculus, what term describes the integrals that measure how mass is distributed relative to different coordinate planes in a three-dimensional object?",
+        "RightAnswer": "products of inertia",
+        "WrongAnswers": [
+            "moment integrals",
+            "cross-distributional moments",
+            "planar mass coefficients",
+            "orthogonal density functions",
+            "rotational mass factors"
+        ],
+        "Explanation": "Products of inertia are mathematical quantities used in calculus and mechanics that describe how mass is distributed within an object relative to different coordinate planes. Unlike moments of inertia which measure mass distribution about a single axis, products of inertia involve two different axes and capture the asymmetry of mass distribution. When calculating the rotational dynamics of an object, these quantities tell us how rotation about one axis can induce rotation about a perpendicular axis. Mathematically, they are computed as volume integrals involving the density of the object and the product of distances from two coordinate planes. When products of inertia equal zero, it indicates that the mass distribution has certain symmetry properties, and the axes are called principal axes of inertia. Engineers and physicists use products of inertia when analyzing complex rotational motion in vehicles, aircraft, and mechanical systems.",
+        "trans_Question": "ɪn məkǽnɪks ənd kǽlkjələs, wɒt tɜ́rm dəskrájbz ðə ɪ́ntəɡrəlz ðət mɛ́ʒər háw mǽs ɪz dɪstrɪ́bjətɪd rɛ́lətɪv tə dɪ́fərənt kowɔ́rdɪnèjt pléjnz ɪn ə θríj-dajmɛ́nʃənəl ɒ́bdʒəkt?",
+        "trans_RightAnswer": "prɒ́dəkts əv ɪ̀nɜ́rʃə",
+        "trans_WrongAnswers": [
+            "mówmənt ɪ́ntəɡrəlz",
+            "krɔ́s-dɪstrɪbjúwʃənəl mówmənts",
+            "pléjnər mǽs kòwəfɪ́ʃənts",
+            "ɔrθɔ́ɡənəl dɛ́nsɪtij fʌ́ŋkʃənz",
+            "rowtéjʃənəl mǽs fǽktərz"
+        ],
+        "trans_Explanation": "prɒ́dəkts əv ɪ̀nɜ́rʃə ɑr mæ̀θəmǽtɪkəl kwɑ́ntᵻtijz júwzd ɪn kǽlkjələs ənd məkǽnɪks ðət dəskrájb háw mǽs ɪz dɪstrɪ́bjətɪd wɪðɪ́n ən ɒ́bdʒəkt rɛ́lətɪv tə dɪ́fərənt kowɔ́rdɪnèjt pléjnz. ʌ̀nlájk mówmənts əv ɪ̀nɜ́rʃə wɪ́tʃ mɛ́ʒər mǽs dɪ̀strəbjúwʃən əbawt ə sɪ́ŋɡəl ǽksɪs, prɒ́dəkts əv ɪ̀nɜ́rʃə ɪnvɒ́lv túw dɪ́fərənt ǽksìjz ənd kǽptʃər ðə èjsɪ́mətrij əv mǽs dɪ̀strəbjúwʃən. wɛ́n kǽlkjəlèjtɪŋ ðə rowtéjʃənəl dajnǽmɪks əv ən ɒ́bdʒəkt, ðijz kwɑ́ntᵻtijz tɛ́l ʌs háw rowtéjʃən əbawt wʌ́n ǽksɪs kən ɪndúws rowtéjʃən əbawt ə pɜ̀rpəndɪ́kjələr ǽksɪs. mæ̀θəmǽtɪkəlij, ðej ɑr kəmpjúwtɪd æz vɒ́ljuwm ɪ́ntəɡrəlz ɪnvɒ́lvɪŋ ðə dɛ́nsɪtij əv ðə ɒ́bdʒəkt ənd ðə prɒ́dəkt əv dɪ́stənsɪz frəm túw kowɔ́rdɪnèjt pléjnz. wɛ́n prɒ́dəkts əv ɪ̀nɜ́rʃə íjkwəl zíjərow, ɪt ɪ́ndɪkèjts ðət ðə mǽs dɪ̀strəbjúwʃən həz sɜ́rtən sɪ́mətrij prɒ́pərtijz, ənd ðə ǽksìjz ɑr kɔ́ld prɪ́nsɪpəl ǽksìjz əv ɪ̀nɜ́rʃə. ɛ̀ndʒɪnɪ́ərz ənd fɪ́zɪsɪsts juwz prɒ́dəkts əv ɪ̀nɜ́rʃə wɛ́n ǽnəlàjzɪŋ kɒ́mplɛks rowtéjʃənəl mówʃən ɪn víjhəkəlz, ɛ́ərkræ̀ft, ənd məkǽnɪkəl sɪ́stəmz."
+    },
+    {
+        "Question": "When analyzing how rigid objects resist rotational motion in three-dimensional space, which mathematical quantity represents the distribution of mass in relation to the rotational axes?",
+        "RightAnswer": "inertia tensor",
+        "WrongAnswers": [
+            "angular momentum vector",
+            "moment distribution function",
+            "mass distribution scalar",
+            "rotational resistance coefficient",
+            "principal axis matrix"
+        ],
+        "Explanation": "The inertia tensor is a mathematical representation that describes how mass is distributed within a rigid body, and consequently, how that body resists changes to its rotational motion in three-dimensional space. Unlike the simpler moment of inertia used for one-dimensional rotation, the inertia tensor accounts for rotation around multiple axes simultaneously. It is typically represented as a three-by-three matrix where each element quantifies how mass is distributed relative to different rotational axes. In calculus, we calculate the inertia tensor through volume integrals over the body, taking into account the density and position of each infinitesimal element. This concept is fundamental in classical mechanics, robotics, and computer graphics when modeling how objects rotate in response to applied torques. The inertia tensor also helps identify an object's principal axes of rotation, which are directions where the object can rotate without wobbling.",
+        "trans_Question": "wɛ́n ǽnəlàjzɪŋ háw rɪ́dʒɪd ɒ́bdʒɛkts rəzɪ́st rowtéjʃənəl mówʃən ɪn θríj-dajmɛ́nʃənəl spéjs, wɪ́tʃ mæ̀θəmǽtɪkəl kwɑ́ntᵻtij rɛ̀prəzɛ́nts ðə dɪ̀strəbjúwʃən əv mǽs ɪn rəléjʃən tə ðə rowtéjʃənəl ǽksìjz?",
+        "trans_RightAnswer": "ɪ̀nɜ́rʃə tɛ́nsər",
+        "trans_WrongAnswers": [
+            "ǽŋɡjələr mowmɛ́ntəm vɛ́ktər",
+            "mówmənt dɪ̀strəbjúwʃən fʌ́ŋkʃən",
+            "mǽs dɪ̀strəbjúwʃən skéjlər",
+            "rowtéjʃənəl rəzɪ́stəns kòwəfɪ́ʃənt",
+            "prɪ́nsɪpəl ǽksɪs méjtrɪks"
+        ],
+        "trans_Explanation": "ðə ɪ̀nɜ́rʃə tɛ́nsər ɪz ə mæ̀θəmǽtɪkəl rɛ̀prəzɛntéjʃən ðət dəskrájbz háw mǽs ɪz dɪstrɪ́bjətɪd wɪðɪ́n ə rɪ́dʒɪd bɒ́dij, ənd kɒ́nsəkwɛ̀ntlij, háw ðət bɒ́dij rəzɪ́sts tʃéjndʒɪz tə ɪts rowtéjʃənəl mówʃən ɪn θríj-dajmɛ́nʃənəl spéjs. ʌ̀nlájk ðə sɪ́mplər mówmənt əv ɪ̀nɜ́rʃə júwzd fɔr wʌ́n-dajmɛ́nʃənəl rowtéjʃən, ðə ɪ̀nɜ́rʃə tɛ́nsər əkáwnts fɔr rowtéjʃən əráwnd mʌ́ltɪpəl ǽksìjz sàjməltéjnijəslij. ɪt ɪz tɪ́pɪkəlij rɛ̀prəzɛ́ntɪd æz ə θríj-baj-θríj méjtrɪks wɛ́ər ijtʃ ɛ́ləmənt kwɑ́ntᵻfajz háw mǽs ɪz dɪstrɪ́bjətɪd rɛ́lətɪv tə dɪ́fərənt rowtéjʃənəl ǽksìjz. ɪn kǽlkjələs, wij kǽlkjəlèjt ðə ɪ̀nɜ́rʃə tɛ́nsər θrúw vɒ́ljuwm ɪ́ntəɡrəlz ówvər ðə bɒ́dij, téjkɪŋ ɪntə əkáwnt ðə dɛ́nsɪtij ənd pəzɪ́ʃən əv ijtʃ ɪnfɪnɪtɛ́sɪməl ɛ́ləmənt. ðɪs kɒ́nsɛpt ɪz fʌ̀ndəmɛ́ntəl ɪn klǽsɪkəl məkǽnɪks, ròwbɒ́tɪks, ənd kəmpjúwtər ɡrǽfɪks wɛ́n mɒ́dəlɪ̀ŋ háw ɒ́bdʒɛkts rówtèjt ɪn rəspɒ́ns tə əplájd tɔrks. ðə ɪ̀nɜ́rʃə tɛ́nsər ɔ́lsow hɛ́lps ajdɛ́ntɪfàj ən ɒ́bdʒəkt's prɪ́nsɪpəl ǽksìjz əv rowtéjʃən, wɪ́tʃ ɑr dɪərɛ́kʃənz wɛ́ər ðə ɒ́bdʒəkt kən rówtèjt wɪðáwt wɒ́bəlɪŋ."
+    },
+    {
+        "Question": "In calculus, which term refers to the line passing through the center of mass of a region, often used as a reference axis when calculating moments and physical properties of geometric shapes?",
+        "RightAnswer": "Centroidal axis",
+        "WrongAnswers": [
+            "Principal axis",
+            "Conjugate axis",
+            "Moment axis",
+            "Reference meridian",
+            "Equilibrium line"
+        ],
+        "Explanation": "The centroidal axis is a fundamental concept in calculus, particularly within the domains of integral calculus and mechanics. It refers to a line that passes through the centroid (center of mass) of a geometric shape or region. This axis serves as an important reference when calculating moments of inertia, rotational properties, and other physical characteristics of objects. When working with complex shapes, the centroidal axis simplifies calculations because moments taken about this axis have special properties. For instance, the first moment of area about the centroidal axis equals zero. Engineers and physicists frequently use the centroidal axis when analyzing structural elements, fluid dynamics, and mechanical systems, as it provides a natural reference point from which to measure forces and moments. Understanding the centroidal axis is crucial for applications ranging from beam deflection problems to the design of rotating machinery.",
+        "trans_Question": "ɪn kǽlkjələs, wɪ́tʃ tɜ́rm rəfɜ́rz tə ðə lájn pǽsɪŋ θrúw ðə sɛ́ntər əv mǽs əv ə ríjdʒən, ɔ́fən júwzd æz ə rɛ́fərəns ǽksɪs wɛ́n kǽlkjəlèjtɪŋ mówmənts ənd fɪ́zɪkəl prɒ́pərtijz əv dʒìjəmɛ́trɪk ʃéjps?",
+        "trans_RightAnswer": "sɛntrɔ́jdəl ǽksɪs",
+        "trans_WrongAnswers": [
+            "prɪ́nsɪpəl ǽksɪs",
+            "kɒ́ndʒəɡèjt ǽksɪs",
+            "mówmənt ǽksɪs",
+            "rɛ́fərəns mərɪ́dijən",
+            "ìjkwɪlɪ́brijəm lájn"
+        ],
+        "trans_Explanation": "ðə sɛntrɔ́jdəl ǽksɪs ɪz ə fʌ̀ndəmɛ́ntəl kɒ́nsɛpt ɪn kǽlkjələs, pərtɪ́kjələrlij wɪðɪ́n ðə dowméjnz əv ɪ́ntəɡrəl kǽlkjələs ənd məkǽnɪks. ɪt rəfɜ́rz tə ə lájn ðət pǽsɪz θrúw ðə sɛ́ntrɔjd (sɛ́ntər əv mǽs) əv ə dʒìjəmɛ́trɪk ʃéjp ɔr ríjdʒən. ðɪs ǽksɪs sɜ́rvz æz ən ɪmpɔ́rtənt rɛ́fərəns wɛ́n kǽlkjəlèjtɪŋ mówmənts əv ɪ̀nɜ́rʃə, rowtéjʃənəl prɒ́pərtijz, ənd ʌ́ðər fɪ́zɪkəl kæ̀rəktərɪ́stɪks əv ɒ́bdʒɛkts. wɛ́n wɜ́rkɪŋ wɪð kɒ́mplɛks ʃéjps, ðə sɛntrɔ́jdəl ǽksɪs sɪ́mpləfajz kæ̀lkjəléjʃənz bəkɒ́z mówmənts téjkən əbawt ðɪs ǽksɪs həv spɛ́ʃəl prɒ́pərtijz. fɔr ɪ́nstəns, ðə fɜ́rst mówmənt əv ɛ́ərijə əbawt ðə sɛntrɔ́jdəl ǽksɪs íjkwəlz zíjərow. ɛ̀ndʒɪnɪ́ərz ənd fɪ́zɪsɪsts fríjkwəntlij juwz ðə sɛntrɔ́jdəl ǽksɪs wɛ́n ǽnəlàjzɪŋ strʌ́ktʃərəl ɛ́ləmənts, flúwɪd dajnǽmɪks, ənd məkǽnɪkəl sɪ́stəmz, æz ɪt prəvájdz ə nǽtʃərəl rɛ́fərəns pɔ́jnt frəm wɪ́tʃ tə mɛ́ʒər fɔ́rsɪz ənd mówmənts. ʌ̀ndərstǽndɪŋ ðə sɛntrɔ́jdəl ǽksɪs ɪz krúwʃəl fɔr æ̀plɪkéjʃənz réjndʒɪŋ frəm bíjm dəflɛ́kʃən prɒ́bləmz tə ðə dəzájn əv rówtèjtɪŋ məʃíjnərij."
+    },
+    {
+        "Question": "When analyzing the rotational dynamics of three-dimensional objects, what term refers to the set of values that characterize the object's resistance to rotational acceleration around three mutually perpendicular axes?",
+        "RightAnswer": "Principal moments of inertia",
+        "WrongAnswers": [
+            "Rotational eigenvectors",
+            "Angular momentum tensors",
+            "Critical rotation coefficients",
+            "Orthogonal inertial descriptors",
+            "Fundamental torque parameters"
+        ],
+        "Explanation": "Principal moments of inertia are special values that describe how difficult it is to rotate an object around specific axes called principal axes. When studying three-dimensional objects in calculus and mechanics, we can represent an object's resistance to rotation using an inertia tensor, which is a mathematical description containing nine values. However, we can simplify this by finding three special directions (principal axes) where rotation behaves in the simplest way. The corresponding resistance values along these axes are called principal moments of inertia. These values are particularly useful because they represent the minimum and maximum resistance to rotation the object can experience. Calculating principal moments of inertia typically involves setting up and evaluating multiple volume integrals that consider both the object's shape and mass distribution, and then solving what mathematicians call an eigenvalue problem. They are fundamental in applications ranging from structural engineering to spacecraft attitude control.",
+        "trans_Question": "wɛ́n ǽnəlàjzɪŋ ðə rowtéjʃənəl dajnǽmɪks əv θríj-dajmɛ́nʃənəl ɒ́bdʒɛkts, wɒt tɜ́rm rəfɜ́rz tə ðə sɛ́t əv vǽljuwz ðət kǽrəktərajz ðə ɒ́bdʒəkt's rəzɪ́stəns tə rowtéjʃənəl æ̀ksɛ̀ləréjʃən əráwnd θríj mjúwtʃuwəlij pɜ̀rpəndɪ́kjələr ǽksìjz?",
+        "trans_RightAnswer": "prɪ́nsɪpəl mówmənts əv ɪ̀nɜ́rʃə",
+        "trans_WrongAnswers": [
+            "rowtéjʃənəl ajɡənvɛ̀ktərz",
+            "ǽŋɡjələr mowmɛ́ntəm tɛ́nsərz",
+            "krɪ́tɪkəl rowtéjʃən kòwəfɪ́ʃənts",
+            "ɔrθɔ́ɡənəl ɪ̀nɜ́rʃəl dəskrɪ́ptɜ̀rz",
+            "fʌ̀ndəmɛ́ntəl tɔ́rk pərǽmətərz"
+        ],
+        "trans_Explanation": "prɪ́nsɪpəl mówmənts əv ɪ̀nɜ́rʃə ɑr spɛ́ʃəl vǽljuwz ðət dəskrájb háw dɪ́fɪkəlt ɪt ɪz tə rówtèjt ən ɒ́bdʒəkt əráwnd spəsɪ́fɪk ǽksìjz kɔ́ld prɪ́nsɪpəl ǽksìjz. wɛ́n stʌ́dijɪŋ θríj-dajmɛ́nʃənəl ɒ́bdʒɛkts ɪn kǽlkjələs ənd məkǽnɪks, wij kən rɛ̀prəzɛ́nt ən ɒ́bdʒəkt's rəzɪ́stəns tə rowtéjʃən júwzɪŋ ən ɪ̀nɜ́rʃə tɛ́nsər, wɪ́tʃ ɪz ə mæ̀θəmǽtɪkəl dəskrɪ́pʃən kəntéjnɪŋ nájn vǽljuwz. hàwɛ́vər, wij kən sɪ́mpləfaj ðɪs baj fájndɪŋ θríj spɛ́ʃəl dɪərɛ́kʃənz (prɪ́nsɪpəl ǽksìjz) wɛ́ər rowtéjʃən bəhéjvz ɪn ðə sɪ́mpləst wej. ðə kɔ̀rəspɒ́ndɪŋ rəzɪ́stəns vǽljuwz əlɔ́ŋ ðijz ǽksìjz ɑr kɔ́ld prɪ́nsɪpəl mówmənts əv ɪ̀nɜ́rʃə. ðijz vǽljuwz ɑr pərtɪ́kjələrlij júwsfəl bəkɒ́z ðej rɛ̀prəzɛ́nt ðə mɪ́nɪməm ənd mǽksɪməm rəzɪ́stəns tə rowtéjʃən ðə ɒ́bdʒəkt kən əkspɪ́ərijəns. kǽlkjəlèjtɪŋ prɪ́nsɪpəl mówmənts əv ɪ̀nɜ́rʃə tɪ́pɪkəlij ɪnvɒ́lvz sɛ́tɪŋ ʌp ənd əvǽljuwèjtɪŋ mʌ́ltɪpəl vɒ́ljuwm ɪ́ntəɡrəlz ðət kənsɪ́dər bówθ ðə ɒ́bdʒəkt's ʃéjp ənd mǽs dɪ̀strəbjúwʃən, ənd ðɛn sɒ́lvɪŋ wɒt mæ̀θmətɪ́ʃənz kɔ́l ən ájɡənvæ̀ljuw prɒ́bləm. ðej ɑr fʌ̀ndəmɛ́ntəl ɪn æ̀plɪkéjʃənz réjndʒɪŋ frəm strʌ́ktʃərəl ɛ̀ndʒɪnɪ́ərɪŋ tə spéjskræ̀ft ǽtɪtùwd kəntrówl."
+    },
+    {
+        "Question": "In rigid body dynamics, what term describes the three mutually perpendicular axes around which the moment of inertia is minimized or maximized?",
+        "RightAnswer": "Inertia principal axes",
+        "WrongAnswers": [
+            "Momentum reference planes",
+            "Rotational critical vectors",
+            "Mass distribution coordinates",
+            "Angular stability directions",
+            "Centroidal moment lines"
+        ],
+        "Explanation": "Inertia principal axes are a fundamental concept in the study of rotational dynamics and calculus of rigid bodies. They represent three mutually perpendicular axes passing through the center of mass of an object, around which the moment of inertia takes on maximum or minimum values. These special axes simplify calculations because when a body rotates around one of its principal axes, the angular momentum and angular velocity vectors are parallel, meaning the rotation is stable without wobbling. Finding these axes involves solving an eigenvalue problem for the inertia tensor matrix, where the eigenvalues represent the principal moments of inertia and the eigenvectors give the directions of the principal axes. These concepts are crucial in applications ranging from engineering design to understanding the rotation of celestial bodies, as they help predict how objects will behave when rotating in three-dimensional space.",
+        "trans_Question": "ɪn rɪ́dʒɪd bɒ́dij dajnǽmɪks, wɒt tɜ́rm dəskrájbz ðə θríj mjúwtʃuwəlij pɜ̀rpəndɪ́kjələr ǽksìjz əráwnd wɪ́tʃ ðə mówmənt əv ɪ̀nɜ́rʃə ɪz mɪ́nɪmàjzd ɔr mǽksɪmàjzd?",
+        "trans_RightAnswer": "ɪ̀nɜ́rʃə prɪ́nsɪpəl ǽksìjz",
+        "trans_WrongAnswers": [
+            "mowmɛ́ntəm rɛ́fərəns pléjnz",
+            "rowtéjʃənəl krɪ́tɪkəl vɛ́ktərz",
+            "mǽs dɪ̀strəbjúwʃən kowɔ́rdɪnèjts",
+            "ǽŋɡjələr stəbɪ́lɪtij dɪərɛ́kʃənz",
+            "sɛntrɔ́jdəl mówmənt lájnz"
+        ],
+        "trans_Explanation": "ɪ̀nɜ́rʃə prɪ́nsɪpəl ǽksìjz ɑr ə fʌ̀ndəmɛ́ntəl kɒ́nsɛpt ɪn ðə stʌ́dij əv rowtéjʃənəl dajnǽmɪks ənd kǽlkjələs əv rɪ́dʒɪd bɒ́dijz. ðej rɛ̀prəzɛ́nt θríj mjúwtʃuwəlij pɜ̀rpəndɪ́kjələr ǽksìjz pǽsɪŋ θrúw ðə sɛ́ntər əv mǽs əv ən ɒ́bdʒəkt, əráwnd wɪ́tʃ ðə mówmənt əv ɪ̀nɜ́rʃə téjks ɒn mǽksɪməm ɔr mɪ́nɪməm vǽljuwz. ðijz spɛ́ʃəl ǽksìjz sɪ́mpləfaj kæ̀lkjəléjʃənz bəkɒ́z wɛ́n ə bɒ́dij rówtèjts əráwnd wʌ́n əv ɪts prɪ́nsɪpəl ǽksìjz, ðə ǽŋɡjələr mowmɛ́ntəm ənd ǽŋɡjələr vəlɒ́sɪtij vɛ́ktərz ɑr pǽrəlɛ̀l, míjnɪŋ ðə rowtéjʃən ɪz stéjbəl wɪðáwt wɒ́bəlɪŋ. fájndɪŋ ðijz ǽksìjz ɪnvɒ́lvz sɒ́lvɪŋ ən ájɡənvæ̀ljuw prɒ́bləm fɔr ðə ɪ̀nɜ́rʃə tɛ́nsər méjtrɪks, wɛ́ər ðə ájɡənvæ̀ljuwz rɛ̀prəzɛ́nt ðə prɪ́nsɪpəl mówmənts əv ɪ̀nɜ́rʃə ənd ðə ajɡənvɛ̀ktərz ɡɪ́v ðə dɪərɛ́kʃənz əv ðə prɪ́nsɪpəl ǽksìjz. ðijz kɒ́nsɛpts ɑr krúwʃəl ɪn æ̀plɪkéjʃənz réjndʒɪŋ frəm ɛ̀ndʒɪnɪ́ərɪŋ dəzájn tə ʌ̀ndərstǽndɪŋ ðə rowtéjʃən əv səlɛ́stʃəl bɒ́dijz, æz ðej hɛ́lp prədɪ́kt háw ɒ́bdʒɛkts wɪl bəhéjv wɛ́n rówtèjtɪŋ ɪn θríj-dajmɛ́nʃənəl spéjs."
+    },
+    {
+        "Question": "In rigid body mechanics, when solving for an object's rotational dynamics, which mathematical process allows us to find the principal axes where the angular momentum and angular velocity become parallel?",
+        "RightAnswer": "Diagonalization of the inertia tensor",
+        "WrongAnswers": [
+            "Jacobian transformation of moment vectors",
+            "Orthogonal decomposition of angular momentum",
+            "Principal component analysis of rotation matrices",
+            "Eigendecomposition of the stress tensor",
+            "Singular value decomposition of torque vectors"
+        ],
+        "Explanation": "Diagonalization of the inertia tensor is a critical mathematical process in calculus and mechanics where we transform the inertia tensor into a diagonal matrix. This is accomplished by finding a special coordinate system aligned with the principal axes of the object. When expressed in this coordinate system, the off-diagonal elements of the inertia tensor become zero, leaving only the principal moments of inertia along the diagonal. This simplification is powerful because it means that in this reference frame, the angular momentum vector becomes parallel to the angular velocity vector, greatly simplifying the equations of rotational motion. The process involves finding the eigenvalues and eigenvectors of the original inertia tensor, where the eigenvalues represent the principal moments of inertia, and the eigenvectors define the orientation of the principal axes. This technique is essential in applications ranging from spacecraft attitude control to the analysis of rotating machinery and molecular dynamics.",
+        "trans_Question": "ɪn rɪ́dʒɪd bɒ́dij məkǽnɪks, wɛ́n sɒ́lvɪŋ fɔr ən ɒ́bdʒəkt's rowtéjʃənəl dajnǽmɪks, wɪ́tʃ mæ̀θəmǽtɪkəl prɒ́sɛs əláwz ʌs tə fájnd ðə prɪ́nsɪpəl ǽksìjz wɛ́ər ðə ǽŋɡjələr mowmɛ́ntəm ənd ǽŋɡjələr vəlɒ́sɪtij bəkʌ́m pǽrəlɛ̀l?",
+        "trans_RightAnswer": "dajǽɡənəlajzéjʃən əv ðə ɪ̀nɜ́rʃə tɛ́nsər",
+        "trans_WrongAnswers": [
+            "dʒəkówbijən træ̀nsfərméjʃən əv mówmənt vɛ́ktərz",
+            "ɔrθɔ́ɡənəl dìjkəmpəzɪ́ʃən əv ǽŋɡjələr mowmɛ́ntəm",
+            "prɪ́nsɪpəl kəmpównənt ənǽlɪsɪs əv rowtéjʃən méjtrɪsɪz",
+            "àjɡəndìjkəmpɒ́zɪʃən əv ðə strɛ́s tɛ́nsər",
+            "sɪ́ŋɡjələr vǽljuw dìjkəmpəzɪ́ʃən əv tɔ́rk vɛ́ktərz"
+        ],
+        "trans_Explanation": "dajǽɡənəlajzéjʃən əv ðə ɪ̀nɜ́rʃə tɛ́nsər ɪz ə krɪ́tɪkəl mæ̀θəmǽtɪkəl prɒ́sɛs ɪn kǽlkjələs ənd məkǽnɪks wɛ́ər wij trǽnsfɔrm ðə ɪ̀nɜ́rʃə tɛ́nsər ɪntə ə dajǽɡənəl méjtrɪks. ðɪs ɪz əkɒ́mplɪʃt baj fájndɪŋ ə spɛ́ʃəl kowɔ́rdɪnèjt sɪ́stəm əlájnd wɪð ðə prɪ́nsɪpəl ǽksìjz əv ðə ɒ́bdʒəkt. wɛ́n əksprɛ́st ɪn ðɪs kowɔ́rdɪnèjt sɪ́stəm, ðə ɔ́f-dajǽɡənəl ɛ́ləmənts əv ðə ɪ̀nɜ́rʃə tɛ́nsər bəkʌ́m zíjərow, líjvɪŋ ównlij ðə prɪ́nsɪpəl mówmənts əv ɪ̀nɜ́rʃə əlɔ́ŋ ðə dajǽɡənəl. ðɪs sɪ̀mpləfɪkéjʃən ɪz páwərfəl bəkɒ́z ɪt míjnz ðət ɪn ðɪs rɛ́fərəns fréjm, ðə ǽŋɡjələr mowmɛ́ntəm vɛ́ktər bəkʌ́mz pǽrəlɛ̀l tə ðə ǽŋɡjələr vəlɒ́sɪtij vɛ́ktər, ɡréjtlij sɪ́mpləfajɪŋ ðə əkwéjʒənz əv rowtéjʃənəl mówʃən. ðə prɒ́sɛs ɪnvɒ́lvz fájndɪŋ ðə ájɡənvæ̀ljuwz ənd ajɡənvɛ̀ktərz əv ðə ərɪ́dʒɪnəl ɪ̀nɜ́rʃə tɛ́nsər, wɛ́ər ðə ájɡənvæ̀ljuwz rɛ̀prəzɛ́nt ðə prɪ́nsɪpəl mówmənts əv ɪ̀nɜ́rʃə, ənd ðə ajɡənvɛ̀ktərz dəfájn ðə ɔ̀rijɛntéjʃən əv ðə prɪ́nsɪpəl ǽksìjz. ðɪs tɛkníjk ɪz əsɛ́nʃəl ɪn æ̀plɪkéjʃənz réjndʒɪŋ frəm spéjskræ̀ft ǽtɪtùwd kəntrówl tə ðə ənǽlɪsɪs əv rówtèjtɪŋ məʃíjnərij ənd məlɛ́kjələr dajnǽmɪks."
+    },
+    {
+        "Question": "In calculus, which term describes the specific axis that passes through the center of mass of a solid and around which the first moment is zero?",
+        "RightAnswer": "Centroidal Axis",
+        "WrongAnswers": [
+            "Principal Moment Axis",
+            "Symmetric Integration Line",
+            "Neutral Mass Axis",
+            "Differential Equilibrium Axis",
+            "Moment Nullification Axis"
+        ],
+        "Explanation": "The Centroidal Axis is a fundamental concept in calculus and mechanics that refers to an axis passing through the centroid or center of mass of an object. What makes this axis special is that when we calculate moments about it, the first moment of the object equals zero. This property makes the Centroidal Axis particularly useful when working with rotational problems, moments of inertia, and when applying the Parallel Axis Theorem. In practical terms, if you were to balance an object on this axis, it would remain in equilibrium. The concept connects calculus with physical applications because finding the centroid often involves integration to account for the distribution of mass or area throughout the object.",
+        "trans_Question": "ɪn kǽlkjələs, wɪ́tʃ tɜ́rm dəskrájbz ðə spəsɪ́fɪk ǽksɪs ðət pǽsɪz θrúw ðə sɛ́ntər əv mǽs əv ə sɒ́lɪd ənd əráwnd wɪ́tʃ ðə fɜ́rst mówmənt ɪz zíjərow?",
+        "trans_RightAnswer": "sɛntrɔ́jdəl ǽksɪs",
+        "trans_WrongAnswers": [
+            "prɪ́nsɪpəl mówmənt ǽksɪs",
+            "sɪmɛ́trɪk ɪntəɡrejʃən lájn",
+            "núwtrəl mǽs ǽksɪs",
+            "dɪ̀fərɛ́nʃəl ìjkwɪlɪ́brijəm ǽksɪs",
+            "mówmənt nʌ̀lɪfɪkéjʃən ǽksɪs"
+        ],
+        "trans_Explanation": "ðə sɛntrɔ́jdəl ǽksɪs ɪz ə fʌ̀ndəmɛ́ntəl kɒ́nsɛpt ɪn kǽlkjələs ənd məkǽnɪks ðət rəfɜ́rz tə ən ǽksɪs pǽsɪŋ θrúw ðə sɛ́ntrɔjd ɔr sɛ́ntər əv mǽs əv ən ɒ́bdʒəkt. wɒt méjks ðɪs ǽksɪs spɛ́ʃəl ɪz ðət wɛ́n wij kǽlkjəlèjt mówmənts əbawt ɪt, ðə fɜ́rst mówmənt əv ðə ɒ́bdʒəkt íjkwəlz zíjərow. ðɪs prɒ́pərtij méjks ðə sɛntrɔ́jdəl ǽksɪs pərtɪ́kjələrlij júwsfəl wɛ́n wɜ́rkɪŋ wɪð rowtéjʃənəl prɒ́bləmz, mówmənts əv ɪ̀nɜ́rʃə, ənd wɛ́n əplájɪŋ ðə pǽrəlɛ̀l ǽksɪs θɪ́ərəm. ɪn prǽktɪkəl tɜ́rmz, ɪf juw wɜ́r tə bǽləns ən ɒ́bdʒəkt ɒn ðɪs ǽksɪs, ɪt wʊd rəméjn ɪn ìjkwɪlɪ́brijəm. ðə kɒ́nsɛpt kənɛ́kts kǽlkjələs wɪð fɪ́zɪkəl æ̀plɪkéjʃənz bəkɒ́z fájndɪŋ ðə sɛ́ntrɔjd ɔ́fən ɪnvɒ́lvz ɪntəɡrejʃən tə əkáwnt fɔr ðə dɪ̀strəbjúwʃən əv mǽs ɔr ɛ́ərijə θruwáwt ðə ɒ́bdʒəkt."
+    },
+    {
+        "Question": "In multivariable calculus, when analyzing a saddle point of a function, what term describes the direction along which the function decreases most rapidly from the critical point?",
+        "RightAnswer": "Axis of least resistance",
+        "WrongAnswers": [
+            "Principal component vector",
+            "Gradient descent path",
+            "Critical direction",
+            "Minimal energy trajectory",
+            "Steepest descent line"
+        ],
+        "Explanation": "The 'Axis of least resistance' in calculus refers to the direction or path along which a function decreases most rapidly from a saddle point. At a saddle point, a multivariable function has slopes that increase in some directions and decrease in others. The axis of least resistance specifically identifies the direction where the function's value drops most steeply, representing the path requiring minimal effort to move away from the critical point. This concept is particularly useful in optimization problems and dynamical systems, where understanding how a system naturally evolves away from unstable equilibria helps predict behavior. It's analogous to how water would flow from a mountain pass, taking the path requiring the least energy. In mathematical terms, this direction corresponds to the eigenvector associated with the most negative eigenvalue of the Hessian matrix at the critical point.",
+        "trans_Question": "ɪn mʌ̀ltijvɛ́ərijəbəl kǽlkjələs, wɛ́n ǽnəlàjzɪŋ ə sǽdəl pɔ́jnt əv ə fʌ́ŋkʃən, wɒt tɜ́rm dəskrájbz ðə dɪərɛ́kʃən əlɔ́ŋ wɪ́tʃ ðə fʌ́ŋkʃən díjkrìjsɪz mówst rǽpɪdlij frəm ðə krɪ́tɪkəl pɔ́jnt?",
+        "trans_RightAnswer": "ǽksɪs əv líjst rəzɪ́stəns",
+        "trans_WrongAnswers": [
+            "prɪ́nsɪpəl kəmpównənt vɛ́ktər",
+            "ɡréjdijənt dəsɛ́nt pǽθ",
+            "krɪ́tɪkəl dɪərɛ́kʃən",
+            "mɪ́nɪməl ɛ́nərdʒij trədʒɛ́ktərij",
+            "stíjpəst dəsɛ́nt lájn"
+        ],
+        "trans_Explanation": "ðə 'ǽksɪs əv líjst rəzɪ́stəns' ɪn kǽlkjələs rəfɜ́rz tə ðə dɪərɛ́kʃən ɔr pǽθ əlɔ́ŋ wɪ́tʃ ə fʌ́ŋkʃən díjkrìjsɪz mówst rǽpɪdlij frəm ə sǽdəl pɔ́jnt. æt ə sǽdəl pɔ́jnt, ə mʌ̀ltijvɛ́ərijəbəl fʌ́ŋkʃən həz slówps ðət ɪnkríjs ɪn sʌm dɪərɛ́kʃənz ənd dɪkríjs ɪn ʌ́ðərz. ðə ǽksɪs əv líjst rəzɪ́stəns spəsɪ́fɪklij ajdɛ́ntɪfàjz ðə dɪərɛ́kʃən wɛ́ər ðə fʌ́ŋkʃən'z vǽljuw drɒ́ps mówst stíjplij, rɛ̀prəzɛ́ntɪŋ ðə pǽθ rijkwájərɪŋ mɪ́nɪməl ɛ́fərt tə múwv əwéj frəm ðə krɪ́tɪkəl pɔ́jnt. ðɪs kɒ́nsɛpt ɪz pərtɪ́kjələrlij júwsfəl ɪn ɒptɪmɪzéjʃən prɒ́bləmz ənd dajnǽmɪkəl sɪ́stəmz, wɛ́ər ʌ̀ndərstǽndɪŋ háw ə sɪ́stəm nǽtʃərəlij əvɒ́lvz əwéj frəm ʌ̀nstéjbəl ìjkwɪlɪ́brijə hɛ́lps prədɪ́kt bəhéjvjər. ɪt's ənǽləɡəs tə háw wɔ́tər wʊd flów frəm ə máwntən pǽs, téjkɪŋ ðə pǽθ rijkwájərɪŋ ðə líjst ɛ́nərdʒij. ɪn mæ̀θəmǽtɪkəl tɜ́rmz, ðɪs dɪərɛ́kʃən kɔ̀rəspɒ́ndz tə ðə ájɡənvɛ̀ktər əsówsijèjtɪd wɪð ðə mówst nɛ́ɡətɪv ájɡənvæ̀ljuw əv ðə hɛ́ʃən méjtrɪks æt ðə krɪ́tɪkəl pɔ́jnt."
+    },
+    {
+        "Question": "When analyzing the rotational properties of a three-dimensional rigid body, which mathematical construct represents the spatial distribution of mass relative to different rotational axes?",
+        "RightAnswer": "Moment of inertia matrix",
+        "WrongAnswers": [
+            "Angular momentum tensor",
+            "Mass distribution function",
+            "Rotational inertia scalar",
+            "Spatial density operator",
+            "Centrifugal potential field"
+        ],
+        "Explanation": "The moment of inertia matrix is a mathematical representation that captures how mass is distributed throughout a rigid body in three-dimensional space. Unlike a simple scalar moment of inertia which applies to rotation around a single axis, this matrix generalizes the concept to account for rotation around any arbitrary axis. It consists of nine components organized in a three-by-three array, where diagonal elements represent the moments of inertia about the principal axes, while off-diagonal elements represent products of inertia that measure the asymmetry of mass distribution. The matrix is essential in calculus-based physics because it allows us to relate applied torques to angular acceleration in any direction, making it possible to fully describe the rotational dynamics of complex objects like gyroscopes, satellites, or irregularly shaped bodies. When working with this matrix in calculus, we often need to evaluate volume integrals that sum up the contributions of each infinitesimal mass element to the overall rotational inertia of the body.",
+        "trans_Question": "wɛ́n ǽnəlàjzɪŋ ðə rowtéjʃənəl prɒ́pərtijz əv ə θríj-dajmɛ́nʃənəl rɪ́dʒɪd bɒ́dij, wɪ́tʃ mæ̀θəmǽtɪkəl kɒ́nstrəkt rɛ̀prəzɛ́nts ðə spéjʃəl dɪ̀strəbjúwʃən əv mǽs rɛ́lətɪv tə dɪ́fərənt rowtéjʃənəl ǽksìjz?",
+        "trans_RightAnswer": "mówmənt əv ɪ̀nɜ́rʃə méjtrɪks",
+        "trans_WrongAnswers": [
+            "ǽŋɡjələr mowmɛ́ntəm tɛ́nsər",
+            "mǽs dɪ̀strəbjúwʃən fʌ́ŋkʃən",
+            "rowtéjʃənəl ɪ̀nɜ́rʃə skéjlər",
+            "spéjʃəl dɛ́nsɪtij ɒ́pərèjtər",
+            "sɛ́ntrɪfjùwɡəl pətɛ́nʃəl fíjld"
+        ],
+        "trans_Explanation": "ðə mówmənt əv ɪ̀nɜ́rʃə méjtrɪks ɪz ə mæ̀θəmǽtɪkəl rɛ̀prəzɛntéjʃən ðət kǽptʃərz háw mǽs ɪz dɪstrɪ́bjətɪd θruwáwt ə rɪ́dʒɪd bɒ́dij ɪn θríj-dajmɛ́nʃənəl spéjs. ʌ̀nlájk ə sɪ́mpəl skéjlər mówmənt əv ɪ̀nɜ́rʃə wɪ́tʃ əplájz tə rowtéjʃən əráwnd ə sɪ́ŋɡəl ǽksɪs, ðɪs méjtrɪks dʒɛ́nərəlajz ðə kɒ́nsɛpt tə əkáwnt fɔr rowtéjʃən əráwnd ɛ́nij ɑ́rbɪtrɛ̀ərij ǽksɪs. ɪt kənsɪ́sts əv nájn kəmpównənts ɔ́rɡənàjzd ɪn ə θríj-baj-θríj əréj, wɛ́ər dajǽɡənəl ɛ́ləmənts rɛ̀prəzɛ́nt ðə mówmənts əv ɪ̀nɜ́rʃə əbawt ðə prɪ́nsɪpəl ǽksìjz, wájl ɔ́f-dajǽɡənəl ɛ́ləmənts rɛ̀prəzɛ́nt prɒ́dəkts əv ɪ̀nɜ́rʃə ðət mɛ́ʒər ðə èjsɪ́mətrij əv mǽs dɪ̀strəbjúwʃən. ðə méjtrɪks ɪz əsɛ́nʃəl ɪn kǽlkjələs-béjst fɪ́zɪks bəkɒ́z ɪt əláwz ʌs tə rəléjt əplájd tɔrks tə ǽŋɡjələr æ̀ksɛ̀ləréjʃən ɪn ɛ́nij dɪərɛ́kʃən, méjkɪŋ ɪt pɒ́sɪbəl tə fʊ́lij dəskrájb ðə rowtéjʃənəl dajnǽmɪks əv kɒ́mplɛks ɒ́bdʒɛkts lájk dʒájərəskòwps, sǽtəlàjts, ɔr ɪ̀ərɛ́ɡjələrlij ʃéjpt bɒ́dijz. wɛ́n wɜ́rkɪŋ wɪð ðɪs méjtrɪks ɪn kǽlkjələs, wij ɔ́fən níjd tə əvǽljuwèjt vɒ́ljuwm ɪ́ntəɡrəlz ðət sʌ́m ʌp ðə kɒ̀ntrəbjúwʃənz əv ijtʃ ɪnfɪnɪtɛ́sɪməl mǽs ɛ́ləmənt tə ðə ówvərɔ̀l rowtéjʃənəl ɪ̀nɜ́rʃə əv ðə bɒ́dij."
+    },
+    {
+        "Question": "In the study of the mechanics of rigid bodies, which geometric concept is used to describe the principal directions around which the rotational inertia of an object is distributed?",
+        "RightAnswer": "Major and minor axes of inertia",
+        "WrongAnswers": [
+            "Orthogonal centroids of mass",
+            "Principal lines of symmetry",
+            "Critical points of rotation",
+            "Optimal balance vectors",
+            "Fundamental rotation planes"
+        ],
+        "Explanation": "The major and minor axes of inertia are fundamental concepts in calculus and mechanics that describe the principal directions around which an object's resistance to rotational motion is distributed. When we analyze rigid bodies, these axes represent the directions around which the moment of inertia reaches its maximum and minimum values. The major axis of inertia corresponds to the direction where rotation requires the most effort due to mass distribution, while the minor axis represents the direction requiring the least effort. These axes are particularly important when calculating moments of inertia using calculus, as they simplify the integration process through a coordinate system aligned with these natural directions of the object. For objects with symmetry, these axes often align with the lines of symmetry, but for irregular shapes, finding them requires solving an eigenvalue problem derived from the inertia tensor. Understanding these axes helps engineers design structures, vehicles, and rotating machinery with optimal stability and performance characteristics.",
+        "trans_Question": "ɪn ðə stʌ́dij əv ðə məkǽnɪks əv rɪ́dʒɪd bɒ́dijz, wɪ́tʃ dʒìjəmɛ́trɪk kɒ́nsɛpt ɪz júwzd tə dəskrájb ðə prɪ́nsɪpəl dɪərɛ́kʃənz əráwnd wɪ́tʃ ðə rowtéjʃənəl ɪ̀nɜ́rʃə əv ən ɒ́bdʒəkt ɪz dɪstrɪ́bjətɪd?",
+        "trans_RightAnswer": "méjdʒər ənd májnər ǽksìjz əv ɪ̀nɜ́rʃə",
+        "trans_WrongAnswers": [
+            "ɔrθɔ́ɡənəl sɛ́ntrɔjdz əv mǽs",
+            "prɪ́nsɪpəl lájnz əv sɪ́mətrij",
+            "krɪ́tɪkəl pɔ́jnts əv rowtéjʃən",
+            "ɒ́ptɪməl bǽləns vɛ́ktərz",
+            "fʌ̀ndəmɛ́ntəl rowtéjʃən pléjnz"
+        ],
+        "trans_Explanation": "ðə méjdʒər ənd májnər ǽksìjz əv ɪ̀nɜ́rʃə ɑr fʌ̀ndəmɛ́ntəl kɒ́nsɛpts ɪn kǽlkjələs ənd məkǽnɪks ðət dəskrájb ðə prɪ́nsɪpəl dɪərɛ́kʃənz əráwnd wɪ́tʃ ən ɒ́bdʒəkt's rəzɪ́stəns tə rowtéjʃənəl mówʃən ɪz dɪstrɪ́bjətɪd. wɛ́n wij ǽnəlàjz rɪ́dʒɪd bɒ́dijz, ðijz ǽksìjz rɛ̀prəzɛ́nt ðə dɪərɛ́kʃənz əráwnd wɪ́tʃ ðə mówmənt əv ɪ̀nɜ́rʃə ríjtʃɪz ɪts mǽksɪməm ənd mɪ́nɪməm vǽljuwz. ðə méjdʒər ǽksɪs əv ɪ̀nɜ́rʃə kɔ̀rəspɒ́ndz tə ðə dɪərɛ́kʃən wɛ́ər rowtéjʃən rəkwájərz ðə mówst ɛ́fərt djúw tə mǽs dɪ̀strəbjúwʃən, wájl ðə májnər ǽksɪs rɛ̀prəzɛ́nts ðə dɪərɛ́kʃən rijkwájərɪŋ ðə líjst ɛ́fərt. ðijz ǽksìjz ɑr pərtɪ́kjələrlij ɪmpɔ́rtənt wɛ́n kǽlkjəlèjtɪŋ mówmənts əv ɪ̀nɜ́rʃə júwzɪŋ kǽlkjələs, æz ðej sɪ́mpləfaj ðə ɪntəɡrejʃən prɒ́sɛs θrúw ə kowɔ́rdɪnèjt sɪ́stəm əlájnd wɪð ðijz nǽtʃərəl dɪərɛ́kʃənz əv ðə ɒ́bdʒəkt. fɔr ɒ́bdʒɛkts wɪð sɪ́mətrij, ðijz ǽksìjz ɔ́fən əlájn wɪð ðə lájnz əv sɪ́mətrij, bʌt fɔr ɪ̀ərɛ́ɡjələr ʃéjps, fájndɪŋ ðɛm rəkwájərz sɒ́lvɪŋ ən ájɡənvæ̀ljuw prɒ́bləm dərájvd frəm ðə ɪ̀nɜ́rʃə tɛ́nsər. ʌ̀ndərstǽndɪŋ ðijz ǽksìjz hɛ́lps ɛ̀ndʒɪnɪ́ərz dəzájn strʌ́ktʃərz, víjhəkəlz, ənd rówtèjtɪŋ məʃíjnərij wɪð ɒ́ptɪməl stəbɪ́lɪtij ənd pərfɔ́rməns kæ̀rəktərɪ́stɪks."
     }
 ]
