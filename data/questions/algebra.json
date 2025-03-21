@@ -770,28 +770,6 @@
         "trans_Explanation": "ɪn lɪ́nijər ǽldʒəbrə, ə pɪ́vət ɪz ə kíj ɛ́ləmənt ɪn ə méjtrɪks dʊ́rɪŋ ðə prɒ́sɛs əv ɡáwsijən əlɪ̀mɪnéjʃən. spəsɪ́fɪklij, wɛ́n wɜ́rkɪŋ θrúw ə méjtrɪks row baj row tə kɒ́nvɜrt ɪt tə row ɛ́ʃəlɒ̀n fɔ́rm, ə pɪ́vət ɪz ðə fɜ́rst nɒn-zíjərow ɛ́ntrij ɪn ijtʃ row ǽftər ðə əlɪ̀mɪnéjʃən prɒ́sɛs. ðijz pɪ́vəts sɜ́rv æz ǽŋkərz fɔr ðə əlɪ̀mɪnéjʃən prɒ́sɛs, əláwɪŋ ʌs tə krijéjt zɪ́ərowz bijlów ðɛm ɪn ðɛər rəspɛ́ktɪv kɒ́ləmz. pɪ́vəts ɑr krúwʃəl bəkɒ́z ðej tɛ́l ʌs ɪmpɔ́rtənt ɪnfərméjʃən əbawt ðə méjtrɪks: ðə nʌ́mbər əv pɪ́vəts íjkwəlz ðə rǽŋk əv ðə méjtrɪks, ðɛər pəzɪ́ʃənz hɛ́lp ajdɛ́ntɪfàj fríj ənd béjsɪk vɛ́ərijəbəlz ɪn sɪ́stəmz əv əkwéjʒənz, ənd ðɛər prɛ́zəns ɔr ǽbsəns ɪn sɜ́rtən pəzɪ́ʃənz hɛ́lps dətɜ́rmɪn ɪf ðə méjtrɪks ɪz ɪnvɜ́rtɪbəl. əsɛ́nʃəlij, pɪ́vəts ǽkt æz ðə kɔ́rnərstòwnz əv ə méjtrɪks'z strʌ́ktʃər, rəvíjlɪŋ ɪts fʌ̀ndəmɛ́ntəl prɒ́pərtijz dʊ́rɪŋ ðə row rədʌ́kʃən prɒ́sɛs."
     },
     {
-        "Question": "In a matrix in row echelon form, what is the term for the position of the first nonzero entry in each nonzero row, which plays a crucial role in solving systems of linear equations?",
-        "RightAnswer": "Pivot Position",
-        "WrongAnswers": [
-            "Principal Diagonal Element",
-            "Leading Variable",
-            "Row Anchor",
-            "Reduced Position",
-            "Echelon Indicator"
-        ],
-        "Explanation": "A 'Pivot Position' in linear algebra refers to the position in a matrix where a pivot appears during Gaussian elimination or row reduction. Specifically, in a matrix that has been transformed into row echelon form, the pivot position is where the first nonzero entry appears in each nonzero row. These positions are fundamentally important because they correspond to the leading variables in the system of equations represented by the matrix. Pivot positions help determine which variables are free and which are dependent, guide the process of back-substitution when solving systems, and reveal critical information about the matrix's rank and the solution space of the associated linear system. When visualizing a matrix in row echelon form, pivot positions create a stair-step pattern descending from left to right, with each pivot serving as a cornerstone for understanding the structure of the linear transformation represented by the matrix.",
-        "trans_Question": "ɪn ə méjtrɪks ɪn row ɛ́ʃəlɒ̀n fɔ́rm, wɒt ɪz ðə tɜ́rm fɔr ðə pəzɪ́ʃən əv ðə fɜ́rst nɒnzɪ́ərow ɛ́ntrij ɪn ijtʃ nɒnzɪ́ərow row, wɪ́tʃ pléjz ə krúwʃəl rówl ɪn sɒ́lvɪŋ sɪ́stəmz əv lɪ́nijər əkwéjʒənz?",
-        "trans_RightAnswer": "pɪ́vət pəzɪ́ʃən",
-        "trans_WrongAnswers": [
-            "prɪ́nsɪpəl dajǽɡənəl ɛ́ləmənt",
-            "líjdɪŋ vɛ́ərijəbəl",
-            "row ǽŋkər",
-            "rədjúwst pəzɪ́ʃən",
-            "ɛ́ʃəlɒ̀n ɪ́ndɪkèjtər"
-        ],
-        "trans_Explanation": "ə 'pɪ́vət pəzɪ́ʃən' ɪn lɪ́nijər ǽldʒəbrə rəfɜ́rz tə ðə pəzɪ́ʃən ɪn ə méjtrɪks wɛ́ər ə pɪ́vət əpɪ́ərz dʊ́rɪŋ ɡáwsijən əlɪ̀mɪnéjʃən ɔr row rədʌ́kʃən. spəsɪ́fɪklij, ɪn ə méjtrɪks ðət həz bɪn trænsfɔ́rmd ɪntə row ɛ́ʃəlɒ̀n fɔ́rm, ðə pɪ́vət pəzɪ́ʃən ɪz wɛ́ər ðə fɜ́rst nɒnzɪ́ərow ɛ́ntrij əpɪ́ərz ɪn ijtʃ nɒnzɪ́ərow row. ðijz pəzɪ́ʃənz ɑr fʌ̀ndəmɛ́ntəlij ɪmpɔ́rtənt bəkɒ́z ðej kɔ̀rəspɒ́nd tə ðə líjdɪŋ vɛ́ərijəbəlz ɪn ðə sɪ́stəm əv əkwéjʒənz rɛ̀prəzɛ́ntɪd baj ðə méjtrɪks. pɪ́vət pəzɪ́ʃənz hɛ́lp dətɜ́rmɪn wɪ́tʃ vɛ́ərijəbəlz ɑr fríj ənd wɪ́tʃ ɑr dəpɛ́ndənt, ɡájd ðə prɒ́sɛs əv bǽk-sʌ̀bstɪtjúwʃən wɛ́n sɒ́lvɪŋ sɪ́stəmz, ənd rəvíjl krɪ́tɪkəl ɪnfərméjʃən əbawt ðə méjtrɪks'z rǽŋk ənd ðə səlúwʃən spéjs əv ðə əsówsijèjtɪd lɪ́nijər sɪ́stəm. wɛ́n vɪ́ʒwəlàjzɪŋ ə méjtrɪks ɪn row ɛ́ʃəlɒ̀n fɔ́rm, pɪ́vət pəzɪ́ʃənz krijéjt ə stɛ́ər-stɛ́p pǽtərn dəsɛ́ndɪŋ frəm lɛ́ft tə rájt, wɪð ijtʃ pɪ́vət sɜ́rvɪŋ æz ə kɔ́rnərstòwn fɔr ʌ̀ndərstǽndɪŋ ðə strʌ́ktʃər əv ðə lɪ́nijər træ̀nsfərméjʃən rɛ̀prəzɛ́ntɪd baj ðə méjtrɪks."
-    },
-    {
         "Question": "When solving a system of linear equations that has infinitely many solutions, what term describes a variable that can be assigned any value, with other variables then determined based on this choice?",
         "RightAnswer": "Free Variable",
         "WrongAnswers": [
@@ -1166,28 +1144,6 @@
         "trans_Explanation": "ə sɪmɛ́trɪk méjtrɪks ɪz ə skwɛ́ər méjtrɪks ðət rəméjnz ʌ̀ntʃéjndʒd wɛ́n rəflɛ́ktɪd əkrɔ́s ɪts méjn dajǽɡənəl. ɪn ʌ́ðər wɜ́rdz, ə méjtrɪks ɪz sɪmɛ́trɪk wɛ́n ɪt íjkwəlz ɪts ówn trænspówz. ðɪs míjnz fɔr ɛ́nij ɛ́ləmənt ɪn pəzɪ́ʃən row aj, kɒ́ləm j, ɪt həz ən ajdɛ́ntɪkəl kɔ̀rəspɒ́ndɪŋ ɛ́ləmənt ɪn pəzɪ́ʃən row j, kɒ́ləm aj. sɪmɛ́trɪk méjtrɪsɪz əpɪ́ər fríjkwəntlij ɪn vɛ́ərijəs æ̀plɪkéjʃənz ɪnklúwdɪŋ məkǽnɪks, kwɑ́ntəm fɪ́zɪks, stətɪ́stɪks, ənd ɒptɪmɪzéjʃən prɒ́bləmz. ðej həv spɛ́ʃəl prɒ́pərtijz ðət méjk ðɛm pərtɪ́kjələrlij júwsfəl: ðej ɔ́lwejz həv ríjəl ájɡənvæ̀ljuwz, ðɛər ajɡənvɛ̀ktərz kɔ̀rəspɒ́ndɪŋ tə dɪstɪ́ŋkt ájɡənvæ̀ljuwz ɑr ɔrθɔ́ɡənəl, ənd ðej kən bij dajǽɡənəlajzd baj ɔrθɔ́ɡənəl méjtrɪsɪz. ðə kòwvɛ́ərijəns méjtrɪks ɪn stətɪ́stɪks ənd ðə ədʒéjsənsij méjtrɪks əv ən ʌ̀ndɪərɛ́ktɪd ɡrǽf ɑr kɒ́mən əɡzǽmpəlz əv sɪmɛ́trɪk méjtrɪsɪz ɪn prǽktɪkəl æ̀plɪkéjʃənz."
     },
     {
-        "Question": "In a transformation matrix that rotates vectors while preserving their magnitude, which special type of matrix satisfies the property that its transpose equals its negative?",
-        "RightAnswer": "Skew-Symmetric Matrix",
-        "WrongAnswers": [
-            "Orthogonal Matrix",
-            "Hermitian Matrix",
-            "Idempotent Matrix",
-            "Nilpotent Matrix",
-            "Projection Matrix"
-        ],
-        "Explanation": "A Skew-Symmetric Matrix is a square matrix that has a very special property: when you take its transpose, you get the negative of the original matrix. In simpler terms, if we flip the matrix across its main diagonal and then multiply all entries by negative one, we get back the original matrix. This means all diagonal elements must be zero, and entries on opposite sides of the diagonal are negatives of each other. Skew-symmetric matrices are important in physics and engineering, particularly when representing rotations in three-dimensional space. They also relate closely to antisymmetric bilinear forms and have the intriguing property that their determinants are always non-negative. In odd dimensions, these matrices always have at least one eigenvalue equal to zero, which makes them useful for analyzing certain types of dynamical systems.",
-        "trans_Question": "ɪn ə træ̀nsfərméjʃən méjtrɪks ðət rówtèjts vɛ́ktərz wájl prəzɜ́rvɪŋ ðɛər mǽɡnɪtùwd, wɪ́tʃ spɛ́ʃəl tájp əv méjtrɪks sǽtɪsfàjz ðə prɒ́pərtij ðət ɪts trænspówz íjkwəlz ɪts nɛ́ɡətɪv?",
-        "trans_RightAnswer": "skjúw-sɪmɛ́trɪk méjtrɪks",
-        "trans_WrongAnswers": [
-            "ɔrθɔ́ɡənəl méjtrɪks",
-            "hɜrmɪ́ʃən méjtrɪks",
-            "ɪ̀dəmpówtənt méjtrɪks",
-            "nɪ́lpowtənt méjtrɪks",
-            "prədʒɛ́kʃən méjtrɪks"
-        ],
-        "trans_Explanation": "ə skjúw-sɪmɛ́trɪk méjtrɪks ɪz ə skwɛ́ər méjtrɪks ðət həz ə vɛ́ərij spɛ́ʃəl prɒ́pərtij: wɛ́n juw téjk ɪts trænspówz, juw ɡɛt ðə nɛ́ɡətɪv əv ðə ərɪ́dʒɪnəl méjtrɪks. ɪn sɪ́mplər tɜ́rmz, ɪf wij flɪ́p ðə méjtrɪks əkrɔ́s ɪts méjn dajǽɡənəl ənd ðɛn mʌ́ltɪplàj ɔl ɛ́ntrijz baj nɛ́ɡətɪv wʌ́n, wij ɡɛt bǽk ðə ərɪ́dʒɪnəl méjtrɪks. ðɪs míjnz ɔl dajǽɡənəl ɛ́ləmənts mʌst bij zíjərow, ənd ɛ́ntrijz ɒn ɒ́pəzɪt sájdz əv ðə dajǽɡənəl ɑr nɛ́ɡətɪvz əv ijtʃ ʌ́ðər. skjúw-sɪmɛ́trɪk méjtrɪsɪz ɑr ɪmpɔ́rtənt ɪn fɪ́zɪks ənd ɛ̀ndʒɪnɪ́ərɪŋ, pərtɪ́kjələrlij wɛ́n rɛ̀prəzɛ́ntɪŋ rowtéjʃənz ɪn θríj-dajmɛ́nʃənəl spéjs. ðej ɔ́lsow rəléjt klówslij tə æ̀ntijsɪ̀mɛ́trɪk bajlɪ́nijər fɔ́rmz ənd həv ðə ɪntríjɡɪŋ prɒ́pərtij ðət ðɛər dətɜ́rmɪnənts ɑr ɔ́lwejz nɒn-nɛ́ɡətɪv. ɪn ɒ́d dajmɛ́nʃənz, ðijz méjtrɪsɪz ɔ́lwejz həv æt líjst wʌ́n ájɡənvæ̀ljuw íjkwəl tə zíjərow, wɪ́tʃ méjks ðɛm júwsfəl fɔr ǽnəlàjzɪŋ sɜ́rtən tájps əv dajnǽmɪkəl sɪ́stəmz."
-    },
-    {
         "Question": "In linear algebra, which type of matrix preserves the lengths of vectors and angles between them when used for transformations?",
         "RightAnswer": "Orthogonal Matrix",
         "WrongAnswers": [
@@ -1208,50 +1164,6 @@
             "ɪ̀dəmpówtənt méjtrɪks"
         ],
         "trans_Explanation": "ən ɔrθɔ́ɡənəl méjtrɪks ɪz ə skwɛ́ər méjtrɪks húwz kɒ́ləmz ənd rówz fɔ́rm ɔ̀rθownɔ́rməl béjsɪz, míjnɪŋ ðej ɑr mjúwtʃuwəlij pɜ̀rpəndɪ́kjələr júwnɪt vɛ́ktərz. wɛ́n wij mʌ́ltɪplàj ə vɛ́ktər baj ən ɔrθɔ́ɡənəl méjtrɪks, ðə træ̀nsfərméjʃən prəzɜ́rvz bówθ ðə lɛ́ŋθ əv ðə vɛ́ktər ənd ðə ǽŋɡəlz bijtwíjn vɛ́ktərz. ðɪs prɒ́pərtij méjks ɔrθɔ́ɡənəl méjtrɪsɪz əspɛ́ʃəlij ɪmpɔ́rtənt ɪn kəmpjúwtər ɡrǽfɪks, fɪ́zɪks, ənd déjtə ənǽlɪsɪs wɛ́ər prəzɜ́rvɪŋ dʒìjəmɛ́trɪk rəléjʃənʃɪ̀ps ɪz krúwʃəl. ə kíj kæ̀rəktərɪ́stɪk əv ɔrθɔ́ɡənəl méjtrɪsɪz ɪz ðət ðɛər trænspówz íjkwəlz ðɛər ɪnvɜ́rs, wɪ́tʃ prəvájdz kɒ̀mpjuwtéjʃənəl əfɪ́ʃənsij wɛ́n wɜ́rkɪŋ wɪð træ̀nsfərméjʃənz. rowtéjʃənz ɪn túw ənd θríj dajmɛ́nʃənz ɑr kɒ́mən əɡzǽmpəlz əv ɔrθɔ́ɡənəl træ̀nsfərméjʃənz. ðijz méjtrɪsɪz rɛ̀prəzɛ́nt ðə mæ̀θəmǽtɪkəl fawndéjʃən fɔr mɛ́nij ɒ̀pəréjʃənz ðət níjd tə mejntéjn ðə əsɛ́nʃəl dʒìjəmɛ́trɪk prɒ́pərtijz əv ðə ərɪ́dʒɪnəl déjtə."
-    },
-    {
-        "Question": "In quantum computing, which type of matrix preserves the inner product between vectors and plays a crucial role in ensuring that quantum operations maintain the total probability of a system?",
-        "RightAnswer": "Unitary Matrix",
-        "WrongAnswers": [
-            "Hermitian Matrix",
-            "Orthogonal Matrix",
-            "Idempotent Matrix",
-            "Nilpotent Matrix",
-            "Toeplitz Matrix"
-        ],
-        "Explanation": "A Unitary Matrix is a square matrix whose inverse equals its conjugate transpose. This special property means that a unitary matrix preserves the length of vectors and the angles between them when applied as a transformation. In quantum mechanics, unitary matrices represent operations that maintain the total probability of a system, making them fundamental to quantum computing. Unlike other matrices, unitary transformations are reversible, which is why they're used to represent quantum gates. Think of a unitary matrix as a perfect rotation in a complex vector space that doesn't stretch or shrink the vectors it transforms. This preservative quality makes unitary matrices essential in fields ranging from quantum physics to signal processing, where maintaining energy or probability is crucial.",
-        "trans_Question": "ɪn kwɑ́ntəm kəmpjúwtɪŋ, wɪ́tʃ tájp əv méjtrɪks prəzɜ́rvz ðə ɪ́nər prɒ́dəkt bijtwíjn vɛ́ktərz ənd pléjz ə krúwʃəl rówl ɪn ɛnʃʊ́rɪŋ ðət kwɑ́ntəm ɒ̀pəréjʃənz mejntéjn ðə tówtəl prɒ̀bəbɪ́lɪtij əv ə sɪ́stəm?",
-        "trans_RightAnswer": "júwnɪtɛ̀ərij méjtrɪks",
-        "trans_WrongAnswers": [
-            "hɜrmɪ́ʃən méjtrɪks",
-            "ɔrθɔ́ɡənəl méjtrɪks",
-            "ɪ̀dəmpówtənt méjtrɪks",
-            "nɪ́lpowtənt méjtrɪks",
-            "towplɪ́ts méjtrɪks"
-        ],
-        "trans_Explanation": "ə júwnɪtɛ̀ərij méjtrɪks ɪz ə skwɛ́ər méjtrɪks húwz ɪnvɜ́rs íjkwəlz ɪts kɒ́ndʒəɡèjt trænspówz. ðɪs spɛ́ʃəl prɒ́pərtij míjnz ðət ə júwnɪtɛ̀ərij méjtrɪks prəzɜ́rvz ðə lɛ́ŋθ əv vɛ́ktərz ənd ðə ǽŋɡəlz bijtwíjn ðɛm wɛ́n əplájd æz ə træ̀nsfərméjʃən. ɪn kwɑ́ntəm məkǽnɪks, júwnɪtɛ̀ərij méjtrɪsɪz rɛ̀prəzɛ́nt ɒ̀pəréjʃənz ðət mejntéjn ðə tówtəl prɒ̀bəbɪ́lɪtij əv ə sɪ́stəm, méjkɪŋ ðɛm fʌ̀ndəmɛ́ntəl tə kwɑ́ntəm kəmpjúwtɪŋ. ʌ̀nlájk ʌ́ðər méjtrɪsɪz, júwnɪtɛ̀ərij træ̀nsfərméjʃənz ɑr rijvɜ́rsəbəl, wɪ́tʃ ɪz wáj ðɛ́ər júwzd tə rɛ̀prəzɛ́nt kwɑ́ntəm ɡéjts. θɪ́ŋk əv ə júwnɪtɛ̀ərij méjtrɪks æz ə pɜ́rfəkt rowtéjʃən ɪn ə kɒ́mplɛks vɛ́ktər spéjs ðət dʌ́zənt strɛ́tʃ ɔr ʃrɪ́ŋk ðə vɛ́ktərz ɪt trænsfɔ́rmz. ðɪs prijzɜ́rvətɪv kwɑ́lᵻtij méjks júwnɪtɛ̀ərij méjtrɪsɪz əsɛ́nʃəl ɪn fíjldz réjndʒɪŋ frəm kwɑ́ntəm fɪ́zɪks tə sɪ́ɡnəl prɒ́sɛsɪŋ, wɛ́ər mejntéjnɪŋ ɛ́nərdʒij ɔr prɒ̀bəbɪ́lɪtij ɪz krúwʃəl."
-    },
-    {
-        "Question": "In quantum mechanics, which mathematical structure is essential for representing observable quantities because its eigenvalues are always real numbers and its eigenvectors form an orthogonal basis?",
-        "RightAnswer": "Hermitian Matrix",
-        "WrongAnswers": [
-            "Nilpotent Matrix",
-            "Toeplitz Matrix",
-            "Stochastic Matrix",
-            "Vandermonde Matrix",
-            "Idempotent Matrix"
-        ],
-        "Explanation": "A Hermitian Matrix is a square matrix that equals its own conjugate transpose. This means if you take the complex conjugate of each entry and then transpose the matrix, you get back the original matrix. Hermitian matrices have several important properties that make them fundamental in physics and engineering: their eigenvalues are always real numbers, their eigenvectors corresponding to different eigenvalues are orthogonal to each other, and they can be diagonalized by a unitary matrix. In quantum mechanics, Hermitian matrices represent observable quantities, ensuring that measurements yield real values. The concept extends the idea of symmetric matrices from real to complex number systems, preserving the crucial property that the matrix represents a self-adjoint operator. This mathematical structure appears frequently in areas ranging from quantum physics to signal processing and structural analysis.",
-        "trans_Question": "ɪn kwɑ́ntəm məkǽnɪks, wɪ́tʃ mæ̀θəmǽtɪkəl strʌ́ktʃər ɪz əsɛ́nʃəl fɔr rɛ̀prəzɛ́ntɪŋ əbzɜ́rvəbəl kwɑ́ntᵻtijz bəkɒ́z ɪts ájɡənvæ̀ljuwz ɑr ɔ́lwejz ríjəl nʌ́mbərz ənd ɪts ajɡənvɛ̀ktərz fɔ́rm ən ɔrθɔ́ɡənəl béjsɪs?",
-        "trans_RightAnswer": "hɜrmɪ́ʃən méjtrɪks",
-        "trans_WrongAnswers": [
-            "nɪ́lpowtənt méjtrɪks",
-            "towplɪ́ts méjtrɪks",
-            "stowkǽstɪk méjtrɪks",
-            "væ̀n méjtrɪks",
-            "ɪ̀dəmpówtənt méjtrɪks"
-        ],
-        "trans_Explanation": "ə hɜrmɪ́ʃən méjtrɪks ɪz ə skwɛ́ər méjtrɪks ðət íjkwəlz ɪts ówn kɒ́ndʒəɡèjt trænspówz. ðɪs míjnz ɪf juw téjk ðə kɒ́mplɛks kɒ́ndʒəɡèjt əv ijtʃ ɛ́ntrij ənd ðɛn trænspówz ðə méjtrɪks, juw ɡɛt bǽk ðə ərɪ́dʒɪnəl méjtrɪks. hɜrmɪ́ʃən méjtrɪsɪz həv sɛ́vərəl ɪmpɔ́rtənt prɒ́pərtijz ðət méjk ðɛm fʌ̀ndəmɛ́ntəl ɪn fɪ́zɪks ənd ɛ̀ndʒɪnɪ́ərɪŋ: ðɛər ájɡənvæ̀ljuwz ɑr ɔ́lwejz ríjəl nʌ́mbərz, ðɛər ajɡənvɛ̀ktərz kɔ̀rəspɒ́ndɪŋ tə dɪ́fərənt ájɡənvæ̀ljuwz ɑr ɔrθɔ́ɡənəl tə ijtʃ ʌ́ðər, ənd ðej kən bij dajǽɡənəlajzd baj ə júwnɪtɛ̀ərij méjtrɪks. ɪn kwɑ́ntəm məkǽnɪks, hɜrmɪ́ʃən méjtrɪsɪz rɛ̀prəzɛ́nt əbzɜ́rvəbəl kwɑ́ntᵻtijz, ɛnʃʊ́rɪŋ ðət mɛ́ʒərmənts jíjld ríjəl vǽljuwz. ðə kɒ́nsɛpt əkstɛ́ndz ðə ajdíjə əv sɪmɛ́trɪk méjtrɪsɪz frəm ríjəl tə kɒ́mplɛks nʌ́mbər sɪ́stəmz, prəzɜ́rvɪŋ ðə krúwʃəl prɒ́pərtij ðət ðə méjtrɪks rɛ̀prəzɛ́nts ə sɛ́lf-ədʒɔ́jnt ɒ́pərèjtər. ðɪs mæ̀θəmǽtɪkəl strʌ́ktʃər əpɪ́ərz fríjkwəntlij ɪn ɛ́ərijəz réjndʒɪŋ frəm kwɑ́ntəm fɪ́zɪks tə sɪ́ɡnəl prɒ́sɛsɪŋ ənd strʌ́ktʃərəl ənǽlɪsɪs."
     },
     {
         "Question": "In computational optimization, which type of matrix guarantees that a critical point of a quadratic function is a minimum rather than a maximum or saddle point?",
@@ -1716,28 +1628,6 @@
         "trans_Explanation": "ðə ɪnfɪ́nɪtij nɔ́rm, ɔ́lsow nówn æz ðə mǽksɪməm nɔ́rm ɔr tʃɛ̀bɪʃɛ́v nɔ́rm, ɪz ə wej tə mɛ́ʒər ðə 'sájz' əv ə vɛ́ktər baj lʊ́kɪŋ æt ɪts lɑ́rdʒəst kəmpównənt ɪn ǽbsəlùwt vǽljuw. ʌ̀nlájk ʌ́ðər nɔ́rmz ðət kənsɪ́dər ɔl kəmpównənts təɡɛ́ðər, ðə ɪnfɪ́nɪtij nɔ́rm fówkəsɪz əksklúwsɪvlij ɒn ðə sɪ́ŋɡəl lɑ́rdʒəst ǽbsəlùwt vǽljuw ɪn ðə vɛ́ktər. fɔr əɡzǽmpəl, ɪf juw həv ə vɛ́ktər wɪð kəmpównənts (3, -7, 2), ðə ɪnfɪ́nɪtij nɔ́rm wʊd bij 7 bəkɒ́z ðə lɑ́rdʒəst ǽbsəlùwt vǽljuw ɪz sɛ́vən. ðɪs nɔ́rm ɪz pərtɪ́kjələrlij vǽljəbəl ɪn ɛ́ərər ənǽlɪsɪs, æz ɪt rɛ̀prəzɛ́nts ðə wɜ́rst-kéjs ɛ́ərər ɪn ɛ́nij sɪ́ŋɡəl dajmɛ́nʃən. ɪn kɒ̀mpjuwtéjʃənəl mæ̀θəmǽtɪks, ðə ɪnfɪ́nɪtij nɔ́rm hɛ́lps əstǽblɪʃ báwndz fɔr ǽlɡərɪ̀ðəmz ənd ɪz ɔ́fən júwzd ɪn ɒptɪmɪzéjʃən prɒ́bləmz wɛ́ər ðə mǽksɪməm dìjvijéjʃən níjdz tə bij mɪ́nɪmàjzd. ɪt's kɔ́ld ðə 'ɪnfɪ́nɪtij' nɔ́rm bəkɒ́z ɪt kən bij dərájvd æz ðə lɪ́mɪt əv ðə p-nɔ́rm æz p əprówtʃɪz ɪnfɪ́nɪtij, wɛ́ər ðə lɑ́rdʒəst kəmpównənt ɪnkríjsɪŋɡlij dɒ́mɪnèjts ðə kæ̀lkjəléjʃən."
     },
     {
-        "Question": "When a data scientist wants to measure the magnitude of a matrix to quantify the overall size of all elements at once, which mathematical tool would be most appropriate?",
-        "RightAnswer": "Frobenius Norm",
-        "WrongAnswers": [
-            "Spectral Radius",
-            "Matrix Trace",
-            "Determinant Magnitude",
-            "Eigenvalue Summation",
-            "Column Space Dimension"
-        ],
-        "Explanation": "The Frobenius Norm is a way to measure the size or magnitude of a matrix by considering all its elements at once. Conceptually, it's like finding the length of the matrix when we think of it as one long vector. To calculate it, we take each element in the matrix, square it, add all these squares together, and then take the square root of the sum. This gives us a single positive number that represents how 'large' the matrix is overall. The Frobenius Norm is particularly useful in numerical analysis, machine learning, and signal processing when we need to compare matrices or measure how different two matrices are from each other. Unlike other matrix measures that focus on specific properties, the Frobenius Norm considers the contribution of every single element, making it a comprehensive measure of matrix size.",
-        "trans_Question": "wɛ́n ə déjtə sájəntɪst wɒ́nts tə mɛ́ʒər ðə mǽɡnɪtùwd əv ə méjtrɪks tə kwɑ́ntᵻfàj ðə ówvərɔ̀l sájz əv ɔl ɛ́ləmənts æt wʌ́ns, wɪ́tʃ mæ̀θəmǽtɪkəl túwl wʊd bij mówst əprówprijèjt?",
-        "trans_RightAnswer": "frowbíjnijəs nɔ́rm",
-        "trans_WrongAnswers": [
-            "spɛ́ktrəl réjdijəs",
-            "méjtrɪks tréjs",
-            "dətɜ́rmɪnənt mǽɡnɪtùwd",
-            "ájɡənvæ̀ljuw səméjʃən",
-            "kɒ́ləm spéjs dajmɛ́nʃən"
-        ],
-        "trans_Explanation": "ðə frowbíjnijəs nɔ́rm ɪz ə wej tə mɛ́ʒər ðə sájz ɔr mǽɡnɪtùwd əv ə méjtrɪks baj kənsɪ́dərɪŋ ɔl ɪts ɛ́ləmənts æt wʌ́ns. kənsɛ́ptʃuwəlij, ɪt's lájk fájndɪŋ ðə lɛ́ŋθ əv ðə méjtrɪks wɛ́n wij θɪ́ŋk əv ɪt æz wʌ́n lɔ́ŋ vɛ́ktər. tə kǽlkjəlèjt ɪt, wij téjk ijtʃ ɛ́ləmənt ɪn ðə méjtrɪks, skwɛ́ər ɪt, ǽd ɔl ðijz skwɛ́ərz təɡɛ́ðər, ənd ðɛn téjk ðə skwɛ́ər rúwt əv ðə sʌ́m. ðɪs ɡɪ́vz ʌs ə sɪ́ŋɡəl pɒ́zɪtɪv nʌ́mbər ðət rɛ̀prəzɛ́nts háw 'lɑ́rdʒ' ðə méjtrɪks ɪz ówvərɔ̀l. ðə frowbíjnijəs nɔ́rm ɪz pərtɪ́kjələrlij júwsfəl ɪn njuwmɛ́ərɪkəl ənǽlɪsɪs, məʃíjn lɜ́rnɪŋ, ənd sɪ́ɡnəl prɒ́sɛsɪŋ wɛ́n wij níjd tə kəmpɛ́ər méjtrɪsɪz ɔr mɛ́ʒər háw dɪ́fərənt túw méjtrɪsɪz ɑr frəm ijtʃ ʌ́ðər. ʌ̀nlájk ʌ́ðər méjtrɪks mɛ́ʒərz ðət fówkəs ɒn spəsɪ́fɪk prɒ́pərtijz, ðə frowbíjnijəs nɔ́rm kənsɪ́dərz ðə kɒ̀ntrəbjúwʃən əv ɛvərij sɪ́ŋɡəl ɛ́ləmənt, méjkɪŋ ɪt ə kɒ̀mprəhɛ́nsɪv mɛ́ʒər əv méjtrɪks sájz."
-    },
-    {
         "Question": "In linear algebra, which mathematical operation gives a scalar value when applied to two vectors, measures their directional alignment, and forms the foundation for defining vector lengths and angles?",
         "RightAnswer": "Inner Product",
         "WrongAnswers": [
@@ -2002,7 +1892,7 @@
         "trans_Explanation": "ə dàjléjʃən ɪn lɪ́nijər ǽldʒəbrə rəfɜ́rz tə ə spəsɪ́fɪk tájp əv lɪ́nijər træ̀nsfərméjʃən ðət júwnɪfɔ̀rmlij skéjlz vɛ́ktərz baj ə kɒ́nstənt fǽktər. wɛ́n wij əpláj ə dàjléjʃən, wij mʌ́ltɪplàj ɔl kəmpównənts əv ə vɛ́ktər baj ðə séjm skéjlər vǽljuw, wɪ́tʃ həz ðə dʒìjəmɛ́trɪk əfɛ́kt əv əkspǽndɪŋ ɔr kɒ́ntræktɪŋ ðə vɛ́ktər wájl prəzɜ́rvɪŋ ɪts dɪərɛ́kʃən. ɪf ðə skéjlər ɪz ɡréjtər ðʌn wʌ́n, ðə vɛ́ktər bəkʌ́mz lɔ́ŋɡər; ɪf ðə skéjlər ɪz bijtwíjn zíjərow ənd wʌ́n, ðə vɛ́ktər bəkʌ́mz ʃɔ́rtər; ənd ɪf ðə skéjlər ɪz nɛ́ɡətɪv, ðə dɪərɛ́kʃən ɪz rijvɜ́rst əlɔ́ŋ wɪð ðə skéjlɪŋ. dajléjʃənz ɑr fʌ̀ndəmɛ́ntəl træ̀nsfərméjʃənz ðət tʃéjndʒ ównlij ðə mǽɡnɪtùwd əv vɛ́ktərz wɪðáwt əfɛ́ktɪŋ ðɛər ɔ̀rijɛntéjʃən ɔr ʃéjp, méjkɪŋ ðɛm dɪstɪ́ŋkt frəm ʌ́ðər træ̀nsfərméjʃənz lájk rowtéjʃənz ɔr ʃíjərz. ɪn méjtrɪks fɔ́rm, ə dàjléjʃən kɔ̀rəspɒ́ndz tə ə skéjlər mʌ́ltɪpəl əv ðə ajdɛ́ntɪtij méjtrɪks. ðɪs kɒ́nsɛpt ɪz pərtɪ́kjələrlij ɪmpɔ́rtənt ɪn æ̀plɪkéjʃənz sʌtʃ æz kəmpjúwtər ɡrǽfɪks, wɛ́ər ɒ́bdʒɛkts mej níjd tə bij júwnɪfɔ̀rmlij rɪsájzd wájl mejntéjnɪŋ ðɛər prəpɔ́rʃənz."
     },
     {
-        "Question": "In linear algebra, which transformation preserves lines and parallelism but not necessarily angles or distances?",
+        "Question": "In linear algebra, which transformation combines a linear transformation with a translation?",
         "RightAnswer": "Affine Transformation",
         "WrongAnswers": [
             "Orthogonal Transformation",
@@ -2012,7 +1902,7 @@
             "Rigid Transformation"
         ],
         "Explanation": "An affine transformation is a fundamental concept in linear algebra that combines a linear transformation with a translation. It can be thought of as a two-step process: first applying a linear transformation that scales, rotates, or shears the space, followed by a shift or translation. What makes affine transformations special is that they preserve important geometric properties: straight lines remain straight, and parallel lines stay parallel. However, unlike more restrictive transformations, affine transformations do not necessarily preserve angles between lines or distances between points. This flexibility makes them incredibly useful in computer graphics, geometry, and physics, where we often need to model changes that maintain some structural properties while allowing others to vary. Common examples include scaling an image, rotating an object, or mapping between different coordinate systems.",
-        "trans_Question": "ɪn lɪ́nijər ǽldʒəbrə, wɪ́tʃ træ̀nsfərméjʃən prəzɜ́rvz lájnz ənd pǽrəlɛ̀lɪ̀zəm bʌt nɒt nɛ̀səsɛ́ərɪlij ǽŋɡəlz ɔr dɪ́stənsɪz?",
+        "trans_Question": "ɪn lɪ́nijər ǽldʒəbrə, wɪ́tʃ træ̀nsfərméjʃən kəmbájnz ə lɪ́nijər træ̀nsfərméjʃən wɪð ə trænsléjʃən?",
         "trans_RightAnswer": "əfájn træ̀nsfərméjʃən",
         "trans_WrongAnswers": [
             "ɔrθɔ́ɡənəl træ̀nsfərméjʃən",
@@ -2066,94 +1956,6 @@
             "əfájn træ̀nsfərméjʃən"
         ],
         "trans_Explanation": "ən àjsəmɛ́trij ɪz ə spɛ́ʃəl kájnd əv lɪ́nijər træ̀nsfərméjʃən ðət prəzɜ́rvz dɪ́stənsɪz bijtwíjn pɔ́jnts. wɛ́n wij əpláj ən àjsəmɛ́trij tə ə dʒìjəmɛ́trɪk ɒ́bdʒəkt, ɪts sájz ənd ʃéjp rəméjn ʌ̀ntʃéjndʒd - ównlij ɪts pəzɪ́ʃən ɔr ɔ̀rijɛntéjʃən mej dɪ́fər. kɒ́mən əɡzǽmpəlz ɪnklúwd rowtéjʃənz, rəflɛ́kʃənz, ənd trænsléjʃənz ɪn juwklɪ́dijən spéjs. ðə wɜ́rd 'àjsəmɛ́trij' kʌ́mz frəm ɡríjk, míjnɪŋ 'íjkwəl mɛ́ʒər,' hájlàjtɪŋ ɪts dɪ́stəns-prəzɜ́rvɪŋ prɒ́pərtij. ðɪs kɒ́nsɛpt ɪz fʌ̀ndəmɛ́ntəl ɪn mɛ́nij ɛ́ərijəz əv mæ̀θəmǽtɪks ənd fɪ́zɪks wɛ́ər mejntéjnɪŋ spéjʃəl rəléjʃənʃɪ̀ps ɪz krúwʃəl. ʌ̀nlájk ʌ́ðər træ̀nsfərméjʃənz ðət majt strɛ́tʃ, ʃrɪ́ŋk, ɔr dɪstɔ́rt ɒ́bdʒɛkts, àjsəmɛ́trijz mejntéjn ðə ɪntrɪ́nsɪk dʒìjəmɛ́trɪk prɒ́pərtijz əv ðə ərɪ́dʒɪnəl strʌ́ktʃər."
-    },
-    {
-        "Question": "In linear algebra, what term refers to a function that maps vectors from a vector space to scalar values and preserves the operations of vector addition and scalar multiplication?",
-        "RightAnswer": "Linear Functional",
-        "WrongAnswers": [
-            "Orthogonal Projector",
-            "Hermitian Operator",
-            "Eigenvector Mapping",
-            "Basis Transformation",
-            "Rank Reducer"
-        ],
-        "Explanation": "A Linear Functional is a special type of linear transformation that takes vectors from a vector space and outputs scalar values (such as real or complex numbers), rather than other vectors. What makes it 'linear' is that it respects the fundamental operations of vector spaces: if you apply the functional to a sum of vectors, you get the same result as if you applied it to each vector separately and then added the results. Similarly, if you scale a vector and then apply the functional, it's equivalent to applying the functional first and then scaling the result. Linear functionals play crucial roles in many areas of mathematics and physics, including in defining the dual space of a vector space, in optimization problems, and in quantum mechanics where observables can be represented as linear functionals. They provide a way to extract meaningful scalar information from vectors while preserving the linear structure that makes vector spaces so powerful and versatile as mathematical tools.",
-        "trans_Question": "ɪn lɪ́nijər ǽldʒəbrə, wɒt tɜ́rm rəfɜ́rz tə ə fʌ́ŋkʃən ðət mǽps vɛ́ktərz frəm ə vɛ́ktər spéjs tə skéjlər vǽljuwz ənd prəzɜ́rvz ðə ɒ̀pəréjʃənz əv vɛ́ktər ədɪ́ʃən ənd skéjlər mʌ̀ltijpləkéjʃən?",
-        "trans_RightAnswer": "lɪ́nijər fʌ́ŋkʃənəl",
-        "trans_WrongAnswers": [
-            "ɔrθɔ́ɡənəl prədʒɛ́ktər",
-            "hɜrmɪ́ʃən ɒ́pərèjtər",
-            "ájɡənvɛ̀ktər mǽpɪŋ",
-            "béjsɪs træ̀nsfərméjʃən",
-            "rǽŋk rɪdúwsər"
-        ],
-        "trans_Explanation": "ə lɪ́nijər fʌ́ŋkʃənəl ɪz ə spɛ́ʃəl tájp əv lɪ́nijər træ̀nsfərméjʃən ðət téjks vɛ́ktərz frəm ə vɛ́ktər spéjs ənd áwtpʊ̀ts skéjlər vǽljuwz (sʌtʃ æz ríjəl ɔr kɒ́mplɛks nʌ́mbərz), rǽðər ðʌn ʌ́ðər vɛ́ktərz. wɒt méjks ɪt 'lɪ́nijər' ɪz ðət ɪt rəspɛ́kts ðə fʌ̀ndəmɛ́ntəl ɒ̀pəréjʃənz əv vɛ́ktər spéjsɪz: ɪf juw əpláj ðə fʌ́ŋkʃənəl tə ə sʌ́m əv vɛ́ktərz, juw ɡɛt ðə séjm rəzʌ́lt æz ɪf juw əplájd ɪt tə ijtʃ vɛ́ktər sɛ́pərətlij ənd ðɛn ǽdɪd ðə rəzʌ́lts. sɪ́mɪlərlij, ɪf juw skéjl ə vɛ́ktər ənd ðɛn əpláj ðə fʌ́ŋkʃənəl, ɪt's əkwɪ́vələnt tə əplájɪŋ ðə fʌ́ŋkʃənəl fɜ́rst ənd ðɛn skéjlɪŋ ðə rəzʌ́lt. lɪ́nijər fʌ́ŋkʃənəlz pléj krúwʃəl rówlz ɪn mɛ́nij ɛ́ərijəz əv mæ̀θəmǽtɪks ənd fɪ́zɪks, ɪnklúwdɪŋ ɪn dəfájnɪŋ ðə djúwəl spéjs əv ə vɛ́ktər spéjs, ɪn ɒptɪmɪzéjʃən prɒ́bləmz, ənd ɪn kwɑ́ntəm məkǽnɪks wɛ́ər əbzɜ́rvəbəlz kən bij rɛ̀prəzɛ́ntɪd æz lɪ́nijər fʌ́ŋkʃənəlz. ðej prəvájd ə wej tə ɛ́kstrəkt míjnɪŋfəl skéjlər ɪnfərméjʃən frəm vɛ́ktərz wájl prəzɜ́rvɪŋ ðə lɪ́nijər strʌ́ktʃər ðət méjks vɛ́ktər spéjsɪz sow páwərfəl ənd vɜ́rsətajl æz mæ̀θəmǽtɪkəl túwlz."
-    },
-    {
-        "Question": "In linear algebra, what term describes the vector space consisting of all linear functionals on a given vector space V, serving as an important tool for examining properties and structures of the original space?",
-        "RightAnswer": "Dual Space",
-        "WrongAnswers": [
-            "Kernel Space",
-            "Quotient Space",
-            "Image Space",
-            "Orthogonal Complement",
-            "Eigenspace"
-        ],
-        "Explanation": "The Dual Space is a fundamental concept in linear algebra that represents the collection of all linear functions from a vector space V to its underlying field of scalars. Each element in the dual space, called a linear functional, maps vectors from V to scalars while preserving the vector space operations of addition and scalar multiplication. This space reveals important structural properties of the original vector space, creating a sort of mirror that reflects the original space from a different perspective. The dual space has the same dimension as the original finite-dimensional vector space, and establishes a natural correspondence between vectors and linear functionals. This concept becomes particularly powerful in the study of linear transformations, differential equations, and quantum mechanics, where understanding how linear functionals operate on vectors provides crucial insights. The relationship between a vector space and its dual underlies many advanced concepts in mathematics including tensor analysis and functional analysis.",
-        "trans_Question": "ɪn lɪ́nijər ǽldʒəbrə, wɒt tɜ́rm dəskrájbz ðə vɛ́ktər spéjs kənsɪ́stɪŋ əv ɔl lɪ́nijər fʌ́ŋkʃənəlz ɒn ə ɡɪ́vən vɛ́ktər spéjs V, sɜ́rvɪŋ æz ən ɪmpɔ́rtənt túwl fɔr əɡzǽmɪnɪŋ prɒ́pərtijz ənd strʌ́ktʃərz əv ðə ərɪ́dʒɪnəl spéjs?",
-        "trans_RightAnswer": "djúwəl spéjs",
-        "trans_WrongAnswers": [
-            "kɜ́rnəl spéjs",
-            "kwówʃənt spéjs",
-            "ɪ́mɪdʒ spéjs",
-            "ɔrθɔ́ɡənəl kɒ́mpləmənt",
-            "ájɡənspèjs"
-        ],
-        "trans_Explanation": "ðə djúwəl spéjs ɪz ə fʌ̀ndəmɛ́ntəl kɒ́nsɛpt ɪn lɪ́nijər ǽldʒəbrə ðət rɛ̀prəzɛ́nts ðə kəlɛ́kʃən əv ɔl lɪ́nijər fʌ́ŋkʃənz frəm ə vɛ́ktər spéjs V tə ɪts ʌ̀ndərlájɪŋ fíjld əv skéjlərz. ijtʃ ɛ́ləmənt ɪn ðə djúwəl spéjs, kɔ́ld ə lɪ́nijər fʌ́ŋkʃənəl, mǽps vɛ́ktərz frəm V tə skéjlərz wájl prəzɜ́rvɪŋ ðə vɛ́ktər spéjs ɒ̀pəréjʃənz əv ədɪ́ʃən ənd skéjlər mʌ̀ltijpləkéjʃən. ðɪs spéjs rəvíjlz ɪmpɔ́rtənt strʌ́ktʃərəl prɒ́pərtijz əv ðə ərɪ́dʒɪnəl vɛ́ktər spéjs, krijéjtɪŋ ə sɔ́rt əv mɪ́ərər ðət rəflɛ́kts ðə ərɪ́dʒɪnəl spéjs frəm ə dɪ́fərənt pərspɛ́ktɪv. ðə djúwəl spéjs həz ðə séjm dajmɛ́nʃən æz ðə ərɪ́dʒɪnəl fájnàjt-dajmɛ́nʃənəl vɛ́ktər spéjs, ənd əstǽblɪʃɪz ə nǽtʃərəl kɔ̀rəspɒ́ndəns bijtwíjn vɛ́ktərz ənd lɪ́nijər fʌ́ŋkʃənəlz. ðɪs kɒ́nsɛpt bəkʌ́mz pərtɪ́kjələrlij páwərfəl ɪn ðə stʌ́dij əv lɪ́nijər træ̀nsfərméjʃənz, dɪ̀fərɛ́nʃəl əkwéjʒənz, ənd kwɑ́ntəm məkǽnɪks, wɛ́ər ʌ̀ndərstǽndɪŋ háw lɪ́nijər fʌ́ŋkʃənəlz ɒ́pərèjt ɒn vɛ́ktərz prəvájdz krúwʃəl ɪ́nsàjts. ðə rəléjʃənʃɪ̀p bijtwíjn ə vɛ́ktər spéjs ənd ɪts djúwəl ʌ̀ndərlájz mɛ́nij ədvǽnst kɒ́nsɛpts ɪn mæ̀θəmǽtɪks ɪnklúwdɪŋ tɛ́nsər ənǽlɪsɪs ənd fʌ́ŋkʃənəl ənǽlɪsɪs."
-    },
-    {
-        "Question": "In linear algebra, what term refers to the set of all vectors that, when operating on a given subspace, yield the zero vector?",
-        "RightAnswer": "Annihilator",
-        "WrongAnswers": [
-            "Nullifier",
-            "Orthogonal Complement",
-            "Kernel Space",
-            "Zero Transformer",
-            "Void Operator"
-        ],
-        "Explanation": "The annihilator of a subspace is a fundamental concept in linear algebra that describes the set of all linear functionals that map every vector in the given subspace to zero. More precisely, if S is a subspace of a vector space V, then the annihilator of S consists of all linear maps f from V to the scalar field such that f(v) equals zero for every vector v in S. Annihilators are particularly useful in establishing relationships between subspaces and their dual spaces. They help us understand orthogonality in a more abstract sense, beyond the familiar notion of perpendicular vectors. The dimension of a subspace plus the dimension of its annihilator equals the dimension of the entire vector space, a relationship known as the rank-nullity theorem in the context of dual spaces. Annihilators provide powerful tools for analyzing linear transformations and solving systems of linear equations.",
-        "trans_Question": "ɪn lɪ́nijər ǽldʒəbrə, wɒt tɜ́rm rəfɜ́rz tə ðə sɛ́t əv ɔl vɛ́ktərz ðət, wɛ́n ɒ́pərèjtɪŋ ɒn ə ɡɪ́vən sʌ́bspèjs, jíjld ðə zíjərow vɛ́ktər?",
-        "trans_RightAnswer": "ənájəlejtər",
-        "trans_WrongAnswers": [
-            "nʌ́lɪfajər",
-            "ɔrθɔ́ɡənəl kɒ́mpləmənt",
-            "kɜ́rnəl spéjs",
-            "zíjərow trænsfɔ́rmər",
-            "vɔ́jd ɒ́pərèjtər"
-        ],
-        "trans_Explanation": "ðə ənájəlejtər əv ə sʌ́bspèjs ɪz ə fʌ̀ndəmɛ́ntəl kɒ́nsɛpt ɪn lɪ́nijər ǽldʒəbrə ðət dəskrájbz ðə sɛ́t əv ɔl lɪ́nijər fʌ́ŋkʃənəlz ðət mǽp ɛvərij vɛ́ktər ɪn ðə ɡɪ́vən sʌ́bspèjs tə zíjərow. mɔr prəsájslij, ɪf S ɪz ə sʌ́bspèjs əv ə vɛ́ktər spéjs V, ðɛn ðə ənájəlejtər əv S kənsɪ́sts əv ɔl lɪ́nijər mǽps f frəm V tə ðə skéjlər fíjld sʌtʃ ðət f(v) íjkwəlz zíjərow fɔr ɛvərij vɛ́ktər v ɪn S. ənɪ́hɪlejtərz ɑr pərtɪ́kjələrlij júwsfəl ɪn əstǽblɪʃɪŋ rəléjʃənʃɪ̀ps bijtwíjn sʌ́bspèjsɪs ənd ðɛər djúwəl spéjsɪz. ðej hɛ́lp ʌs ʌ̀ndərstǽnd ɔrθəɡənǽlətij ɪn ə mɔr ǽbstræ̀kt sɛ́ns, bìjɔ́nd ðə fəmɪ́ljər nówʃən əv pɜ̀rpəndɪ́kjələr vɛ́ktərz. ðə dajmɛ́nʃən əv ə sʌ́bspèjs plʌ́s ðə dajmɛ́nʃən əv ɪts ənájəlejtər íjkwəlz ðə dajmɛ́nʃən əv ðə əntájər vɛ́ktər spéjs, ə rəléjʃənʃɪ̀p nówn æz ðə rǽŋk-nʌ́lɪtij θɪ́ərəm ɪn ðə kɒ́ntɛkst əv djúwəl spéjsɪz. ənɪ́hɪlejtərz prəvájd páwərfəl túwlz fɔr ǽnəlàjzɪŋ lɪ́nijər træ̀nsfərméjʃənz ənd sɒ́lvɪŋ sɪ́stəmz əv lɪ́nijər əkwéjʒənz."
-    },
-    {
-        "Question": "In linear algebra, what is the mathematical object that assigns a scalar to each pair of vectors and satisfies specific linearity conditions in both arguments?",
-        "RightAnswer": "Bilinear Form",
-        "WrongAnswers": [
-            "Linear Transformation",
-            "Dual Vector",
-            "Orthogonal Projection",
-            "Hermitian Operator",
-            "Tensor Product"
-        ],
-        "Explanation": "A bilinear form is a function that takes two vectors as input and produces a scalar as output, while being linear in each argument separately. This means if you fix one vector and vary the other, the function behaves like a linear map. Bilinear forms appear throughout mathematics and physics, from defining inner products and metrics to describing energy in physical systems. The classic example is the dot product in Euclidean space, which is a symmetric bilinear form. Unlike linear transformations that map vectors to vectors, bilinear forms map pairs of vectors to scalars. They can be represented by matrices, where the value of the form applied to two vectors can be calculated using matrix multiplication. Bilinear forms are classified as symmetric, skew-symmetric, or neither, based on how they behave when their arguments are swapped.",
-        "trans_Question": "ɪn lɪ́nijər ǽldʒəbrə, wɒt ɪz ðə mæ̀θəmǽtɪkəl ɒ́bdʒəkt ðət əsájnz ə skéjlər tə ijtʃ pɛ́ər əv vɛ́ktərz ənd sǽtɪsfàjz spəsɪ́fɪk lɪ̀nijǽrɪtij kəndɪ́ʃənz ɪn bówθ ɑ́rɡjəmənts?",
-        "trans_RightAnswer": "bajlɪ́nijər fɔ́rm",
-        "trans_WrongAnswers": [
-            "lɪ́nijər træ̀nsfərméjʃən",
-            "djúwəl vɛ́ktər",
-            "ɔrθɔ́ɡənəl prədʒɛ́kʃən",
-            "hɜrmɪ́ʃən ɒ́pərèjtər",
-            "tɛ́nsər prɒ́dəkt"
-        ],
-        "trans_Explanation": "ə bajlɪ́nijər fɔ́rm ɪz ə fʌ́ŋkʃən ðət téjks túw vɛ́ktərz æz ɪ́npʊ̀t ənd prədúwsɪz ə skéjlər æz áwtpʊ̀t, wájl bíjɪŋ lɪ́nijər ɪn ijtʃ ɑ́rɡjəmənt sɛ́pərətlij. ðɪs míjnz ɪf juw fɪ́ks wʌ́n vɛ́ktər ənd vɛ́ərij ðə ʌ́ðər, ðə fʌ́ŋkʃən bəhéjvz lájk ə lɪ́nijər mǽp. bajlɪ́nijər fɔ́rmz əpɪ́ər θruwáwt mæ̀θəmǽtɪks ənd fɪ́zɪks, frəm dəfájnɪŋ ɪ́nər prɒ́dəkts ənd mɛ́trɪks tə dəskrájbɪŋ ɛ́nərdʒij ɪn fɪ́zɪkəl sɪ́stəmz. ðə klǽsɪk əɡzǽmpəl ɪz ðə dɒ́t prɒ́dəkt ɪn juwklɪ́dijən spéjs, wɪ́tʃ ɪz ə sɪmɛ́trɪk bajlɪ́nijər fɔ́rm. ʌ̀nlájk lɪ́nijər træ̀nsfərméjʃənz ðət mǽp vɛ́ktərz tə vɛ́ktərz, bajlɪ́nijər fɔ́rmz mǽp pɛ́ərz əv vɛ́ktərz tə skéjlərz. ðej kən bij rɛ̀prəzɛ́ntɪd baj méjtrɪsɪz, wɛ́ər ðə vǽljuw əv ðə fɔ́rm əplájd tə túw vɛ́ktərz kən bij kǽlkjəlèjtɪd júwzɪŋ méjtrɪks mʌ̀ltijpləkéjʃən. bajlɪ́nijər fɔ́rmz ɑr klǽsɪfàjd æz sɪmɛ́trɪk, skjúw-sɪmɛ́trɪk, ɔr nɪ́ðər, béjst ɒn háw ðej bəhéjv wɛ́n ðɛər ɑ́rɡjəmənts ɑr swɒ́pt."
     },
     {
         "Question": "In linear algebra, what term refers to a scalar-valued function that maps a vector to a real number through a specific expression involving a matrix and the vector's components?",
@@ -2552,28 +2354,6 @@
         "trans_Explanation": "ə dʒɔ́rdən blɒ́k ɪz ə fʌ̀ndəmɛ́ntəl strʌ́ktʃər ɪn ədvǽnst lɪ́nijər ǽldʒəbrə ðət əpɪ́ərz wɛ́n wɜ́rkɪŋ wɪð ðə dʒɔ́rdən nɔ́rməl fɔ́rm əv ə méjtrɪks. ijtʃ dʒɔ́rdən blɒ́k ɪz ə skwɛ́ər méjtrɪks wɪð ə spəsɪ́fɪk ájɡənvæ̀ljuw rəpíjtɪd əlɔ́ŋ ðə méjn dajǽɡənəl, wʌ́nz pléjst dɪərɛ́klij əbʌ́v ðə dajǽɡənəl (ðə sùwpərdajǽɡənəl), ənd zɪ́ərowz ɛ́vrijwɛ̀ər ɛ́ls. dʒɔ́rdən blɒ́ks ɑr pərtɪ́kjələrlij ɪmpɔ́rtənt bəkɒ́z ðej ʃów háw ə méjtrɪks ǽkts ɒn ɪts dʒɛ́nərəlàjzd ajɡənvɛ̀ktərz. wɛ́n ə méjtrɪks kǽnɒt bij dajǽɡənəlajzd bəkɒ́z ɪt lǽks ənʌ́f ɪndəpɛ́ndənt ajɡənvɛ̀ktərz, dʒɔ́rdən blɒ́ks rəvíjl ðə méjtrɪks'z trúw strʌ́ktʃər. ðə sájz əv ijtʃ dʒɔ́rdən blɒ́k kɔ̀rəspɒ́ndz tə ðə lɛ́ŋθ əv ə tʃéjn əv dʒɛ́nərəlàjzd ajɡənvɛ̀ktərz. ʌ̀ndərstǽndɪŋ dʒɔ́rdən blɒ́ks hɛ́lps mæ̀θmətɪ́ʃənz ənd ɛ̀ndʒɪnɪ́ərz ǽnəlàjz kɒ́mplɛks sɪ́stəmz, dɪ̀fərɛ́nʃəl əkwéjʒənz, ənd njúwmərəs æ̀plɪkéjʃənz wɛ́ər méjtrɪsɪz wɪð rəpíjtɪd ájɡənvæ̀ljuwz əkɜ́r. ðej rɛ̀prəzɛ́nt wʌ́n əv ðə mówst ɛ́ləɡənt wéjz tə ʌ̀ndərstǽnd ðə strʌ́ktʃər əv lɪ́nijər træ̀nsfərméjʃənz ðət kǽnɒt bij sɪ́mpləfajd θrúw ɔ́rdɪnɛ̀ərij dajǽɡənəlajzéjʃən."
     },
     {
-        "Question": "In linear algebra, what is the term for the unique monic polynomial of lowest degree that annihilates a linear transformation when substituted for the transformation in a polynomial expression?",
-        "RightAnswer": "Minimal Polynomial",
-        "WrongAnswers": [
-            "Characteristic Polynomial",
-            "Annihilator Polynomial",
-            "Eigenvalue Polynomial",
-            "Zero Polynomial",
-            "Transformation Kernel"
-        ],
-        "Explanation": "The Minimal Polynomial is a fundamental concept in linear algebra that provides deep insights into the structure of a linear transformation or a square matrix. It is the monic polynomial of lowest possible degree that, when evaluated with the linear transformation substituted for the variable, yields the zero transformation. Unlike the characteristic polynomial, which can have repeated factors even when they are not necessary to annihilate the transformation, the minimal polynomial is, as its name suggests, minimal. It captures the essential algebraic behavior of a transformation in the most economical way. The minimal polynomial divides the characteristic polynomial and shares the same roots, though possibly with lower multiplicities. It tells us valuable information about diagonalizability, the size of Jordan blocks, and the behavior of powers of the transformation. A linear transformation is diagonalizable if and only if its minimal polynomial has no repeated roots. The minimal polynomial is particularly useful in solving differential equations, computing matrix functions, and understanding the cyclic decomposition of vector spaces.",
-        "trans_Question": "ɪn lɪ́nijər ǽldʒəbrə, wɒt ɪz ðə tɜ́rm fɔr ðə juwnɪ́k mɒ́nɪk pɒ̀lijnówmijəl əv lówəst dəɡríj ðət ənájəlejts ə lɪ́nijər træ̀nsfərméjʃən wɛ́n sʌ́bstɪtuwtɪd fɔr ðə træ̀nsfərméjʃən ɪn ə pɒ̀lijnówmijəl əksprɛ́ʃən?",
-        "trans_RightAnswer": "mɪ́nɪməl pɒ̀lijnówmijəl",
-        "trans_WrongAnswers": [
-            "kæ̀rəktərɪ́stɪk pɒ̀lijnówmijəl",
-            "ənájəlejtər pɒ̀lijnówmijəl",
-            "ájɡənvæ̀ljuw pɒ̀lijnówmijəl",
-            "zíjərow pɒ̀lijnówmijəl",
-            "træ̀nsfərméjʃən kɜ́rnəl"
-        ],
-        "trans_Explanation": "ðə mɪ́nɪməl pɒ̀lijnówmijəl ɪz ə fʌ̀ndəmɛ́ntəl kɒ́nsɛpt ɪn lɪ́nijər ǽldʒəbrə ðət prəvájdz díjp ɪ́nsàjts ɪntə ðə strʌ́ktʃər əv ə lɪ́nijər træ̀nsfərméjʃən ɔr ə skwɛ́ər méjtrɪks. ɪt ɪz ðə mɒ́nɪk pɒ̀lijnówmijəl əv lówəst pɒ́sɪbəl dəɡríj ðət, wɛ́n əvǽljuwèjtɪd wɪð ðə lɪ́nijər træ̀nsfərméjʃən sʌ́bstɪtuwtɪd fɔr ðə vɛ́ərijəbəl, jíjldz ðə zíjərow træ̀nsfərméjʃən. ʌ̀nlájk ðə kæ̀rəktərɪ́stɪk pɒ̀lijnówmijəl, wɪ́tʃ kən həv rəpíjtɪd fǽktərz íjvən wɛ́n ðej ɑr nɒt nɛ́səsɛ̀ərij tə ənájəlèjt ðə træ̀nsfərméjʃən, ðə mɪ́nɪməl pɒ̀lijnówmijəl ɪz, æz ɪts néjm sədʒɛ́sts, mɪ́nɪməl. ɪt kǽptʃərz ðə əsɛ́nʃəl æ̀ldʒəbréjɪk bəhéjvjər əv ə træ̀nsfərméjʃən ɪn ðə mówst ɛ̀kənɒ́mɪkəl wej. ðə mɪ́nɪməl pɒ̀lijnówmijəl dɪvájdz ðə kæ̀rəktərɪ́stɪk pɒ̀lijnówmijəl ənd ʃɛ́ərz ðə séjm rúwts, ðów pɒ́sɪblij wɪð lówər mʌltəplɪ́sɪtijz. ɪt tɛ́lz ʌs vǽljəbəl ɪnfərméjʃən əbawt dàjæɡənəlajzéjbəlɪtij, ðə sájz əv dʒɔ́rdən blɒ́ks, ənd ðə bəhéjvjər əv páwərz əv ðə træ̀nsfərméjʃən. ə lɪ́nijər træ̀nsfərméjʃən ɪz dajæ̀ɡənəlájzəbəl ɪf ənd ównlij ɪf ɪts mɪ́nɪməl pɒ̀lijnówmijəl həz now rəpíjtɪd rúwts. ðə mɪ́nɪməl pɒ̀lijnówmijəl ɪz pərtɪ́kjələrlij júwsfəl ɪn sɒ́lvɪŋ dɪ̀fərɛ́nʃəl əkwéjʒənz, kəmpjúwtɪŋ méjtrɪks fʌ́ŋkʃənz, ənd ʌ̀ndərstǽndɪŋ ðə sájklɪk dìjkəmpəzɪ́ʃən əv vɛ́ktər spéjsɪz."
-    },
-    {
         "Question": "Which theorem states that a square matrix satisfies its own characteristic polynomial?",
         "RightAnswer": "Cayley-Hamilton Theorem",
         "WrongAnswers": [
@@ -2794,94 +2574,6 @@
         "trans_Explanation": "ðə méjtrɪks kəndɪ́ʃən nʌ́mbər ɪz ə fʌ̀ndəmɛ́ntəl kɒ́nsɛpt ɪn lɪ́nijər ǽldʒəbrə ðət prəvájdz ə mɛ́ʒər əv háw sɛ́nsɪtɪv ə méjtrɪks ɪz tə njuwmɛ́ərɪkəl ɒ̀pəréjʃənz. ɪt tɛ́lz ʌs háw mʌtʃ ðə səlúwʃən tə ə sɪ́stəm əv lɪ́nijər əkwéjʒənz kən tʃéjndʒ wɛ́n ðɛər ɑr smɔ́l tʃéjndʒɪz ɪn ðə ɪ́npʊ̀t déjtə. ə méjtrɪks wɪð ə lów kəndɪ́ʃən nʌ́mbər ɪz sɛ́d tə bij wɛ́l-kəndɪ́ʃənd, míjnɪŋ ðət smɔ́l ɪ́npʊ̀t ɛ́ərərz líjd tə kɔ̀rəspɒ́ndɪŋlij smɔ́l áwtpʊ̀t ɛ́ərərz. kɒ́nvərslij, ə méjtrɪks wɪð ə háj kəndɪ́ʃən nʌ́mbər ɪz ɪ́l-kəndɪ́ʃənd, ɪ́ndɪkèjtɪŋ ðət smɔ́l ɪ́npʊ̀t pɜ̀rtərbéjʃənz kən kɒ́z dɪ̀sprəpɔ́rʃənətlij lɑ́rdʒ tʃéjndʒɪz ɪn ðə səlúwʃən. ðə kəndɪ́ʃən nʌ́mbər ɪz pərtɪ́kjələrlij ɪmpɔ́rtənt ɪn kɒ̀mpjuwtéjʃənəl æ̀plɪkéjʃənz wɛ́ər njuwmɛ́ərɪkəl prəsɪ́ʒən ɪz lɪ́mɪtɪd. fɔr ə skwɛ́ər méjtrɪks, ðə kəndɪ́ʃən nʌ́mbər kən bij kənsɛ́ptʃuwəlij ʌ̀ndərstʊ́d æz ðə réjʃijòw bijtwíjn ðə mǽksɪməm ənd mɪ́nɪməm strɛ́tʃɪŋ ðə méjtrɪks dʌz tə ɛ́nij vɛ́ktər. ɪn prǽktɪkəl tɜ́rmz, ɪt sɜ́rvz æz ə wɔ́rnɪŋ sɪ́stəm əɡéjnst pətɛ́nʃəl njuwmɛ́ərɪkəl ɪnstəbɪ́lɪtij wɛ́n sɒ́lvɪŋ sɪ́stəmz əv əkwéjʒənz, pərfɔ́rmɪŋ méjtrɪks ɪnvɜ́rʒənz, ɔr kəndʌ́ktɪŋ ʌ́ðər méjtrɪks ɒ̀pəréjʃənz."
     },
     {
-        "Question": "Which mathematical structure extends vector spaces by defining a concept of distance or length, allowing mathematicians to quantify how vectors relate to each other in terms of magnitude?",
-        "RightAnswer": "Normed Vector Space",
-        "WrongAnswers": [
-            "Metric Topology",
-            "Inner Product Domain",
-            "Magnitude Field",
-            "Distance Vector Framework",
-            "Quantified Linear Space"
-        ],
-        "Explanation": "A Normed Vector Space is a vector space equipped with a norm function that assigns a non-negative length or size to each vector. This norm function must satisfy three key properties: it gives zero only for the zero vector, it scales proportionally with the vector, and it obeys the triangle inequality. By introducing this concept of magnitude, mathematicians can discuss notions like convergence, continuity, and completeness within the vector space. Normed vector spaces bridge pure algebraic structures with geometric intuition, allowing us to meaningfully discuss distances between vectors. This provides the foundation for important applied mathematical concepts in analysis, differential equations, and functional analysis. The norm essentially generalizes our intuitive understanding of length from everyday three-dimensional space to abstract vector spaces of any dimension, including infinite dimensions.",
-        "trans_Question": "wɪ́tʃ mæ̀θəmǽtɪkəl strʌ́ktʃər əkstɛ́ndz vɛ́ktər spéjsɪz baj dəfájnɪŋ ə kɒ́nsɛpt əv dɪ́stəns ɔr lɛ́ŋθ, əláwɪŋ mæ̀θmətɪ́ʃənz tə kwɑ́ntᵻfàj háw vɛ́ktərz rəléjt tə ijtʃ ʌ́ðər ɪn tɜ́rmz əv mǽɡnɪtùwd?",
-        "trans_RightAnswer": "nɔrmd vɛ́ktər spéjs",
-        "trans_WrongAnswers": [
-            "mɛ́trɪk təpɔ́lədʒij",
-            "ɪ́nər prɒ́dəkt dowméjn",
-            "mǽɡnɪtùwd fíjld",
-            "dɪ́stəns vɛ́ktər fréjmwɜ̀rk",
-            "kwɑ́ntᵻfàjd lɪ́nijər spéjs"
-        ],
-        "trans_Explanation": "ə nɔrmd vɛ́ktər spéjs ɪz ə vɛ́ktər spéjs əkwɪ́pt wɪð ə nɔ́rm fʌ́ŋkʃən ðət əsájnz ə nɒn-nɛ́ɡətɪv lɛ́ŋθ ɔr sájz tə ijtʃ vɛ́ktər. ðɪs nɔ́rm fʌ́ŋkʃən mʌst sǽtɪsfàj θríj kíj prɒ́pərtijz: ɪt ɡɪ́vz zíjərow ównlij fɔr ðə zíjərow vɛ́ktər, ɪt skéjlz prəpɔ́rʃənəlij wɪð ðə vɛ́ktər, ənd ɪt owbéjz ðə trájæ̀ŋɡəl ᵻ́nijkwɑ́lᵻtij. baj ɪntrədúwsɪŋ ðɪs kɒ́nsɛpt əv mǽɡnɪtùwd, mæ̀θmətɪ́ʃənz kən dɪskʌ́s nówʃənz lájk kənvɜ́rdʒəns, kɒ̀ntɪnúwɪtij, ənd kəmplíjtnəs wɪðɪ́n ðə vɛ́ktər spéjs. nɔrmd vɛ́ktər spéjsɪz brɪ́dʒ pjʊ́r æ̀ldʒəbréjɪk strʌ́ktʃərz wɪð dʒìjəmɛ́trɪk ɪntuwɪ́ʃən, əláwɪŋ ʌs tə míjnɪŋfəlij dɪskʌ́s dɪ́stənsɪz bijtwíjn vɛ́ktərz. ðɪs prəvájdz ðə fawndéjʃən fɔr ɪmpɔ́rtənt əplájd mæ̀θəmǽtɪkəl kɒ́nsɛpts ɪn ənǽlɪsɪs, dɪ̀fərɛ́nʃəl əkwéjʒənz, ənd fʌ́ŋkʃənəl ənǽlɪsɪs. ðə nɔ́rm əsɛ́nʃəlij dʒɛ́nərəlajz awər ɪntúwɪtɪv ʌ̀ndərstǽndɪŋ əv lɛ́ŋθ frəm ɛ́vrijdéj θríj-dajmɛ́nʃənəl spéjs tə ǽbstræ̀kt vɛ́ktər spéjsɪz əv ɛ́nij dajmɛ́nʃən, ɪnklúwdɪŋ ɪ́nfɪnɪt dajmɛ́nʃənz."
-    },
-    {
-        "Question": "In functional analysis, which mathematical structure is a complete normed vector space where every Cauchy sequence converges to an element within the space?",
-        "RightAnswer": "Banach Space",
-        "WrongAnswers": [
-            "Hilbert Domain",
-            "Euclidean Manifold",
-            "Complete Lattice",
-            "Normed Field",
-            "Convergent Vector Ring"
-        ],
-        "Explanation": "A Banach Space is a fundamental concept in functional analysis and advanced linear algebra. It is a vector space equipped with a norm that makes it a complete metric space. The key property of a Banach Space is its completeness - meaning that every Cauchy sequence of vectors converges to a vector within the same space. This completeness property makes Banach Spaces particularly useful for developing theories of integration, differential equations, and approximation. Unlike regular vector spaces, Banach Spaces provide the analytical tools needed to discuss convergence and limits of infinite-dimensional objects. Common examples include the space of continuous functions on a closed interval with the supremum norm, and the space of sequences whose series of absolute values converge. Banach Spaces serve as a bridge between linear algebra and analysis, allowing mathematicians to extend finite-dimensional linear algebraic concepts to infinite dimensions with proper analytical control.",
-        "trans_Question": "ɪn fʌ́ŋkʃənəl ənǽlɪsɪs, wɪ́tʃ mæ̀θəmǽtɪkəl strʌ́ktʃər ɪz ə kəmplíjt nɔrmd vɛ́ktər spéjs wɛ́ər ɛvərij kówtʃij síjkwəns kənvɜ́rdʒɪz tə ən ɛ́ləmənt wɪðɪ́n ðə spéjs?",
-        "trans_RightAnswer": "bənɒ́tʃ spéjs",
-        "trans_WrongAnswers": [
-            "hɪ́lbərt dowméjn",
-            "juwklɪ́dijən mǽnɪfowld",
-            "kəmplíjt lǽtɪs",
-            "nɔrmd fíjld",
-            "kənvɜ́rdʒənt vɛ́ktər rɪ́ŋ"
-        ],
-        "trans_Explanation": "ə bənɒ́tʃ spéjs ɪz ə fʌ̀ndəmɛ́ntəl kɒ́nsɛpt ɪn fʌ́ŋkʃənəl ənǽlɪsɪs ənd ədvǽnst lɪ́nijər ǽldʒəbrə. ɪt ɪz ə vɛ́ktər spéjs əkwɪ́pt wɪð ə nɔ́rm ðət méjks ɪt ə kəmplíjt mɛ́trɪk spéjs. ðə kíj prɒ́pərtij əv ə bənɒ́tʃ spéjs ɪz ɪts kəmplíjtnəs - míjnɪŋ ðət ɛvərij kówtʃij síjkwəns əv vɛ́ktərz kənvɜ́rdʒɪz tə ə vɛ́ktər wɪðɪ́n ðə séjm spéjs. ðɪs kəmplíjtnəs prɒ́pərtij méjks bənɒ́tʃ spéjsɪz pərtɪ́kjələrlij júwsfəl fɔr dəvɛ́ləpɪŋ θíjərijz əv ɪntəɡrejʃən, dɪ̀fərɛ́nʃəl əkwéjʒənz, ənd əprɒ̀ksəméjʃən. ʌ̀nlájk rɛ́ɡjələr vɛ́ktər spéjsɪz, bənɒ́tʃ spéjsɪz prəvájd ðə æ̀nəlɪ́tɪkəl túwlz níjdɪd tə dɪskʌ́s kənvɜ́rdʒəns ənd lɪ́mɪts əv ɪ́nfɪnɪt-dajmɛ́nʃənəl ɒ́bdʒɛkts. kɒ́mən əɡzǽmpəlz ɪnklúwd ðə spéjs əv kəntɪ́njuwəs fʌ́ŋkʃənz ɒn ə klówzd ɪ́ntərvəl wɪð ðə səpríjməm nɔ́rm, ənd ðə spéjs əv síjkwənsɪz húwz sɪ́ərijz əv ǽbsəlùwt vǽljuwz kənvɜ́rdʒ. bənɒ́tʃ spéjsɪz sɜ́rv æz ə brɪ́dʒ bijtwíjn lɪ́nijər ǽldʒəbrə ənd ənǽlɪsɪs, əláwɪŋ mæ̀θmətɪ́ʃənz tə əkstɛ́nd fájnàjt-dajmɛ́nʃənəl lɪ́nijər æ̀ldʒəbréjɪk kɒ́nsɛpts tə ɪ́nfɪnɪt dajmɛ́nʃənz wɪð prɒ́pər æ̀nəlɪ́tɪkəl kəntrówl."
-    },
-    {
-        "Question": "Which mathematical structure consists of a vector space equipped with an operation that allows for measuring angles and lengths, generalizing the dot product from Euclidean space?",
-        "RightAnswer": "Inner Product Space",
-        "WrongAnswers": [
-            "Metric Tensor Field",
-            "Orthogonal Complement",
-            "Bilinear Mapping",
-            "Hermitian Space",
-            "Norm Preserving Transformation"
-        ],
-        "Explanation": "An Inner Product Space is a vector space that has been enhanced with an additional structure called an inner product. This inner product is a special function that takes two vectors and produces a scalar value. What makes inner products powerful is that they capture geometric intuition: they allow us to define angles between vectors, measure lengths, and determine when vectors are perpendicular to each other. For example, in the familiar Euclidean space, the dot product serves as the inner product. More generally, inner products must satisfy four key properties: they are linear in the first argument, conjugate symmetric, positive definite, and return real values when the same vector is used twice. Inner product spaces are fundamental in quantum mechanics, signal processing, and many areas of applied mathematics because they provide the foundation for concepts like orthogonality, projections, and the generalization of Euclidean geometry to abstract vector spaces.",
-        "trans_Question": "wɪ́tʃ mæ̀θəmǽtɪkəl strʌ́ktʃər kənsɪ́sts əv ə vɛ́ktər spéjs əkwɪ́pt wɪð ən ɒ̀pəréjʃən ðət əláwz fɔr mɛ́ʒərɪŋ ǽŋɡəlz ənd lɛ́ŋθs, dʒɛ́nərəlàjzɪŋ ðə dɒ́t prɒ́dəkt frəm juwklɪ́dijən spéjs?",
-        "trans_RightAnswer": "ɪ́nər prɒ́dəkt spéjs",
-        "trans_WrongAnswers": [
-            "mɛ́trɪk tɛ́nsər fíjld",
-            "ɔrθɔ́ɡənəl kɒ́mpləmənt",
-            "bajlɪ́nijər mǽpɪŋ",
-            "hɜrmɪ́ʃən spéjs",
-            "nɔ́rm prəzɜ́rvɪŋ træ̀nsfərméjʃən"
-        ],
-        "trans_Explanation": "ən ɪ́nər prɒ́dəkt spéjs ɪz ə vɛ́ktər spéjs ðət həz bɪn ənhǽnst wɪð ən ədɪ́ʃənəl strʌ́ktʃər kɔ́ld ən ɪ́nər prɒ́dəkt. ðɪs ɪ́nər prɒ́dəkt ɪz ə spɛ́ʃəl fʌ́ŋkʃən ðət téjks túw vɛ́ktərz ənd prədúwsɪz ə skéjlər vǽljuw. wɒt méjks ɪ́nər prɒ́dəkts páwərfəl ɪz ðət ðej kǽptʃər dʒìjəmɛ́trɪk ɪntuwɪ́ʃən: ðej əláw ʌs tə dəfájn ǽŋɡəlz bijtwíjn vɛ́ktərz, mɛ́ʒər lɛ́ŋθs, ənd dətɜ́rmɪn wɛ́n vɛ́ktərz ɑr pɜ̀rpəndɪ́kjələr tə ijtʃ ʌ́ðər. fɔr əɡzǽmpəl, ɪn ðə fəmɪ́ljər juwklɪ́dijən spéjs, ðə dɒ́t prɒ́dəkt sɜ́rvz æz ðə ɪ́nər prɒ́dəkt. mɔr dʒɛ́nərəlij, ɪ́nər prɒ́dəkts mʌst sǽtɪsfàj fɔ́r kíj prɒ́pərtijz: ðej ɑr lɪ́nijər ɪn ðə fɜ́rst ɑ́rɡjəmənt, kɒ́ndʒəɡèjt sɪmɛ́trɪk, pɒ́zɪtɪv dɛ́fɪnɪt, ənd rətɜ́rn ríjəl vǽljuwz wɛ́n ðə séjm vɛ́ktər ɪz júwzd twájs. ɪ́nər prɒ́dəkt spéjsɪz ɑr fʌ̀ndəmɛ́ntəl ɪn kwɑ́ntəm məkǽnɪks, sɪ́ɡnəl prɒ́sɛsɪŋ, ənd mɛ́nij ɛ́ərijəz əv əplájd mæ̀θəmǽtɪks bəkɒ́z ðej prəvájd ðə fawndéjʃən fɔr kɒ́nsɛpts lájk ɔrθəɡənǽlətij, prədʒɛ́kʃənz, ənd ðə dʒɛ̀nərəlɪzéjʃən əv juwklɪ́dijən dʒijɒ́mətrij tə ǽbstræ̀kt vɛ́ktər spéjsɪz."
-    },
-    {
-        "Question": "What mathematical structure generalizes Euclidean space to potentially infinite dimensions and includes a notion of distance derived from an inner product, allowing for analysis of quantum mechanics and functional analysis?",
-        "RightAnswer": "Hilbert Space",
-        "WrongAnswers": [
-            "Banach Space",
-            "Vector Manifold",
-            "Tensor Field",
-            "Eigenspace",
-            "Metric Lattice"
-        ],
-        "Explanation": "A Hilbert Space is a complete vector space equipped with an inner product that defines lengths and angles. While standard vector spaces like R³ are familiar examples, Hilbert Spaces extend this concept to potentially infinite dimensions while preserving our ability to work with distances and orthogonality. What makes Hilbert Spaces particularly powerful is their completeness property, meaning that any convergent sequence of points has its limit contained within the space. This structure provides the mathematical foundation for quantum mechanics, where quantum states are represented as vectors in a Hilbert Space. The inner product structure allows us to discuss probability amplitudes and measurement outcomes. In functional analysis, Hilbert Spaces enable us to think of functions themselves as vectors, leading to powerful techniques for solving differential equations and analyzing signals. Unlike more general vector spaces, the inner product in a Hilbert Space gives us a natural notion of perpendicularity and projection, which proves invaluable when decomposing complex objects into simpler components.",
-        "trans_Question": "wɒt mæ̀θəmǽtɪkəl strʌ́ktʃər dʒɛ́nərəlajz juwklɪ́dijən spéjs tə pətɛ́nʃəlij ɪ́nfɪnɪt dajmɛ́nʃənz ənd ɪnklúwdz ə nówʃən əv dɪ́stəns dərájvd frəm ən ɪ́nər prɒ́dəkt, əláwɪŋ fɔr ənǽlɪsɪs əv kwɑ́ntəm məkǽnɪks ənd fʌ́ŋkʃənəl ənǽlɪsɪs?",
-        "trans_RightAnswer": "hɪ́lbərt spéjs",
-        "trans_WrongAnswers": [
-            "bənɒ́tʃ spéjs",
-            "vɛ́ktər mǽnɪfowld",
-            "tɛ́nsər fíjld",
-            "ájɡənspèjs",
-            "mɛ́trɪk lǽtɪs"
-        ],
-        "trans_Explanation": "ə hɪ́lbərt spéjs ɪz ə kəmplíjt vɛ́ktər spéjs əkwɪ́pt wɪð ən ɪ́nər prɒ́dəkt ðət dəfájnz lɛ́ŋθs ənd ǽŋɡəlz. wájl stǽndərd vɛ́ktər spéjsɪz lájk R³ ɑr fəmɪ́ljər əɡzǽmpəlz, hɪ́lbərt spéjsɪz əkstɛ́nd ðɪs kɒ́nsɛpt tə pətɛ́nʃəlij ɪ́nfɪnɪt dajmɛ́nʃənz wájl prəzɜ́rvɪŋ awər əbɪ́lɪtij tə wɜ́rk wɪð dɪ́stənsɪz ənd ɔrθəɡənǽlətij. wɒt méjks hɪ́lbərt spéjsɪz pərtɪ́kjələrlij páwərfəl ɪz ðɛər kəmplíjtnəs prɒ́pərtij, míjnɪŋ ðət ɛ́nij kənvɜ́rdʒənt síjkwəns əv pɔ́jnts həz ɪts lɪ́mɪt kəntéjnd wɪðɪ́n ðə spéjs. ðɪs strʌ́ktʃər prəvájdz ðə mæ̀θəmǽtɪkəl fawndéjʃən fɔr kwɑ́ntəm məkǽnɪks, wɛ́ər kwɑ́ntəm stéjts ɑr rɛ̀prəzɛ́ntɪd æz vɛ́ktərz ɪn ə hɪ́lbərt spéjs. ðə ɪ́nər prɒ́dəkt strʌ́ktʃər əláwz ʌs tə dɪskʌ́s prɒ̀bəbɪ́lɪtij ǽmplɪtuwd ənd mɛ́ʒərmənt áwtkʌ̀mz. ɪn fʌ́ŋkʃənəl ənǽlɪsɪs, hɪ́lbərt spéjsɪz ɛnéjbəl ʌs tə θɪ́ŋk əv fʌ́ŋkʃənz ðəmsɛ́lvz æz vɛ́ktərz, líjdɪŋ tə páwərfəl tɛkníjks fɔr sɒ́lvɪŋ dɪ̀fərɛ́nʃəl əkwéjʒənz ənd ǽnəlàjzɪŋ sɪ́ɡnəlz. ʌ̀nlájk mɔr dʒɛ́nərəl vɛ́ktər spéjsɪz, ðə ɪ́nər prɒ́dəkt ɪn ə hɪ́lbərt spéjs ɡɪ́vz ʌs ə nǽtʃərəl nówʃən əv pərpɛndɪ̀kjəlǽrɪtij ənd prədʒɛ́kʃən, wɪ́tʃ prúwvz ɪ̀nvǽljəbəl wɛ́n dìjkəmpówzɪŋ kɒ́mplɛks ɒ́bdʒɛkts ɪntə sɪ́mplər kəmpównənts."
-    },
-    {
         "Question": "Which mathematical term describes a set of vectors that are both mutually perpendicular and each having a length of one, forming a coordinate system in a vector space?",
         "RightAnswer": "Orthonormal Basis",
         "WrongAnswers": [
@@ -2948,138 +2640,6 @@
         "trans_Explanation": "ðə áwtər prɒ́dəkt ɪz ə fʌ̀ndəmɛ́ntəl ɒ̀pəréjʃən ɪn lɪ́nijər ǽldʒəbrə ðət téjks túw vɛ́ktərz ənd prədúwsɪz ə méjtrɪks. ʌ̀nlájk ðə ɪ́nər prɒ́dəkt wɪ́tʃ rəzʌ́lts ɪn ə skéjlər, ðə áwtər prɒ́dəkt əv ən m-dajmɛ́nʃənəl vɛ́ktər ənd ən n-dajmɛ́nʃənəl vɛ́ktər krijéjts ən m baj n méjtrɪks. ijtʃ ɛ́ləmənt əv ðɪs rəzʌ́ltɪŋ méjtrɪks ɪz kǽlkjəlèjtɪd baj mʌ́ltɪplàjɪŋ ðə kɔ̀rəspɒ́ndɪŋ kəmpównənts frəm ðə túw vɛ́ktərz. fɔr əɡzǽmpəl, ɪf juw həv ə kɒ́ləm vɛ́ktər uw ənd ə row vɛ́ktər v, ðɛər áwtər prɒ́dəkt krijéjts ə méjtrɪks wɛ́ər ðə ɛ́ləmənt æt pəzɪ́ʃən (ij,j) íjkwəlz ðə prɒ́dəkt əv ðə aj-tíjéjtʃ kəmpównənt əv uw ənd ðə j-tíjéjtʃ kəmpównənt əv v. ðɪs ɒ̀pəréjʃən ɪz pərtɪ́kjələrlij júwsfəl ɪn vɛ́ərijəs æ̀plɪkéjʃənz ɪnklúwdɪŋ kwɑ́ntəm məkǽnɪks, kəmpjúwtər ɡrǽfɪks, ənd məʃíjn lɜ́rnɪŋ, əspɛ́ʃəlij wɛ́n kənstrʌ́ktɪŋ prədʒɛ́kʃən méjtrɪsɪz ɔr rɛ̀prəzɛ́ntɪŋ lɪ́nijər træ̀nsfərméjʃənz. ðə áwtər prɒ́dəkt ɪz sʌ́mtàjmz dənówtɪd æz uw ⊗ v ɔr sɪ́mplij æz uw v trænspówz."
     },
     {
-        "Question": "In linear algebra, which operation takes two matrices of any size and produces a larger block matrix that represents their combined system, useful in quantum mechanics and multivariate statistical analysis?",
-        "RightAnswer": "Kronecker Product",
-        "WrongAnswers": [
-            "Hadamard Transform",
-            "Eigendecomposition",
-            "Singular Value Expansion",
-            "Schur Complement",
-            "Tensor Contraction"
-        ],
-        "Explanation": "The Kronecker Product is a powerful operation in linear algebra that creates a larger matrix from two smaller matrices. If you have a matrix A of size m-by-n and a matrix B of size p-by-q, their Kronecker Product results in a matrix of size mp-by-nq. The operation works by replacing each element of the first matrix with the second matrix multiplied by that element. This creates a block matrix with a special structure that preserves many properties of the original matrices. The Kronecker Product is particularly valuable because it allows mathematicians and scientists to model complex systems by combining simpler ones. It appears frequently in quantum computing, signal processing, and when working with multivariate statistics. Unlike regular matrix multiplication, the Kronecker Product can be applied to matrices of any dimensions, making it extremely versatile for describing relationships between different vector spaces. The concept was named after Leopold Kronecker, a 19th-century German mathematician who made significant contributions to algebra and number theory.",
-        "trans_Question": "ɪn lɪ́nijər ǽldʒəbrə, wɪ́tʃ ɒ̀pəréjʃən téjks túw méjtrɪsɪz əv ɛ́nij sájz ənd prədúwsɪz ə lɑ́rdʒər blɒ́k méjtrɪks ðət rɛ̀prəzɛ́nts ðɛər kəmbájnd sɪ́stəm, júwsfəl ɪn kwɑ́ntəm məkǽnɪks ənd mʌ̀ltijvǽrijɪt stətɪ́stɪkəl ənǽlɪsɪs?",
-        "trans_RightAnswer": "krównɛkər prɒ́dəkt",
-        "trans_WrongAnswers": [
-            "trǽnsfɔrm",
-            "àjɡəndìjkəmpɒ́zɪʃən",
-            "sɪ́ŋɡjələr vǽljuw əkspǽnʃən",
-            "ʃɜ́r kɒ́mpləmənt",
-            "tɛ́nsər kəntrǽkʃən"
-        ],
-        "trans_Explanation": "ðə krównɛkər prɒ́dəkt ɪz ə páwərfəl ɒ̀pəréjʃən ɪn lɪ́nijər ǽldʒəbrə ðət krijéjts ə lɑ́rdʒər méjtrɪks frəm túw smɔ́lər méjtrɪsɪz. ɪf juw həv ə méjtrɪks ə əv sájz m-baj-n ənd ə méjtrɪks B əv sájz p-baj-q, ðɛər krównɛkər prɒ́dəkt rəzʌ́lts ɪn ə méjtrɪks əv sájz MP-baj-nq. ðə ɒ̀pəréjʃən wɜ́rks baj rəpléjsɪŋ ijtʃ ɛ́ləmənt əv ðə fɜ́rst méjtrɪks wɪð ðə sɛ́kənd méjtrɪks mʌ́ltɪplàjd baj ðət ɛ́ləmənt. ðɪs krijéjts ə blɒ́k méjtrɪks wɪð ə spɛ́ʃəl strʌ́ktʃər ðət prəzɜ́rvz mɛ́nij prɒ́pərtijz əv ðə ərɪ́dʒɪnəl méjtrɪsɪz. ðə krównɛkər prɒ́dəkt ɪz pərtɪ́kjələrlij vǽljəbəl bəkɒ́z ɪt əláwz mæ̀θmətɪ́ʃənz ənd sájəntɪsts tə mɒ́dəl kɒ́mplɛks sɪ́stəmz baj kəmbájnɪŋ sɪ́mplər wʌ́nz. ɪt əpɪ́ərz fríjkwəntlij ɪn kwɑ́ntəm kəmpjúwtɪŋ, sɪ́ɡnəl prɒ́sɛsɪŋ, ənd wɛ́n wɜ́rkɪŋ wɪð mʌ̀ltijvǽrijɪt stətɪ́stɪks. ʌ̀nlájk rɛ́ɡjələr méjtrɪks mʌ̀ltijpləkéjʃən, ðə krównɛkər prɒ́dəkt kən bij əplájd tə méjtrɪsɪz əv ɛ́nij dajmɛ́nʃənz, méjkɪŋ ɪt əkstríjmlij vɜ́rsətajl fɔr dəskrájbɪŋ rəléjʃənʃɪ̀ps bijtwíjn dɪ́fərənt vɛ́ktər spéjsɪz. ðə kɒ́nsɛpt wɒz néjmd ǽftər líjowpɔld krównɛkər, ə 19th-centuwry dʒɜ́rmən mæ̀θmətɪ́ʃən huw méjd sɪɡnɪ́fɪkənt kɒ̀ntrəbjúwʃənz tə ǽldʒəbrə ənd nʌ́mbər θíjərij."
-    },
-    {
-        "Question": "In linear algebra, which operation takes two matrices of the same dimensions and produces a third matrix where each element is the product of the corresponding elements of the original matrices?",
-        "RightAnswer": "Hadamard Product",
-        "WrongAnswers": [
-            "Kronecker Product",
-            "Tensor Contraction",
-            "Element-wise Division",
-            "Schur Complement",
-            "Frobenius Inner Product"
-        ],
-        "Explanation": "The Hadamard Product, also called the element-wise product or the Schur product, is a binary operation that takes two matrices of the same dimensions and produces a new matrix of the same size. Unlike regular matrix multiplication, the Hadamard Product simply multiplies corresponding elements together. For example, if you have two 3×3 matrices, the element in row 2, column 3 of the result would be the product of the elements in row 2, column 3 of each original matrix. This operation is particularly useful in neural networks, signal processing, and probability theory. It's named after the French mathematician Jacques Hadamard, though it was introduced by another mathematician, Issai Schur. The Hadamard Product is commutative and distributive over addition, making it algebraically well-behaved and intuitive to use in many computational contexts.",
-        "trans_Question": "ɪn lɪ́nijər ǽldʒəbrə, wɪ́tʃ ɒ̀pəréjʃən téjks túw méjtrɪsɪz əv ðə séjm dajmɛ́nʃənz ənd prədúwsɪz ə θɜ́rd méjtrɪks wɛ́ər ijtʃ ɛ́ləmənt ɪz ðə prɒ́dəkt əv ðə kɔ̀rəspɒ́ndɪŋ ɛ́ləmənts əv ðə ərɪ́dʒɪnəl méjtrɪsɪz?",
-        "trans_RightAnswer": "prɒ́dəkt",
-        "trans_WrongAnswers": [
-            "krównɛkər prɒ́dəkt",
-            "tɛ́nsər kəntrǽkʃən",
-            "ɛ́ləmənt-wájz dɪvɪ́ʒən",
-            "ʃɜ́r kɒ́mpləmənt",
-            "frowbíjnijəs ɪ́nər prɒ́dəkt"
-        ],
-        "trans_Explanation": "ðə  prɒ́dəkt, ɔ́lsow kɔ́ld ðə ɛ́ləmənt-wájz prɒ́dəkt ɔr ðə ʃɜ́r prɒ́dəkt, ɪz ə bájnərij ɒ̀pəréjʃən ðət téjks túw méjtrɪsɪz əv ðə séjm dajmɛ́nʃənz ənd prədúwsɪz ə núw méjtrɪks əv ðə séjm sájz. ʌ̀nlájk rɛ́ɡjələr méjtrɪks mʌ̀ltijpləkéjʃən, ðə  prɒ́dəkt sɪ́mplij mʌ́ltɪplàjz kɔ̀rəspɒ́ndɪŋ ɛ́ləmənts təɡɛ́ðər. fɔr əɡzǽmpəl, ɪf juw həv túw 3×3 méjtrɪsɪz, ðə ɛ́ləmənt ɪn row 2, kɒ́ləm 3 əv ðə rəzʌ́lt wʊd bij ðə prɒ́dəkt əv ðə ɛ́ləmənts ɪn row 2, kɒ́ləm 3 əv ijtʃ ərɪ́dʒɪnəl méjtrɪks. ðɪs ɒ̀pəréjʃən ɪz pərtɪ́kjələrlij júwsfəl ɪn nʊ́rəl nɛ́twɜ̀rks, sɪ́ɡnəl prɒ́sɛsɪŋ, ənd prɒ̀bəbɪ́lɪtij θíjərij. ɪt's néjmd ǽftər ðə frɛ́ntʃ mæ̀θmətɪ́ʃən dʒǽk , ðów ɪt wɒz ɪntrədúwst baj ənʌ́ðər mæ̀θmətɪ́ʃən, ɪséj ʃɜ́r. ðə  prɒ́dəkt ɪz kəmjúwtətɪv ənd dɪstrɪ́bjuwtɪv ówvər ədɪ́ʃən, méjkɪŋ ɪt æ̀ldʒəbréjɪklij wɛ́l-bəhéjvd ənd ɪntúwɪtɪv tə juwz ɪn mɛ́nij kɒ̀mpjuwtéjʃənəl kɒ́ntɛ̀ksts."
-    },
-    {
-        "Question": "Which mathematical operation allows us to combine two vector spaces into a more complex structure that preserves their dimensions by multiplying their dimensions together?",
-        "RightAnswer": "Tensor Product",
-        "WrongAnswers": [
-            "Cross Product",
-            "Direct Sum",
-            "Matrix Multiplication",
-            "Inner Product",
-            "Scalar Projection"
-        ],
-        "Explanation": "The tensor product is a fundamental operation in linear algebra that creates a new vector space from two existing vector spaces. When we take the tensor product of vector spaces V and W, we get a larger space whose dimension is the product of the original dimensions. Unlike the direct sum which simply puts spaces side by side, the tensor product creates a richer structure that captures all possible combinations of vectors from the original spaces. This operation is essential in quantum mechanics, differential geometry, and machine learning. Tensors generalize the concepts of scalars, vectors and matrices to higher dimensions, allowing us to represent and manipulate multidimensional data and transformations. The notation V tensor W represents this new space where elements can express more complex relationships than either original space could alone.",
-        "trans_Question": "wɪ́tʃ mæ̀θəmǽtɪkəl ɒ̀pəréjʃən əláwz ʌs tə kɒ́mbajn túw vɛ́ktər spéjsɪz ɪntə ə mɔr kɒ́mplɛks strʌ́ktʃər ðət prəzɜ́rvz ðɛər dajmɛ́nʃənz baj mʌ́ltɪplàjɪŋ ðɛər dajmɛ́nʃənz təɡɛ́ðər?",
-        "trans_RightAnswer": "tɛ́nsər prɒ́dəkt",
-        "trans_WrongAnswers": [
-            "krɔ́s prɒ́dəkt",
-            "dɪərɛ́kt sʌ́m",
-            "méjtrɪks mʌ̀ltijpləkéjʃən",
-            "ɪ́nər prɒ́dəkt",
-            "skéjlər prədʒɛ́kʃən"
-        ],
-        "trans_Explanation": "ðə tɛ́nsər prɒ́dəkt ɪz ə fʌ̀ndəmɛ́ntəl ɒ̀pəréjʃən ɪn lɪ́nijər ǽldʒəbrə ðət krijéjts ə núw vɛ́ktər spéjs frəm túw əɡzɪ́stɪŋ vɛ́ktər spéjsɪz. wɛ́n wij téjk ðə tɛ́nsər prɒ́dəkt əv vɛ́ktər spéjsɪz V ənd W, wij ɡɛt ə lɑ́rdʒər spéjs húwz dajmɛ́nʃən ɪz ðə prɒ́dəkt əv ðə ərɪ́dʒɪnəl dajmɛ́nʃənz. ʌ̀nlájk ðə dɪərɛ́kt sʌ́m wɪ́tʃ sɪ́mplij pʊ́ts spéjsɪz sájd baj sájd, ðə tɛ́nsər prɒ́dəkt krijéjts ə rɪ́tʃər strʌ́ktʃər ðət kǽptʃərz ɔl pɒ́sɪbəl kɒ̀mbɪnéjʃənz əv vɛ́ktərz frəm ðə ərɪ́dʒɪnəl spéjsɪz. ðɪs ɒ̀pəréjʃən ɪz əsɛ́nʃəl ɪn kwɑ́ntəm məkǽnɪks, dɪ̀fərɛ́nʃəl dʒijɒ́mətrij, ənd məʃíjn lɜ́rnɪŋ. tɛ́nsərz dʒɛ́nərəlàjz ðə kɒ́nsɛpts əv skéjlərz, vɛ́ktərz ənd méjtrɪsɪz tə hájər dajmɛ́nʃənz, əláwɪŋ ʌs tə rɛ̀prəzɛ́nt ənd mənɪ́pjəlèjt mʌ́ltijdajménʃənəl déjtə ənd træ̀nsfərméjʃənz. ðə nowtéjʃən V tɛ́nsər W rɛ̀prəzɛ́nts ðɪs núw spéjs wɛ́ər ɛ́ləmənts kən əksprɛ́s mɔr kɒ́mplɛks rəléjʃənʃɪ̀ps ðʌn ájðər ərɪ́dʒɪnəl spéjs kʊ́d əlówn."
-    },
-    {
-        "Question": "In linear algebra, which operation combines two vector spaces V and W to create a new vector space that contains all possible pairs of vectors from V and W, while preserving their individual structures?",
-        "RightAnswer": "Direct Sum",
-        "WrongAnswers": [
-            "Tensor Product",
-            "Linear Combination",
-            "Vector Projection",
-            "Orthogonal Complement",
-            "Span Extension"
-        ],
-        "Explanation": "The Direct Sum is a fundamental construction in linear algebra that allows us to combine two or more vector spaces to create a larger space. When we take the direct sum of vector spaces V and W, written as V ⊕ W, we create a new vector space consisting of all ordered pairs where the first component comes from V and the second from W. The key characteristic of a direct sum is that each element in the resulting space can be uniquely decomposed into components from the original spaces. This differs from other ways of combining spaces, like the union, because the direct sum preserves the structure and dimensionality of the original spaces. The dimension of the direct sum equals the sum of the dimensions of the component spaces. Direct sums are particularly useful when decomposing complex vector spaces into simpler, more manageable subspaces, essentially allowing us to work with each component independently and then combine results. In matrices, this operation often corresponds to creating block diagonal matrices, where each original space forms its own block.",
-        "trans_Question": "ɪn lɪ́nijər ǽldʒəbrə, wɪ́tʃ ɒ̀pəréjʃən kəmbájnz túw vɛ́ktər spéjsɪz V ənd W tə krijéjt ə núw vɛ́ktər spéjs ðət kəntéjnz ɔl pɒ́sɪbəl pɛ́ərz əv vɛ́ktərz frəm V ənd W, wájl prəzɜ́rvɪŋ ðɛər ɪndɪvɪ́dʒəwəl strʌ́ktʃərz?",
-        "trans_RightAnswer": "dɪərɛ́kt sʌ́m",
-        "trans_WrongAnswers": [
-            "tɛ́nsər prɒ́dəkt",
-            "lɪ́nijər kɒ̀mbɪnéjʃən",
-            "vɛ́ktər prədʒɛ́kʃən",
-            "ɔrθɔ́ɡənəl kɒ́mpləmənt",
-            "spǽn əkstɛ́nʃən"
-        ],
-        "trans_Explanation": "ðə dɪərɛ́kt sʌ́m ɪz ə fʌ̀ndəmɛ́ntəl kənstrʌ́kʃən ɪn lɪ́nijər ǽldʒəbrə ðət əláwz ʌs tə kɒ́mbajn túw ɔr mɔr vɛ́ktər spéjsɪz tə krijéjt ə lɑ́rdʒər spéjs. wɛ́n wij téjk ðə dɪərɛ́kt sʌ́m əv vɛ́ktər spéjsɪz V ənd W, rɪ́tən æz V ⊕ W, wij krijéjt ə núw vɛ́ktər spéjs kənsɪ́stɪŋ əv ɔl ɔ́rdərd pɛ́ərz wɛ́ər ðə fɜ́rst kəmpównənt kʌ́mz frəm V ənd ðə sɛ́kənd frəm W. ðə kíj kæ̀rəktərɪ́stɪk əv ə dɪərɛ́kt sʌ́m ɪz ðət ijtʃ ɛ́ləmənt ɪn ðə rəzʌ́ltɪŋ spéjs kən bij juwnɪ́klij dìjkəmpówzd ɪntə kəmpównənts frəm ðə ərɪ́dʒɪnəl spéjsɪz. ðɪs dɪ́fərz frəm ʌ́ðər wéjz əv kəmbájnɪŋ spéjsɪz, lájk ðə júwnjən, bəkɒ́z ðə dɪərɛ́kt sʌ́m prəzɜ́rvz ðə strʌ́ktʃər ənd dajmɛ̀nʃənǽlɪtij əv ðə ərɪ́dʒɪnəl spéjsɪz. ðə dajmɛ́nʃən əv ðə dɪərɛ́kt sʌ́m íjkwəlz ðə sʌ́m əv ðə dajmɛ́nʃənz əv ðə kəmpównənt spéjsɪz. dɪərɛ́kt sʌ́mz ɑr pərtɪ́kjələrlij júwsfəl wɛ́n dìjkəmpówzɪŋ kɒ́mplɛks vɛ́ktər spéjsɪz ɪntə sɪ́mplər, mɔr mǽnədʒəbəl sʌ́bspèjsɪs, əsɛ́nʃəlij əláwɪŋ ʌs tə wɜ́rk wɪð ijtʃ kəmpównənt ɪndəpɛ́ndəntlij ənd ðɛn kɒ́mbajn rəzʌ́lts. ɪn méjtrɪsɪz, ðɪs ɒ̀pəréjʃən ɔ́fən kɔ̀rəspɒ́ndz tə krijéjtɪŋ blɒ́k dajǽɡənəl méjtrɪsɪz, wɛ́ər ijtʃ ərɪ́dʒɪnəl spéjs fɔ́rmz ɪts ówn blɒ́k."
-    },
-    {
-        "Question": "In linear algebra, what term describes the operation that combines two vector spaces V and W to create a new vector space consisting of all ordered pairs (v, w) where v is in V and w is in W?",
-        "RightAnswer": "Direct Product",
-        "WrongAnswers": [
-            "Tensor Product",
-            "Inner Product",
-            "Cartesian Sum",
-            "Linear Combination",
-            "Outer Projection"
-        ],
-        "Explanation": "The Direct Product is a fundamental construction in linear algebra that allows us to combine two vector spaces into a larger one. When we take the direct product of vector spaces V and W, written as V × W, we create a new vector space consisting of all ordered pairs (v, w) where v comes from V and w comes from W. This new space has dimension equal to the sum of the dimensions of the original spaces. Addition and scalar multiplication are defined component-wise, meaning (v₁, w₁) + (v₂, w₂) = (v₁+v₂, w₁+w₂) and c(v, w) = (cv, cw) for any scalar c. The direct product creates a space that essentially contains both original spaces while preserving their separate identities, unlike other operations like the tensor product which creates more complex interactions between the spaces. Direct products appear throughout mathematics and are especially useful for building complex vector spaces from simpler components.",
-        "trans_Question": "ɪn lɪ́nijər ǽldʒəbrə, wɒt tɜ́rm dəskrájbz ðə ɒ̀pəréjʃən ðət kəmbájnz túw vɛ́ktər spéjsɪz V ənd W tə krijéjt ə núw vɛ́ktər spéjs kənsɪ́stɪŋ əv ɔl ɔ́rdərd pɛ́ərz (v, w) wɛ́ər v ɪz ɪn V ənd w ɪz ɪn W?",
-        "trans_RightAnswer": "dɪərɛ́kt prɒ́dəkt",
-        "trans_WrongAnswers": [
-            "tɛ́nsər prɒ́dəkt",
-            "ɪ́nər prɒ́dəkt",
-            "kɑrtíjʒən sʌ́m",
-            "lɪ́nijər kɒ̀mbɪnéjʃən",
-            "áwtər prədʒɛ́kʃən"
-        ],
-        "trans_Explanation": "ðə dɪərɛ́kt prɒ́dəkt ɪz ə fʌ̀ndəmɛ́ntəl kənstrʌ́kʃən ɪn lɪ́nijər ǽldʒəbrə ðət əláwz ʌs tə kɒ́mbajn túw vɛ́ktər spéjsɪz ɪntə ə lɑ́rdʒər wʌ́n. wɛ́n wij téjk ðə dɪərɛ́kt prɒ́dəkt əv vɛ́ktər spéjsɪz V ənd W, rɪ́tən æz V × W, wij krijéjt ə núw vɛ́ktər spéjs kənsɪ́stɪŋ əv ɔl ɔ́rdərd pɛ́ərz (v, w) wɛ́ər v kʌ́mz frəm V ənd w kʌ́mz frəm W. ðɪs núw spéjs həz dajmɛ́nʃən íjkwəl tə ðə sʌ́m əv ðə dajmɛ́nʃənz əv ðə ərɪ́dʒɪnəl spéjsɪz. ədɪ́ʃən ənd skéjlər mʌ̀ltijpləkéjʃən ɑr dəfájnd kəmpównənt-wájz, míjnɪŋ (v₁, w₁) + (v₂, w₂) = (v₁+v₂, w₁+w₂) ənd c(v, w) = (sìjvíj, cw) fɔr ɛ́nij skéjlər c. ðə dɪərɛ́kt prɒ́dəkt krijéjts ə spéjs ðət əsɛ́nʃəlij kəntéjnz bówθ ərɪ́dʒɪnəl spéjsɪz wájl prəzɜ́rvɪŋ ðɛər sɛ́pərət ajdɛ́ntɪtijz, ʌ̀nlájk ʌ́ðər ɒ̀pəréjʃənz lájk ðə tɛ́nsər prɒ́dəkt wɪ́tʃ krijéjts mɔr kɒ́mplɛks ɪ̀ntərǽkʃənz bijtwíjn ðə spéjsɪz. dɪərɛ́kt prɒ́dəkts əpɪ́ər θruwáwt mæ̀θəmǽtɪks ənd ɑr əspɛ́ʃəlij júwsfəl fɔr bɪ́ldɪŋ kɒ́mplɛks vɛ́ktər spéjsɪz frəm sɪ́mplər kəmpównənts."
-    },
-    {
-        "Question": "What mathematical concept refers to the set of all vectors that can be expressed as the sum of elements from two or more given subspaces of a vector space?",
-        "RightAnswer": "Sum of Subspaces",
-        "WrongAnswers": [
-            "Vector Amalgamation",
-            "Subspace Union",
-            "Linear Combination Space",
-            "Span Aggregation",
-            "Vector Space Junction"
-        ],
-        "Explanation": "The Sum of Subspaces is an important concept in linear algebra that combines multiple subspaces into a new, often larger subspace. When we have two or more subspaces U and V of a vector space, their sum consists of all possible vectors that can be written as u plus v, where u comes from U and v comes from V. This new set forms another subspace of the original vector space. Unlike the union of sets, which simply collects elements from both sets, the sum of subspaces generates new vectors through addition. For example, if U contains vectors along the x-axis and V contains vectors along the y-axis in three-dimensional space, their sum would be the entire xy-plane. The sum of subspaces is crucial for understanding how complex vector spaces can be built from simpler components, and plays a fundamental role in topics like direct sums, linear transformations, and the dimension theorem, which states that the dimension of the sum equals the sum of the dimensions minus the dimension of their intersection.",
-        "trans_Question": "wɒt mæ̀θəmǽtɪkəl kɒ́nsɛpt rəfɜ́rz tə ðə sɛ́t əv ɔl vɛ́ktərz ðət kən bij əksprɛ́st æz ðə sʌ́m əv ɛ́ləmənts frəm túw ɔr mɔr ɡɪ́vən sʌ́bspèjsɪs əv ə vɛ́ktər spéjs?",
-        "trans_RightAnswer": "sʌ́m əv sʌ́bspèjsɪs",
-        "trans_WrongAnswers": [
-            "vɛ́ktər əmæ̀lɡəméjʃən",
-            "sʌ́bspèjs júwnjən",
-            "lɪ́nijər kɒ̀mbɪnéjʃən spéjs",
-            "spǽn æ̀ɡrəɡéjʃən",
-            "vɛ́ktər spéjs dʒʌ́ŋkʃən"
-        ],
-        "trans_Explanation": "ðə sʌ́m əv sʌ́bspèjsɪs ɪz ən ɪmpɔ́rtənt kɒ́nsɛpt ɪn lɪ́nijər ǽldʒəbrə ðət kəmbájnz mʌ́ltɪpəl sʌ́bspèjsɪs ɪntə ə núw, ɔ́fən lɑ́rdʒər sʌ́bspèjs. wɛ́n wij həv túw ɔr mɔr sʌ́bspèjsɪs U ənd V əv ə vɛ́ktər spéjs, ðɛər sʌ́m kənsɪ́sts əv ɔl pɒ́sɪbəl vɛ́ktərz ðət kən bij rɪ́tən æz uw plʌ́s v, wɛ́ər uw kʌ́mz frəm U ənd v kʌ́mz frəm V. ðɪs núw sɛ́t fɔ́rmz ənʌ́ðər sʌ́bspèjs əv ðə ərɪ́dʒɪnəl vɛ́ktər spéjs. ʌ̀nlájk ðə júwnjən əv sɛ́ts, wɪ́tʃ sɪ́mplij kəlɛ́kts ɛ́ləmənts frəm bówθ sɛ́ts, ðə sʌ́m əv sʌ́bspèjsɪs dʒɛ́nərèjts núw vɛ́ktərz θrúw ədɪ́ʃən. fɔr əɡzǽmpəl, ɪf U kəntéjnz vɛ́ktərz əlɔ́ŋ ðə x-ǽksɪs ənd V kəntéjnz vɛ́ktərz əlɔ́ŋ ðə y-ǽksɪs ɪn θríj-dajmɛ́nʃənəl spéjs, ðɛər sʌ́m wʊd bij ðə əntájər xy-pléjn. ðə sʌ́m əv sʌ́bspèjsɪs ɪz krúwʃəl fɔr ʌ̀ndərstǽndɪŋ háw kɒ́mplɛks vɛ́ktər spéjsɪz kən bij bɪ́lt frəm sɪ́mplər kəmpównənts, ənd pléjz ə fʌ̀ndəmɛ́ntəl rówl ɪn tɒ́pɪks lájk dɪərɛ́kt sʌ́mz, lɪ́nijər træ̀nsfərméjʃənz, ənd ðə dajmɛ́nʃən θɪ́ərəm, wɪ́tʃ stéjts ðət ðə dajmɛ́nʃən əv ðə sʌ́m íjkwəlz ðə sʌ́m əv ðə dajmɛ́nʃənz májnəs ðə dajmɛ́nʃən əv ðɛər ɪ̀ntərsɛ́kʃən."
-    },
-    {
         "Question": "In a vector space V that can be decomposed into two subspaces U and W such that every vector in V can be uniquely written as a sum of vectors from U and W, what term describes W in relation to U?",
         "RightAnswer": "Complementary Subspace",
         "WrongAnswers": [
@@ -3122,28 +2682,6 @@
             "kɒ́ndʒəɡèjt sɛ́t"
         ],
         "trans_Explanation": "ðə ɔrθɔ́ɡənəl kɒ́mpləmənt əv ə sʌ́bspèjs W ɪz ðə sɛ́t əv ɔl vɛ́ktərz ðət ɑr pɜ̀rpəndɪ́kjələr tə ɛvərij vɛ́ktər ɪn W. ðɪs kɒ́nsɛpt əkstɛ́ndz awər ɪntuwɪ́ʃən əbawt pɜ̀rpəndɪ́kjələr lájnz ənd pléjnz ɪntə hájər dajmɛ́nʃənz. ɪf W ɪz ə sʌ́bspèjs əv ə vɛ́ktər spéjs V, ðɛn ðə ɔrθɔ́ɡənəl kɒ́mpləmənt, ɔ́fən dənówtɪd æz W pɜ̀rpəndɪ́kjələr, kənsɪ́sts əv ɔl vɛ́ktərz ɪn V ðət fɔ́rm ə 90-dəɡríj ǽŋɡəl wɪð ɛvərij vɛ́ktər ɪn W. ðɪs míjnz ðɛər dɒ́t prɒ́dəkt íjkwəlz zíjərow. ðə ɔrθɔ́ɡənəl kɒ́mpləmənt ɪz ɪtsɛ́lf ə sʌ́bspèjs wɪð fǽsɪnèjtɪŋ prɒ́pərtijz: ðə dɪərɛ́kt sʌ́m əv ə sʌ́bspèjs ənd ɪts ɔrθɔ́ɡənəl kɒ́mpləmənt ɡɪ́vz ðə əntájər vɛ́ktər spéjs, ənd ðə ɔrθɔ́ɡənəl kɒ́mpləmənt əv ðə ɔrθɔ́ɡənəl kɒ́mpləmənt rətɜ́rnz ðə ərɪ́dʒɪnəl sʌ́bspèjs. ðɪs kɒ́nsɛpt ɪz krúwʃəl ɪn ʌ̀ndərstǽndɪŋ prədʒɛ́kʃənz, líjst skwɛ́ərz əprɒ̀ksəméjʃənz, ənd sɒ́lvɪŋ dɪ̀fərɛ́nʃəl əkwéjʒənz, méjkɪŋ ɪt ə páwərfəl túwl ðət kənɛ́kts dʒijɒ́mətrij ənd ǽldʒəbrə."
-    },
-    {
-        "Question": "In linear algebra, what term describes the set of linear functionals that assigns the value 1 to a specific basis vector and 0 to all other basis vectors?",
-        "RightAnswer": "Dual Basis",
-        "WrongAnswers": [
-            "Orthogonal Complement",
-            "Reciprocal Basis",
-            "Conjugate Basis",
-            "Linear Functional Span",
-            "Coordinate Mapping"
-        ],
-        "Explanation": "A dual basis is a fundamental concept in linear algebra that creates a bridge between a vector space and its dual space. For any basis in a finite-dimensional vector space, there exists a unique corresponding set of linear functionals, called the dual basis. Each functional in this dual basis has the special property that it evaluates to 1 when applied to its corresponding basis vector, and evaluates to 0 when applied to any other basis vector in the original basis. This relationship makes dual bases extremely useful for expressing coordinates, transformations, and for understanding how abstract vector spaces relate to concrete representations. The dual basis allows us to extract coordinates of vectors in a natural way, and plays a crucial role in understanding linear transformations and their matrix representations. The concept extends to more advanced topics like tensor algebra and differential geometry, where differential forms can be viewed as elements of dual spaces.",
-        "trans_Question": "ɪn lɪ́nijər ǽldʒəbrə, wɒt tɜ́rm dəskrájbz ðə sɛ́t əv lɪ́nijər fʌ́ŋkʃənəlz ðət əsájnz ðə vǽljuw 1 tə ə spəsɪ́fɪk béjsɪs vɛ́ktər ənd 0 tə ɔl ʌ́ðər béjsɪs vɛ́ktərz?",
-        "trans_RightAnswer": "djúwəl béjsɪs",
-        "trans_WrongAnswers": [
-            "ɔrθɔ́ɡənəl kɒ́mpləmənt",
-            "rəsɪ́prəkəl béjsɪs",
-            "kɒ́ndʒəɡèjt béjsɪs",
-            "lɪ́nijər fʌ́ŋkʃənəl spǽn",
-            "kowɔ́rdɪnèjt mǽpɪŋ"
-        ],
-        "trans_Explanation": "ə djúwəl béjsɪs ɪz ə fʌ̀ndəmɛ́ntəl kɒ́nsɛpt ɪn lɪ́nijər ǽldʒəbrə ðət krijéjts ə brɪ́dʒ bijtwíjn ə vɛ́ktər spéjs ənd ɪts djúwəl spéjs. fɔr ɛ́nij béjsɪs ɪn ə fájnàjt-dajmɛ́nʃənəl vɛ́ktər spéjs, ðɛər əɡzɪ́sts ə juwnɪ́k kɔ̀rəspɒ́ndɪŋ sɛ́t əv lɪ́nijər fʌ́ŋkʃənəlz, kɔ́ld ðə djúwəl béjsɪs. ijtʃ fʌ́ŋkʃənəl ɪn ðɪs djúwəl béjsɪs həz ðə spɛ́ʃəl prɒ́pərtij ðət ɪt əvǽljuwèjts tə 1 wɛ́n əplájd tə ɪts kɔ̀rəspɒ́ndɪŋ béjsɪs vɛ́ktər, ənd əvǽljuwèjts tə 0 wɛ́n əplájd tə ɛ́nij ʌ́ðər béjsɪs vɛ́ktər ɪn ðə ərɪ́dʒɪnəl béjsɪs. ðɪs rəléjʃənʃɪ̀p méjks djúwəl béjsɪz əkstríjmlij júwsfəl fɔr əksprɛ́sɪŋ kowɔ́rdɪnèjts, træ̀nsfərméjʃənz, ənd fɔr ʌ̀ndərstǽndɪŋ háw ǽbstræ̀kt vɛ́ktər spéjsɪz rəléjt tə kɒ́nkrijt rɛ̀prəzəntéjʃənz. ðə djúwəl béjsɪs əláwz ʌs tə ɛ́kstrəkt kowɔ́rdɪnèjts əv vɛ́ktərz ɪn ə nǽtʃərəl wej, ənd pléjz ə krúwʃəl rówl ɪn ʌ̀ndərstǽndɪŋ lɪ́nijər træ̀nsfərméjʃənz ənd ðɛər méjtrɪks rɛ̀prəzəntéjʃənz. ðə kɒ́nsɛpt əkstɛ́ndz tə mɔr ədvǽnst tɒ́pɪks lájk tɛ́nsər ǽldʒəbrə ənd dɪ̀fərɛ́nʃəl dʒijɒ́mətrij, wɛ́ər dɪ̀fərɛ́nʃəl fɔ́rmz kən bij vjúwd æz ɛ́ləmənts əv djúwəl spéjsɪz."
     },
     {
         "Question": "When changing from one basis to another in a vector space, what matrix represents the components of the original basis vectors in terms of the new basis?",
@@ -3498,28 +3036,6 @@
         "trans_Explanation": "ðə fʌ̀ndəmɛ́ntəl sʌ́bspèjsɪs ɑr ðə fɔ́r kíj vɛ́ktər spéjsɪz əsówsijèjtɪd wɪð ɛ́nij méjtrɪks ðət təɡɛ́ðər prəvájd ə kəmplíjt kæ̀rəktərɪzéjʃən əv ðə méjtrɪks'z prɒ́pərtijz. ðijz fɔ́r spéjsɪz ɑr ðə kɒ́ləm spéjs, nʌ́lspèjs, row spéjs, ənd lɛ́ft nʌ́lspèjs. ðə kɒ́ləm spéjs kənsɪ́sts əv ɔl pɒ́sɪbəl lɪ́nijər kɒ̀mbɪnéjʃənz əv ðə méjtrɪks'z kɒ́ləmz, rɛ̀prəzɛ́ntɪŋ ðə réjndʒ əv ðə méjtrɪks træ̀nsfərméjʃən. ðə nʌ́lspèjs kəntéjnz ɔl vɛ́ktərz ðət ðə méjtrɪks mǽps tə zíjərow, rəvíjlɪŋ wɒt ɪnfərméjʃən ðə træ̀nsfərméjʃən dəstrɔ́jz. ðə row spéjs kəntéjnz ɔl lɪ́nijər kɒ̀mbɪnéjʃənz əv ðə méjtrɪks'z rówz ənd həz ðə séjm dajmɛ́nʃən æz ðə kɒ́ləm spéjs. ðə lɛ́ft nʌ́lspèjs ɪz ðə nʌ́lspèjs əv ðə méjtrɪks trænspówz. ðijz fɔ́r sʌ́bspèjsɪs ɑr ɪ̀ntərkənɛ́ktɪd θrúw ɪmpɔ́rtənt rəléjʃənʃɪ̀ps: ðə row spéjs ənd nʌ́lspèjs ɑr ɔrθɔ́ɡənəl kɒ́mpləmənts ɪn ðə dowméjn, wájl ðə kɒ́ləm spéjs ənd lɛ́ft nʌ́lspèjs ɑr ɔrθɔ́ɡənəl kɒ́mpləmənts ɪn ðə kówdejn. ʌ̀ndərstǽndɪŋ ðijz fʌ̀ndəmɛ́ntəl sʌ́bspèjsɪs hɛ́lps sɒ́lv sɪ́stəmz əv əkwéjʒənz, dətɜ́rmɪn méjtrɪks rǽŋk, ǽnəlàjz træ̀nsfərméjʃənz, ənd fɔ́rmz ðə fawndéjʃən fɔr mɛ́nij ədvǽnst kɒ́nsɛpts ɪn lɪ́nijər ǽldʒəbrə."
     },
     {
-        "Question": "What is the mathematical term for a subspace that remains unchanged when a linear transformation is applied to its elements?",
-        "RightAnswer": "Invariant Subspace",
-        "WrongAnswers": [
-            "Fixed Point Subspace",
-            "Constant Vector Space",
-            "Transformation Kernel",
-            "Eigenspace Domain",
-            "Linear Stabilizer"
-        ],
-        "Explanation": "An Invariant Subspace is a fundamental concept in linear algebra that describes a special relationship between a linear transformation and a subset of vectors. When we have a linear transformation T acting on a vector space V, a subspace W of V is called an invariant subspace if applying T to any vector in W always results in another vector that still belongs to W. In other words, the subspace W is preserved or 'invariant' under the action of T. This means that if you take any vector from this subspace and apply the transformation, you never 'escape' the subspace. Invariant subspaces are particularly important in understanding the structure of linear transformations and appear frequently in applications such as differential equations, quantum mechanics, and dynamic systems. A simple example is the eigenspace of a transformation, which is always an invariant subspace. The concept helps mathematicians decompose complex transformations into simpler components, making them easier to analyze.",
-        "trans_Question": "wɒt ɪz ðə mæ̀θəmǽtɪkəl tɜ́rm fɔr ə sʌ́bspèjs ðət rəméjnz ʌ̀ntʃéjndʒd wɛ́n ə lɪ́nijər træ̀nsfərméjʃən ɪz əplájd tə ɪts ɛ́ləmənts?",
-        "trans_RightAnswer": "ɪ̀nvɛ́ərijənt sʌ́bspèjs",
-        "trans_WrongAnswers": [
-            "fɪ́kst pɔ́jnt sʌ́bspèjs",
-            "kɒ́nstənt vɛ́ktər spéjs",
-            "træ̀nsfərméjʃən kɜ́rnəl",
-            "ájɡənspèjs dowméjn",
-            "lɪ́nijər stéjbəlajzər"
-        ],
-        "trans_Explanation": "ən ɪ̀nvɛ́ərijənt sʌ́bspèjs ɪz ə fʌ̀ndəmɛ́ntəl kɒ́nsɛpt ɪn lɪ́nijər ǽldʒəbrə ðət dəskrájbz ə spɛ́ʃəl rəléjʃənʃɪ̀p bijtwíjn ə lɪ́nijər træ̀nsfərméjʃən ənd ə sʌ́bsɛ̀t əv vɛ́ktərz. wɛ́n wij həv ə lɪ́nijər træ̀nsfərméjʃən T ǽktɪŋ ɒn ə vɛ́ktər spéjs V, ə sʌ́bspèjs W əv V ɪz kɔ́ld ən ɪ̀nvɛ́ərijənt sʌ́bspèjs ɪf əplájɪŋ T tə ɛ́nij vɛ́ktər ɪn W ɔ́lwejz rəzʌ́lts ɪn ənʌ́ðər vɛ́ktər ðət stɪ́l bəlɔ́ŋz tə W. ɪn ʌ́ðər wɜ́rdz, ðə sʌ́bspèjs W ɪz prəzɜ́rvd ɔr 'ɪ̀nvɛ́ərijənt' ʌ́ndər ðə ǽkʃən əv T. ðɪs míjnz ðət ɪf juw téjk ɛ́nij vɛ́ktər frəm ðɪs sʌ́bspèjs ənd əpláj ðə træ̀nsfərméjʃən, juw nɛ́vər 'əskéjp' ðə sʌ́bspèjs. ɪ̀nvɛ́ərijənt sʌ́bspèjsɪs ɑr pərtɪ́kjələrlij ɪmpɔ́rtənt ɪn ʌ̀ndərstǽndɪŋ ðə strʌ́ktʃər əv lɪ́nijər træ̀nsfərméjʃənz ənd əpɪ́ər fríjkwəntlij ɪn æ̀plɪkéjʃənz sʌtʃ æz dɪ̀fərɛ́nʃəl əkwéjʒənz, kwɑ́ntəm məkǽnɪks, ənd dajnǽmɪk sɪ́stəmz. ə sɪ́mpəl əɡzǽmpəl ɪz ðə ájɡənspèjs əv ə træ̀nsfərméjʃən, wɪ́tʃ ɪz ɔ́lwejz ən ɪ̀nvɛ́ərijənt sʌ́bspèjs. ðə kɒ́nsɛpt hɛ́lps mæ̀θmətɪ́ʃənz dìjkəmpówz kɒ́mplɛks træ̀nsfərméjʃənz ɪntə sɪ́mplər kəmpównənts, méjkɪŋ ðɛm íjzijər tə ǽnəlàjz."
-    },
-    {
         "Question": "In linear algebra, which term refers to a matrix that can be expressed as a product of simpler matrices, allowing for efficient manipulation in computational applications?",
         "RightAnswer": "Decomposable Matrix",
         "WrongAnswers": [
@@ -3806,28 +3322,6 @@
         "trans_Explanation": "méjtrɪks kəmjùwtətɪ́vətij rəfɜ́rz tə ðə prɒ́pərtij wɛ́ər ðə ɔ́rdər əv mʌ̀ltijpləkéjʃən bijtwíjn túw méjtrɪsɪz dʌz nɒt əfɛ́kt ðə rəzʌ́lt. ɪn ʌ́ðər wɜ́rdz, ɪf méjtrɪsɪz ə ənd B ɑr kəmjúwtətɪv, ðɛn ə tájmz B íjkwəlz B tájmz A. ðɪs ɪz ə spɛ́ʃəl prɒ́pərtij æz mówst méjtrɪsɪz dúw nɒt kəmjúwt wɪð ijtʃ ʌ́ðər—ʌ̀nlájk nʌ́mbərz ɪn rɛ́ɡjələr ɛ̀ərɪθmɛ́tɪk wɛ́ər ɔ́rdər dʌ́zənt mǽtər. méjtrɪks kəmjùwtətɪ́vətij əkɜ́rz ɪn spəsɪ́fɪk sɪ̀tʃuwéjʃənz, sʌtʃ æz wɛ́n wʌ́n méjtrɪks ɪz ðə ajdɛ́ntɪtij méjtrɪks, wɛ́n bówθ méjtrɪsɪz ɑr dajǽɡənəl, ɔr wɛ́n ðə méjtrɪsɪz ʃɛ́ər ðə séjm ajɡənvɛ̀ktərz. ʌ̀ndərstǽndɪŋ wɛ́n méjtrɪsɪz kəmjúwt ɪz ɪmpɔ́rtənt ɪn vɛ́ərijəs æ̀plɪkéjʃənz ɪnklúwdɪŋ kwɑ́ntəm məkǽnɪks, kəmpjúwtər ɡrǽfɪks, ənd stətɪ́stɪkəl ənǽlɪsɪs wɛ́ər træ̀nsfərméjʃən síjkwənsɪz mǽtər."
     },
     {
-        "Question": "In linear algebra, which concept refers to the property that a family of matrices can be simultaneously transformed into triangular form through a single similarity transformation?",
-        "RightAnswer": "Simultaneous Triangularization",
-        "WrongAnswers": [
-            "Joint Diagonalization",
-            "Collective Eigenspace Mapping",
-            "Mutual Basis Reduction",
-            "Congruent Factorization",
-            "Unified Spectrum Decomposition"
-        ],
-        "Explanation": "Simultaneous Triangularization is an important concept in linear algebra that extends the idea of triangularization to multiple matrices. It states that a family of matrices can be simultaneously transformed into triangular form if and only if they commute with each other. This means there exists a single invertible matrix that can transform all matrices in the family into triangular form at once. This property has significant applications in studying systems of linear differential equations, matrix polynomials, and in quantum mechanics. Unlike diagonalization, which requires matrices to have a complete set of eigenvectors, simultaneous triangularization has less restrictive conditions. The key theoretical foundation is provided by Engel's theorem for nilpotent Lie algebras and more generally by Lie's theorem for solvable Lie algebras. This concept allows mathematicians to analyze the collective behavior of multiple linear transformations using a unified framework.",
-        "trans_Question": "ɪn lɪ́nijər ǽldʒəbrə, wɪ́tʃ kɒ́nsɛpt rəfɜ́rz tə ðə prɒ́pərtij ðət ə fǽmɪlij əv méjtrɪsɪz kən bij sàjməltéjnijəslij trænsfɔ́rmd ɪntə trajǽŋɡjələr fɔ́rm θrúw ə sɪ́ŋɡəl sɪ̀mɪlɛ́ərɪtij træ̀nsfərméjʃən?",
-        "trans_RightAnswer": "sàjməltéjnijəs tràjæŋɡjələrajzéjʃən",
-        "trans_WrongAnswers": [
-            "dʒɔ́jnt dajǽɡənəlajzéjʃən",
-            "kəlɛ́ktɪv ájɡənspèjs mǽpɪŋ",
-            "mjúwtʃuwəl béjsɪs rədʌ́kʃən",
-            "kɔ́nɡruwɛ̀nt fæ̀ktərajzéjʃən",
-            "júwnɪfàjd spɛ́ktrəm dìjkəmpəzɪ́ʃən"
-        ],
-        "trans_Explanation": "sàjməltéjnijəs tràjæŋɡjələrajzéjʃən ɪz ən ɪmpɔ́rtənt kɒ́nsɛpt ɪn lɪ́nijər ǽldʒəbrə ðət əkstɛ́ndz ðə ajdíjə əv tràjæŋɡjələrajzéjʃən tə mʌ́ltɪpəl méjtrɪsɪz. ɪt stéjts ðət ə fǽmɪlij əv méjtrɪsɪz kən bij sàjməltéjnijəslij trænsfɔ́rmd ɪntə trajǽŋɡjələr fɔ́rm ɪf ənd ównlij ɪf ðej kəmjúwt wɪð ijtʃ ʌ́ðər. ðɪs míjnz ðɛər əɡzɪ́sts ə sɪ́ŋɡəl ɪnvɜ́rtɪbəl méjtrɪks ðət kən trǽnsfɔrm ɔl méjtrɪsɪz ɪn ðə fǽmɪlij ɪntə trajǽŋɡjələr fɔ́rm æt wʌ́ns. ðɪs prɒ́pərtij həz sɪɡnɪ́fɪkənt æ̀plɪkéjʃənz ɪn stʌ́dijɪŋ sɪ́stəmz əv lɪ́nijər dɪ̀fərɛ́nʃəl əkwéjʒənz, méjtrɪks pɒ̀lijnówmijəlz, ənd ɪn kwɑ́ntəm məkǽnɪks. ʌ̀nlájk dajǽɡənəlajzéjʃən, wɪ́tʃ rəkwájərz méjtrɪsɪz tə həv ə kəmplíjt sɛ́t əv ajɡənvɛ̀ktərz, sàjməltéjnijəs tràjæŋɡjələrajzéjʃən həz lɛ́s rəstrɪ́ktɪv kəndɪ́ʃənz. ðə kíj θìjərɛ́tɪkəl fawndéjʃən ɪz prəvájdɪd baj ɛ́nɡəl'z θɪ́ərəm fɔr nɪ́lpowtənt láj ǽldʒəbrəz ənd mɔr dʒɛ́nərəlij baj láj'z θɪ́ərəm fɔr sɒ́lvəbəl láj ǽldʒəbrəz. ðɪs kɒ́nsɛpt əláwz mæ̀θmətɪ́ʃənz tə ǽnəlàjz ðə kəlɛ́ktɪv bəhéjvjər əv mʌ́ltɪpəl lɪ́nijər træ̀nsfərméjʃənz júwzɪŋ ə júwnɪfàjd fréjmwɜ̀rk."
-    },
-    {
         "Question": "In linear algebra, what is the name for an operator that can be represented by a diagonal matrix in some basis?",
         "RightAnswer": "Diagonalizable Operator",
         "WrongAnswers": [
@@ -3870,50 +3364,6 @@
             "trǽnzɪtɪv méjtrɪks"
         ],
         "trans_Explanation": "ə nɔ́rməl méjtrɪks ɪz ə skwɛ́ər méjtrɪks ðət kəmjúwts wɪð ɪts ówn kɒ́ndʒəɡèjt trænspówz. ɪn sɪ́mplər tɜ́rmz, ɪf wij həv ə méjtrɪks ə ənd ɪts kɒ́ndʒəɡèjt trænspówz (sʌ́mtàjmz kɔ́ld hɜrmɪ́ʃən ədʒɔ́jnt) ɪz dənówtɪd æz A*, ðɛn ə ɪz nɔ́rməl ɪf ənd ównlij ɪf ə mʌ́ltɪplàjd baj A* íjkwəlz A* mʌ́ltɪplàjd baj A. ðɪs prɒ́pərtij méjks nɔ́rməl méjtrɪsɪz pərtɪ́kjələrlij ɪmpɔ́rtənt ɪn lɪ́nijər ǽldʒəbrə bəkɒ́z ðej kən ɔ́lwejz bij dajǽɡənəlajzd baj ə júwnɪtɛ̀ərij méjtrɪks. ðɪs míjnz wij kən fájnd ən ɔ̀rθownɔ́rməl béjsɪs əv ajɡənvɛ̀ktərz fɔr ɛ́nij nɔ́rməl méjtrɪks. ðə kǽtəɡɔ̀rij əv nɔ́rməl méjtrɪsɪz ɪnklúwdz sɛ́vərəl ɪmpɔ́rtənt méjtrɪks tájps sʌtʃ æz hɜrmɪ́ʃən méjtrɪsɪz, skjúw-hɜrmɪ́ʃən méjtrɪsɪz, júwnɪtɛ̀ərij méjtrɪsɪz, ənd íjvən ríjəl sɪmɛ́trɪk méjtrɪsɪz. ðə kɒ́nsɛpt pléjz ə krúwʃəl rówl ɪn spɛ́ktrəl θíjərij ənd həz æ̀plɪkéjʃənz ɪn kwɑ́ntəm məkǽnɪks, wɛ́ər nɔ́rməl ɒ́pərèjtərz rɛ̀prəzɛ́nt fɪ́zɪkəl əbzɜ́rvəbəlz."
-    },
-    {
-        "Question": "In quantum mechanics, which property describes the fact that physical observables remain unchanged when the quantum state vectors undergo a change of basis via a unitary transformation?",
-        "RightAnswer": "Unitary Invariance",
-        "WrongAnswers": [
-            "Hermitian Preservation",
-            "Orthogonal Consistency",
-            "Spectral Permanence",
-            "Basis Independence",
-            "Eigenvalue Conservation"
-        ],
-        "Explanation": "Unitary Invariance refers to a fundamental property in linear algebra where certain quantities or characteristics of matrices remain unchanged when transformed by unitary matrices. A unitary transformation represents a change of basis that preserves inner products, essentially rotating or reflecting vectors without distorting their relationships to each other. This invariance is particularly important in quantum mechanics, where physical observables must remain the same regardless of how we choose to mathematically represent the system. For instance, if A is a matrix and U is a unitary matrix, then properties like the determinant, eigenvalues, and singular values of A remain unchanged when A is transformed to the matrix U times A times the conjugate transpose of U. This concept ensures that the physical predictions of quantum theory do not depend on our arbitrary choice of basis, reflecting the idea that the laws of nature should be independent of how we choose to describe them mathematically.",
-        "trans_Question": "ɪn kwɑ́ntəm məkǽnɪks, wɪ́tʃ prɒ́pərtij dəskrájbz ðə fǽkt ðət fɪ́zɪkəl əbzɜ́rvəbəlz rəméjn ʌ̀ntʃéjndʒd wɛ́n ðə kwɑ́ntəm stéjt vɛ́ktərz ʌ̀ndərɡów ə tʃéjndʒ əv béjsɪs vájə ə júwnɪtɛ̀ərij træ̀nsfərméjʃən?",
-        "trans_RightAnswer": "júwnɪtɛ̀ərij ɪ̀nvɛ́ərijəns",
-        "trans_WrongAnswers": [
-            "hɜrmɪ́ʃən prɛ̀zərvéjʃən",
-            "ɔrθɔ́ɡənəl kənsɪ́stənsij",
-            "spɛ́ktrəl pɜ́rmənəns",
-            "béjsɪs ɪndəpɛ́ndəns",
-            "ájɡənvæ̀ljuw kɒ̀nsərvéjʃən"
-        ],
-        "trans_Explanation": "júwnɪtɛ̀ərij ɪ̀nvɛ́ərijəns rəfɜ́rz tə ə fʌ̀ndəmɛ́ntəl prɒ́pərtij ɪn lɪ́nijər ǽldʒəbrə wɛ́ər sɜ́rtən kwɑ́ntᵻtijz ɔr kæ̀rəktərɪ́stɪks əv méjtrɪsɪz rəméjn ʌ̀ntʃéjndʒd wɛ́n trænsfɔ́rmd baj júwnɪtɛ̀ərij méjtrɪsɪz. ə júwnɪtɛ̀ərij træ̀nsfərméjʃən rɛ̀prəzɛ́nts ə tʃéjndʒ əv béjsɪs ðət prəzɜ́rvz ɪ́nər prɒ́dəkts, əsɛ́nʃəlij rówtèjtɪŋ ɔr rəflɛ́ktɪŋ vɛ́ktərz wɪðáwt dɪstɔ́rtɪŋ ðɛər rəléjʃənʃɪ̀ps tə ijtʃ ʌ́ðər. ðɪs ɪ̀nvɛ́ərijəns ɪz pərtɪ́kjələrlij ɪmpɔ́rtənt ɪn kwɑ́ntəm məkǽnɪks, wɛ́ər fɪ́zɪkəl əbzɜ́rvəbəlz mʌst rəméjn ðə séjm rəɡɑ́rdləs əv háw wij tʃúwz tə mæ̀θəmǽtɪkəlij rɛ̀prəzɛ́nt ðə sɪ́stəm. fɔr ɪ́nstəns, ɪf ə ɪz ə méjtrɪks ənd U ɪz ə júwnɪtɛ̀ərij méjtrɪks, ðɛn prɒ́pərtijz lájk ðə dətɜ́rmɪnənt, ájɡənvæ̀ljuwz, ənd sɪ́ŋɡjələr vǽljuwz əv ə rəméjn ʌ̀ntʃéjndʒd wɛ́n ə ɪz trænsfɔ́rmd tə ðə méjtrɪks U tájmz ə tájmz ðə kɒ́ndʒəɡèjt trænspówz əv U. ðɪs kɒ́nsɛpt ənʃʊ́rz ðət ðə fɪ́zɪkəl prədɪ́kʃənz əv kwɑ́ntəm θíjərij dúw nɒt dəpɛ́nd ɒn awər ɑ́rbɪtrɛ̀ərij tʃɔ́js əv béjsɪs, rəflɛ́ktɪŋ ðə ajdíjə ðət ðə lɔ́z əv néjtʃər ʃʊd bij ɪndəpɛ́ndənt əv háw wij tʃúwz tə dəskrájb ðɛm mæ̀θəmǽtɪkəlij."
-    },
-    {
-        "Question": "Which branch of linear algebra studies how eigenvalues and eigenvectors change when small modifications are made to a matrix?",
-        "RightAnswer": "Matrix Perturbation Theory",
-        "WrongAnswers": [
-            "Matrix Decomposition Analysis",
-            "Eigenvalue Sensitivity Framework",
-            "Matrix Stability Theory",
-            "Spectral Deviation Analysis",
-            "Linear Transformation Drift Theory"
-        ],
-        "Explanation": "Matrix Perturbation Theory examines how the eigenvalues, eigenvectors, and other properties of a matrix change when the matrix undergoes small modifications or perturbations. This theory is particularly valuable in numerical linear algebra where computational errors are inevitable, and in applied mathematics where parameter uncertainties exist in mathematical models. Rather than viewing matrices as fixed objects, perturbation theory acknowledges their potential variability and provides bounds and estimates for how matrix properties shift under small changes. For instance, it helps predict how the eigenvalues of a system might drift when the system experiences slight alterations, which is crucial in stability analysis, quantum mechanics, and various engineering applications where small changes can sometimes lead to significant effects. Understanding these sensitivities helps scientists and engineers design more robust algorithms and systems.",
-        "trans_Question": "wɪ́tʃ brǽntʃ əv lɪ́nijər ǽldʒəbrə stʌ́dijz háw ájɡənvæ̀ljuwz ənd ajɡənvɛ̀ktərz tʃéjndʒ wɛ́n smɔ́l mɒ̀dɪfɪkéjʃənz ɑr méjd tə ə méjtrɪks?",
-        "trans_RightAnswer": "méjtrɪks pɜ̀rtərbéjʃən θíjərij",
-        "trans_WrongAnswers": [
-            "méjtrɪks dìjkəmpəzɪ́ʃən ənǽlɪsɪs",
-            "ájɡənvæ̀ljuw sɛ̀nsɪtɪ́vɪtij fréjmwɜ̀rk",
-            "méjtrɪks stəbɪ́lɪtij θíjərij",
-            "spɛ́ktrəl dìjvijéjʃən ənǽlɪsɪs",
-            "lɪ́nijər træ̀nsfərméjʃən drɪ́ft θíjərij"
-        ],
-        "trans_Explanation": "méjtrɪks pɜ̀rtərbéjʃən θíjərij əɡzǽmɪnz háw ðə ájɡənvæ̀ljuwz, ajɡənvɛ̀ktərz, ənd ʌ́ðər prɒ́pərtijz əv ə méjtrɪks tʃéjndʒ wɛ́n ðə méjtrɪks ʌ́ndərɡòwz smɔ́l mɒ̀dɪfɪkéjʃənz ɔr pɜ̀rtərbéjʃənz. ðɪs θíjərij ɪz pərtɪ́kjələrlij vǽljəbəl ɪn njuwmɛ́ərɪkəl lɪ́nijər ǽldʒəbrə wɛ́ər kɒ̀mpjuwtéjʃənəl ɛ́ərərz ɑr ɪ̀nɛ́vɪtəbəl, ənd ɪn əplájd mæ̀θəmǽtɪks wɛ́ər pərǽmətər ʌ̀nsɜ́rtəntijz əɡzɪ́st ɪn mæ̀θəmǽtɪkəl mɒ́dəlz. rǽðər ðʌn vjúwɪŋ méjtrɪsɪz æz fɪ́kst ɒ́bdʒɛkts, pɜ̀rtərbéjʃən θíjərij æknɒ́lɪdʒɪz ðɛər pətɛ́nʃəl vɛərijəbɪ́lɪtij ənd prəvájdz báwndz ənd ɛ́stɪmèjts fɔr háw méjtrɪks prɒ́pərtijz ʃɪ́ft ʌ́ndər smɔ́l tʃéjndʒɪz. fɔr ɪ́nstəns, ɪt hɛ́lps prədɪ́kt háw ðə ájɡənvæ̀ljuwz əv ə sɪ́stəm majt drɪ́ft wɛ́n ðə sɪ́stəm əkspɪ́ərijənsijz slájt ɔ̀ltəréjʃənz, wɪ́tʃ ɪz krúwʃəl ɪn stəbɪ́lɪtij ənǽlɪsɪs, kwɑ́ntəm məkǽnɪks, ənd vɛ́ərijəs ɛ̀ndʒɪnɪ́ərɪŋ æ̀plɪkéjʃənz wɛ́ər smɔ́l tʃéjndʒɪz kən sʌ́mtàjmz líjd tə sɪɡnɪ́fɪkənt əfɛ́kts. ʌ̀ndərstǽndɪŋ ðijz sɛ̀nsɪtɪ́vɪtijz hɛ́lps sájəntɪsts ənd ɛ̀ndʒɪnɪ́ərz dəzájn mɔr rowbʌ́st ǽlɡərɪ̀ðəmz ənd sɪ́stəmz."
     },
     {
         "Question": "In linear algebra, what is the term for the diagonal elements of matrix Σ in the Singular Value Decomposition (SVD) of a matrix, which represent the 'stretching factors' along principal directions?",
@@ -4026,28 +3476,6 @@
         "trans_Explanation": "ə kɔ̀rəléjʃən méjtrɪks ɪz ə skwɛ́ər méjtrɪks ðət ʃówz ðə pɛ́ərwajz kɔ̀rəléjʃən kòwəfɪ́ʃənts bijtwíjn vɛ́ərijəbəlz ɪn ə déjtəsɛ̀t. ijtʃ ɛ́ntrij ɪn ðɪs méjtrɪks réjndʒɪz frəm -1 tə 1, wɛ́ər 1 ɪ́ndɪkèjts ə pɜ́rfəkt pɒ́zɪtɪv lɪ́nijər rəléjʃənʃɪ̀p, 0 ɪ́ndɪkèjts now lɪ́nijər rəléjʃənʃɪ̀p, ənd -1 ɪ́ndɪkèjts ə pɜ́rfəkt nɛ́ɡətɪv lɪ́nijər rəléjʃənʃɪ̀p. ʌ̀nlájk ðə rəléjtɪd kòwvɛ́ərijəns méjtrɪks, ə kɔ̀rəléjʃən méjtrɪks həz ðə ədvǽntɪdʒ əv bíjɪŋ nɔ́rməlàjzd, méjkɪŋ ɪt íjzijər tə kəmpɛ́ər rəléjʃənʃɪ̀ps bijtwíjn dɪ́fərənt vɛ́ərijəbəlz rəɡɑ́rdləs əv ðɛər skéjlz. ɪn lɪ́nijər ǽldʒəbrə tɜ́rmz, ðə kɔ̀rəléjʃən méjtrɪks kən bij dərájvd frəm ðə kòwvɛ́ərijəns méjtrɪks baj dɪvájdɪŋ ijtʃ ɛ́ntrij baj ðə prɒ́dəkt əv ðə stǽndərd dìjvijéjʃənz əv ðə kɔ̀rəspɒ́ndɪŋ vɛ́ərijəbəlz. ðɪs stændərdɪzéjʃən méjks kɔ̀rəléjʃən méjtrɪsɪz pərtɪ́kjələrlij júwsfəl ɪn fíjldz lájk stətɪ́stɪks, məʃíjn lɜ́rnɪŋ, fájnæ̀ns, ənd sàjəntɪ́fɪk ríjsərtʃ wɛ́ər ʌ̀ndərstǽndɪŋ rəléjʃənʃɪ̀ps bijtwíjn vɛ́ərijəbəlz ɪz krúwʃəl fɔr ənǽlɪsɪs ənd prədɪ́kʃən."
     },
     {
-        "Question": "Which theorem in linear algebra guarantees that for any linear operator on a finite-dimensional complex vector space, there exists at least one non-trivial subspace that remains unchanged when the operator is applied?",
-        "RightAnswer": "Invariant Subspace Theorem",
-        "WrongAnswers": [
-            "Cayley-Hamilton Theorem",
-            "Jordan Canonical Form Theorem",
-            "Spectral Mapping Theorem",
-            "Schur Decomposition Theorem",
-            "Linear Transformation Preservation Principle"
-        ],
-        "Explanation": "The Invariant Subspace Theorem is a fundamental result in linear algebra that states that any linear operator on a finite-dimensional complex vector space has at least one non-trivial invariant subspace. An invariant subspace is a subspace that is mapped to itself by the linear operator, meaning if you apply the operator to any vector in the subspace, the result remains within that same subspace. This theorem has profound implications for understanding the structure of linear operators and is related to eigenvalues and eigenvectors. While seemingly abstract, it provides crucial insights into how linear transformations behave, allowing mathematicians to break down complex operators into simpler components. The theorem fails for infinite-dimensional spaces, which makes it all the more interesting as a property specific to finite-dimensional vector spaces. It serves as a cornerstone for advanced topics in linear algebra, operator theory, and functional analysis.",
-        "trans_Question": "wɪ́tʃ θɪ́ərəm ɪn lɪ́nijər ǽldʒəbrə ɡɛ̀ərəntíjz ðət fɔr ɛ́nij lɪ́nijər ɒ́pərèjtər ɒn ə fájnàjt-dajmɛ́nʃənəl kɒ́mplɛks vɛ́ktər spéjs, ðɛər əɡzɪ́sts æt líjst wʌ́n nɒn-trɪ́vijəl sʌ́bspèjs ðət rəméjnz ʌ̀ntʃéjndʒd wɛ́n ðə ɒ́pərèjtər ɪz əplájd?",
-        "trans_RightAnswer": "ɪ̀nvɛ́ərijənt sʌ́bspèjs θɪ́ərəm",
-        "trans_WrongAnswers": [
-            "kéjlij-hǽmɪltən θɪ́ərəm",
-            "dʒɔ́rdən kənɒ́nɪkəl fɔ́rm θɪ́ərəm",
-            "spɛ́ktrəl mǽpɪŋ θɪ́ərəm",
-            "ʃɜ́r dìjkəmpəzɪ́ʃən θɪ́ərəm",
-            "lɪ́nijər træ̀nsfərméjʃən prɛ̀zərvéjʃən prɪ́nsɪpəl"
-        ],
-        "trans_Explanation": "ðə ɪ̀nvɛ́ərijənt sʌ́bspèjs θɪ́ərəm ɪz ə fʌ̀ndəmɛ́ntəl rəzʌ́lt ɪn lɪ́nijər ǽldʒəbrə ðət stéjts ðət ɛ́nij lɪ́nijər ɒ́pərèjtər ɒn ə fájnàjt-dajmɛ́nʃənəl kɒ́mplɛks vɛ́ktər spéjs həz æt líjst wʌ́n nɒn-trɪ́vijəl ɪ̀nvɛ́ərijənt sʌ́bspèjs. ən ɪ̀nvɛ́ərijənt sʌ́bspèjs ɪz ə sʌ́bspèjs ðət ɪz mǽpt tə ɪtsɛ́lf baj ðə lɪ́nijər ɒ́pərèjtər, míjnɪŋ ɪf juw əpláj ðə ɒ́pərèjtər tə ɛ́nij vɛ́ktər ɪn ðə sʌ́bspèjs, ðə rəzʌ́lt rəméjnz wɪðɪ́n ðət séjm sʌ́bspèjs. ðɪs θɪ́ərəm həz prowfáwnd ɪ̀mplɪkéjʃənz fɔr ʌ̀ndərstǽndɪŋ ðə strʌ́ktʃər əv lɪ́nijər ɒ́pərèjtərz ənd ɪz rəléjtɪd tə ájɡənvæ̀ljuwz ənd ajɡənvɛ̀ktərz. wájl síjmɪŋlij ǽbstræ̀kt, ɪt prəvájdz krúwʃəl ɪ́nsàjts ɪntə háw lɪ́nijər træ̀nsfərméjʃənz bəhéjv, əláwɪŋ mæ̀θmətɪ́ʃənz tə bréjk dawn kɒ́mplɛks ɒ́pərèjtərz ɪntə sɪ́mplər kəmpównənts. ðə θɪ́ərəm féjlz fɔr ɪ́nfɪnɪt-dajmɛ́nʃənəl spéjsɪz, wɪ́tʃ méjks ɪt ɔl ðə mɔr ɪ́ntərəstɪŋ æz ə prɒ́pərtij spəsɪ́fɪk tə fájnàjt-dajmɛ́nʃənəl vɛ́ktər spéjsɪz. ɪt sɜ́rvz æz ə kɔ́rnərstòwn fɔr ədvǽnst tɒ́pɪks ɪn lɪ́nijər ǽldʒəbrə, ɒ́pərèjtər θíjərij, ənd fʌ́ŋkʃənəl ənǽlɪsɪs."
-    },
-    {
         "Question": "When analyzing a matrix to gain insights about its fundamental properties, which term refers to the collection of non-negative real numbers that represent the scaling factors in different dimensions during matrix transformations?",
         "RightAnswer": "Singular Value Spectrum",
         "WrongAnswers": [
@@ -4068,72 +3496,6 @@
             "træ̀nsfərméjʃən mǽɡnɪtùwd sɪ́ərijz"
         ],
         "trans_Explanation": "ðə sɪ́ŋɡjələr vǽljuw spɛ́ktrəm rəfɜ́rz tə ðə kəmplíjt sɛ́t əv sɪ́ŋɡjələr vǽljuwz əv ə méjtrɪks, əréjndʒd ɪn nɒn-ɪnkríjsɪŋ ɔ́rdər. ðijz vǽljuwz əmɜ́rdʒ frəm ðə sɪ́ŋɡjələr vǽljuw dìjkəmpəzɪ́ʃən (SVD) əv ə méjtrɪks ənd prəvájd krúwʃəl ɪnfərméjʃən əbawt ðə méjtrɪks'z bəhéjvjər. ijtʃ sɪ́ŋɡjələr vǽljuw rɛ̀prəzɛ́nts háw mʌtʃ ðə méjtrɪks strɛ́tʃɪz ɔr kɒ́mprɛsɪz spéjs ɪn ə pərtɪ́kjələr dɪərɛ́kʃən. lɑ́rdʒər sɪ́ŋɡjələr vǽljuwz ɪ́ndɪkèjt dajmɛ́nʃənz wɛ́ər ðə træ̀nsfərméjʃən həz ɡréjtər əfɛ́kt, wájl smɔ́lər vǽljuwz ʃów dɪərɛ́kʃənz wɪð mɪ́nɪməl ɪ́mpækt. ðə spɛ́ktrəm rəvíjlz ðə əféktɪv rǽŋk əv ðə méjtrɪks, wɪð nɪ́ər-zíjərow vǽljuwz sədʒɛ́stɪŋ rədʌ́ndənsij ɔr dəpɛ́ndənsijz ɪn ðə déjtə. ɪn æ̀plɪkéjʃənz, ðə sɪ́ŋɡjələr vǽljuw spɛ́ktrəm hɛ́lps ajdɛ́ntɪfàj wɪ́tʃ kəmpównənts əv déjtə kǽrij ðə mówst ɪnfərméjʃən, méjkɪŋ ɪt vǽljəbəl fɔr dajmɛ̀nʃənǽlɪtij rədʌ́kʃən, ɪ́mɪdʒ kəmprɛ́ʃən, ənd sɒ́lvɪŋ sɪ́stəmz əv əkwéjʒənz. ʌ̀nlájk ájɡənvæ̀ljuwz, sɪ́ŋɡjələr vǽljuwz ɑr ɔ́lwejz ríjəl ənd nɒn-nɛ́ɡətɪv, prəvájdɪŋ ən ɪntúwɪtɪv mɛ́ʒər əv ə méjtrɪks'z ǽkʃən ɪn dɪ́fərənt dajmɛ́nʃənz."
-    },
-    {
-        "Question": "In linear algebra, what is the term for the set of mathematical properties related to the sum of the diagonal elements of a square matrix?",
-        "RightAnswer": "Matrix Trace Properties",
-        "WrongAnswers": [
-            "Matrix Determinant Rules",
-            "Eigenvalue Characteristics",
-            "Matrix Diagonal Principles",
-            "Square Matrix Identities",
-            "Principal Component Axioms"
-        ],
-        "Explanation": "Matrix Trace Properties refer to the mathematical characteristics and behaviors associated with the trace of a matrix in linear algebra. The trace of a matrix is the sum of all elements along its main diagonal (from top-left to bottom-right). These properties include: the trace of a sum equals the sum of traces; the trace is invariant under similarity transformations; the trace of a product of matrices equals the trace of any cyclic permutation of that product; and multiplying a matrix by a scalar multiplies its trace by that same scalar. These properties make the trace a valuable tool in many applications, including calculating the character of group representations, analyzing linear transformations, and computing the sum of eigenvalues without having to find each eigenvalue individually. The trace also appears in various fields beyond pure linear algebra, such as quantum mechanics, statistics, and machine learning algorithms.",
-        "trans_Question": "ɪn lɪ́nijər ǽldʒəbrə, wɒt ɪz ðə tɜ́rm fɔr ðə sɛ́t əv mæ̀θəmǽtɪkəl prɒ́pərtijz rəléjtɪd tə ðə sʌ́m əv ðə dajǽɡənəl ɛ́ləmənts əv ə skwɛ́ər méjtrɪks?",
-        "trans_RightAnswer": "méjtrɪks tréjs prɒ́pərtijz",
-        "trans_WrongAnswers": [
-            "méjtrɪks dətɜ́rmɪnənt rúwlz",
-            "ájɡənvæ̀ljuw kæ̀rəktərɪ́stɪks",
-            "méjtrɪks dajǽɡənəl prɪ́nsɪpəlz",
-            "skwɛ́ər méjtrɪks ajdɛ́ntɪtijz",
-            "prɪ́nsɪpəl kəmpównənt ǽksijəmz"
-        ],
-        "trans_Explanation": "méjtrɪks tréjs prɒ́pərtijz rəfɜ́r tə ðə mæ̀θəmǽtɪkəl kæ̀rəktərɪ́stɪks ənd bəhéjvjərz əsówsijèjtɪd wɪð ðə tréjs əv ə méjtrɪks ɪn lɪ́nijər ǽldʒəbrə. ðə tréjs əv ə méjtrɪks ɪz ðə sʌ́m əv ɔl ɛ́ləmənts əlɔ́ŋ ɪts méjn dajǽɡənəl (frəm tɒ́p-lɛ́ft tə bɒ́təm-rájt). ðijz prɒ́pərtijz ɪnklúwd: ðə tréjs əv ə sʌ́m íjkwəlz ðə sʌ́m əv tréjsɪz; ðə tréjs ɪz ɪ̀nvɛ́ərijənt ʌ́ndər sɪ̀mɪlɛ́ərɪtij træ̀nsfərméjʃənz; ðə tréjs əv ə prɒ́dəkt əv méjtrɪsɪz íjkwəlz ðə tréjs əv ɛ́nij sájklɪk pɜ̀rmjuwtéjʃən əv ðət prɒ́dəkt; ənd mʌ́ltɪplàjɪŋ ə méjtrɪks baj ə skéjlər mʌ́ltɪplàjz ɪts tréjs baj ðət séjm skéjlər. ðijz prɒ́pərtijz méjk ðə tréjs ə vǽljəbəl túwl ɪn mɛ́nij æ̀plɪkéjʃənz, ɪnklúwdɪŋ kǽlkjəlèjtɪŋ ðə kǽrəktər əv ɡrúwp rɛ̀prəzəntéjʃənz, ǽnəlàjzɪŋ lɪ́nijər træ̀nsfərméjʃənz, ənd kəmpjúwtɪŋ ðə sʌ́m əv ájɡənvæ̀ljuwz wɪðáwt hǽvɪŋ tə fájnd ijtʃ ájɡənvæ̀ljuw ɪndɪvɪ́dʒəlij. ðə tréjs ɔ́lsow əpɪ́ərz ɪn vɛ́ərijəs fíjldz bìjɔ́nd pjʊ́r lɪ́nijər ǽldʒəbrə, sʌtʃ æz kwɑ́ntəm məkǽnɪks, stətɪ́stɪks, ənd məʃíjn lɜ́rnɪŋ ǽlɡərɪ̀ðəmz."
-    },
-    {
-        "Question": "In linear algebra, which concept generalizes the exponential function to matrices and is used to solve systems of linear differential equations?",
-        "RightAnswer": "Matrix Exponential Properties",
-        "WrongAnswers": [
-            "Matrix Diagonalization Theory",
-            "Eigenvalue Decomposition Rules",
-            "Matrix Logarithm Principles",
-            "Spectral Mapping Theorem",
-            "Characteristic Polynomial Laws"
-        ],
-        "Explanation": "Matrix Exponential Properties refer to the important characteristics of the exponential function when applied to matrices instead of scalar values. In linear algebra, the matrix exponential extends the familiar exponential function to square matrices and plays a crucial role in solving systems of linear differential equations. Just as the scalar exponential has properties like exp(a+b) equals exp(a) times exp(b), matrix exponentials have their own set of properties, though with important differences. For instance, for matrices A and B, the exponential of their sum is generally not equal to the product of their individual exponentials unless A and B commute. Other important properties include its relation to eigenvalues, where the eigenvalues of the matrix exponential exp(A) are the exponentials of the eigenvalues of A. The matrix exponential is also connected to matrix decompositions and can be computed through various methods including power series, diagonalization for diagonalizable matrices, or numerical approximations. Understanding these properties is essential for applications in differential equations, control theory, quantum mechanics, and many other fields where dynamic systems are modeled mathematically.",
-        "trans_Question": "ɪn lɪ́nijər ǽldʒəbrə, wɪ́tʃ kɒ́nsɛpt dʒɛ́nərəlajz ðə ɛ̀kspownɛ́nʃəl fʌ́ŋkʃən tə méjtrɪsɪz ənd ɪz júwzd tə sɒ́lv sɪ́stəmz əv lɪ́nijər dɪ̀fərɛ́nʃəl əkwéjʒənz?",
-        "trans_RightAnswer": "méjtrɪks ɛ̀kspownɛ́nʃəl prɒ́pərtijz",
-        "trans_WrongAnswers": [
-            "méjtrɪks dajǽɡənəlajzéjʃən θíjərij",
-            "ájɡənvæ̀ljuw dìjkəmpəzɪ́ʃən rúwlz",
-            "méjtrɪks lɒ́ɡərɪ̀ðəm prɪ́nsɪpəlz",
-            "spɛ́ktrəl mǽpɪŋ θɪ́ərəm",
-            "kæ̀rəktərɪ́stɪk pɒ̀lijnówmijəl lɔ́z"
-        ],
-        "trans_Explanation": "méjtrɪks ɛ̀kspownɛ́nʃəl prɒ́pərtijz rəfɜ́r tə ðə ɪmpɔ́rtənt kæ̀rəktərɪ́stɪks əv ðə ɛ̀kspownɛ́nʃəl fʌ́ŋkʃən wɛ́n əplájd tə méjtrɪsɪz ɪnstɛ́d əv skéjlər vǽljuwz. ɪn lɪ́nijər ǽldʒəbrə, ðə méjtrɪks ɛ̀kspownɛ́nʃəl əkstɛ́ndz ðə fəmɪ́ljər ɛ̀kspownɛ́nʃəl fʌ́ŋkʃən tə skwɛ́ər méjtrɪsɪz ənd pléjz ə krúwʃəl rówl ɪn sɒ́lvɪŋ sɪ́stəmz əv lɪ́nijər dɪ̀fərɛ́nʃəl əkwéjʒənz. dʒəst æz ðə skéjlər ɛ̀kspownɛ́nʃəl həz prɒ́pərtijz lájk exp(a+b) íjkwəlz exp(a) tájmz exp(b), méjtrɪks ɪkspównɛnʃəlz həv ðɛər ówn sɛ́t əv prɒ́pərtijz, ðów wɪð ɪmpɔ́rtənt dɪ́fərənsɪz. fɔr ɪ́nstəns, fɔr méjtrɪsɪz ə ənd B, ðə ɛ̀kspownɛ́nʃəl əv ðɛər sʌ́m ɪz dʒɛ́nərəlij nɒt íjkwəl tə ðə prɒ́dəkt əv ðɛər ɪndɪvɪ́dʒəwəl ɪkspównɛnʃəlz ʌ̀nlɛ́s ə ənd B kəmjúwt. ʌ́ðər ɪmpɔ́rtənt prɒ́pərtijz ɪnklúwd ɪts rəléjʃən tə ájɡənvæ̀ljuwz, wɛ́ər ðə ájɡənvæ̀ljuwz əv ðə méjtrɪks ɛ̀kspownɛ́nʃəl exp(a) ɑr ðə ɪkspównɛnʃəlz əv ðə ájɡənvæ̀ljuwz əv A. ðə méjtrɪks ɛ̀kspownɛ́nʃəl ɪz ɔ́lsow kənɛ́ktɪd tə méjtrɪks dìjkɒ̀mpəzɪ́ʃənz ənd kən bij kəmpjúwtɪd θrúw vɛ́ərijəs mɛ́θədz ɪnklúwdɪŋ páwər sɪ́ərijz, dajǽɡənəlajzéjʃən fɔr dajæ̀ɡənəlájzəbəl méjtrɪsɪz, ɔr njuwmɛ́ərɪkəl əprɒ̀ksəméjʃənz. ʌ̀ndərstǽndɪŋ ðijz prɒ́pərtijz ɪz əsɛ́nʃəl fɔr æ̀plɪkéjʃənz ɪn dɪ̀fərɛ́nʃəl əkwéjʒənz, kəntrówl θíjərij, kwɑ́ntəm məkǽnɪks, ənd mɛ́nij ʌ́ðər fíjldz wɛ́ər dajnǽmɪk sɪ́stəmz ɑr mɒ́dəld mæ̀θəmǽtɪkəlij."
-    },
-    {
-        "Question": "What is the specific term for a system of first-order differential equations that can be written in the form dX/dt = AX, where A is a constant matrix and X is a vector function of t?",
-        "RightAnswer": "Matrix Differential Equation",
-        "WrongAnswers": [
-            "Matrix Eigenvalue Problem",
-            "Linear Transformation System",
-            "Vector Field Equation",
-            "Homogeneous Linear System",
-            "Matrix Recurrence Relation"
-        ],
-        "Explanation": "A Matrix Differential Equation is a way to express multiple related differential equations in a compact matrix form. Instead of writing out many separate equations, we can use a single matrix equation. In its most basic form, it looks like 'the derivative of vector X equals matrix A times vector X', where A contains coefficients that determine how the variables in X interact with each other. These equations are powerful tools in understanding dynamical systems, control theory, and physical phenomena like vibrations, electric circuits, and population models. What makes them particularly useful is that the solutions often have beautiful patterns related to eigenvalues and eigenvectors of the coefficient matrix. When engineers or physicists model complex systems with many variables that change over time and influence each other, matrix differential equations provide an elegant mathematical framework for analysis.",
-        "trans_Question": "wɒt ɪz ðə spəsɪ́fɪk tɜ́rm fɔr ə sɪ́stəm əv fɜ́rst-ɔ́rdər dɪ̀fərɛ́nʃəl əkwéjʒənz ðət kən bij rɪ́tən ɪn ðə fɔ́rm dx/dij = AX, wɛ́ər ə ɪz ə kɒ́nstənt méjtrɪks ənd X ɪz ə vɛ́ktər fʌ́ŋkʃən əv t?",
-        "trans_RightAnswer": "méjtrɪks dɪ̀fərɛ́nʃəl əkwéjʒən",
-        "trans_WrongAnswers": [
-            "méjtrɪks ájɡənvæ̀ljuw prɒ́bləm",
-            "lɪ́nijər træ̀nsfərméjʃən sɪ́stəm",
-            "vɛ́ktər fíjld əkwéjʒən",
-            "hòwmədʒɛ́nijəs lɪ́nijər sɪ́stəm",
-            "méjtrɪks rəkɜ́rəns rəléjʃən"
-        ],
-        "trans_Explanation": "ə méjtrɪks dɪ̀fərɛ́nʃəl əkwéjʒən ɪz ə wej tə əksprɛ́s mʌ́ltɪpəl rəléjtɪd dɪ̀fərɛ́nʃəl əkwéjʒənz ɪn ə kɒ́mpækt méjtrɪks fɔ́rm. ɪnstɛ́d əv rájtɪŋ awt mɛ́nij sɛ́pərət əkwéjʒənz, wij kən juwz ə sɪ́ŋɡəl méjtrɪks əkwéjʒən. ɪn ɪts mówst béjsɪk fɔ́rm, ɪt lʊ́ks lájk 'ðə dərɪ́vətɪv əv vɛ́ktər X íjkwəlz méjtrɪks ə tájmz vɛ́ktər X', wɛ́ər ə kəntéjnz kòwəfɪ́ʃənts ðət dətɜ́rmɪn háw ðə vɛ́ərijəbəlz ɪn X ɪ̀ntərǽkt wɪð ijtʃ ʌ́ðər. ðijz əkwéjʒənz ɑr páwərfəl túwlz ɪn ʌ̀ndərstǽndɪŋ dajnǽmɪkəl sɪ́stəmz, kəntrówl θíjərij, ənd fɪ́zɪkəl fənɒ́mənə lájk vajbréjʃənz, əlɛ́ktrɪk sɜ́rkəts, ənd pɒ̀pjəléjʃən mɒ́dəlz. wɒt méjks ðɛm pərtɪ́kjələrlij júwsfəl ɪz ðət ðə səlúwʃənz ɔ́fən həv bjúwtɪfəl pǽtərnz rəléjtɪd tə ájɡənvæ̀ljuwz ənd ajɡənvɛ̀ktərz əv ðə kòwəfɪ́ʃənt méjtrɪks. wɛ́n ɛ̀ndʒɪnɪ́ərz ɔr fɪ́zɪsɪsts mɒ́dəl kɒ́mplɛks sɪ́stəmz wɪð mɛ́nij vɛ́ərijəbəlz ðət tʃéjndʒ ówvər tájm ənd ɪ́nfluwəns ijtʃ ʌ́ðər, méjtrɪks dɪ̀fərɛ́nʃəl əkwéjʒənz prəvájd ən ɛ́ləɡənt mæ̀θəmǽtɪkəl fréjmwɜ̀rk fɔr ənǽlɪsɪs."
     },
     {
         "Question": "In control theory, what mathematical framework allows us to describe the behavior of systems that change over time using matrices and vector spaces?",
@@ -4200,5 +3562,203 @@
             "ʃʌ́fʊ́lɪŋ méjtrɪks"
         ],
         "trans_Explanation": "ə pɜ̀rmjuwtéjʃən méjtrɪks ɪz ə spɛ́ʃəl skwɛ́ər méjtrɪks ðət həz əɡzǽktlij wʌ́n ɛ́ntrij əv 1 ɪn ijtʃ row ənd ijtʃ kɒ́ləm, wɪð ɔl ʌ́ðər ɛ́ntrijz bíjɪŋ 0. wɛ́n juw mʌ́ltɪplàj ə vɛ́ktər baj ə pɜ̀rmjuwtéjʃən méjtrɪks, ðə əfɛ́kt ɪz tə rìjəréjndʒ ðə ɛ́ləmənts əv ðət vɛ́ktər wɪðáwt tʃéjndʒɪŋ ðɛər vǽljuwz. θɪ́ŋk əv ɪt æz ə mæ̀θəmǽtɪkəl rɛ̀prəzɛntéjʃən əv ʃʌ́fʊ́lɪŋ ə dɛ́k əv kɑ́rdz - ðə kɑ́rdz rəméjn ðə séjm, bʌt ðɛər ɔ́rdər tʃéjndʒɪz. pɜ̀rmjuwtéjʃən méjtrɪsɪz ɑr ɔ́lwejz ɪnvɜ́rtɪbəl, ənd ðɛər dətɜ́rmɪnənt ɪz ájðər 1 ɔr -1. ðej fɔ́rm ə ɡrúwp ʌ́ndər méjtrɪks mʌ̀ltijpləkéjʃən, rəflɛ́ktɪŋ ðə æ̀ldʒəbréjɪk strʌ́ktʃər əv pɜ̀rmjuwtéjʃənz. ðijz méjtrɪsɪz ɑr əkstɛ́nsɪvlij júwzd ɪn vɛ́ərijəs æ̀plɪkéjʃənz ɪnklúwdɪŋ nɛ́twɜ̀rk θíjərij, kɒ̀mpjuwtéjʃənəl ǽlɡərɪ̀ðəmz, ənd kɒ̀mbɪnéjtɔrijəl ɒptɪmɪzéjʃən prɒ́bləmz wɛ́ər rijəréjndʒmənt ɒ̀pəréjʃənz ɑr fʌ̀ndəmɛ́ntəl."
+    },
+    {
+        "Question": "In linear algebra, which term specifically describes a linear transformation where each element in the codomain is mapped to by at most one element from the domain, meaning no two distinct inputs map to the same output?",
+        "RightAnswer": "Injective",
+        "WrongAnswers": [
+            "Surjective",
+            "Bijective",
+            "Homomorphic",
+            "Idempotent",
+            "Nilpotent"
+        ],
+        "Explanation": "In linear algebra, a transformation is called 'injective' when it maps different inputs to different outputs—essentially, it never collapses distinct elements together. This property is sometimes described as 'one-to-one' because each output comes from at most one input. For a linear transformation between vector spaces, injectivity means the transformation has a trivial kernel (or null space), containing only the zero vector. Practically speaking, an injective transformation preserves distinctness; it never causes different vectors to become indistinguishable after transformation. This property is crucial in many applications where unique recovery of inputs is necessary. Unlike surjective transformations (which ensure all possible outputs are reached) or bijective transformations (which are both injective and surjective), injective transformations focus solely on the preservation of distinctness between elements.",
+        "trans_Question": "ɪn lɪ́nijər ǽldʒəbrə, wɪ́tʃ tɜ́rm spəsɪ́fɪklij dəskrájbz ə lɪ́nijər træ̀nsfərméjʃən wɛ́ər ijtʃ ɛ́ləmənt ɪn ðə kówdejn ɪz mǽpt tə baj æt mówst wʌ́n ɛ́ləmənt frəm ðə dowméjn, míjnɪŋ now túw dɪstɪ́ŋkt ɪ́npʊ̀ts mǽp tə ðə séjm áwtpʊ̀t?",
+        "trans_RightAnswer": "ɪndʒɛ́ktɪv",
+        "trans_WrongAnswers": [
+            "sərdʒɛ́ktɪv",
+            "bajdʒɛ́ktɪv",
+            "hòwmowmɔ́rfɪk",
+            "ɪ̀dəmpówtənt",
+            "nɪ́lpowtənt"
+        ],
+        "trans_Explanation": "ɪn lɪ́nijər ǽldʒəbrə, ə træ̀nsfərméjʃən ɪz kɔ́ld 'ɪndʒɛ́ktɪv' wɛ́n ɪt mǽps dɪ́fərənt ɪ́npʊ̀ts tə dɪ́fərənt áwtpʊ̀ts—əsɛ́nʃəlij, ɪt nɛ́vər kəlǽpsɪz dɪstɪ́ŋkt ɛ́ləmənts təɡɛ́ðər. ðɪs prɒ́pərtij ɪz sʌ́mtàjmz dəskrájbd æz 'wʌ́n-tə-wʌ́n' bəkɒ́z ijtʃ áwtpʊ̀t kʌ́mz frəm æt mówst wʌ́n ɪ́npʊ̀t. fɔr ə lɪ́nijər træ̀nsfərméjʃən bijtwíjn vɛ́ktər spéjsɪz, ɪndʒɛ́ktɪvɪtij míjnz ðə træ̀nsfərméjʃən həz ə trɪ́vijəl kɜ́rnəl (ɔr nʌ́l spéjs), kəntéjnɪŋ ównlij ðə zíjərow vɛ́ktər. prǽktɪkəlij spíjkɪŋ, ən ɪndʒɛ́ktɪv træ̀nsfərméjʃən prəzɜ́rvz dɪstɪ́ŋktnəs; ɪt nɛ́vər kɒ́zɪz dɪ́fərənt vɛ́ktərz tə bəkʌ́m ɪ̀ndɪstɪ́ŋɡwɪʃəbəl ǽftər træ̀nsfərméjʃən. ðɪs prɒ́pərtij ɪz krúwʃəl ɪn mɛ́nij æ̀plɪkéjʃənz wɛ́ər juwnɪ́k rəkʌ́vərij əv ɪ́npʊ̀ts ɪz nɛ́səsɛ̀ərij. ʌ̀nlájk sərdʒɛ́ktɪv træ̀nsfərméjʃənz (wɪ́tʃ ənʃʊ́r ɔl pɒ́sɪbəl áwtpʊ̀ts ɑr ríjtʃt) ɔr bajdʒɛ́ktɪv træ̀nsfərméjʃənz (wɪ́tʃ ɑr bówθ ɪndʒɛ́ktɪv ənd sərdʒɛ́ktɪv), ɪndʒɛ́ktɪv træ̀nsfərméjʃənz fówkəs sówlij ɒn ðə prɛ̀zərvéjʃən əv dɪstɪ́ŋktnəs bijtwíjn ɛ́ləmənts."
+    },
+    {
+        "Question": "When a linear transformation maps at least one vector from the domain to every possible vector in the codomain, so that the range equals the entire codomain, what property does this linear transformation possess?",
+        "RightAnswer": "Surjective",
+        "WrongAnswers": [
+            "Injective",
+            "Bijective",
+            "Invertible",
+            "Linear independent",
+            "Orthogonal"
+        ],
+        "Explanation": "A linear transformation is surjective when its range equals its entire codomain, meaning every vector in the target space can be obtained as the output of the transformation from some input vector. This is sometimes referred to as the transformation being 'onto'. In matrix terms, a linear transformation is surjective if and only if the columns of its matrix span the entire codomain. For a transformation between spaces of the same dimension, surjectivity is equivalent to the matrix being invertible. In practical terms, surjectivity ensures that the transformation 'covers' the entire target space, leaving no vectors in the codomain unreachable. This concept is crucial in understanding solution existence for linear systems and the dimension relationships between vector spaces.",
+        "trans_Question": "wɛ́n ə lɪ́nijər træ̀nsfərméjʃən mǽps æt líjst wʌ́n vɛ́ktər frəm ðə dowméjn tə ɛvərij pɒ́sɪbəl vɛ́ktər ɪn ðə kówdejn, sow ðət ðə réjndʒ íjkwəlz ðə əntájər kówdejn, wɒt prɒ́pərtij dʌz ðɪs lɪ́nijər træ̀nsfərméjʃən pəzɛ́s?",
+        "trans_RightAnswer": "sərdʒɛ́ktɪv",
+        "trans_WrongAnswers": [
+            "ɪndʒɛ́ktɪv",
+            "bajdʒɛ́ktɪv",
+            "ɪnvɜ́rtɪbəl",
+            "lɪ́nijər ɪndəpɛ́ndənt",
+            "ɔrθɔ́ɡənəl"
+        ],
+        "trans_Explanation": "ə lɪ́nijər træ̀nsfərméjʃən ɪz sərdʒɛ́ktɪv wɛ́n ɪts réjndʒ íjkwəlz ɪts əntájər kówdejn, míjnɪŋ ɛvərij vɛ́ktər ɪn ðə tɑ́rɡət spéjs kən bij əbtéjnd æz ðə áwtpʊ̀t əv ðə træ̀nsfərméjʃən frəm sʌm ɪ́npʊ̀t vɛ́ktər. ðɪs ɪz sʌ́mtàjmz rəfɜ́rd tə æz ðə træ̀nsfərméjʃən bíjɪŋ 'ɒntə'. ɪn méjtrɪks tɜ́rmz, ə lɪ́nijər træ̀nsfərméjʃən ɪz sərdʒɛ́ktɪv ɪf ənd ównlij ɪf ðə kɒ́ləmz əv ɪts méjtrɪks spǽn ðə əntájər kówdejn. fɔr ə træ̀nsfərméjʃən bijtwíjn spéjsɪz əv ðə séjm dajmɛ́nʃən, sɜ̀rdʒɛktɪ́vɪtij ɪz əkwɪ́vələnt tə ðə méjtrɪks bíjɪŋ ɪnvɜ́rtɪbəl. ɪn prǽktɪkəl tɜ́rmz, sɜ̀rdʒɛktɪ́vɪtij ənʃʊ́rz ðət ðə træ̀nsfərméjʃən 'kʌ́vərz' ðə əntájər tɑ́rɡət spéjs, líjvɪŋ now vɛ́ktərz ɪn ðə kówdejn ʌ̀nríjtʃəbəl. ðɪs kɒ́nsɛpt ɪz krúwʃəl ɪn ʌ̀ndərstǽndɪŋ səlúwʃən əɡzɪ́stəns fɔr lɪ́nijər sɪ́stəmz ənd ðə dajmɛ́nʃən rəléjʃənʃɪ̀ps bijtwíjn vɛ́ktər spéjsɪz."
+    },
+    {
+        "Question": "What term describes a linear transformation that is both one-to-one (injective) and onto (surjective), meaning each element in the codomain is mapped to by exactly one element from the domain?",
+        "RightAnswer": "Bijective",
+        "WrongAnswers": [
+            "Orthogonal",
+            "Diagonalizable",
+            "Nilpotent",
+            "Idempotent",
+            "Hermitian"
+        ],
+        "Explanation": "In linear algebra, a transformation is called 'bijective' when it satisfies two important properties simultaneously. First, it maps distinct inputs to distinct outputs (the one-to-one or injective property), meaning no two different vectors get mapped to the same result. Second, it reaches every possible vector in the target space (the onto or surjective property), meaning every vector in the codomain has at least one preimage. The significance of bijective transformations is that they are precisely the invertible transformations - those for which we can find another transformation that undoes their effect. For a linear transformation between spaces of equal dimension, being bijective is equivalent to having a nonzero determinant, or equivalently, having a trivial null space. When a transformation is bijective, it preserves dimension and creates a perfect correspondence between the domain and codomain spaces.",
+        "trans_Question": "wɒt tɜ́rm dəskrájbz ə lɪ́nijər træ̀nsfərméjʃən ðət ɪz bówθ wʌ́n-tə-wʌ́n (ɪndʒɛ́ktɪv) ənd ɒntə (sərdʒɛ́ktɪv), míjnɪŋ ijtʃ ɛ́ləmənt ɪn ðə kówdejn ɪz mǽpt tə baj əɡzǽktlij wʌ́n ɛ́ləmənt frəm ðə dowméjn?",
+        "trans_RightAnswer": "bajdʒɛ́ktɪv",
+        "trans_WrongAnswers": [
+            "ɔrθɔ́ɡənəl",
+            "dajæ̀ɡənəlájzəbəl",
+            "nɪ́lpowtənt",
+            "ɪ̀dəmpówtənt",
+            "hɜrmɪ́ʃən"
+        ],
+        "trans_Explanation": "ɪn lɪ́nijər ǽldʒəbrə, ə træ̀nsfərméjʃən ɪz kɔ́ld 'bajdʒɛ́ktɪv' wɛ́n ɪt sǽtɪsfàjz túw ɪmpɔ́rtənt prɒ́pərtijz sàjməltéjnijəslij. fɜ́rst, ɪt mǽps dɪstɪ́ŋkt ɪ́npʊ̀ts tə dɪstɪ́ŋkt áwtpʊ̀ts (ðə wʌ́n-tə-wʌ́n ɔr ɪndʒɛ́ktɪv prɒ́pərtij), míjnɪŋ now túw dɪ́fərənt vɛ́ktərz ɡɛt mǽpt tə ðə séjm rəzʌ́lt. sɛ́kənd, ɪt ríjtʃɪz ɛvərij pɒ́sɪbəl vɛ́ktər ɪn ðə tɑ́rɡət spéjs (ðə ɒntə ɔr sərdʒɛ́ktɪv prɒ́pərtij), míjnɪŋ ɛvərij vɛ́ktər ɪn ðə kówdejn həz æt líjst wʌ́n prēɪ́mɪdʒ. ðə sɪɡnɪ́fɪkəns əv bajdʒɛ́ktɪv træ̀nsfərméjʃənz ɪz ðət ðej ɑr prəsájslij ðə ɪnvɜ́rtɪbəl træ̀nsfərméjʃənz - ðowz fɔr wɪ́tʃ wij kən fájnd ənʌ́ðər træ̀nsfərméjʃən ðət əndúwz ðɛər əfɛ́kt. fɔr ə lɪ́nijər træ̀nsfərméjʃən bijtwíjn spéjsɪz əv íjkwəl dajmɛ́nʃən, bíjɪŋ bajdʒɛ́ktɪv ɪz əkwɪ́vələnt tə hǽvɪŋ ə nɒnzɪ́ərow dətɜ́rmɪnənt, ɔr əkwɪ́vələntlij, hǽvɪŋ ə trɪ́vijəl nʌ́l spéjs. wɛ́n ə træ̀nsfərméjʃən ɪz bajdʒɛ́ktɪv, ɪt prəzɜ́rvz dajmɛ́nʃən ənd krijéjts ə pɜ́rfəkt kɔ̀rəspɒ́ndəns bijtwíjn ðə dowméjn ənd kówdejn spéjsɪz."
+    },
+    {
+        "Question": "In linear algebra, what is the mathematical expression that always returns a scalar value when applied to a vector, can be represented by a symmetric matrix, and has terms that are exclusively of degree two?",
+        "RightAnswer": "Quadratic Form",
+        "WrongAnswers": [
+            "Linear Functional",
+            "Bilinear Map",
+            "Hermitian Operator",
+            "Orthogonal Projection",
+            "Rank Factorization"
+        ],
+        "Explanation": "A Quadratic Form is a special function in linear algebra that takes a vector as input and produces a single scalar value as output. What makes it 'quadratic' is that each term in the expression involves exactly two vector components, possibly the same component multiplied by itself. Every quadratic form can be represented using a symmetric matrix, where the form can be written as the vector transposed, times this matrix, times the original vector. Quadratic forms appear frequently in applications like describing energy in physical systems, finding extreme values in optimization problems, and classifying conic sections in geometry. They're particularly useful because they provide a way to extend the concept of 'squaring a number' to vectors in multiple dimensions. Unlike linear forms which vary proportionally with their inputs, quadratic forms grow or shrink with the square of the input magnitude, creating the characteristic curved behavior seen in many natural and mathematical systems.",
+        "trans_Question": "ɪn lɪ́nijər ǽldʒəbrə, wɒt ɪz ðə mæ̀θəmǽtɪkəl əksprɛ́ʃən ðət ɔ́lwejz rətɜ́rnz ə skéjlər vǽljuw wɛ́n əplájd tə ə vɛ́ktər, kən bij rɛ̀prəzɛ́ntɪd baj ə sɪmɛ́trɪk méjtrɪks, ənd həz tɜ́rmz ðət ɑr əksklúwsɪvlij əv dəɡríj túw?",
+        "trans_RightAnswer": "kwɒdrɒ́tɪk fɔ́rm",
+        "trans_WrongAnswers": [
+            "lɪ́nijər fʌ́ŋkʃənəl",
+            "bajlɪ́nijər mǽp",
+            "hɜrmɪ́ʃən ɒ́pərèjtər",
+            "ɔrθɔ́ɡənəl prədʒɛ́kʃən",
+            "rǽŋk fæ̀ktərajzéjʃən"
+        ],
+        "trans_Explanation": "ə kwɒdrɒ́tɪk fɔ́rm ɪz ə spɛ́ʃəl fʌ́ŋkʃən ɪn lɪ́nijər ǽldʒəbrə ðət téjks ə vɛ́ktər æz ɪ́npʊ̀t ənd prədúwsɪz ə sɪ́ŋɡəl skéjlər vǽljuw æz áwtpʊ̀t. wɒt méjks ɪt 'kwɒdrɒ́tɪk' ɪz ðət ijtʃ tɜ́rm ɪn ðə əksprɛ́ʃən ɪnvɒ́lvz əɡzǽktlij túw vɛ́ktər kəmpównənts, pɒ́sɪblij ðə séjm kəmpównənt mʌ́ltɪplàjd baj ɪtsɛ́lf. ɛvərij kwɒdrɒ́tɪk fɔ́rm kən bij rɛ̀prəzɛ́ntɪd júwzɪŋ ə sɪmɛ́trɪk méjtrɪks, wɛ́ər ðə fɔ́rm kən bij rɪ́tən æz ðə vɛ́ktər trænspówzd, tájmz ðɪs méjtrɪks, tájmz ðə ərɪ́dʒɪnəl vɛ́ktər. kwɒdrɒ́tɪk fɔ́rmz əpɪ́ər fríjkwəntlij ɪn æ̀plɪkéjʃənz lájk dəskrájbɪŋ ɛ́nərdʒij ɪn fɪ́zɪkəl sɪ́stəmz, fájndɪŋ əkstríjm vǽljuwz ɪn ɒptɪmɪzéjʃən prɒ́bləmz, ənd klǽsɪfàjɪŋ kɒ́nɪk sɛ́kʃənz ɪn dʒijɒ́mətrij. ðɛ́ər pərtɪ́kjələrlij júwsfəl bəkɒ́z ðej prəvájd ə wej tə əkstɛ́nd ðə kɒ́nsɛpt əv 'skwɛ́ərɪŋ ə nʌ́mbər' tə vɛ́ktərz ɪn mʌ́ltɪpəl dajmɛ́nʃənz. ʌ̀nlájk lɪ́nijər fɔ́rmz wɪ́tʃ vɛ́ərij prəpɔ́rʃənəlij wɪð ðɛər ɪ́npʊ̀ts, kwɒdrɒ́tɪk fɔ́rmz ɡrów ɔr ʃrɪ́ŋk wɪð ðə skwɛ́ər əv ðə ɪ́npʊ̀t mǽɡnɪtùwd, krijéjtɪŋ ðə kæ̀rəktərɪ́stɪk kɜ́rvd bəhéjvjər síjn ɪn mɛ́nij nǽtʃərəl ənd mæ̀θəmǽtɪkəl sɪ́stəmz."
+    },
+    {
+        "Question": "Which geometric shape represents the set of all points for which the sum of distances from two fixed points, called foci, is constant and can be characterized as a quadratic form in linear algebra?",
+        "RightAnswer": "Ellipse",
+        "WrongAnswers": [
+            "Hyperboloid",
+            "Eigenspace",
+            "Null manifold",
+            "Affine transformation",
+            "Kernel subspace"
+        ],
+        "Explanation": "An ellipse is a fundamental geometric shape in linear algebra that represents a specific type of conic section. In the context of linear algebra, an ellipse can be understood as the set of solutions to a quadratic form with specific constraints. When a quadratic form has exactly two positive eigenvalues and the remaining eigenvalues are zero, its level set creates an ellipse in the corresponding two-dimensional subspace. Geometrically, an ellipse is the locus of points where the sum of distances from two fixed points, called foci, remains constant. Ellipses appear naturally when studying the transformation of circles under linear maps, particularly when examining how a circle transforms under different scaling in orthogonal directions. They are also related to eigenvectors and eigenvalues when discussing the principal axes of quadratic forms. The standard form of an ellipse centered at the origin can be represented using a positive definite matrix in a quadratic form, making ellipses an important object of study when exploring the geometric interpretations of linear transformations and quadratic forms.",
+        "trans_Question": "wɪ́tʃ dʒìjəmɛ́trɪk ʃéjp rɛ̀prəzɛ́nts ðə sɛ́t əv ɔl pɔ́jnts fɔr wɪ́tʃ ðə sʌ́m əv dɪ́stənsɪz frəm túw fɪ́kst pɔ́jnts, kɔ́ld fówsaj, ɪz kɒ́nstənt ənd kən bij kǽrəktərajzd æz ə kwɒdrɒ́tɪk fɔ́rm ɪn lɪ́nijər ǽldʒəbrə?",
+        "trans_RightAnswer": "əlɪ́ps",
+        "trans_WrongAnswers": [
+            "hajpɜ́rbəlɔjd",
+            "ájɡənspèjs",
+            "nʌ́l mǽnɪfowld",
+            "əfájn træ̀nsfərméjʃən",
+            "kɜ́rnəl sʌ́bspèjs"
+        ],
+        "trans_Explanation": "ən əlɪ́ps ɪz ə fʌ̀ndəmɛ́ntəl dʒìjəmɛ́trɪk ʃéjp ɪn lɪ́nijər ǽldʒəbrə ðət rɛ̀prəzɛ́nts ə spəsɪ́fɪk tájp əv kɒ́nɪk sɛ́kʃən. ɪn ðə kɒ́ntɛkst əv lɪ́nijər ǽldʒəbrə, ən əlɪ́ps kən bij ʌ̀ndərstʊ́d æz ðə sɛ́t əv səlúwʃənz tə ə kwɒdrɒ́tɪk fɔ́rm wɪð spəsɪ́fɪk kənstréjnts. wɛ́n ə kwɒdrɒ́tɪk fɔ́rm həz əɡzǽktlij túw pɒ́zɪtɪv ájɡənvæ̀ljuwz ənd ðə rəméjnɪŋ ájɡənvæ̀ljuwz ɑr zíjərow, ɪts lɛ́vəl sɛ́t krijéjts ən əlɪ́ps ɪn ðə kɔ̀rəspɒ́ndɪŋ túw-dajmɛ́nʃənəl sʌ́bspèjs. dʒìjəmɛ́trɪklij, ən əlɪ́ps ɪz ðə lówkəs əv pɔ́jnts wɛ́ər ðə sʌ́m əv dɪ́stənsɪz frəm túw fɪ́kst pɔ́jnts, kɔ́ld fówsaj, rəméjnz kɒ́nstənt. əlɪ́psɪz əpɪ́ər nǽtʃərəlij wɛ́n stʌ́dijɪŋ ðə træ̀nsfərméjʃən əv sɜ́rkəlz ʌ́ndər lɪ́nijər mǽps, pərtɪ́kjələrlij wɛ́n əɡzǽmɪnɪŋ háw ə sɜ́rkəl trænsfɔ́rmz ʌ́ndər dɪ́fərənt skéjlɪŋ ɪn ɔrθɔ́ɡənəl dɪərɛ́kʃənz. ðej ɑr ɔ́lsow rəléjtɪd tə ajɡənvɛ̀ktərz ənd ájɡənvæ̀ljuwz wɛ́n dɪskʌ́sɪŋ ðə prɪ́nsɪpəl ǽksìjz əv kwɒdrɒ́tɪk fɔ́rmz. ðə stǽndərd fɔ́rm əv ən əlɪ́ps sɛ́ntərd æt ðə ɔ́rɪdʒɪn kən bij rɛ̀prəzɛ́ntɪd júwzɪŋ ə pɒ́zɪtɪv dɛ́fɪnɪt méjtrɪks ɪn ə kwɒdrɒ́tɪk fɔ́rm, méjkɪŋ əlɪ́psɪz ən ɪmpɔ́rtənt ɒ́bdʒəkt əv stʌ́dij wɛ́n əksplɔ́rɪŋ ðə dʒìjəmɛ́trɪk ɪntɜ̀rprətéjʃənz əv lɪ́nijər træ̀nsfərméjʃənz ənd kwɒdrɒ́tɪk fɔ́rmz."
+    },
+    {
+        "Question": "In linear algebra, which term describes a quadratic curve that can be represented as a second-degree polynomial and forms the graph of a quadratic function?",
+        "RightAnswer": "Parabola",
+        "WrongAnswers": [
+            "Eigenspace",
+            "Linear transformation",
+            "Null space",
+            "Orthogonal projection",
+            "Basis vector"
+        ],
+        "Explanation": "A parabola is a fundamental geometric curve that appears frequently in linear algebra when studying conic sections and quadratic forms. In the context of linear algebra, a parabola can be understood as the set of points that satisfy a quadratic equation. When represented in matrix form, a parabola corresponds to a specific type of quadratic form with particular eigenvalue properties. Parabolas are important when analyzing the behavior of quadratic functions and can be transformed through linear operations such as rotation, translation, and scaling. They serve as excellent examples when studying how linear transformations affect geometric objects. Unlike linear subspaces which form straight lines or planes, parabolas demonstrate how quadratic relationships create curved geometric structures in vector spaces. Understanding parabolas helps bridge concepts between linear algebra and analytic geometry, particularly when examining how different coordinate systems and basis transformations affect the representation of curves.",
+        "trans_Question": "ɪn lɪ́nijər ǽldʒəbrə, wɪ́tʃ tɜ́rm dəskrájbz ə kwɒdrɒ́tɪk kɜ́rv ðət kən bij rɛ̀prəzɛ́ntɪd æz ə sɛ́kənd-dəɡríj pɒ̀lijnówmijəl ənd fɔ́rmz ðə ɡrǽf əv ə kwɒdrɒ́tɪk fʌ́ŋkʃən?",
+        "trans_RightAnswer": "pərǽbələ",
+        "trans_WrongAnswers": [
+            "ájɡənspèjs",
+            "lɪ́nijər træ̀nsfərméjʃən",
+            "nʌ́l spéjs",
+            "ɔrθɔ́ɡənəl prədʒɛ́kʃən",
+            "béjsɪs vɛ́ktər"
+        ],
+        "trans_Explanation": "ə pərǽbələ ɪz ə fʌ̀ndəmɛ́ntəl dʒìjəmɛ́trɪk kɜ́rv ðət əpɪ́ərz fríjkwəntlij ɪn lɪ́nijər ǽldʒəbrə wɛ́n stʌ́dijɪŋ kɒ́nɪk sɛ́kʃənz ənd kwɒdrɒ́tɪk fɔ́rmz. ɪn ðə kɒ́ntɛkst əv lɪ́nijər ǽldʒəbrə, ə pərǽbələ kən bij ʌ̀ndərstʊ́d æz ðə sɛ́t əv pɔ́jnts ðət sǽtɪsfàj ə kwɒdrɒ́tɪk əkwéjʒən. wɛ́n rɛ̀prəzɛ́ntɪd ɪn méjtrɪks fɔ́rm, ə pərǽbələ kɔ̀rəspɒ́ndz tə ə spəsɪ́fɪk tájp əv kwɒdrɒ́tɪk fɔ́rm wɪð pərtɪ́kjələr ájɡənvæ̀ljuw prɒ́pərtijz. pərǽbələs ɑr ɪmpɔ́rtənt wɛ́n ǽnəlàjzɪŋ ðə bəhéjvjər əv kwɒdrɒ́tɪk fʌ́ŋkʃənz ənd kən bij trænsfɔ́rmd θrúw lɪ́nijər ɒ̀pəréjʃənz sʌtʃ æz rowtéjʃən, trænsléjʃən, ənd skéjlɪŋ. ðej sɜ́rv æz ɛ́ksələnt əɡzǽmpəlz wɛ́n stʌ́dijɪŋ háw lɪ́nijər træ̀nsfərméjʃənz əfɛ́kt dʒìjəmɛ́trɪk ɒ́bdʒɛkts. ʌ̀nlájk lɪ́nijər sʌ́bspèjsɪs wɪ́tʃ fɔ́rm stréjt lájnz ɔr pléjnz, pərǽbələs dɛ́mənstrèjt háw kwɒdrɒ́tɪk rəléjʃənʃɪ̀ps krijéjt kɜ́rvd dʒìjəmɛ́trɪk strʌ́ktʃərz ɪn vɛ́ktər spéjsɪz. ʌ̀ndərstǽndɪŋ pərǽbələs hɛ́lps brɪ́dʒ kɒ́nsɛpts bijtwíjn lɪ́nijər ǽldʒəbrə ənd æ̀nəlɪ́tɪk dʒijɒ́mətrij, pərtɪ́kjələrlij wɛ́n əɡzǽmɪnɪŋ háw dɪ́fərənt kowɔ́rdɪnèjt sɪ́stəmz ənd béjsɪs træ̀nsfərméjʃənz əfɛ́kt ðə rɛ̀prəzɛntéjʃən əv kɜ́rvz."
+    },
+    {
+        "Question": "In linear algebra, which conic section can be represented by the equation Ax² + Bxy + Cy² + Dx + Ey + F = 0 where B² - 4AC > 0?",
+        "RightAnswer": "Hyperbola",
+        "WrongAnswers": [
+            "Ellipse",
+            "Parabola",
+            "Circle",
+            "Line pair",
+            "Point"
+        ],
+        "Explanation": "A hyperbola is a type of conic section that appears when we study quadratic forms in linear algebra. In the general equation of a conic section, when the discriminant B² - 4AC is positive, we get a hyperbola. Geometrically, a hyperbola consists of two open curves that never meet, resembling two opposite facing parabolas. In linear algebra, hyperbolas arise when diagonalizing indefinite quadratic forms, which have both positive and negative eigenvalues. The canonical form of a hyperbola after diagonalization typically looks like the difference of squares. Unlike ellipses which represent bounded regions, hyperbolas extend infinitely and have two asymptotic lines that the curves approach but never touch. Understanding hyperbolas is crucial in applications such as positioning systems, orbital mechanics, and when analyzing the behavior of systems with indefinite quadratic forms.",
+        "trans_Question": "ɪn lɪ́nijər ǽldʒəbrə, wɪ́tʃ kɒ́nɪk sɛ́kʃən kən bij rɛ̀prəzɛ́ntɪd baj ðə əkwéjʒən ǽks² + bxy + sáj² + dx + ey + F = 0 wɛ́ər B² - 4AC > 0?",
+        "trans_RightAnswer": "hajpɜ́rbələ",
+        "trans_WrongAnswers": [
+            "əlɪ́ps",
+            "pərǽbələ",
+            "sɜ́rkəl",
+            "lájn pɛ́ər",
+            "pɔ́jnt"
+        ],
+        "trans_Explanation": "ə hajpɜ́rbələ ɪz ə tájp əv kɒ́nɪk sɛ́kʃən ðət əpɪ́ərz wɛ́n wij stʌ́dij kwɒdrɒ́tɪk fɔ́rmz ɪn lɪ́nijər ǽldʒəbrə. ɪn ðə dʒɛ́nərəl əkwéjʒən əv ə kɒ́nɪk sɛ́kʃən, wɛ́n ðə dɪskrɪ́mɪnət B² - 4AC ɪz pɒ́zɪtɪv, wij ɡɛt ə hajpɜ́rbələ. dʒìjəmɛ́trɪklij, ə hajpɜ́rbələ kənsɪ́sts əv túw ówpən kɜ́rvz ðət nɛ́vər míjt, rijzɛ́mbəlɪŋ túw ɒ́pəzɪt féjsɪŋ pərǽbələs. ɪn lɪ́nijər ǽldʒəbrə, hajpɜ́rbələs ərájz wɛ́n dajǽɡənəlajzɪŋ ɪ̀ndɛ́fɪnɪt kwɒdrɒ́tɪk fɔ́rmz, wɪ́tʃ həv bówθ pɒ́zɪtɪv ənd nɛ́ɡətɪv ájɡənvæ̀ljuwz. ðə kənɒ́nɪkəl fɔ́rm əv ə hajpɜ́rbələ ǽftər dajǽɡənəlajzéjʃən tɪ́pɪkəlij lʊ́ks lájk ðə dɪ́fərəns əv skwɛ́ərz. ʌ̀nlájk əlɪ́psɪz wɪ́tʃ rɛ̀prəzɛ́nt báwndɪd ríjdʒənz, hajpɜ́rbələs əkstɛ́nd ɪ́nfɪnɪtlij ənd həv túw ǽsɪmptɔ̀tɪk lájnz ðət ðə kɜ́rvz əprówtʃ bʌt nɛ́vər tʌ́tʃ. ʌ̀ndərstǽndɪŋ hajpɜ́rbələs ɪz krúwʃəl ɪn æ̀plɪkéjʃənz sʌtʃ æz pəzɪ́ʃənɪŋ sɪ́stəmz, ɔ́rbɪtəl məkǽnɪks, ənd wɛ́n ǽnəlàjzɪŋ ðə bəhéjvjər əv sɪ́stəmz wɪð ɪ̀ndɛ́fɪnɪt kwɒdrɒ́tɪk fɔ́rmz."
+    },
+    {
+        "Question": "Which linear algebra concept refers to a specific type of quadratic form in 3D space where applying the transformation twice yields the same result as applying it once?",
+        "RightAnswer": "Quadratic Forms (3D)Idempotent",
+        "WrongAnswers": [
+            "Quadratic Isomorphism",
+            "Trilinear Projective Forms",
+            "Euclidean Self-Conjugate Forms",
+            "Three-Dimensional Nilpotent Forms",
+            "Quadratic Involution Tensors"
+        ],
+        "Explanation": "Quadratic Forms in 3D that are Idempotent represent a fascinating intersection of concepts in linear algebra. A quadratic form is a scalar-valued polynomial function where all terms have degree two, and in 3D space, they can be represented by symmetric matrices. When such a quadratic form is idempotent, it means that applying the transformation twice produces the same result as applying it once. Mathematically, this means the matrix representing the form, when squared, equals itself. This property makes these forms particularly useful in projection operations and certain types of geometric transformations. Idempotent quadratic forms in 3D space have eigenvalues that can only be zero or one, which gives them special geometric significance in applications like computer graphics and physical simulations. They essentially represent transformations that, once applied, reach a steady state that cannot be further transformed by the same operation.",
+        "trans_Question": "wɪ́tʃ lɪ́nijər ǽldʒəbrə kɒ́nsɛpt rəfɜ́rz tə ə spəsɪ́fɪk tájp əv kwɒdrɒ́tɪk fɔ́rm ɪn 3D spéjs wɛ́ər əplájɪŋ ðə træ̀nsfərméjʃən twájs jíjldz ðə séjm rəzʌ́lt æz əplájɪŋ ɪt wʌ́ns?",
+        "trans_RightAnswer": "kwɒdrɒ́tɪk fɔ́rmz (3d)ajdəmpówtənt",
+        "trans_WrongAnswers": [
+            "kwɒdrɒ́tɪk àjsəmɔ́rfɪzəm",
+            "tràjlɪ́nijər prədʒɛ́ktɪv fɔ́rmz",
+            "juwklɪ́dijən sɛ́lf-kɒ́ndʒəɡèjt fɔ́rmz",
+            "θríj-dajmɛ́nʃənəl nɪ́lpowtənt fɔ́rmz",
+            "kwɒdrɒ́tɪk ɪ̀nvəlúwʃən tɛ́nsərz"
+        ],
+        "trans_Explanation": "kwɒdrɒ́tɪk fɔ́rmz ɪn 3D ðət ɑr ɪ̀dəmpówtənt rɛ̀prəzɛ́nt ə fǽsɪnèjtɪŋ ɪ̀ntərsɛ́kʃən əv kɒ́nsɛpts ɪn lɪ́nijər ǽldʒəbrə. ə kwɒdrɒ́tɪk fɔ́rm ɪz ə skéjlər-vǽljuwd pɒ̀lijnówmijəl fʌ́ŋkʃən wɛ́ər ɔl tɜ́rmz həv dəɡríj túw, ənd ɪn 3D spéjs, ðej kən bij rɛ̀prəzɛ́ntɪd baj sɪmɛ́trɪk méjtrɪsɪz. wɛ́n sʌtʃ ə kwɒdrɒ́tɪk fɔ́rm ɪz ɪ̀dəmpówtənt, ɪt míjnz ðət əplájɪŋ ðə træ̀nsfərméjʃən twájs prədúwsɪz ðə séjm rəzʌ́lt æz əplájɪŋ ɪt wʌ́ns. mæ̀θəmǽtɪkəlij, ðɪs míjnz ðə méjtrɪks rɛ̀prəzɛ́ntɪŋ ðə fɔ́rm, wɛ́n skwɛ́ərd, íjkwəlz ɪtsɛ́lf. ðɪs prɒ́pərtij méjks ðijz fɔ́rmz pərtɪ́kjələrlij júwsfəl ɪn prədʒɛ́kʃən ɒ̀pəréjʃənz ənd sɜ́rtən tájps əv dʒìjəmɛ́trɪk træ̀nsfərméjʃənz. ɪ̀dəmpówtənt kwɒdrɒ́tɪk fɔ́rmz ɪn 3D spéjs həv ájɡənvæ̀ljuwz ðət kən ównlij bij zíjərow ɔr wʌ́n, wɪ́tʃ ɡɪ́vz ðɛm spɛ́ʃəl dʒìjəmɛ́trɪk sɪɡnɪ́fɪkəns ɪn æ̀plɪkéjʃənz lájk kəmpjúwtər ɡrǽfɪks ənd fɪ́zɪkəl sɪ̀mjəléjʃənz. ðej əsɛ́nʃəlij rɛ̀prəzɛ́nt træ̀nsfərméjʃənz ðət, wʌ́ns əplájd, ríjtʃ ə stɛ́dij stéjt ðət kǽnɒt bij fɜ́rðər trænsfɔ́rmd baj ðə séjm ɒ̀pəréjʃən."
+    },
+    {
+        "Question": "Which linear algebra principle states that the length of one side of a vector sum cannot exceed the sum of the lengths of the individual vectors?",
+        "RightAnswer": "Triangle inequality",
+        "WrongAnswers": [
+            "Orthogonal complement theorem",
+            "Rank-nullity theorem",
+            "Cauchy-Schwarz inequality",
+            "Parallelogram law",
+            "Gram-Schmidt process"
+        ],
+        "Explanation": "The Triangle inequality is a fundamental concept in linear algebra that establishes an upper bound on the norm of a sum of vectors. It states that for any two vectors in a normed vector space, the norm or length of their sum cannot exceed the sum of their individual norms. Geometrically, this makes intuitive sense: when you visualize two vectors forming two sides of a triangle, the third side (representing their sum) cannot be longer than the combined length of the other two sides. This principle extends beyond just Euclidean spaces to any normed vector space, making it one of the defining properties of a norm. The Triangle inequality plays a crucial role in establishing convergence criteria in vector spaces and underpins many important proofs in functional analysis and approximation theory.",
+        "trans_Question": "wɪ́tʃ lɪ́nijər ǽldʒəbrə prɪ́nsɪpəl stéjts ðət ðə lɛ́ŋθ əv wʌ́n sájd əv ə vɛ́ktər sʌ́m kǽnɒt əksíjd ðə sʌ́m əv ðə lɛ́ŋθs əv ðə ɪndɪvɪ́dʒəwəl vɛ́ktərz?",
+        "trans_RightAnswer": "trájæ̀ŋɡəl ɪ́nijkwɑ́lɪtij",
+        "trans_WrongAnswers": [
+            "ɔrθɔ́ɡənəl kɒ́mpləmənt θɪ́ərəm",
+            "rǽŋk-nʌ́lɪtij θɪ́ərəm",
+            "kówtʃij-ʃwɔ́rts ɪ́nijkwɑ́lɪtij",
+            "pǽrəlɛ̀ləɡræm lɔ́",
+            "ɡrǽm-ʃmɪ́t prɒ́sɛs"
+        ],
+        "trans_Explanation": "ðə trájæ̀ŋɡəl ɪ́nijkwɑ́lɪtij ɪz ə fʌ̀ndəmɛ́ntəl kɒ́nsɛpt ɪn lɪ́nijər ǽldʒəbrə ðət əstǽblɪʃɪz ən ʌ́pər báwnd ɒn ðə nɔ́rm əv ə sʌ́m əv vɛ́ktərz. ɪt stéjts ðət fɔr ɛ́nij túw vɛ́ktərz ɪn ə nɔrmd vɛ́ktər spéjs, ðə nɔ́rm ɔr lɛ́ŋθ əv ðɛər sʌ́m kǽnɒt əksíjd ðə sʌ́m əv ðɛər ɪndɪvɪ́dʒəwəl nɔ́rmz. dʒìjəmɛ́trɪklij, ðɪs méjks ɪntúwɪtɪv sɛ́ns: wɛ́n juw vɪ́ʒwəlàjz túw vɛ́ktərz fɔ́rmɪŋ túw sájdz əv ə trájæ̀ŋɡəl, ðə θɜ́rd sájd (rɛ̀prəzɛ́ntɪŋ ðɛər sʌ́m) kǽnɒt bij lɔ́ŋɡər ðʌn ðə kəmbájnd lɛ́ŋθ əv ðə ʌ́ðər túw sájdz. ðɪs prɪ́nsɪpəl əkstɛ́ndz bìjɔ́nd dʒəst juwklɪ́dijən spéjsɪz tə ɛ́nij nɔrmd vɛ́ktər spéjs, méjkɪŋ ɪt wʌ́n əv ðə dəfájnɪŋ prɒ́pərtijz əv ə nɔ́rm. ðə trájæ̀ŋɡəl ɪ́nijkwɑ́lɪtij pléjz ə krúwʃəl rówl ɪn əstǽblɪʃɪŋ kənvɜ́rdʒəns krajtɪ́ərijə ɪn vɛ́ktər spéjsɪz ənd ʌ̀ndərpɪ́nz mɛ́nij ɪmpɔ́rtənt prúwfs ɪn fʌ́ŋkʃənəl ənǽlɪsɪs ənd əprɒ̀ksəméjʃən θíjərij."
     }
 ]

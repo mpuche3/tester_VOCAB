@@ -5019,8 +5019,8 @@
         "Question": "When a meteorologist says 'I'm 95% confident that tomorrow's temperature will fall between 72°F and 81°F', what statistical tool is she using?",
         "RightAnswer": "Prediction Interval",
         "WrongAnswers": [
-            "Confidence Interval",
-            "Forecast Range",
+            "Interval",
+            "Forecast",
             "Standard Deviation Band",
             "Margin of Error",
             "Statistical Envelope"
@@ -5029,8 +5029,8 @@
         "trans_Question": "wɛ́n ə mìjtijərɒ́lədʒɪst sɛ́z 'ájm 95% kɒ́nfɪdənt ðət təmɑ́ròw'z tɛ́mpərətʃər wɪl fɔ́l bijtwíjn 72°F ənd 81°F', wɒt stətɪ́stɪkəl túwl ɪz ʃij júwzɪŋ?",
         "trans_RightAnswer": "prədɪ́kʃən ɪ́ntərvəl",
         "trans_WrongAnswers": [
-            "kɒ́nfɪdəns ɪ́ntərvəl",
-            "fɔ́rkæ̀st réjndʒ",
+            "ɪ́ntərvəl",
+            "fɔ́rkæ̀st",
             "stǽndərd dìjvijéjʃən bǽnd",
             "mɑ́rdʒɪn əv ɛ́ərər",
             "stətɪ́stɪkəl ɛ́nvəlòwp"

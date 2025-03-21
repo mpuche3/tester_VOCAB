@@ -680,7 +680,7 @@ document.querySelector("#logo").onclick = _ => {
     app.style.display = "none";
 }
 
-const xs = ["machine_learning", "statistics", "calculus", "algebra", "physics"]
+const xs = ["machine_learning", "statistics", "calculus", "algebra", "physics", "computer"]
 for (const x of xs){
     if (document.querySelector(`#enter-btn-${x}`) !== null) {
         document.querySelector(`#enter-btn-${x}`).onclick = _ => loadApp(x)
